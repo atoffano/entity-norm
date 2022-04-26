@@ -2,6 +2,7 @@ import argparse, os
 from genericpath import exists
 from typing import Type
 import glob
+import shutil
 
 # Construct the argument parser
 parser = argparse.ArgumentParser()
@@ -21,23 +22,27 @@ def router(args):
     loc = args['input']
     if not os.path.isdir(loc):
         raise Exception("Please specify a directory containing the file(s) to convert. Maybe you used a file as an input?")
-    convert(args)
-
-def convert(args):
     if args['from'] == args['to']:
         raise Exception("File already in the right format!")
-    if args['from'] == 'NCBI' and args['to'] == 'BB4':
-        for file in os.listdir(args['input']):
+    elif args['from'] == 'NCBI':
+        for file in os.listdir(loc):
             if is_ncbi(args, file):
                 from_NCBI(args, file)
             else:
                 raise NotImplementedError()
-    if args['from'] == 'BB4' and args['to'] == 'NCBI':
-        if len(os.listdir(args['input'])) == 3:
-            for dataset in os.listdir(args['input']):
-                from_BB4(args, dir=f"{args['input']}/{dataset}")
-        elif len(args['input']) >= 3 and len(glob.glob(f"{args['input']}/*.a*")) >= 2:
-            from_BB4(args, dir=f"{args['input']}/{dataset}") 
+    elif args['from'] == 'BB4':
+        if len(os.listdir(loc)) == 3:
+            for dataset in os.listdir(loc):
+                from_BB4(args, dir=f"{loc}/{dataset}")
+        elif len(loc) >= 3 and len(glob.glob(f"{loc}/*.a*")) >= 2:
+            from_BB4(args, dir=f"{loc}/{dataset}") 
+    else:
+        raise NotImplementedError()
+    for dataset in os.listdir(f"{args['output']}raw_from_{args['from']}"):
+        if args['to'] == 'NCBI':
+                to_NCBI(args, dataset)
+        elif args['to'] == 'BB4':
+                to_BB4(args, dataset)
 
 def is_ncbi(args, filename):
     with open(f"{args['input']}/{filename}", 'r') as fh:
@@ -50,9 +55,9 @@ def is_ncbi(args, filename):
     return False
 
 def standardize(args, dataset, id, header=None, line=None):
-    if not os.path.exists(f"{args['output']}/{dataset}"):
-        os.mkdir(f"{args['output']}/{dataset}")
-    filepath = f"{args['output']}/{dataset}/{id}"
+    if not os.path.exists(f"{args['output']}/raw_from_{args['from']}/{dataset}"):
+        os.makedirs(f"{args['output']}raw_from_{args['from']}/{dataset}")
+    filepath = f"{args['output']}raw_from_{args['from']}/{dataset}/{id}"
     if not os.path.exists(f"{filepath}_header.txt"):
         with open(f"{filepath}_header.txt", 'a') as f:
             f.write("title\tabstract\n")
@@ -68,6 +73,13 @@ def standardize(args, dataset, id, header=None, line=None):
         with open(f"{filepath}_data.txt", 'a') as f:
                     f.write(f"{start}\t{end}\t{mention}\t{_class}\t{labels}\n")
 
+def is_ftype(filepath):
+    with open(filepath, 'r') as fh:
+        lines = fh.readlines()
+    if lines[0].split("\t")[1].split(" ")[0] != "Title":
+        return True
+    return False
+
 def from_BB4(args, dir):
     testset = False
     if "dev" in dir:
@@ -78,7 +90,7 @@ def from_BB4(args, dir):
         dataset = "test"
         testset = True
     for file in glob.glob(f"{dir}/*.txt*"):
-        ftype = True if "BB-norm-F-" in file else False
+        ftype = is_ftype(f"{file.split('.txt')[0]}.a1")
         if ftype:
             tmp = file.split("/")[-1].split("-")
             pmid = "".join(f"{tmp[3]}-{tmp[4].split('.')[0]}")
@@ -127,8 +139,6 @@ def from_NCBI(args, file):
         dataset = "test"
     else:
         raise NotImplementedError
-    if not os.path.exists(f"{args['output']}/{dataset}"):
-        os.mkdir(f"{args['output']}/{dataset}")
     with open(f"{args['input']}/{file}", 'r') as fh:
         lines = fh.readlines()    
     lines = lines + ['\n']
@@ -150,58 +160,60 @@ def from_NCBI(args, file):
             line  = start, end, mention, _class, labels
             standardize(args, dataset, pmid, line=line)
         
+def extract(filename):
+    data = []
+    pmid = filename.split("/")[-1].split("_header.txt")[0]
+    with open(f"{filename}", 'r') as fh:
+        lines = fh.readlines()
+    title, abstract = lines[0], lines[1] 
+    with open(f"{filename.split('_header')[0]}_data.txt", 'r') as fh:
+        lines = fh.readlines()
+        del lines[0]
+    for line in lines:
+        line = line.split("\t")
+        data.append(line)
+    return pmid, title, abstract, data
+    
 
-# def BB4_to_NCBI(args, dir):
-#     testset = False
-#     if "dev" in dir:
-#         output = f"{args['output']}/NCBI_developset_corpus.txt"
-#     elif "train" in dir:
-#         output = f"{args['output']}/NCBI_trainset_corpus.txt"
-#     elif "test" in dir:
-#         output = f"{args['output']}/NCBI_testset_corpus.txt"
-#         testset = True
-#     for file in glob.glob(f"{dir}/*.txt*"):
-#         ftype = True if "BB-norm-F-" in file else False
-#         if ftype:
-#             tmp = file.split("/")[-1].split("-")
-#             pmid = "".join(f"{tmp[3]}-{tmp[4].split('.')[0]}")
-#         else:
-#             pmid = file.split("/")[-1].split("-")[2].split(".")[0]
-#         with open(file, 'r') as fh:
-#             lines = fh.readlines()
-#             with open(output, 'a') as f:
-#                 f.write("\n")
-#                 if ftype:
-#                     f.write(f"{pmid}|t|{pmid}\n")
-#                     abstract = ""
-#                     abstract = abstract.join(line.strip("\n") for line in lines)
-#                     f.write(f"{pmid}|a|{abstract}\n")
-#                 else:
-#                     f.write(f"{pmid}|t|{lines[0]}")
-#                     f.write(f"{pmid}|a|{lines[1]}")
-#                 with open(f"{file.split('.')[0]}.a1", 'r') as a1:
-#                     lines = a1.readlines()
-#                     for line in lines:
-#                         line = line.split("\t")
-#                         if line[1].split(" ")[0] in ["Title", "Paragraph"]:
-#                             continue
-#                         index = int(line[0].strip("T"))
-#                         block = line[1].split(" ")
-#                         _class = block[0]
-#                         start = block[1]
-#                         end = block[2]
-#                         mention = line[2].strip()
-#                         if testset:
-#                             f.write(f"{pmid}\t{start}\t{end}\t{mention}\t{_class}\tMockLabel\n")
-#                         else:
-#                             with open(f"{file.split('.')[0]}.a2", 'r') as a2:
-#                                 a2lines = a2.readlines()
-#                             label = []
-#                             for a2line in a2lines:
-#                                 if a2line.split(" ")[1].split("Annotation:T")[1] == str(index):
-#                                     label.append(a2line.split("Referent:")[1].strip("\n"))
-#                             label = "|".join(label)
-#                             f.write(f"{pmid}\t{start}\t{end}\t{mention}\t{_class}\t{label}\n")
+def to_NCBI(args, dataset):
+    if dataset == "dev":
+        outfile = "NCBIdevelopset_corpus.txt"
+    else:
+        outfile = f"NCBI{dataset}set_corpus.txt"
+    if not os.path.exists(f"{args['output']}{args['from']}_to_NCBI"):
+        os.mkdir(f"{args['output']}{args['from']}_to_NCBI")
+    input_dir = f"{args['output']}raw_from_{args['from']}/{dataset}"
+    for file in glob.glob(f"{input_dir}/*_header.txt"):
+        pmid, title, abstract, data = extract(filename=file)
+        with open(f"{args['output']}{args['from']}_to_NCBI/{outfile}", 'a') as f:
+            f.write(f"\n{pmid}|t|{title}{pmid}|a|{abstract}")
+            for line in data:
+                line = "\t".join(line)
+                f.write(f"{pmid}\t{line}")
+
+def to_BB4(args, dataset):
+    input_dir = f"{args['output']}raw_from_{args['from']}/{dataset}"
+    output_dir = f"{args['output']}{args['from']}_to_BB4/{dataset}"
+    os.makedirs(output_dir)
+    for file in glob.glob(f"{input_dir}/*_header.txt"):
+        pmid, title, abstract, data = extract(filename=file)
+        shutil.copyfile(f"{file}", f"{output_dir}/BB-norm-{pmid}.txt")
+        with open(f"{output_dir}/BB-norm-{pmid}.txt", 'a') as f:
+            f.write("\n")
+        with open(f"{output_dir}/BB-norm-{pmid}.a1", 'a') as f:
+            f.write(f"T1\tTitle 0 {len(title)}\t{title}T2\tParagraph {len(title)} {len(abstract) + len(title)}\t{abstract}")
+            for i, line in enumerate(data):
+                start, end, mention, _class, labels = line 
+                f.write(f"T{i+3}\t{_class} {start} {end}\t{mention}\n")
+                if dataset != "test":
+                    with open(f"{output_dir}/BB-norm-{pmid}.a2", 'a') as fh:
+                        cui = labels.strip().split("|")
+                        if len(cui) > 1:
+                            for k, lab in enumerate(cui):
+                                fh.write(f"N{i+k+1}\t{pmid} Annotation:T{i+3} Referent:{lab}\n")
+                                k += 1
+                        elif len(cui) == 1:
+                                fh.write(f"N{i+1}\t{pmid} Annotation:T{i+3} Referent:{labels}")
 
 # def ncbi_to_BB4(args, file):
 #     vset = file.replace('.txt', '')
