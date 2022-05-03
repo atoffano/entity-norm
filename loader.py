@@ -55,9 +55,16 @@ def router(args):
                 from_BB4(args, dir=f"{loc}/{dataset}")
         elif len(loc) >= 3 and len(glob.glob(f"{loc}/*.a*")) >= 2:
             from_BB4(args, dir=f"{loc}/{dataset}") 
+    elif args['from'] == 'STD':
+        for dataset in os.listdir(loc):
+            if args['to'] == 'NCBI':
+                    to_NCBI(args, dataset)
+            elif args['to'] == 'BB4':
+                    to_BB4(args, dataset)
+        exit()
     else:
         raise NotImplementedError()
-    for dataset in os.listdir(f"{args['output']}raw_from_{args['from']}"):
+    for dataset in os.listdir(f"{args['output']}/raw_from_{args['from']}"):
         if args['to'] == 'NCBI':
                 to_NCBI(args, dataset)
         elif args['to'] == 'BB4':
@@ -99,7 +106,7 @@ def from_NCBI(args, file):
             pmid, title = line.split("|t|")
         elif '|a|' in line:
             abstract = line.split("|a|")[1]
-            header = title, abstract
+            header = [title, abstract]
             standardize(args, dataset, pmid, header=header)
         elif '\t' in line:
             line = line.split("\t")
@@ -164,7 +171,7 @@ def from_BB4(args, dir):
                 end = block[2]
                 mention = line[2].strip()
                 if testset:
-                    labels = "MockLabel"
+                    labels = ""
                 else:
                     with open(f"{file.split('.')[0]}.a2", 'r') as a2:
                         a2lines = a2.readlines()
@@ -176,7 +183,7 @@ def from_BB4(args, dir):
                 line = start, end, mention, _class, labels
                 standardize(args, dataset, pmid, line=line)
 
-def standardize(args, dataset, header=None, line=None):
+def standardize(args, dataset, pmid, header=None, line=None):
     '''
     Takes in the content of a file and outputs it in a standardized format.
 
@@ -188,22 +195,22 @@ def standardize(args, dataset, header=None, line=None):
             Output:
                 Generates a corresponding file in a standardized format.
     '''
-    filepath = f"{args['output']}raw_from_{args['from']}/{dataset}"
+    filepath = f"{args['output']}/raw_from_{args['from']}/{dataset}/"
     if not os.path.exists(filepath):
         os.makedirs(filepath)
-    if not os.path.exists(f"{filepath}_header.txt"):
-        with open(f"{filepath}_header.txt", 'a') as f:
+    if not os.path.exists(f"{filepath}{pmid}_header.txt"):
+        with open(f"{filepath}{pmid}_header.txt", 'a') as f:
             f.write("title\tabstract\n")
-        with open(f"{filepath}_data.txt", 'a') as f:
+        with open(f"{filepath}{pmid}_data.txt", 'a') as f:
             f.write("start\tend\tmention\t_class\tlabels\n")
     if header:
         title = header[0]
         abstract = header[1]
-        with open(f"{filepath}_header.txt", 'w') as f:
+        with open(f"{filepath}{pmid}_header.txt", 'w') as f:
                     f.write(f"{title}\n{abstract}\n")
     if line:
         start, end, mention, _class, labels = line
-        with open(f"{filepath}_data.txt", 'a') as f:
+        with open(f"{filepath}{pmid}_data.txt", 'a') as f:
                     f.write(f"{start}\t{end}\t{mention}\t{_class}\t{labels}\n")
   
 def extract(filename):
@@ -244,12 +251,17 @@ def to_NCBI(args, dataset):
         outfile = "NCBIdevelopset_corpus.txt"
     else:
         outfile = f"NCBI{dataset}set_corpus.txt"
-    if not os.path.exists(f"{args['output']}{args['from']}_to_NCBI"):
-        os.mkdir(f"{args['output']}{args['from']}_to_NCBI")
-    input_dir = f"{args['output']}raw_from_{args['from']}/{dataset}"
+    if args['from'] == 'STD':
+        input_dir = f"{args['input']}/{dataset}"
+        output_dir = f"{args['output']}/{args['input'].split('/')[-1]}_to_NCBI"
+    else:
+        input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
+        output_dir = f"{args['output']}/{args['from']}_to_NCBI"
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
     for file in glob.glob(f"{input_dir}/*_header.txt"):
         pmid, title, abstract, data = extract(filename=file)
-        with open(f"{args['output']}{args['from']}_to_NCBI/{outfile}", 'a') as f:
+        with open(f"{output_dir}/{outfile}", 'a') as f:
             f.write(f"\n{pmid}|t|{title}{pmid}|a|{abstract}")
             for line in data:
                 line = "\t".join(line)
@@ -257,14 +269,18 @@ def to_NCBI(args, dataset):
 
 def to_BB4(args, dataset):
     '''
-    Transforms a standardized dataset in the bacteria Biotope 4 output format.
+    Transforms a standardized dataset in the Bacteria Biotope 4 output format.
 
             Parameters:
                     args (dict): Console arguments
                     dataset (str): Indicates which dataset from test train or dev is being transformed.. 
     '''
-    input_dir = f"{args['output']}raw_from_{args['from']}/{dataset}"
-    output_dir = f"{args['output']}{args['from']}_to_BB4/{dataset}"
+    if args['from'] == 'STD':
+        input_dir = f"{args['input']}/{dataset}"
+        output_dir = f"{args['output']}/{args['input'].split('_')[-1]}_to_BB4/{dataset}"
+    else:
+        input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
+        output_dir = f"{args['output']}/{args['from']}_to_BB4/{dataset}"
     os.makedirs(output_dir)
     for file in glob.glob(f"{input_dir}/*_header.txt"):
         pmid, title, abstract, data = extract(filename=file)
@@ -276,15 +292,44 @@ def to_BB4(args, dataset):
             for i, line in enumerate(data):
                 start, end, mention, _class, labels = line 
                 f.write(f"T{i+3}\t{_class} {start} {end}\t{mention}\n")
-                if dataset != "test":
-                    with open(f"{output_dir}/BB-norm-{pmid}.a2", 'a') as fh:
-                        cui = labels.strip().split("|")
-                        if len(cui) > 1:
-                            for k, lab in enumerate(cui):
-                                fh.write(f"N{i+k+1}\t{pmid} Annotation:T{i+3} Referent:{lab}\n")
-                                k += 1
-                        elif len(cui) == 1:
-                                fh.write(f"N{i+1}\t{pmid} Annotation:T{i+3} Referent:{labels}")
+                with open(f"{output_dir}/BB-norm-{pmid}.a2", 'a') as fh:
+                    cui = labels.strip().split("|")
+                    if len(cui) > 1:
+                        for k, lab in enumerate(cui):
+                            fh.write(f"N{i+k+1}\t{pmid} Annotation:T{i+3} Referent:{lab}\n")
+                            k += 1
+                    elif len(cui) == 1:
+                            fh.write(f"N{i+1}\t{pmid} Annotation:T{i+3} Referent:{labels}")
+# def to_BB4(args, dataset):
+#     '''
+#     Transforms a standardized dataset in the Bacteria Biotope 4 output format.
+
+#             Parameters:
+#                     args (dict): Console arguments
+#                     dataset (str): Indicates which dataset from test train or dev is being transformed.. 
+#     '''
+#     input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
+#     output_dir = f"{args['output']}/{args['from']}_to_BB4/{dataset}"
+#     os.makedirs(output_dir)
+#     for file in glob.glob(f"{input_dir}/*_header.txt"):
+#         pmid, title, abstract, data = extract(filename=file)
+#         shutil.copyfile(f"{file}", f"{output_dir}/BB-norm-{pmid}.txt")
+#         with open(f"{output_dir}/BB-norm-{pmid}.txt", 'a') as f:
+#             f.write("\n")
+#         with open(f"{output_dir}/BB-norm-{pmid}.a1", 'a') as f:
+#             f.write(f"T1\tTitle 0 {len(title)}\t{title}T2\tParagraph {len(title)} {len(abstract) + len(title)}\t{abstract}")
+#             for i, line in enumerate(data):
+#                 start, end, mention, _class, labels = line 
+#                 f.write(f"T{i+3}\t{_class} {start} {end}\t{mention}\n")
+#                 if dataset != "test":
+#                     with open(f"{output_dir}/BB-norm-{pmid}.a2", 'a') as fh:
+#                         cui = labels.strip().split("|")
+#                         if len(cui) > 1:
+#                             for k, lab in enumerate(cui):
+#                                 fh.write(f"N{i+k+1}\t{pmid} Annotation:T{i+3} Referent:{lab}\n")
+#                                 k += 1
+#                         elif len(cui) == 1:
+#                                 fh.write(f"N{i+1}\t{pmid} Annotation:T{i+3} Referent:{labels}")
 
 if __name__ == "__main__":
     main()
