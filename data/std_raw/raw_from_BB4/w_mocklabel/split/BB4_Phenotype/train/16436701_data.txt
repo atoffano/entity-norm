@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-215	223	pathogen	Phenotype	OBT:000375
-1284	1293	pathogens	Phenotype	OBT:000375

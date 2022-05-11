@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-57	76	Helicobacter pylori	Microorganism	210
-520	539	Helicobacter pylori	Microorganism	210
-963	972	H. pylori	Microorganism	210
-1186	1195	H. pylori	Microorganism	210

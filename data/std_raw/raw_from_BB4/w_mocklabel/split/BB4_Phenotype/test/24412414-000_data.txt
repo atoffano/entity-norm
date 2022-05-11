@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-18	38	lactic acid bacteria	Phenotype	MockLabel
-40	43	LAB	Phenotype	MockLabel
-286	305	antifungal activity	Phenotype	MockLabel
-447	522	capability to produce the novel antimicrobial compound  3-phenyllactic acid	Phenotype	MockLabel
-643	646	LAB	Phenotype	MockLabel

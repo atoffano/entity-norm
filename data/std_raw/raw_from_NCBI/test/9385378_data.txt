@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-96	121	mucopolysaccharidosis IVA	SpecificDisease	OMIM:253000
-123	148	Mucopolysaccharidosis IVA	SpecificDisease	OMIM:253000
-150	157	MPS IVA	SpecificDisease	OMIM:253000
-165	211	autosomal recessive lysosomal storage disorder	DiseaseClass	D016464
-224	238	genetic defect	DiseaseClass	D030342
-498	505	MPS IVA	Modifier	OMIM:253000
-772	779	MPS IVA	Modifier	OMIM:253000

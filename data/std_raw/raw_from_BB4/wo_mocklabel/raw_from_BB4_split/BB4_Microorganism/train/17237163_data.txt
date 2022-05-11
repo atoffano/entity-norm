@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-41	64	Serratia marcescens MG1	Microorganism	615
-87	106	Serratia marcescens	Microorganism	615
-199	216	S. marcescens MG1	Microorganism	615
-1513	1526	S. marcescens	Microorganism	615
-1659	1676	S. marcescens MG1	Microorganism	615

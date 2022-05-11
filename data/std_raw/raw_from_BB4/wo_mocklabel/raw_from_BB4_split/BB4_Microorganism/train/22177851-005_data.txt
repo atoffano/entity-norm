@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-20	43	Proteus vulgaris  1 M10	Microorganism	585
-493	512	Psychrobacter celer	Microorganism	306572
-517	525	H. alvei	Microorganism	569

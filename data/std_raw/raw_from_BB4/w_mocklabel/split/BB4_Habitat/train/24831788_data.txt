@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-81	96	eukaryotic cell	Habitat	OBT:000061
-203	207	cell	Habitat	OBT:000061
-308	312	cell	Habitat	OBT:000061
-494	498	cell	Habitat	OBT:000061
-704	724	macrophage cell line	Habitat	OBT:002995|OBT:000062
-848	873	384-well screening plates	Habitat	OBT:000103
-1062	1071	host cell	Habitat	OBT:002995
-1373	1377	cell	Habitat	OBT:002995

@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-442	469	Duchenne muscular dystrophy	SpecificDisease	D020388
-471	474	DMD	SpecificDisease	D020388
-617	620	DMD	Modifier	D020388

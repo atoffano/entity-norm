@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-401	408	patient	Habitat	OBT:003269
-1413	1436	MRSA-colonized patients	Habitat	OBT:003269
-1454	1476	VRE-colonized patients	Habitat	OBT:003269

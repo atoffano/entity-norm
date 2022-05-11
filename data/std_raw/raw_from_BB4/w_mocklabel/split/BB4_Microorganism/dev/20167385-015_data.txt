@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-50	65	S. thermophilus	Microorganism	1308
-70	84	L. delbrueckii	Microorganism	1584

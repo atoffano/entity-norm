@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-65	92	protein S deficiency type I	SpecificDisease	D018455
-145	172	type I protein S deficiency	SpecificDisease	D018455
-1304	1331	protein S deficiency type I	SpecificDisease	D018455

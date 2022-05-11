@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-358	361	MTB	Microorganism	
-911	914	MTB	Microorganism	
-1212	1215	MTB	Microorganism	

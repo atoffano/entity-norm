@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-13	28	A. arilaitensis	Microorganism	256701
-141	149	P. celer	Microorganism	306572

@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	17	Friedreich ataxia	SpecificDisease	D005621
-32	49	Friedreich ataxia	SpecificDisease	D005621
-54	99	autosomal recessive neurodegenerative disease	DiseaseClass	D020271
-127	144	inherited ataxias	SpecificDisease	D013132
-290	307	Friedreich ataxia	SpecificDisease	D005621
-508	525	Friedreich ataxia	SpecificDisease	D005621
-782	786	FRDA	Modifier	D005621

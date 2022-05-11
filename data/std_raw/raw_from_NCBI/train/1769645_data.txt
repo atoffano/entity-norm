@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-73	88	phenylketonuria	SpecificDisease	D010661
-482	497	phenylketonuria	SpecificDisease	D010661

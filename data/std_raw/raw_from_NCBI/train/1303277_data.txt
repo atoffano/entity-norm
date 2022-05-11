@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-80	101	Prader-Willi syndrome	Modifier	D011218
-119	140	Prader-Willi syndrome	SpecificDisease	D011218
-142	145	PWS	SpecificDisease	D011218
-234	267	maternal disomy for chromosome 15	SpecificDisease	C538037
-377	380	PWS	Modifier	D011218
-659	662	PWS	SpecificDisease	D011218
-813	816	PWS	Modifier	D011218

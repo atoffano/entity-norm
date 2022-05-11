@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-9	31	Advenella kashmirensis	Microorganism	MockLabel
-165	180	A. kashmirensis	Microorganism	MockLabel

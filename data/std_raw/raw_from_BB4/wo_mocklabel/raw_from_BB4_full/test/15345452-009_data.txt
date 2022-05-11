@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-30	37	cheeses	Habitat	
-52	69	red smear  cheese	Habitat	
-85	106	Brevibacterium linens	Microorganism	
-136	150	cheese surface	Habitat	
-136	142	cheese	Habitat	
-164	175	red pigment	Phenotype	

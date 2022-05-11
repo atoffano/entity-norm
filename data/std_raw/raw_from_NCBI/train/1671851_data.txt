@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-20	49	X-linked adrenoleukodystrophy	SpecificDisease	D000326
-233	262	X-linked adrenoleukodystrophy	SpecificDisease	D000326
-264	267	ALD	SpecificDisease	D000326
-391	394	ALD	SpecificDisease	D000326
-552	555	ALD	SpecificDisease	D000326
-611	614	ALD	SpecificDisease	D000326
-713	756	abnormalities in the vision blindness genes	DiseaseClass	D003117

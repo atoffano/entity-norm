@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-496	555	autosomal recessive disease glucose/galactose malabsorption	SpecificDisease	OMIM:606824
-1008	1024	genetic diseases	DiseaseClass	D030342

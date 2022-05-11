@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-193	205	histidinemia	SpecificDisease	C538320

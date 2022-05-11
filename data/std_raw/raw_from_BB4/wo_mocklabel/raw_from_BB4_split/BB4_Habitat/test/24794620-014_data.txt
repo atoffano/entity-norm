@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-150	163;178	European soft cheeses	Habitat	
-150	158;168	European semi-hard cheeses	Habitat	

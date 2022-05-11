@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-29	49	Lesch-Nyhan syndrome	SpecificDisease	D007926
-110	130	Lesch-Nyhan syndrome	SpecificDisease	D007926
-141	178	neurological and behavioural disorder	DiseaseClass	D009422|D001523
-224	244	inherited deficiency	DiseaseClass	D030342
-454	465	Lesch-Nyhan	Modifier	D007926
-636	656	Lesch-Nyhan syndrome	SpecificDisease	D007926
-1001	1012	Lesch-Nyhan	Modifier	D007926

@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-176	194	Huntington disease	SpecificDisease	D006816
-196	198	HD	SpecificDisease	D006816
-430	432	HD	Modifier	D006816
-709	711	HD	SpecificDisease	D006816
-723	758	disorder of inappropriate apoptosis	DiseaseClass	D004194

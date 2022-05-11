@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	27	Familial male breast cancer	SpecificDisease	D018567
-80	93	Breast cancer	SpecificDisease	D001943
-260	278	male breast cancer	SpecificDisease	D018567
-298	334	hereditary breast and ovarian cancer	Modifier	D061325
-615	628	breast cancer	SpecificDisease	D001943
-673	691	male breast cancer	SpecificDisease	D018567
-754	772	male breast cancer	SpecificDisease	D018567

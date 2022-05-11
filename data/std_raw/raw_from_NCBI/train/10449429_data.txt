@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-88	115	Duchenne muscular dystrophy	SpecificDisease	D020388
-117	120	DMD	SpecificDisease	D020388
-512	515	DMD	SpecificDisease	D020388
-1005	1020	muscular injury	DiseaseClass	D014947
-1245	1263	muscular dystrophy	SpecificDisease	D009136
-1392	1395	DMD	SpecificDisease	D020388

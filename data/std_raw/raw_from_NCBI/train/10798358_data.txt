@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-189	215	nonketotic hyperglycinemia	SpecificDisease	D020158
-274	300	nonketotic hyperglycinemia	SpecificDisease	D020158
-302	305	NKH	SpecificDisease	D020158
-311	338	in-born error of metabolism	DiseaseClass	D008661
-363	387	neurological disturbance	DiseaseClass	D009461
-519	522	NKH	SpecificDisease	D020158
-1245	1248	NKH	SpecificDisease	D020158
-1869	1872	NKH	SpecificDisease	D020158

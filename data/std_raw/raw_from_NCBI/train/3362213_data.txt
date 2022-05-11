@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-54	71	Tay-Sachs disease	SpecificDisease	D013661
-73	90	Tay-Sachs disease	SpecificDisease	D013661
-97	133	autosomal recessive genetic disorder	DiseaseClass	D030342
-1046	1063	Tay-Sachs disease	SpecificDisease	D013661

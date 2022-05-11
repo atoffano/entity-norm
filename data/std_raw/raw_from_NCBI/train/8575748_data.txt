@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-134	176	hereditary human breast and ovarian cancer	CompositeMention	D061325
-1036	1049	BRCA1 defects	SpecificDisease	OMIM:604370

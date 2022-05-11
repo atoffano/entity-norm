@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-75	98	Ralstonia eutropha H850	Microorganism	53482
-214	237	Ralstonia eutropha H850	Microorganism	53482
-449	465	R. eutropha H850	Microorganism	53482

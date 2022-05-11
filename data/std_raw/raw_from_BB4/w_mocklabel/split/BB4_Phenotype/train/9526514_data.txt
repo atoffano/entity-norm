@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-550	569	bacterial virulence	Phenotype	OBT:002732

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-18	39	Prader-Willi syndrome	SpecificDisease	D011218
-283	304	Prader-Willi syndrome	SpecificDisease	D011218
-306	309	PWS	SpecificDisease	D011218
-373	376	PWS	SpecificDisease	D011218
-546	549	PWS	SpecificDisease	D011218
-754	757	PWS	Modifier	D011218

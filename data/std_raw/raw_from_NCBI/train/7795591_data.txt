@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-77	121	hereditary and non hereditary retinoblastoma	CompositeMention	D012175
-194	208	retinoblastoma	SpecificDisease	D012175
-283	326	hereditary or non hereditary retinoblastoma	CompositeMention	D012175
-845	859	retinoblastoma	SpecificDisease	D012175

@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-114	150	hereditary breast and ovarian cancer	Modifier	D061325
-325	353	breast and/or ovarian cancer	Modifier	D001943|D010051

@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-62	81	Psychrobacter celer	Microorganism	306572
-86	98	Hafnia alvei	Microorganism	569

@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-1186	1199	Staphylococci	Microorganism	MockLabel
-1261	1281	Staphylococci aureus	Microorganism	MockLabel
-1336	1345	S. aureus	Microorganism	MockLabel
-1347	1351	MRSA	Microorganism	MockLabel
-1432	1436	MRSA	Microorganism	MockLabel

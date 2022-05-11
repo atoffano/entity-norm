@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-623	645	RecA protease activity	Phenotype	

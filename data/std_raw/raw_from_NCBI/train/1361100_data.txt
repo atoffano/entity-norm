@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-21	36	phenylketonuria	SpecificDisease	D010661
-48	63	Phenylketonuria	SpecificDisease	D010661
-65	68	PKU	SpecificDisease	D010661
-73	106	disorder of amino acid metabolism	DiseaseClass	D000592
-184	242	deficiency of the hepatic enzyme phenylalanine hydroxylase	SpecificDisease	OMIM:261600
-250	253	PKU	SpecificDisease	D010661
-710	713	PKU	Modifier	D010661
-1388	1391	PKU	SpecificDisease	D010661

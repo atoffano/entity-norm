@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-50	77	Duchenne muscular dystrophy	Modifier	D020388
-131	158	Duchenne muscular dystrophy	Modifier	D020388
-160	163	DMD	Modifier	D020388
-360	363	DMD	Modifier	D020388
-535	538	DMD	Modifier	D020388
-884	887	DMD	Modifier	D020388

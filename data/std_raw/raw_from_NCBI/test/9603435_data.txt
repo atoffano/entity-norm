@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-133	153	G(M2) gangliosidosis	SpecificDisease	D020143
-285	302	Tay-Sachs disease	SpecificDisease	D013661
-304	307	TSD	SpecificDisease	D013661
-320	367	infantile form of G (M2) gangliosidosis, Type 1	SpecificDisease	D020143
-737	758	G (M2) gangliosidosis	SpecificDisease	D020143
-1470	1473	TSD	SpecificDisease	D013661
-1678	1701	Hex A enzyme deficiency	SpecificDisease	D013661
-1916	1932	Hex A deficiency	SpecificDisease	D013661

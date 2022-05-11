@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-181	203	Lactobacillus buchneri	Microorganism	
-257	270	lactobacillus	Microorganism	
-460	492	Propionibacterium freudenreichii	Microorganism	
-707	724	Pseudoalteromonas	Microorganism	
-737	746	Halomonas	Microorganism	

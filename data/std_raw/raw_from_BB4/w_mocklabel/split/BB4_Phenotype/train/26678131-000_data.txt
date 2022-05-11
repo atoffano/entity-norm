@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-246	250	STEC	Phenotype	OBT:000019
-313	317	STEC	Phenotype	OBT:000019

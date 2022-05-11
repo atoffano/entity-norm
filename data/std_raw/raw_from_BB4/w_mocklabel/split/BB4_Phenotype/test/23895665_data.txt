@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-119	133	drug-resistant	Phenotype	MockLabel
-264	278	drug-resistant	Phenotype	MockLabel
-473	488	drug-resistance	Phenotype	MockLabel
-678	693	drug-resistance	Phenotype	MockLabel
-848	864	drug sensitivity	Phenotype	MockLabel
-1299	1315	drug sensitivity	Phenotype	MockLabel

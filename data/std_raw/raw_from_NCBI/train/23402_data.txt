@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-77	94	neonatal jaundice	SpecificDisease	D007567
-137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800
-326	343	neonatal jaundice	SpecificDisease	D007567
-745	773	bilateral lamellar cataracts	SpecificDisease	C535342|OMIM:116800
-815	829	G6PD deficient	SpecificDisease	D005955
-912	920	cataract	Modifier	D002386
-1230	1245	G6PD deficiency	SpecificDisease	D005955
-1256	1264	cataract	Modifier	D002386

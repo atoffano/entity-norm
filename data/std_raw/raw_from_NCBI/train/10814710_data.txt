@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-111	136	mucopolysaccharidosis IVA	Modifier	OMIM:253000
-149	174	Mucopolysaccharidosis IVA	SpecificDisease	OMIM:253000
-176	183	MPS IVA	SpecificDisease	OMIM:253000
-203	229	lysosomal storage disorder	DiseaseClass	D016464
-242	298	deficiency of N -acetylgalactosamine-6-sulfate sulfatase	SpecificDisease	OMIM:253000
-414	421	MPS IVA	Modifier	OMIM:253000
-1880	1887	MPS IVA	SpecificDisease	OMIM:253000

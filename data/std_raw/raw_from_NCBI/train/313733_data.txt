@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	24	Hereditary C2 deficiency	SpecificDisease	OMIM:217000
-57	73	immunodeficiency	DiseaseClass	D007153
-86	99	C2 deficiency	SpecificDisease	OMIM:217000
-150	166	immunodeficiency	DiseaseClass	D007153
-188	210	hypoimmunoglobulinemia	DiseaseClass	D007153
-353	378	chromosomal abnormalities	DiseaseClass	D002869
-498	511	C2 deficiency	SpecificDisease	OMIM:217000

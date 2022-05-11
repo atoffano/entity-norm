@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-13	28	hemochromatosis	SpecificDisease	D006432
-48	62	HFE deficiency	SpecificDisease	D006432
-136	151	hemochromatosis	SpecificDisease	D006432
-666	679	HFE-deficient	Modifier	D006432
-789	804	hemochromatosis	SpecificDisease	D006432

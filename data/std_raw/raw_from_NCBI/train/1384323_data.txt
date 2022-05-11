@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-47	56	Tay-Sachs	Modifier	D013661
-103	138	Deficiency of beta-hexosaminidase A	SpecificDisease	D013661
-177	194	Tay-Sachs disease	SpecificDisease	D013661
-234	252	deficient in Hex A	SpecificDisease	D013661
-518	535	Tay-Sachs disease	Modifier	D013661
-717	734	Tay-Sachs disease	Modifier	D013661
-909	926	Tay-Sachs disease	Modifier	D013661
-1153	1170	Tay-Sachs disease	Modifier	D013661

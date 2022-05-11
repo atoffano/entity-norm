@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-192	215	gastroduodenal pathogen	Phenotype	
-1463	1475	pathogenesis	Phenotype	

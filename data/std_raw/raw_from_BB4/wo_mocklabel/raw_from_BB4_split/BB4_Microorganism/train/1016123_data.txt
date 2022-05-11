@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-103	114	Salmonellae	Microorganism	590
-167	177	Salmonella	Microorganism	599
-464	475	salmonellae	Microorganism	590
-516	527	S. pullorum	Microorganism	605

@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-62	77	lipase activity	Phenotype	OBT:000019

@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-36	50	Norrie disease	SpecificDisease	C537849
-111	134	X linked Norrie disease	SpecificDisease	C537849
-136	138	ND	SpecificDisease	C537849
-271	273	ND	Modifier	C537849
-944	958	Norrie disease	SpecificDisease	C537849

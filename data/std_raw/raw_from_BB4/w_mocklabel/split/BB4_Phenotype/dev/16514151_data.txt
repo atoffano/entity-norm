@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-120	138	mercury resistance	Phenotype	OBT:002521
-140	143	mer	Phenotype	OBT:002521

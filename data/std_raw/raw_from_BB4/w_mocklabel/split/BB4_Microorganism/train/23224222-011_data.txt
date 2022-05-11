@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-32	53	Debaryomyces hansenii	Microorganism	4959
-58	73	Geotrichum spp.	Microorganism	43987
-135	146	D. hansenii	Microorganism	4959
-237	252	Geotrichum spp.	Microorganism	43987
-331	350	Yarrowia lipolytica	Microorganism	4952
-385	398	Y. lipolytica	Microorganism	4952
-546	557	D. hansenii	Microorganism	4959
-562	577	Geotrichum spp.	Microorganism	43987

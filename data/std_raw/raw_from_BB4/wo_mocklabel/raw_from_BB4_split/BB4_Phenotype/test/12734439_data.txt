@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-581	591	ubiquitous	Phenotype	

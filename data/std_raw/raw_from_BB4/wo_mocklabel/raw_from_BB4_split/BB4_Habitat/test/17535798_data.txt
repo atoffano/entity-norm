@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-98	104	Humans	Habitat	
-196	202	cattle	Habitat	
-354	360	humans	Habitat	
-421	427	humans	Habitat	
-916	924	clinical	Habitat	
-1298	1304	humans	Habitat	

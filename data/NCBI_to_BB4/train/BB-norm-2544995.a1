@@ -1,8 +1,0 @@
-T1	Title 0 79	Cloning of breakpoints of a chromosome translocation identifies the AN2 locus.
-T2	Paragraph 79 782	Chromosome translocations involving 11p13 have been associated with familial aniridia in two kindreds highlighting the chromosomal localization of the AN2 locus. This locus is also part of the WAGR complex (Wilms tumor, aniridia, genitourinary abnormalities, and mental retardation). In one kindred, the translocation is associated with a deletion, and probes for this region were used to identify and clone the breakpoints of the translocation in the second kindred. Comparison of phage restriction maps exclude the presence of any sizable deletion in this case. Sequences at the chromosome 11 breakpoint are conserved in multiple species, suggesting that the translocation falls within the AN2 gene..
-T3	SpecificDisease 147 164	familial aniridia
-T4	Modifier 272 276	WAGR
-T5	SpecificDisease 286 297	Wilms tumor
-T6	SpecificDisease 299 307	aniridia
-T7	DiseaseClass 309 336	genitourinary abnormalities
-T8	DiseaseClass 342 360	mental retardation

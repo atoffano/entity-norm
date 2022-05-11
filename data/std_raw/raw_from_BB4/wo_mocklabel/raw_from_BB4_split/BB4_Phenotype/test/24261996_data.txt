@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-141	149	virulent	Phenotype	
-682	690	Pathogen	Phenotype	

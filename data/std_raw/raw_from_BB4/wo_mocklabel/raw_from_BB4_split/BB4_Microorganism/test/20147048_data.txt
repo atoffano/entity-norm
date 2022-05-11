@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-59	84	Agrobacterium tumefaciens	Microorganism	
-147	172	Agrobacterium tumefaciens	Microorganism	
-272	286	A. tumefaciens	Microorganism	

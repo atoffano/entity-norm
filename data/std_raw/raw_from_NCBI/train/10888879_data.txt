@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-60	80	retinal degeneration	Modifier	D012162
-563	588	photoreceptor dystrophies	DiseaseClass	D058499
-600	639	autosomal dominant retinitis pigmentosa	SpecificDisease	D012174
-644	661	macular dystrophy	SpecificDisease	D008268
-754	774	retinal degeneration	Modifier	D012162

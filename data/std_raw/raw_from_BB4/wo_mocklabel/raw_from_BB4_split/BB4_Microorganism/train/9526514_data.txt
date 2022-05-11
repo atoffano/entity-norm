@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-38	62	Agrobacterium rhizogenes	Microorganism	359
-129	153	Agrobacterium rhizogenes	Microorganism	359

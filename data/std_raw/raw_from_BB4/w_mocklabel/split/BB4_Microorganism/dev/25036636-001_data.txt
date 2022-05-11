@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-11	23	Galactomyces	Microorganism	27316
-43	57	Proteobacteria	Microorganism	1224
-227	241	Scopulariopsis	Microorganism	40374
-243	254	Aspergillus	Microorganism	5052
-256	270	Actinobacteria	Microorganism	1760
-276	290	Staphylococcus	Microorganism	1279

@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-0	58	Severe-glucose-6-phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955
-83	99	hemolytic anemia	SpecificDisease	D000743
-101	124	granulocyte dysfunction	DiseaseClass	D007960
-341	356	G6PD deficiency	SpecificDisease	D005955
-358	400	congenital nonspherocytic hemolytic anemia	SpecificDisease	D000746
-402	407	CNSHA	SpecificDisease	D000746
-1317	1322	CNSHA	SpecificDisease	D000746
-1487	1505	deficiency of G6PD	SpecificDisease	D005955

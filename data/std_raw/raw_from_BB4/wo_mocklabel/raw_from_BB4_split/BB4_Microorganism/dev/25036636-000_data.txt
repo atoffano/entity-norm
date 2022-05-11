@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-193	201	Yaniella	Microorganism	225447
-206	218	Nocardiopsis	Microorganism	2013
-311	327	γ-Proteobacteria	Microorganism	1236
-336	342	Vibrio	Microorganism	662
-344	353	Halomonas	Microorganism	2745
-359	376	Pseudoalteromonas	Microorganism	53246

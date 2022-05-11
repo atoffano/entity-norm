@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-298	314	propionibacteria	Microorganism	1743
-435	490	Propionibacterium freudenreichii subsp. shermanii TL 34	Microorganism	1752
-492	502	CIP 103027	Microorganism	1752
-573	606	Streptococcus pneumoniae  type 37	Microorganism	1313
-783	817	P. freudenreichii subsp. shermanii	Microorganism	1752
-1039	1085	Propionibacterium acidipropionici strain TL 47	Microorganism	1111734
-1252	1274	S. pneumoniae-type  37	Microorganism	1313
-1518	1535	P. freudenreichii	Microorganism	1744

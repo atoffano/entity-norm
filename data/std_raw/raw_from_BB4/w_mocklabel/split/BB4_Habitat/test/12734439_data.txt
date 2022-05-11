@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-1052	1162	patients who, apart from their nontuberculous mycobacterial disease, seem to be healthy on initial examination	Habitat	MockLabel
-1284	1305	clinical laboratories	Habitat	MockLabel
-1545	1581	mycobacterial reference laboratories	Habitat	MockLabel

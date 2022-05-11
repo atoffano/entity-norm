@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-23	29	marine	Habitat	MockLabel
-23	43	marine invertebrates	Habitat	MockLabel
-88	108	Marine invertebrates	Habitat	MockLabel
-88	94	Marine	Habitat	MockLabel
-317	323	marine	Habitat	MockLabel
-317	336	marine invertebrate	Habitat	MockLabel
-556	597	bryostatin-producing bryozoan B. neritina	Habitat	MockLabel
-744	762	listhistid sponges	Habitat	MockLabel

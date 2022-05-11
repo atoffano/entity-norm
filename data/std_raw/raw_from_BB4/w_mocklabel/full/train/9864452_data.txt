@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-68	88	Bacillus intermedius	Microorganism	1400
-163	185	streptomycin-resistant	Phenotype	OBT:002858
-196	222	Bacillus intermedius S3-19	Microorganism	1400
-816	830	B. intermedius	Microorganism	1400
-891	899	Bacillus	Microorganism	1386

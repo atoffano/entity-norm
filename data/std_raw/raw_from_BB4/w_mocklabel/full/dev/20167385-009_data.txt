@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-0	9	B. linens	Microorganism	1703
-38	44;70	Casera cheese	Habitat	OBT:003483
-38	44;70	Casera cheese  surfaces	Habitat	OBT:001341
-46	56;70	Gorgonzola cheese  surfaces	Habitat	OBT:001341
-46	56;70	Gorgonzola cheese	Habitat	OBT:003504
-61	76	Scimudin cheese	Habitat	OBT:003522
-61	86	Scimudin cheese  surfaces	Habitat	OBT:001341
-185	198	smear cheeses	Habitat	OBT:003494

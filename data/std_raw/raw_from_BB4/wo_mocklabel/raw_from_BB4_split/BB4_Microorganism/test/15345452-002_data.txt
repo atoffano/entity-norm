@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-11	34	Pseudomonas fluorescens	Microorganism	
-115	124	CIP69.13T	Microorganism	
-174	181	CIP6347	Microorganism	

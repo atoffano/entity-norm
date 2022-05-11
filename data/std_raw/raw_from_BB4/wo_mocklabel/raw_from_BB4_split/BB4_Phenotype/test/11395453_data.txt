@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-87	101	quorum-sensing	Phenotype	
-476	499	luxS insertional mutant	Phenotype	

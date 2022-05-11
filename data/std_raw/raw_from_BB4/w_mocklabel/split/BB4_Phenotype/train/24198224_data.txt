@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-467	495	antimicrobial susceptibility	Phenotype	OBT:002338
-738	762	nalidixic acid resistant	Phenotype	OBT:002823

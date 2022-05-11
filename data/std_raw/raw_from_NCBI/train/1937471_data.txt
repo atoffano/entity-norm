@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	57	Hypoxanthine-guanine phosphoribosyltransferase deficiency	SpecificDisease	OMIM:300323
-146	166	Lesch-Nyhan syndrome	SpecificDisease	D007926
-179	212	X chromosome-linked human disease	DiseaseClass	D040181
-233	306	absence of hypoxanthine-guanine phosphoribosyltransferase (HPRT) activity	SpecificDisease	D007926
-374	389	gouty arthritis	SpecificDisease	D015210
-556	576	Lesch-Nyhan syndrome	SpecificDisease	D007926
-604	641	partial deficiencies of HPRT activity	DiseaseClass	OMIM:300323

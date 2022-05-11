@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-34	41;54	ability to produce PLA	Phenotype	
-50	53	LAB	Phenotype	
-708	722	PLA production	Phenotype	

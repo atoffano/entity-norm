@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-24	39	Kingella kingae	Microorganism	504
-76	91	Kingella kingae	Microorganism	504
-542	551	K. kingae	Microorganism	504
-977	986	K. kingae	Microorganism	504
-1014	1023	K. kingae	Microorganism	504
-1343	1352	K. kingae	Microorganism	504

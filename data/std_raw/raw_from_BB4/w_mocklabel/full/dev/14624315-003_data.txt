@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-153	174	transaminase activity	Phenotype	OBT:000019
-282	295	Lactobacillus	Microorganism	1578
-303	312	L. lactis	Microorganism	1246
-322	348	Streptococcus thermophilus	Microorganism	1308
-378	415	transaminase activity towards leucine	Phenotype	OBT:000019

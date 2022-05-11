@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-41	55	psychrotrophic	Phenotype	MockLabel
-96	107	proteolytic	Phenotype	MockLabel
-108	111	LAB	Phenotype	MockLabel

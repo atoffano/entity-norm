@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-58	79	Brevibacterium linens	Microorganism	1703
-168	188	Brevibacterium  spp.	Microorganism	1696

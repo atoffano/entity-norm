@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-0	24	Wiskott-Aldrich syndrome	Modifier	D014923
-279	303	Wiskott-Aldrich syndrome	SpecificDisease	D014923
-305	308	WAS	SpecificDisease	D014923
-936	939	WAS	SpecificDisease	D014923

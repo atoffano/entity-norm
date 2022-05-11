@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-87	111	complement C9 deficiency	SpecificDisease	OMIM:613825
-113	166	Deficiency of the ninth component of human complement	SpecificDisease	OMIM:613825
-191	212	complement deficiency	DiseaseClass	 D007153
-288	301	C9 deficiency	SpecificDisease	OMIM:613825
-319	331	C9-deficient	Modifier	OMIM:613825
-363	387	meningococcal meningitis	SpecificDisease	D008585
-517	529	C9-deficient	Modifier	OMIM:613825
-882	895	C9 deficiency	SpecificDisease	OMIM:613825

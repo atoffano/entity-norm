@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-1022	1042	Mycobacterium leprae	Microorganism	1769
-1205	1214	M. leprae	Microorganism	1769
-1576	1585	M. leprae	Microorganism	1769
-1684	1693	M. leprae	Microorganism	1769
-1748	1757	M. leprae	Microorganism	1769
-2027	2036	M. leprae	Microorganism	1769

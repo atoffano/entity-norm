@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-56	79	Pseudomonas fluorescens	Microorganism	
-225	241	Escherichia coli	Microorganism	
-243	265	Listeria monocytogenes	Microorganism	
-271	292	Staphylococcus aureus	Microorganism	

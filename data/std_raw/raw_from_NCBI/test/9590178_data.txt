@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-0	12	Wilms' tumor	Modifier	D009396
-146	157	Wilms tumor	Modifier	D009396
-538	564	male pseudohermaphroditism	SpecificDisease	D058490
-568	588	Denys-Drash syndrome	SpecificDisease	D030321

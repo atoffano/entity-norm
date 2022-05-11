@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	54	Autosomal dominant neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
-131	185	Autosomal dominant neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
-187	192	ADNDI	SpecificDisease	OMIM:125700
-200	217	inherited disease	DiseaseClass	D030342
-453	471	diabetes insipidus	SpecificDisease	D003919
-587	592	ADNDI	SpecificDisease	OMIM:125700
-1176	1214	dominantly inherited neurodegeneration	DiseaseClass	D020271

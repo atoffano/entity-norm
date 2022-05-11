@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-679	707	breast and/or ovarian cancer	Modifier	D061325

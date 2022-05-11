@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-69	81	alkaptonuria	SpecificDisease	D000474
-1519	1531	alkaptonuria	Modifier	D000474
-1679	1691	alkaptonuria	SpecificDisease	D000474

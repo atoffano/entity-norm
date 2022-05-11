@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-67	107	high hydroxy acid dehydrogenase activity	Phenotype	OBT:000019
-124	145	transaminase activity	Phenotype	OBT:000019
-361	373;405	transaminase activities	Phenotype	OBT:000019
-378	415	hydroxy acid dehydrogenase activities	Phenotype	OBT:000019

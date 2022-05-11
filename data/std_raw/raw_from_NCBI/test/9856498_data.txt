@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-23	36	C6 deficiency	SpecificDisease	OMIM:612446
-72	125	Deficiency of the sixth component of human complement	SpecificDisease	OMIM:612446
-210	231	Meningococcal disease	SpecificDisease	D008589
-289	302	C6 deficiency	SpecificDisease	OMIM:612446
-1150	1162	C6-deficient	Modifier	OMIM:612446

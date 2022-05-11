@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-77	99	sporadic breast cancer	Modifier	D001943
-153	187	familial breast and ovarian cancer	Modifier	D061325
-213	252	non-hereditary (sporadic) breast cancer	SpecificDisease	D001943
-433	450	carcinoma in situ	DiseaseClass	D002278
-454	469	invasive cancer	DiseaseClass	D009362
-808	821	breast cancer	SpecificDisease	D001943

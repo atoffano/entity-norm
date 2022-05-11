@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-27	51	Pseudomonas testosteroni	Microorganism	MockLabel
-152	176	Pseydomonas testosteroni	Microorganism	MockLabel
-607	631	Pseudomonas testosteroni	Microorganism	MockLabel
-946	953	E. coli	Microorganism	MockLabel

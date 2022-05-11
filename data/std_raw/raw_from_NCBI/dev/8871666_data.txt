@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-19	62	combined subtotal deficiencies of C6 and C7	SpecificDisease	OMIM:612446|OMIM:610102
-104	126	C6 and C7 deficiencies	CompositeMention	OMIM:612446|OMIM:610102
-128	169	Combined subtotal deficiency of C6 and C7	SpecificDisease	OMIM:612446|OMIM:610102
-965	984	C6 or C7 deficiency	CompositeMention	OMIM:612446|OMIM:610102
-1047	1059	C6-deficient	Modifier	OMIM:612446

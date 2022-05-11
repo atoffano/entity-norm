@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-0	9	B. linens	Microorganism	1703

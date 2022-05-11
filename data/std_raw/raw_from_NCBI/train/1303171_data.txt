@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-56	70	Norrie disease	Modifier	C537849
-872	886	Norrie disease	Modifier	C537849
-888	891	NDP	Modifier	C537849

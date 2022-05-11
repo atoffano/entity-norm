@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-173	182	commensal	Phenotype	
-243	252	virulence	Phenotype	
-317	326;341	morbidity of colonized humans	Phenotype	
-331	360	mortality of colonized humans	Phenotype	
-390	399	virulence	Phenotype	
-454	463	virulence	Phenotype	
-1258	1267	virulence	Phenotype	

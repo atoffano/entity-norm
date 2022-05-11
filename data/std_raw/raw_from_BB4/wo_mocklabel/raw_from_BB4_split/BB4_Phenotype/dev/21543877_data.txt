@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-338	359	antibiotic resistance	Phenotype	OBT:002674

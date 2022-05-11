@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-39	68	Hospital S. Camillo De Lellis	Habitat	OBT:002714

@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-1101	1134	Penicillium-sensitive atopic sera	Habitat	OBT:000007
-1101	1134	Penicillium-sensitive atopic sera	Habitat	OBT:000007

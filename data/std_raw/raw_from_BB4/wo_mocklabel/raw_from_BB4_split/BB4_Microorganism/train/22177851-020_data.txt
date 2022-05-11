@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-59	67	H. alvei	Microorganism	569

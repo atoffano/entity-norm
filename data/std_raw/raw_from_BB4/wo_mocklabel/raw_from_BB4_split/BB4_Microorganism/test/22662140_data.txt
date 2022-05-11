@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-63	78	Vibrio cholerae	Microorganism	
-525	531	IEC224	Microorganism	
-763	773	V. cholera	Microorganism	
-1030	1036	IEC224	Microorganism	
-1141	1147	El Tor	Microorganism	
-1338	1349	V. cholerae	Microorganism	

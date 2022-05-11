@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-468	492	Kuenenia stuttgartiensis	Microorganism	MockLabel
-759	777	K. stuttgartiensis	Microorganism	MockLabel
-888	909	Nitrosomonas europaea	Microorganism	MockLabel
-1008	1026	K. stuttgartiensis	Microorganism	MockLabel

@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-321	348	Yersinia pseudotuberculosis	Microorganism	633
-467	488	Y. pseudotuberculosis	Microorganism	633
-846	867	Y. pseudotuberculosis	Microorganism	633
-1421	1442	Y. pseudotuberculosis	Microorganism	633

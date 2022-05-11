@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-49	63	dairy products	Habitat	MockLabel
-151	161	water tank	Habitat	MockLabel
-198	202	soil	Habitat	MockLabel

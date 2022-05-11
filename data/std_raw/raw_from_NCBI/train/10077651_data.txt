@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-58	84	hereditary hemochromatosis	SpecificDisease	D006432
-147	173	Hereditary hemochromatosis	SpecificDisease	D006432
-175	177	HH	SpecificDisease	D006432
-191	219	autosomal recessive disorder	DiseaseClass	D030342
-364	366	HH	SpecificDisease	D006432
-1281	1304	dietary iron deficiency	SpecificDisease	D018798

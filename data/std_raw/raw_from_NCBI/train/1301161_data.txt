@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-4	18	Norrie disease	Modifier	C537849
-70	84	Norrie disease	SpecificDisease	C537849
-96	123	X-linked recessive disorder	DiseaseClass	D040181
-161	181	congenital blindness	SpecificDisease	D057130
-183	206	sensory neural deafness	SpecificDisease	D006319
-211	229	mental retardation	DiseaseClass	D008607
-410	424	Norrie disease	Modifier	C537849
-535	549	Norrie disease	SpecificDisease	C537849

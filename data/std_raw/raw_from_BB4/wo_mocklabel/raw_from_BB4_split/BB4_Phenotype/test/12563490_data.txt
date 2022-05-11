@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-74	83	coccoidal	Phenotype	
-171	184	pathogenicity	Phenotype	
-188	195	coccoid	Phenotype	
-332	339	coccoid	Phenotype	
-1291	1298	coccoid	Phenotype	

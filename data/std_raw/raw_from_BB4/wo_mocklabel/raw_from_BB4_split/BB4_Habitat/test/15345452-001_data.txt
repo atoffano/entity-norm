@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-179	184	milks	Habitat	
-189	196	cheeses	Habitat	
-296	305	raw milks	Habitat	
-310	317	cheeses	Habitat	

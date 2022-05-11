@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-119	128	pathogens	Phenotype	
-234	252	adherence capacity	Phenotype	
-256	265	probiotic	Phenotype	
-321	329	pathogen	Phenotype	
-384	393	probiotic	Phenotype	
-430	449	adhesion properties	Phenotype	
-505	544	capable of producing exopolysaccharides	Phenotype	
-667	688	formation of biofilms	Phenotype	

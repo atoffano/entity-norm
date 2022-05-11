@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-46	67	Chlamydia trachomatis	Microorganism	813

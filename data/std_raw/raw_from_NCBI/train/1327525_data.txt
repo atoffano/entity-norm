@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-26	46	Denys-Drash syndrome	SpecificDisease	D030321
-66	86	Denys-Drash syndrome	SpecificDisease	D030321
-88	99	Wilms tumor	SpecificDisease	D009396
-101	118	genital anomalies	DiseaseClass	D014564
-124	135	nephropathy	SpecificDisease	D007674
-214	225	Wilms tumor	Modifier	D009396
-650	670	Denys-Drash syndrome	SpecificDisease	D030321

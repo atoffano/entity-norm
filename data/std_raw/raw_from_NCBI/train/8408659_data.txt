@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-177	192	atherosclerosis	SpecificDisease	D050197
-338	353	CETP deficiency	SpecificDisease	OMIM:143470

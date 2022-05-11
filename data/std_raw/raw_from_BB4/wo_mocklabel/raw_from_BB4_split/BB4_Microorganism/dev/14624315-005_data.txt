@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-19	49	L. lactis subsp. cremoris B697	Microorganism	1359
-230	268	L. lactis subsp. cremoris strain B1157	Microorganism	1359
-458	462	B697	Microorganism	1359

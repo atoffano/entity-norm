@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-132	139	poultry	Habitat	MockLabel
-282	290	GI tract	Habitat	MockLabel
-680	688	biofilms	Habitat	MockLabel

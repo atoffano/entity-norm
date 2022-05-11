@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-4	33	community containing H. alvei	Habitat	OBT:000113
-430	456	community without P. celer	Habitat	OBT:000113

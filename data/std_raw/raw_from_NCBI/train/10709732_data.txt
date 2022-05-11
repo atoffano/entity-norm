@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	39	Autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
-41	45	ALPS	SpecificDisease	D056735
-120	159	Autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
-161	165	ALPS	SpecificDisease	D056735
-349	353	ALPS	SpecificDisease	D056735
-959	963	ALPS	Modifier	D056735
-1024	1028	ALPS	Modifier	D056735

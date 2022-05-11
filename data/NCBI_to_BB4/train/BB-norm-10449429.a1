@@ -1,8 +1,0 @@
-T1	Title 0 88	Aminoglycoside antibiotics restore dystrophin function to skeletal muscles of mdx mice.
-T2	Paragraph 88 1398	Duchenne muscular dystrophy (DMD) is caused by mutations in the dystrophin gene, leading to the absence of the dystrophin protein in striated muscle. A significant number of these mutations are premature stop codons. On the basis of the observation that aminoglycoside treatment can suppress stop codons in cultured cells, we tested the effect of gentamicin on cultured muscle cells from the mdx mouse - an animal model for DMD that possesses a premature stop codon in the dystrophin gene. Exposure of mdx myotubes to gentamicin led to the expression and localization of dystrophin to the cell membrane. We then evaluated the effects of differing dosages of gentamicin on expression and functional protection of the muscles of mdx mice. We identified a treatment regimen that resulted in the presence of dystrophin in the cell membrane in all striated muscles examined and that provided functional protection against muscular injury. To our knowledge, our results are the first to demonstrate that aminoglycosides can suppress stop codons not only in vitro but also in vivo. Furthermore, these results raise the possibility of a novel treatment regimen for muscular dystrophy and other diseases caused by premature stop codon mutations. This treatment could prove effective in up to 15% of patients with DMD..
-T3	SpecificDisease 88 115	Duchenne muscular dystrophy
-T4	SpecificDisease 117 120	DMD
-T5	SpecificDisease 512 515	DMD
-T6	DiseaseClass 1005 1020	muscular injury
-T7	SpecificDisease 1245 1263	muscular dystrophy
-T8	SpecificDisease 1392 1395	DMD

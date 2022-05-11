@@ -1,9 +1,0 @@
-T1	Title 0 32	Friedreich ataxia: an overview.
-T2	Paragraph 32 891	Friedreich ataxia, an autosomal recessive neurodegenerative disease, is the most common of the inherited ataxias. The recent discovery of the gene that is mutated in this condition, FRDA, has led to rapid advances in the understanding of the pathogenesis of Friedreich ataxia. About 98% of mutant alleles have an expansion of a GAA trinucleotide repeat in intron 1 of the gene. This leads to reduced levels of the protein, frataxin. There is mounting evidence to suggest that Friedreich ataxia is the result of accumulation of iron in mitochondria leading to excess production of free radicals, which then results in cellular damage and death. Currently there is no known treatment that alters the natural course of the disease. The discovery of the FRDA gene and its possible function has raised hope that rational therapeutic strategies will be developed..
-T3	SpecificDisease 0 17	Friedreich ataxia
-T4	SpecificDisease 32 49	Friedreich ataxia
-T5	DiseaseClass 54 99	autosomal recessive neurodegenerative disease
-T6	SpecificDisease 127 144	inherited ataxias
-T7	SpecificDisease 290 307	Friedreich ataxia
-T8	SpecificDisease 508 525	Friedreich ataxia
-T9	Modifier 782 786	FRDA

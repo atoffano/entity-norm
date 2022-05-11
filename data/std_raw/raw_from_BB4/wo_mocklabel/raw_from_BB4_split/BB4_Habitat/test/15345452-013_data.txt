@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-179	193	cheese samples	Habitat	

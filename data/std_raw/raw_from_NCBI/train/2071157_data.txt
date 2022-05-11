@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-51	71	Lesch-Nyhan syndrome	SpecificDisease	D007926
-745	765	Lesch-Nyhan syndrome	SpecificDisease	D007926

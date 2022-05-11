@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-48	65	β-glucan produced	Phenotype	OBT:000019
-69	80	P. parvulus	Microorganism	54062
-92	115	Lactobacillus paracasei	Microorganism	1597
-140	156	gastrointestinal	Habitat	OBT:000641

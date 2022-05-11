@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-81	116	ataxia-telangiectasia-like disorder	SpecificDisease	OMIM:604391
-223	258	ataxia-telangiectasia-like disorder	SpecificDisease	OMIM:604391
-260	264	ATLD	SpecificDisease	OMIM:604391
-356	359	A-T	SpecificDisease	D001260
-371	374	NBS	SpecificDisease	D049932
-387	425	hypersensitivity to ionizing radiation	SpecificDisease	D004194
-924	927	A-T	SpecificDisease	D001260

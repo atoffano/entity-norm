@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-0	18	Psychrobacter spp.	Microorganism	MockLabel
-393	405	P. aquaticus	Microorganism	MockLabel

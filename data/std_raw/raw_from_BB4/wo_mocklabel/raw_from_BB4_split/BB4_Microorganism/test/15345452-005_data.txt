@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-92	115	Lactobacillus plantarum	Microorganism	
-120	138	Lactococcus lactis	Microorganism	
-191	216	Leuconostoc mesenteroides	Microorganism	
-218	243	Lactococcus raffinolactis	Microorganism	
-244	266	Staphylococcus equorum	Microorganism	
-272	295	Pseudomonas fluorescens	Microorganism	
-296	316	Enterococcus faecium	Microorganism	
-324	344	Alcaligenes tolerans	Microorganism	

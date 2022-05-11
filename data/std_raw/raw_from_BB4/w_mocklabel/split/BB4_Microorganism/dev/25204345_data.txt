@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-199	211	Enterococcus	Microorganism	1350
-216	229	Lactobacillus	Microorganism	1578
-1470	1494	Enterococcus durans HZ28	Microorganism	53345

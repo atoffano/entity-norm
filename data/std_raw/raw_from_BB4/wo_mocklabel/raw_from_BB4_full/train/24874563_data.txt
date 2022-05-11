@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	12	Methylocella	Microorganism	120652
-31	44	methanotrophs	Phenotype	OBT:001205
-87	94;122	ability to grow simultaneously on methane and longer chain alkanes	Phenotype	OBT:001205
-98	121	Methylocella silvestris	Microorganism	199596
-308	320	Methylocella	Microorganism	199596

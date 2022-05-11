@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-1346	1362	VLCAD deficiency	SpecificDisease	C536353
-1471	1487	VLCAD deficiency	SpecificDisease	C536353

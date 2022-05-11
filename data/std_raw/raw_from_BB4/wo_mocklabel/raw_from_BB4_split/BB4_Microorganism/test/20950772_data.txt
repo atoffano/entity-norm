@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-46	67	Clostridium difficile	Microorganism	
-77	98	Clostridium difficile	Microorganism	
-296	308	C. difficile	Microorganism	
-891	903	C. difficile	Microorganism	

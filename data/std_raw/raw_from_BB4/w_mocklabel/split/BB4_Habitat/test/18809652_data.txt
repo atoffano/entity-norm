@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-192	206	gastroduodenal	Habitat	MockLabel
-263	273	epithelial	Habitat	MockLabel
-263	278	epithelial cell	Habitat	MockLabel

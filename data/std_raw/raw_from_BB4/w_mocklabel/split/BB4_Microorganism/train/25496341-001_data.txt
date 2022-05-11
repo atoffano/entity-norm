@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-25	46	Corynebacterium casei	Microorganism	160386
-48	74	Microbacterium gubbeenense	Microorganism	159896
-76	101	Arthrobacter arilaitensis	Microorganism	256701
-103	124	Arthrobacter bergerei	Microorganism	256702
-126	142	Agrococcus casei	Microorganism	343512
-144	165	Mycetocola reblochoni	Microorganism	331618
-170	182	Vibrio casei	Microorganism	673372

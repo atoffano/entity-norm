@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-224	248	Escherichia coli O157:H7	Microorganism	83334

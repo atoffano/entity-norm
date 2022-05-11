@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-79	101	Pseudomonas aeruginosa	Microorganism	287
-103	125	Pseudomonas aeruginosa	Microorganism	287
-131	144	Gram-negative	Phenotype	OBT:000648
-198	221	susceptible individuals	Habitat	OBT:002488
-229	282	resistant to most clinically available antimicrobials	Phenotype	OBT:002337
-373	391	P. aeruginosa PAO1	Microorganism	208964
-556	564	pathogen	Phenotype	OBT:002806

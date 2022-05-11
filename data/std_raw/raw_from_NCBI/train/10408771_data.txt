@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-0	22	Classical galactosemia	SpecificDisease	D005693
-98	120	Classical galactosemia	SpecificDisease	D005693
-2094	2106	galactosemia	SpecificDisease	D005693

@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-13	32	Salmonella enterica	Microorganism	
-198	217	Salmonella enterica	Microorganism	
-421	431	Salmonella	Microorganism	
-586	597	S. enterica	Microorganism	
-1425	1436	S. enterica	Microorganism	

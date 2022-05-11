@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-140	156	gastrointestinal	Habitat	OBT:000641

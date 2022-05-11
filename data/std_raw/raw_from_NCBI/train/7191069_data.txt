@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-13	26	C2-deficiency	SpecificDisease	OMIM:217000
-31	48	myasthenia gravis	SpecificDisease	D009157
-50	71	Complement deficiency	Modifier	D007153
-82	99	myasthenia gravis	SpecificDisease	D009157
-101	103	MG	SpecificDisease	D009157
-185	187	MG	SpecificDisease	D009157
-205	218	C2 deficiency	SpecificDisease	OMIM:217000

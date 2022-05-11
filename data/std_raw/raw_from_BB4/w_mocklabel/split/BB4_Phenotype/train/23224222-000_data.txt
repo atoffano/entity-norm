@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-520	530	mesophilic	Phenotype	OBT:000343
-531	551	lactic acid bacteria	Phenotype	OBT:000019
-553	556	LAB	Phenotype	OBT:000019
-661	664	LAB	Phenotype	OBT:000019
-1161	1174	Gram-negative	Phenotype	OBT:000648

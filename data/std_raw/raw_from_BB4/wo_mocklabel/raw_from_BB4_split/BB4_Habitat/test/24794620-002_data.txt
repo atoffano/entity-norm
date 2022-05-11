@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-101	107	cheese	Habitat	
-241	259	Young cheese rinds	Habitat	
-241	253	Young cheese	Habitat	
-420	431	old cheeses	Habitat	

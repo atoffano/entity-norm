@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-19	34	phenylketonuria	SpecificDisease	D010661
-47	69	hyperphenylalaninemias	DiseaseClass	D010661
-208	223	phenylketonuria	SpecificDisease	D010661
-227	248	hyperphenylalaninemia	DiseaseClass	D010661

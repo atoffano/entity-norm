@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-150	165	Yersinia pestis	Microorganism	
-265	280	Yersinia pestis	Microorganism	

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-62	86	Streptococcus pneumoniae	Microorganism	1313
-375	397	bacterial pathogenesis	Phenotype	OBT:000375
-469	478	virulence	Phenotype	OBT:000375
-535	559	Streptococcus pneumoniae	Microorganism	1313
-563	576	Gram-positive	Phenotype	OBT:000649
-947	956	virulence	Phenotype	OBT:000375

@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	15	Canavan disease	SpecificDisease	D017825
-134	149	Canavan disease	SpecificDisease	D017825
-154	186	spongy degeneration of the brain	SpecificDisease	D017825
-200	214	leukodystrophy	SpecificDisease	D007966
-229	257	deficiency of aspartoacylase	SpecificDisease	D017825
-360	375	Canavan disease	SpecificDisease	D017825
-1481	1496	Canavan disease	SpecificDisease	D017825

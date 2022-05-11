@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-120	141	Staphylococcus aureus	Microorganism	1280
-245	266	Staphylococcus aureus	Microorganism	1280
-268	272	MRSA	Microorganism	1280
-513	517	MRSA	Microorganism	1280
-593	597	MRSA	Microorganism	1280
-739	743	MRSA	Microorganism	1280
-1090	1094	MRSA	Microorganism	1280
-1583	1587	MRSA	Microorganism	1280

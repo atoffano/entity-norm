@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	15	Canavan disease	SpecificDisease	D017825
-65	80	Canavan disease	SpecificDisease	D017825
-87	121	autosomal recessive leukodystrophy	DiseaseClass	D007966
-136	164	deficiency of aspartoacylase	SpecificDisease	D017825
-954	961	Canavan	Modifier	D017825
-1235	1242	Canavan	Modifier	D017825
-1522	1537	Canavan disease	SpecificDisease	D017825

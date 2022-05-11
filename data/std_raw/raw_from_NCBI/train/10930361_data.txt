@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-77	94	Friedreich ataxia	SpecificDisease	D005621
-96	115	Frataxin deficiency	SpecificDisease	D005621
-140	157	Friedreich ataxia	SpecificDisease	D005621
-159	163	FRDA	SpecificDisease	D005621
-169	237	autosomal recessive cardiodegenerative and neurodegenerative disease	DiseaseClass	D030342+D019636
-406	437	mitochondrial iron accumulation	SpecificDisease	D028361
-442	478	hypersensitivity to oxidative stress	SpecificDisease	D004194
-625	629	FRDA	SpecificDisease	D005621

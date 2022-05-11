@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-98	133	invasive pathogen of young children	Phenotype	OBT:002806

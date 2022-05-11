@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-84	107	bacille Calmette Guerin	Microorganism	33892
-156	182	Mycobacterium tuberculosis	Microorganism	1773

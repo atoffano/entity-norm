@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-31	73	X-linked Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
-209	242	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
-244	247	EMD	SpecificDisease	D020389
-365	377	X-linked EMD	SpecificDisease	D020389
-960	978	ankle contractures	DiseaseClass	D003286
-983	998	muscle weakness	DiseaseClass	D018908

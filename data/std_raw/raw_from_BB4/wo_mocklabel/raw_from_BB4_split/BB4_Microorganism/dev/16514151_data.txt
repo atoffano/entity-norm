@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-674	690	Escherichia coli	Microorganism	562
-1336	1343	E. coli	Microorganism	562
-1387	1410	Deinococcus radiodurans	Microorganism	1299

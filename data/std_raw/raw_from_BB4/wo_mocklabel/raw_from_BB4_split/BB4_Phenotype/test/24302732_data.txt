@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-202	211	Anaerobic	Phenotype	
-202	230	Anaerobic ammonium-oxidizing	Phenotype	
-212	230	ammonium-oxidizing	Phenotype	
-232	239	anammox	Phenotype	
-450	457	anammox	Phenotype	
-636	643	aerobic	Phenotype	
-644	662	ammonium-oxidizing	Phenotype	

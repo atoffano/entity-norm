@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-0	30	Lactobacillus johnsonii FI9785	Microorganism	
-85	108	Clostridium perfringens	Microorganism	
-486	499	Lactobacillus	Microorganism	

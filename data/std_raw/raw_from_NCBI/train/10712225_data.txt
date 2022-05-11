@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-70	88	Huntington disease	SpecificDisease	D006816
-186	188	HD	Modifier	D006816
-404	422	Huntington disease	SpecificDisease	D006816
-424	426	HD	SpecificDisease	D006816
-490	492	HD	SpecificDisease	D006816

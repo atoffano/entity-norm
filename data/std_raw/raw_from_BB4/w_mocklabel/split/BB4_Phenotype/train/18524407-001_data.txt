@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-412	429	EPS  biosynthesis	Phenotype	OBT:000019
-618	632	ropy-producing	Phenotype	OBT:001288
-650	667	production of EPS	Phenotype	OBT:000019

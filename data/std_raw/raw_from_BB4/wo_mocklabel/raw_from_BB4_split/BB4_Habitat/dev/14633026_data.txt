@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-459	481	Culex pipiens molestus	Habitat	OBT:002142
-919	936	culicine mosquito	Habitat	OBT:002142

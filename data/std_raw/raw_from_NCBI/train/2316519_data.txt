@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-30	57	Duchenne muscular dystrophy	Modifier	D020388
-201	228	Duchenne muscular dystrophy	SpecificDisease	D020388
-230	233	DMD	SpecificDisease	D020388
-239	264	Becker muscular dystrophy	SpecificDisease	C537666
-266	269	BMD	SpecificDisease	C537666
-495	498	DMD	Modifier	D020388
-1107	1110	DMD	Modifier	D020388
-1214	1217	BMD	Modifier	C537666

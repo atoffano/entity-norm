@@ -1,8 +1,0 @@
-T1	Title 0 101	GT to AT transition at a splice donor site causes skipping of the preceding exon in phenylketonuria.
-T2	Paragraph 101 1066	Classical Phenylketonuria (PKU) is an autosomal recessive human genetic disorder caused by a deficiency of hepatic phenylalanine hydroxylase (PAH). We isolated several mutant PAH cDNA clones from a PKU carrier individual and showed that they contained an internal 116 base pair deletion, corresponding precisely to exon 12 of the human chromosomal PAH gene. The deletion causes the synthesis of a truncated protein lacking the C-terminal 52 amino acids. Gene transfer and expression studies using the mutant PAH cDNA indicated that the deletion abolishes PAH activity in the cell as a result of protein instability. To determine the molecular basis of the deletion, the mutant chromosomal PAH gene was isolated from this individual and shown to contain a GT-- greater than AT substitution at the 5 splice donor site of intron 12. Thus, the consequence of the splice donor site mutation in the human liver is the skipping of the preceding exon during RNA splicing..
-T3	SpecificDisease 84 99	phenylketonuria
-T4	SpecificDisease 101 126	Classical Phenylketonuria
-T5	SpecificDisease 128 131	PKU
-T6	DiseaseClass 139 181	autosomal recessive human genetic disorder
-T7	SpecificDisease 194 241	deficiency of hepatic phenylalanine hydroxylase
-T8	Modifier 299 302	PKU

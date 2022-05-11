@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-0	10	Attachment	Phenotype	OBT:000029
-170	188	capsule production	Phenotype	OBT:000614
-293	300;326	ability to attach	Phenotype	OBT:000029
-420	438	capsule production	Phenotype	OBT:000614
-604	622	capsule production	Phenotype	OBT:000614
-908	918	attachment	Phenotype	OBT:000029
-986	1004	capsule production	Phenotype	OBT:000614
-1025	1043	attachment ability	Phenotype	OBT:000029

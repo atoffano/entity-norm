@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-173	184	Lesch-Nyhan	Modifier	D007926
-276	296	Lesch-Nyhan syndrome	SpecificDisease	D007926
-309	378	complete deficiency of hypoxanthine guanine phosphoribosyltransferase	SpecificDisease	D007926
-643	663	Lesch-Nyhan syndrome	SpecificDisease	D007926
-1189	1203	HPRT deficient	Modifier	D007926

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-70	113	hereditary non-spherocytic hemolytic anemia	SpecificDisease	D000746
-221	263	hereditary nonspherocytic hemolytic anemia	SpecificDisease	D000746
-265	270	HNSHA	SpecificDisease	D000746
-570	585	G6PD deficiency	SpecificDisease	D005955
-696	701	HNSHA	SpecificDisease	D000746
-756	771	G6PD deficiency	SpecificDisease	D005955

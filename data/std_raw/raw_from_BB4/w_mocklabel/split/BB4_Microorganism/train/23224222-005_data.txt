@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-266	292	Streptococcus thermophilus	Microorganism	1308
-398	420	Vagococcus carniphilus	Microorganism	218144
-460	478	Psychrobacter spp.	Microorganism	497
-518	530	Lb. curvatus	Microorganism	28038

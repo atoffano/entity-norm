@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-0	12	Methylocella	Microorganism	120652
-98	121	Methylocella silvestris	Microorganism	199596
-308	320	Methylocella	Microorganism	199596

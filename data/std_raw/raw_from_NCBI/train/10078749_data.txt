@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-44	66	oromandibular dystonia	SpecificDisease	D008538
-146	168	oromandibular dystonia	SpecificDisease	D008538
-202	210	dystonia	DiseaseClass	D004421
-359	367	dystonic	Modifier	D004421
-392	416	dopa-responsive dystonia	SpecificDisease	C538007

@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-79	101	Pseudomonas aeruginosa	Microorganism	
-436	458	Pseudomonas aeruginosa	Microorganism	
-516	527	Pseudomonas	Microorganism	
-2120	2133	P. aeruginosa	Microorganism	

@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-95	112	Flemish acid beer	Habitat	
-165	169	beer	Habitat	
-508	512	beer	Habitat	

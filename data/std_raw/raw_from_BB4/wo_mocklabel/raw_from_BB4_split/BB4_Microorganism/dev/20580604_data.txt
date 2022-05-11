@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-58	92	Lactobacillus casei strain Shirota	Microorganism	1582
-277	311	Lactobacillus casei strain Shirota	Microorganism	1582
-313	316	LcS	Microorganism	1582
-1054	1057	LcS	Microorganism	1582
-1200	1214	bifidobacteria	Microorganism	1678
-1760	1774	bifidobacteria	Microorganism	1678

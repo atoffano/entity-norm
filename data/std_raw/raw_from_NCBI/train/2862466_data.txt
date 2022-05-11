@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-56	91	autoimmune chronic active hepatitis	SpecificDisease	D006521
-113	148	autoimmune chronic active hepatitis	SpecificDisease	D006521
-150	153	CAH	SpecificDisease	D006521
-709	712	CAH	SpecificDisease	D006521
-997	1010	C4 deficiency	SpecificDisease	OMIM:614380+OMIM:614379

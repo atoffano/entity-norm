@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-0	12	Pathogenesis	Phenotype	MockLabel
-38	51	Gram-negative	Phenotype	MockLabel
-151	164	Gram-negative	Phenotype	MockLabel
-217	247	common opportunistic pathogens	Phenotype	MockLabel
-572	585	Gram-negative	Phenotype	MockLabel
-941	954	Gram-negative	Phenotype	MockLabel
-1039	1052	Gram-negative	Phenotype	MockLabel

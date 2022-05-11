@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-65	73	adhesion	Phenotype	OBT:000029
-194	202	adhesion	Phenotype	OBT:000029
-835	843	adhesion	Phenotype	OBT:000029
-914	921	binding	Phenotype	OBT:000029
-1153	1161	adhesion	Phenotype	OBT:000029
-1410	1418	adhesion	Phenotype	OBT:000029
-1817	1825	adhesion	Phenotype	OBT:000029

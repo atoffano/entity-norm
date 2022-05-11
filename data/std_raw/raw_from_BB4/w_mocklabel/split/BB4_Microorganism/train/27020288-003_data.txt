@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-69	80	P. parvulus	Microorganism	54062
-92	115	Lactobacillus paracasei	Microorganism	1597

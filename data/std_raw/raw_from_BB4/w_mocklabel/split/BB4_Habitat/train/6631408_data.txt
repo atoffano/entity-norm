@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-87	98	McCoy cells	Habitat	OBT:000061|OBT:000062
-118	126	clinical	Habitat	OBT:003220
-307	340	cycloheximide-treated McCoy cells	Habitat	OBT:000062|OBT:000061
-452	460	clinical	Habitat	OBT:003220
-715	732	cases of trachoma	Habitat	OBT:003269
-870	882	oculogenital	Habitat	OBT:000364

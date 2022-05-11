@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-115	130	phenylketonuria	SpecificDisease	D010661
-282	303	hyperphenylalaninemic	Modifier	D010661
-1076	1091	phenylketonuria	SpecificDisease	D010661

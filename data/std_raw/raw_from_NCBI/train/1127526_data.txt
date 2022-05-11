@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	13	Analbuminemia	SpecificDisease	OMIM:103600
-78	91	analbuminemia	SpecificDisease	OMIM:103600
-281	292	ankle edema	DiseaseClass	D016512
-297	312	ease of fatigue	DiseaseClass	D005221
-519	539	arterial hypotension	DiseaseClass	D007022

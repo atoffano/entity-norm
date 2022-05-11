@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-151	178	responsible for listeriosis	Phenotype	
-193	204	saprophytic	Phenotype	
-1157	1176	bacterial virulence	Phenotype	

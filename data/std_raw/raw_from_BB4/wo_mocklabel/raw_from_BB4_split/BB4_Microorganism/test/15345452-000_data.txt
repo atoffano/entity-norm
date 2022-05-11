@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-235	246	Pseudomonas	Microorganism	
-251	269	Enterobacteriaceae	Microorganism	
-303	325	Listeria monocytogenes	Microorganism	
-330	351	Staphylococcus aureus	Microorganism	
-580	589	Halomonas	Microorganism	
-594	611	Pseudoalteromonas	Microorganism	

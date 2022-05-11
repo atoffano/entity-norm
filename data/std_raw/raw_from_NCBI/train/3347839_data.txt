@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-25	52	Duchenne muscular dystrophy	Modifier	D020388
-177	204	Duchenne muscular dystrophy	Modifier	D020388
-473	483	dystrophic	Modifier	D020388
-585	612	Duchenne muscular dystrophy	SpecificDisease	D020388
-614	617	DMD	SpecificDisease	D020388
-643	661	mental retardation	DiseaseClass	D008607
-676	679	DMD	Modifier	D020388

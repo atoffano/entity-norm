@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-31	54	Mycobacterium malmoense	Microorganism	
-610	633	Mycobacterium malmoense	Microorganism	
-858	871	mycobacterial	Microorganism	

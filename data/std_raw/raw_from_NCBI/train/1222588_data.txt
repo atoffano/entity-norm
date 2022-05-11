@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-44	65	ataxia-telangiectasia	SpecificDisease	D001260
-205	226	ataxia-telangiectasia	SpecificDisease	D001260

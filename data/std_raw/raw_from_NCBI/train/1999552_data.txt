@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-11	27	deficiency of C5	SpecificDisease	OMIM:609536
-48	75	discoid lupus erythematosus	SpecificDisease	D008179
-102	129	discoid lupus erythematosus	SpecificDisease	D008179
-184	202	Hypocomplementemia	DiseaseClass	D007153
-224	240	deficiency of C5	SpecificDisease	OMIM:609536
-359	386	discoid lupus erythematosus	SpecificDisease	D008179
-391	404	C5 deficiency	SpecificDisease	OMIM:609536

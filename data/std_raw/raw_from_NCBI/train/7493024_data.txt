@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-40	65	breast and ovarian cancer	Modifier	D061325
-226	239	breast cancer	SpecificDisease	D001943
-288	316	breast and/or ovarian cancer	CompositeMention	D061325
-560	584	breast to ovarian cancer	Modifier	D001943|D010051
-742	756	ovarian cancer	SpecificDisease	D010051

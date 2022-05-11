@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-13	32	Salmonella enterica	Microorganism	MockLabel
-198	217	Salmonella enterica	Microorganism	MockLabel
-421	431	Salmonella	Microorganism	MockLabel
-586	597	S. enterica	Microorganism	MockLabel
-1425	1436	S. enterica	Microorganism	MockLabel

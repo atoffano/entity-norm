@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-165	183	Lactococcus lactis	Microorganism	1358
-185	198	Lactobacillus	Microorganism	1578
-200	213	Streptococcus	Microorganism	1301
-218	235	Propionibacterium	Microorganism	1743

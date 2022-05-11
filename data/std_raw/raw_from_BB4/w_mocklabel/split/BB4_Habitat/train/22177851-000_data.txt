@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-132	187	microbial community of an experimental smear soft chees	Habitat	OBT:000113
-158	188	experimental smear soft cheese	Habitat	OBT:003494

@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-15	18	LAB	Phenotype	OBT:000019
-24	54	yield of heteropolysaccharides	Phenotype	OBT:000019
-106	119	EPS producers	Phenotype	OBT:000019

@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-27	51	Pseudomonas testosteroni	Microorganism	
-152	176	Pseydomonas testosteroni	Microorganism	
-607	631	Pseudomonas testosteroni	Microorganism	
-946	953	E. coli	Microorganism	

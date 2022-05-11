@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	11	D. hansenii	Microorganism	4959
-13	24	G. candidum	Microorganism	1173061
-26	39	Y. lipolytica	Microorganism	4952
-44	59	A. arilaitensis	Microorganism	256701
-313	328	A. arilaitensis	Microorganism	861360

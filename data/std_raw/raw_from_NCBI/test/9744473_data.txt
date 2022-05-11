@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-53	81	metachromatic leukodystrophy	SpecificDisease	D007966
-83	112	Deficiency of arylsulfatase A	SpecificDisease	D007966
-143	171	metachromatic leukodystrophy	SpecificDisease	D007966
-173	176	MLD	SpecificDisease	D007966
-227	230	MLD	SpecificDisease	D007966
-320	323	MLD	SpecificDisease	D007966
-750	753	MLD	SpecificDisease	D007966

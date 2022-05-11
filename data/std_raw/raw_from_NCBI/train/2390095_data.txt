@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	61	Total deficiency of plasma cholesteryl ester transfer protein	SpecificDisease	OMIM:143470
-160	212	cholesteryl ester transfer protein (CETP) deficiency	SpecificDisease	OMIM:143470
-245	259	CETP-deficient	Modifier	OMIM:143470
-980	995	genetic defects	DiseaseClass	D030342
-1133	1148	CETP deficiency	SpecificDisease	OMIM:143470

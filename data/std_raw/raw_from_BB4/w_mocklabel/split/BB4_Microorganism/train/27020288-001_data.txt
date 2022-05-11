@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-54	63	L. lactis	Microorganism	1358
-109	133	Streptococcus pneumoniae	Microorganism	1313
-161	184	Lactobacillus rhamnosus	Microorganism	47715

@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-15	57	X-linked Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
-110	146	contractures of the Achilles tendons	DiseaseClass	D003286
-219	245	contractures of the elbows	DiseaseClass	D003286
-250	269	cardiac abnormality	DiseaseClass	D018376
-608	650	X-linked Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
-652	656	EDMD	SpecificDisease	D020389
-783	787	EDMD	SpecificDisease	D020389
-840	860	sudden cardiac death	SpecificDisease	D016757

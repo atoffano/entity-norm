@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-95	112	Flemish acid beer	Habitat	MockLabel
-165	169	beer	Habitat	MockLabel
-508	512	beer	Habitat	MockLabel

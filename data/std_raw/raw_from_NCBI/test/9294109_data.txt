@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	18	Myotonic dystrophy	Modifier	D009223
-114	132	Myotonic dystrophy	SpecificDisease	D009223
-134	136	DM	SpecificDisease	D009223
-158	175	muscular disorder	DiseaseClass	D009135
-262	264	DM	Modifier	D009223

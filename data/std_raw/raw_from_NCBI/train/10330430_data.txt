@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-47	83	familial hypertrophic cardiomyopathy	SpecificDisease	D024741
-188	224	familial hypertrophic cardiomyopathy	SpecificDisease	D024741
-226	229	FHC	SpecificDisease	D024741
-286	289	FHC	Modifier	D024741
-725	758	idiopathic dilated cardiomyopathy	SpecificDisease	C536277
-760	763	IDC	SpecificDisease	C536277

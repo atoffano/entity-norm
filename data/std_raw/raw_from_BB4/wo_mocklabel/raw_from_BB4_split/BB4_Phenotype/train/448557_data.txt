@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-600	621	nonbacterial pathogen	Phenotype	OBT:000375
-887	933	cause of WARI in children under 5 years of age	Phenotype	OBT:002806

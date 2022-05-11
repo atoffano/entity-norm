@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-77	105	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
-241	269	Pelizaeus-merzbacher disease	SpecificDisease	OMIM:312080
-271	274	PMD	SpecificDisease	OMIM:312080
-735	738	PMD	SpecificDisease	OMIM:312080

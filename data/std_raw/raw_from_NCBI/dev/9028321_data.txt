@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-48	87	autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
-444	483	autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
-485	489	ALPS	SpecificDisease	D056735
-586	590	ALPS	SpecificDisease	D056735
-785	797	splenomegaly	DiseaseClass	D013163
-802	817	lymphadenopathy	DiseaseClass	D008206
-849	874	autoimmune manifestations	DiseaseClass	D001327

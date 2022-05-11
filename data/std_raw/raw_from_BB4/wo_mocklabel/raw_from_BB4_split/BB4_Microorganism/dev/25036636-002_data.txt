@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-65	95	Pseudoalteromonas haloplanktis	Microorganism	228

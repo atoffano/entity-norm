@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-19	34	phenylketonuria	SpecificDisease	D010661
-53	68	Phenylketonuria	SpecificDisease	D010661
-70	73	PKU	SpecificDisease	D010661
-80	97	metabolic disease	DiseaseClass	D008659
-218	221	PKU	SpecificDisease	D010661
-436	439	PKU	Modifier	D010661
-600	603	PKU	Modifier	D010661
-1036	1050	genetic defect	DiseaseClass	D030342

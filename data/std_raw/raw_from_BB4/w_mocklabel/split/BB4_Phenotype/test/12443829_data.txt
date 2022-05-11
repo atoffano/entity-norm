@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-53	74	Shiga toxin-producing	Phenotype	MockLabel
-357	366	virulence	Phenotype	MockLabel
-370	391	Shiga toxin-producing	Phenotype	MockLabel
-668	689	Shiga toxin-producing	Phenotype	MockLabel
-984	1003	human pathogenicity	Phenotype	MockLabel

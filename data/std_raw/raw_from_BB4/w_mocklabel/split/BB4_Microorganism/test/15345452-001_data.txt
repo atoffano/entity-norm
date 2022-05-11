@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-56	79	Pseudomonas fluorescens	Microorganism	MockLabel
-225	241	Escherichia coli	Microorganism	MockLabel
-243	265	Listeria monocytogenes	Microorganism	MockLabel
-271	292	Staphylococcus aureus	Microorganism	MockLabel

@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-61	86	Streptococcus infantarius	Microorganism	102684
-245	249	CJ18	Microorganism	1069533

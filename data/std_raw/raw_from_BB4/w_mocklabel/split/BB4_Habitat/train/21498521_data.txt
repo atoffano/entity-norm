@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-140	146	marine	Habitat	OBT:000338
-213	235	Hawaiian bobtail squid	Habitat	OBT:003123
-237	254	Euprymna scolopes	Habitat	OBT:003123
-262	273	light organ	Habitat	OBT:000708
-424	452	juvenile squid's light organ	Habitat	OBT:000708
-424	438	juvenile squid	Habitat	OBT:003123|OBT:001849
-682	766	microheterogeneous mixture of mono- and diphosphorylated diglucosamine disaccharides	Habitat	OBT:000007
-1739	1750	E. scolopes	Habitat	OBT:003123

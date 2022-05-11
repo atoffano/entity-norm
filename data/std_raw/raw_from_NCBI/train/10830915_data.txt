@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-61	78	Friedreich ataxia	SpecificDisease	D005621
-80	97	Friedreich ataxia	SpecificDisease	D005621
-99	103	FRDA	SpecificDisease	D005621
-126	142	inherited ataxia	DiseaseClass	D013132
-359	363	FRDA	Modifier	D005621

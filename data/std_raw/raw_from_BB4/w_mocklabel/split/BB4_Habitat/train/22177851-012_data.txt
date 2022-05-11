@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-127	151	community  with P. celer	Habitat	OBT:000113

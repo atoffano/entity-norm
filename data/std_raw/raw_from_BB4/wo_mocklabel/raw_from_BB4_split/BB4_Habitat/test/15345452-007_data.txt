@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-20	29;57	Leerdamer cheese	Habitat	

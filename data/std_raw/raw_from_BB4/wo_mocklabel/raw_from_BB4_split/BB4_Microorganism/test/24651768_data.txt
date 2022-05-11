@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-134	155	Chlamydia trachomatis	Microorganism	
-1575	1585	chlamydial	Microorganism	

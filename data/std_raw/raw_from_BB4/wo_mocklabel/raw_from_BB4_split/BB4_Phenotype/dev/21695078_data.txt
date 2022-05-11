@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-9	18	virulence	Phenotype	OBT:000375
-134	163	sexually transmitted pathogen	Phenotype	OBT:002669

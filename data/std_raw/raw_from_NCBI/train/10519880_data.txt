@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-131	161	cerebrotendinous xanthomatosis	SpecificDisease	D019294
-198	228	cerebrotendinous xanthomatosis	SpecificDisease	D019294
-230	233	CTX	SpecificDisease	D019294
-1438	1458	abnormality of CYP27	SpecificDisease	OMIM:213700

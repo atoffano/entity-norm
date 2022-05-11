@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-89	120	hereditary progressive dystonia	SpecificDisease	D020821
-154	185	Hereditary progressive dystonia	SpecificDisease	D020821
-219	222	HPD	SpecificDisease	D020821
-224	248	dopa-responsive dystonia	SpecificDisease	C538007
-250	253	DRD	SpecificDisease	C538007
-298	312	genetic defect	DiseaseClass	D030342
-1014	1017	HPD	Modifier	D020821
-1018	1021	DRD	Modifier	C538007

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-120	124	food	Habitat	OBT:000094
-242	251	red algal	Habitat	OBT:002758
-278	284	marine	Habitat	OBT:000338
-377	406	Zobellia galactanivorans Dsij	Microorganism	63186
-564	580	Escherichia coli	Microorganism	562
-1476	1499	Z. galactanivorans Dsij	Microorganism	63186

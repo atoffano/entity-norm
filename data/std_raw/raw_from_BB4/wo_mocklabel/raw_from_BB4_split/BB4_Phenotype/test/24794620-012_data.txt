@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-68	86	coagulase-negative	Phenotype	

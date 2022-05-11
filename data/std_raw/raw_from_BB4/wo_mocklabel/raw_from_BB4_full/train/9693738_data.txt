@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-72	88	Escherichia coli	Microorganism	562
-319	335	Escherichia coli	Microorganism	562

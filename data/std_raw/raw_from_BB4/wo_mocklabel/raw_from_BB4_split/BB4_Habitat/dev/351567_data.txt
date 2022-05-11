@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-171	196	cellophane membrane disks	Habitat	OBT:000103

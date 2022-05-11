@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-186	207	lactic acid  bacteria	Phenotype	MockLabel
-276	286	pathogenic	Phenotype	MockLabel

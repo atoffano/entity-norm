@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	36	Familial discoid lupus erythematosus	SpecificDisease	D008179
-66	79	C2 deficiency	SpecificDisease	OMIM:217000
-99	134	chronic discoid lupus erythematosus	SpecificDisease	D008179
-191	204	C2 deficiency	SpecificDisease	OMIM:217000
-407	420	C2 deficiency	Modifier	OMIM:217000

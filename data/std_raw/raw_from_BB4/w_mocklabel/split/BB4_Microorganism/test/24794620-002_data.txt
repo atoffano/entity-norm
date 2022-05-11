@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-136	147	coryneforms	Microorganism	MockLabel
-230	239	Halomonas	Microorganism	MockLabel
-278	292	Actinobacteria	Microorganism	MockLabel
-296	310	Proteobacteria	Microorganism	MockLabel
-328	337	Halomonas	Microorganism	MockLabel
-342	368	Brevibacterium aurantiacum	Microorganism	MockLabel
-376	398	Staphyloccocus equorum	Microorganism	MockLabel
-513	539	Scopulariopsis brevicaulis	Microorganism	MockLabel

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-29	43	Norrie disease	SpecificDisease	C537849
-264	278	Norrie disease	SpecificDisease	C537849
-280	283	NDP	SpecificDisease	C537849
-349	352	NDP	Modifier	C537849
-415	418	NDP	Modifier	C537849
-504	507	NDP	Modifier	C537849

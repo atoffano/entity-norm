@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-16	21	lytic	Phenotype	OBT:000107
-155	160	lytic	Phenotype	OBT:000107
-550	564	lytic activity	Phenotype	OBT:000107

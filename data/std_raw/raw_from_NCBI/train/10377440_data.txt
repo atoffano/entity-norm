@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-160	228	deficiency of glycosyl phosphatidylinositol (GPI) -anchored proteins	DiseaseClass	C537277
-263	298	paroxysmal nocturnal hemoglobinuria	SpecificDisease	D006457
-321	342	GPI-anchor deficiency	SpecificDisease	C537277
-427	446	embryonic lethality	SpecificDisease	D020964
-1394	1429	paroxysmal nocturnal hemoglobinuria	SpecificDisease	D006457

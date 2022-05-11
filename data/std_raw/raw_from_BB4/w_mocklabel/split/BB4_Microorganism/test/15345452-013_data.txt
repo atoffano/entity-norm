@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-157	167	coryneform	Microorganism	MockLabel
-205	230	Corynebacterium variabile	Microorganism	MockLabel
-232	258	Corynebacterium mastitidis	Microorganism	MockLabel
-260	281	Corynebacterium casei	Microorganism	MockLabel
-283	295	Arthrobacter	Microorganism	MockLabel
-309	330	Brevibacterium linens	Microorganism	MockLabel

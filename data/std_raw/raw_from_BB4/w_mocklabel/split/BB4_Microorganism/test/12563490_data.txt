@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-84	103	Helicobacter pylori	Microorganism	MockLabel
-196	215	Helicobacter pylori	Microorganism	MockLabel
-340	349	H. pylori	Microorganism	MockLabel
-542	550	Brucella	Microorganism	MockLabel
-1299	1308	H. pylori	Microorganism	MockLabel

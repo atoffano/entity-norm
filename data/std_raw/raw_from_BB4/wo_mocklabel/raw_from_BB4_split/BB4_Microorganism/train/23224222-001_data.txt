@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-226	246	Lactocococcus lactis	Microorganism	1358
-263	289	Streptococcus thermophilus	Microorganism	1308

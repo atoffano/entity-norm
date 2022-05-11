@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-268	279	D. hansenii	Microorganism	4959
-292	303	G. candidum	Microorganism	1173061
-411	422	G. candidum	Microorganism	1173061
-474	485	D. hansenii	Microorganism	4959
-560	573	Y. lipolytica	Microorganism	4952

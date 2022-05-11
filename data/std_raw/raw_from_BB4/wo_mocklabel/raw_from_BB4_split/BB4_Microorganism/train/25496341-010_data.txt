@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-152	163	Leuconostoc	Microorganism	1243

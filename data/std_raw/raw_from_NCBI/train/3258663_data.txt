@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-45	59	von Willebrand	Modifier	D014842
-100	129	severe von Willebrand disease	SpecificDisease	D056729
-131	160	Severe von Willebrand disease	SpecificDisease	D056729
-217	231	von Willebrand	Modifier	D014842
-1152	1171	genetic abnormality	DiseaseClass	D030342
-1278	1299	genetic abnormalities	DiseaseClass	D030342
-1519	1548	severe von Willebrand disease	SpecificDisease	D056729

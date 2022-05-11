@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-1186	1199	Staphylococci	Microorganism	
-1261	1281	Staphylococci aureus	Microorganism	
-1336	1345	S. aureus	Microorganism	
-1347	1351	MRSA	Microorganism	
-1432	1436	MRSA	Microorganism	

@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-164	169	dairy	Habitat	
-446	464	commercial cheeses	Habitat	
-660	675	dairy ecosystem	Habitat	

@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-188	205	Colorectal Cancer	SpecificDisease	D015179

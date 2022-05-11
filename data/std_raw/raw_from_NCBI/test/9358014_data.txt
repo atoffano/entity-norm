@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-95	121	hereditary hemochromatosis	SpecificDisease	D006432
-123	125	HH	SpecificDisease	D006432
-798	800	HH	SpecificDisease	D006432
-945	947	HH	SpecificDisease	D006432
-1048	1054	cancer	DiseaseClass	D009369

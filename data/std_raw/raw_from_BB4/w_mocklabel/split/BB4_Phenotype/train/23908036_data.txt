@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-131	144	Gram-negative	Phenotype	OBT:000648
-229	282	resistant to most clinically available antimicrobials	Phenotype	OBT:002337
-556	564	pathogen	Phenotype	OBT:002806

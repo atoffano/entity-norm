@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-204	219	human pathogens	Phenotype	OBT:002806

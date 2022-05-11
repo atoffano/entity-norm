@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-60	103	late-infantile metachromatic leukodystrophy	SpecificDisease	D007966
-105	133	Metachromatic leukodystrophy	SpecificDisease	D007966
-135	138	MLD	SpecificDisease	D007966
-146	192	autosomal recessive lysosomal storage disorder	DiseaseClass	D016464
-205	234	deficiency of arylsulfatase A	SpecificDisease	D007966
-326	369	late-infantile metachromatic leukodystrophy	SpecificDisease	D007966
-840	843	MLD	Modifier	D007966

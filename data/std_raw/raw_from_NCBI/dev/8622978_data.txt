@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-26	40	von Willebrand	Modifier	D014842
-88	119	type IID von Willebrand disease	SpecificDisease	D056728
-180	194	von Willebrand	Modifier	D014842
-260	291	type IID von Willebrand disease	SpecificDisease	D056728
-1405	1436	type IID von Willebrand disease	SpecificDisease	D056728

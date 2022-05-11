@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-57	77	Klebsiella pneumonia	Microorganism	573
-321	341	Klebsiella pneumonia	Microorganism	573
-608	628	Klebsiella pneumonia	Microorganism	573

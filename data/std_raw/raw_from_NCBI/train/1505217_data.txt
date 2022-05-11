@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-142	164	Aspartylglucosaminuria	SpecificDisease	D054880
-166	169	AGU	SpecificDisease	D054880
-208	234	lysosomal storage disorder	DiseaseClass	D016464
-242	290	deficiency of the enzyme aspartylglucosaminidase	SpecificDisease	D054880

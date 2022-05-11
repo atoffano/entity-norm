@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-298	310	halotolerant	Phenotype	OBT:002711

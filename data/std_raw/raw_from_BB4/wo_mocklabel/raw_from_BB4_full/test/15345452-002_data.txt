@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-11	34	Pseudomonas fluorescens	Microorganism	
-49	63	dairy products	Habitat	
-115	124	CIP69.13T	Microorganism	
-151	161	water tank	Habitat	
-174	181	CIP6347	Microorganism	
-198	202	soil	Habitat	

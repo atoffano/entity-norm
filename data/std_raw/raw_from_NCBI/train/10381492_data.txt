@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-27	53	hereditary hemochromatosis	SpecificDisease	D006432
-155	170	hemochromatosis	Modifier	D006432
-475	501	hereditary hemochromatosis	SpecificDisease	D006432

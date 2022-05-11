@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-50	72	Listeria monocytogenes	Microorganism	
-125	147	Listeria monocytogenes	Microorganism	
-151	178	responsible for listeriosis	Phenotype	
-193	204	saprophytic	Phenotype	
-397	413	L. monocytogenes	Microorganism	
-1056	1072	L. monocytogenes	Microorganism	
-1157	1176	bacterial virulence	Phenotype	
-1459	1475	L. monocytogenes	Microorganism	

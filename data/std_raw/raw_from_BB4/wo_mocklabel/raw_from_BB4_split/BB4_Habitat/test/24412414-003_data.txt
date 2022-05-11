@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-59	93	filtered broth from 20 LAB strains	Habitat	
-107	111	agar	Habitat	
-585	602	malt extract agar	Habitat	

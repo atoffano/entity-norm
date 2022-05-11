@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-15	34	Helicobacter pylori	Microorganism	MockLabel
-216	235	Helicobacter pylori	Microorganism	MockLabel
-442	451	H. pylori	Microorganism	MockLabel
-1407	1416	H. pylori	Microorganism	MockLabel
-1453	1462	H. pylori	Microorganism	MockLabel

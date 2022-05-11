@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-20	28	P. celer	Microorganism	306572
-147	155	H. alvei	Microorganism	569

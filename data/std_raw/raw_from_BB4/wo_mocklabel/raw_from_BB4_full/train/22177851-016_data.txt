@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-39	47	P. celer	Microorganism	306572

@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-21	52	pyruvate carboxylase deficiency	SpecificDisease	D015324
-316	347	pyruvate carboxylase deficiency	SpecificDisease	D015324
-349	371	PC Portland deficiency	SpecificDisease	D015324

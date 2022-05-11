@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-91	103	cold-adapted	Phenotype	OBT:002975

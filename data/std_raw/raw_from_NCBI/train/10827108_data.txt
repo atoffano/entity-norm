@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-58	86	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
-275	303	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
-305	308	PMD	SpecificDisease	OMIM:312080
-374	377	PMD	SpecificDisease	OMIM:312080
-894	897	PMD	SpecificDisease	OMIM:312080
-1449	1466	genetic disorders	DiseaseClass	D030342

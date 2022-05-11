@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-38	51	Gram-negative	Phenotype	OBT:000648
-62	81	Psychrobacter celer	Microorganism	306572
-86	98	Hafnia alvei	Microorganism	569
-132	187	microbial community of an experimental smear soft chees	Habitat	OBT:000113
-158	188	experimental smear soft cheese	Habitat	OBT:003494

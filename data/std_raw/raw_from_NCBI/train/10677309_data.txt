@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-50	63	breast cancer	Modifier	D001943
-259	287	autosomal recessive disorder	DiseaseClass	D030342
-288	309	ataxia-telangiectasia	SpecificDisease	D001260
-311	314	A-T	SpecificDisease	D001260
-401	414	breast cancer	SpecificDisease	D001943
-598	611	breast cancer	SpecificDisease	D001943
-836	858	sporadic breast cancer	SpecificDisease	D001943
-913	926	breast cancer	SpecificDisease	D001943

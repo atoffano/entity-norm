@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-112	133	ataxia-telangiectasia	SpecificDisease	D001260
-332	335	A-T	Modifier	D001260

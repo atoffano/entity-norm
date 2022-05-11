@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-136	158	bacterial pathogenesis	Phenotype	MockLabel
-160	169	virulence	Phenotype	MockLabel
-479	492	pathogenicity	Phenotype	MockLabel
-564	582	type III secretory	Phenotype	MockLabel
-1109	1118	virulence	Phenotype	MockLabel

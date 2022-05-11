@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-382	385	LAB	Phenotype	MockLabel
-564	577	gram-negative	Phenotype	MockLabel

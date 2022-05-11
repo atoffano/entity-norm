@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-11	33	aspartylglucosaminuria	SpecificDisease	D054880
-35	38	AGU	SpecificDisease	D054880
-88	110	Aspartylglucosaminuria	SpecificDisease	D054880
-112	115	AGU	SpecificDisease	D054880
-604	607	AGU	Modifier	D054880
-806	809	AGU	Modifier	D054880

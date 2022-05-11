@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	21	Ataxia-telangiectasia	SpecificDisease	D001260
-215	228	breast cancer	SpecificDisease	D001943
-309	330	ataxia-telangiectasia	Modifier	D001260
-332	335	A-T	Modifier	D001260
-1236	1239	A-T	Modifier	D001260

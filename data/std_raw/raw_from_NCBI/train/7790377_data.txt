@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-116	137	peroxisomal disorders	DiseaseClass	D018901
-294	326	peroxisomal deficiency disorders	DiseaseClass	D018901
-1391	1417	PTS1 protein-import defect	SpecificDisease	OMIM:202370|OMIM:214100
-1513	1542	neonatal adrenoleukodystrophy	SpecificDisease	OMIM:202370
-1546	1564	Zellweger syndrome	SpecificDisease	D015211
-1641	1661	peroxisomal disorder	Modifier	D018901
-1759	1784	protein-import deficiency	DiseaseClass	D008661
-1794	1815	peroxisomal disorders	DiseaseClass	D018901

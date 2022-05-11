@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-55	65	piebaldism	SpecificDisease	D016116
-103	113	piebaldism	SpecificDisease	D016116
-289	299	piebaldism	SpecificDisease	D016116
-301	319	mental retardation	DiseaseClass	D008607
-325	354	multiple congenital anomalies	DiseaseClass	D000013
-786	793	piebald	Modifier	D016116

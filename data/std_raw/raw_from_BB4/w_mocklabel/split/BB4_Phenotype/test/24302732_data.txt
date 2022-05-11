@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-202	211	Anaerobic	Phenotype	MockLabel
-202	230	Anaerobic ammonium-oxidizing	Phenotype	MockLabel
-212	230	ammonium-oxidizing	Phenotype	MockLabel
-232	239	anammox	Phenotype	MockLabel
-450	457	anammox	Phenotype	MockLabel
-636	643	aerobic	Phenotype	MockLabel
-644	662	ammonium-oxidizing	Phenotype	MockLabel

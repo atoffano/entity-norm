@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-18	31	Gram-positive	Phenotype	OBT:000649
-577	595	coagulase negative	Phenotype	OBT:000235
-771	784	Gram-negative	Phenotype	OBT:000648

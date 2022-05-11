@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-87	108	Brevibacterium linens	Microorganism	MockLabel
-135	153	surface of cheeses	Habitat	MockLabel
-146	153	cheeses	Habitat	MockLabel
-190	215	Brevibacterium linens BL2	Microorganism	MockLabel

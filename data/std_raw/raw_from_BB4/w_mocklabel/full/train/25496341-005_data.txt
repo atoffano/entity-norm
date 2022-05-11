@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-74	80	cheese	Habitat	OBT:001480
-74	96	cheese surface samples	Habitat	OBT:001341
-104	124	smear-ripened cheese	Habitat	OBT:003494
-132	164	Arthrobacter arilaitensis GMPA29	Microorganism	1255700
-281	308	Psychrobacter immobilis PG1	Microorganism	1256511
-313	333	Vibrio litoralis  B4	Microorganism	1255618

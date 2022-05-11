@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-494	505	filamentous	Phenotype	

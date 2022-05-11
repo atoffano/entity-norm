@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-136	158	bacterial pathogenesis	Phenotype	
-160	169	virulence	Phenotype	
-479	492	pathogenicity	Phenotype	
-564	582	type III secretory	Phenotype	
-1109	1118	virulence	Phenotype	

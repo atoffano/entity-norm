@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-44	59	thermotolerance	Phenotype	OBT:002290
-67	82	nitrogen-fixing	Phenotype	OBT:000019
-158	173	nitrogen-fixing	Phenotype	OBT:000019
-252	309	abilities to survive prolonged and continuous heat stress	Phenotype	OBT:002480
-767	787	Nitrogenase activity	Phenotype	OBT:000019
-1202	1217	thermotolerance	Phenotype	OBT:002290

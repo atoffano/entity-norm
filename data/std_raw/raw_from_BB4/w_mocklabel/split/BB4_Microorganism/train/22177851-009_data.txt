@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-35	43	P. celer	Microorganism	306572
-159	171	C. variabile	Microorganism	1727
-172	180	C. casei	Microorganism	160386
-265	273	P. celer	Microorganism	306572

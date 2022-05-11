@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-93	113	Li-Fraumeni syndrome	SpecificDisease	D016864
-158	178	Li-Fraumeni syndrome	SpecificDisease	D016864
-228	234	tumour	Modifier	D009369
-535	551	sporadic tumours	DiseaseClass	D009369
-713	720	tumours	DiseaseClass	D009369
-769	783	leiomyosarcoma	SpecificDisease	D007890
-844	850	tumour	DiseaseClass	D009369

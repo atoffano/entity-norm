@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-69	84	Pichia pastoris	Microorganism	4922
-296	312	Escherichia coli	Microorganism	562
-423	438	Pichia pastoris	Microorganism	4922
-541	552	P. pastoris	Microorganism	4922
-958	982	Saccharomyces cerevisiae	Microorganism	4932
-1086	1097	P. pastoris	Microorganism	4922

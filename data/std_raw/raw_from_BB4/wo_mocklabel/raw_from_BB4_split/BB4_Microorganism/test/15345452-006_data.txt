@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-121	146	Leuconostoc mesenteroides	Microorganism	
-220	238	Lactococcus lactis	Microorganism	

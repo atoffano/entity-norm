@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-609	631	Pseudomonas aeruginosa	Microorganism	287
-633	653	Enterobacter cloacae	Microorganism	550
-655	662	E. coli	Microorganism	110766
-770	793	Acinetobacter baumannii	Microorganism	470
-902	914	Enterococcus	Microorganism	1350
-919	926	Candida	Microorganism	1535326
-928	940	Enterococcus	Microorganism	1350

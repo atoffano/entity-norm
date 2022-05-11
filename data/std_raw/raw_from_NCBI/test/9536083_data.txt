@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-188	222	familial breast and ovarian cancer	CompositeMention	OMIM:613399
-929	950	breast/ovarian cancer	CompositeMention	D061325

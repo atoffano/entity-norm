@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-75	91	Escherichia coli	Microorganism	
-392	408	Escherichia coli	Microorganism	
-690	697	E. coli	Microorganism	
-902	906	O157	Microorganism	

@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-58	82	Wiskott-Aldrich syndrome	SpecificDisease	D014923
-323	373	X-linked immunodeficiency Wiskott-Aldrich syndrome	SpecificDisease	D014923

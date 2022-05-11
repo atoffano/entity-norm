@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-244	261	P. phenylpyruvica	Microorganism	29432
-322	339	Psychrobacter sp.	Microorganism	56811
-388	396	P. celer	Microorganism	306572

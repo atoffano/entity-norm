@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-16	29	fish pathogen	Phenotype	OBT:002669
-96	109	fish pathogen	Phenotype	OBT:002669

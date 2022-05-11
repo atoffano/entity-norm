@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-119	133	drug-resistant	Phenotype	
-264	278	drug-resistant	Phenotype	
-473	488	drug-resistance	Phenotype	
-678	693	drug-resistance	Phenotype	
-848	864	drug sensitivity	Phenotype	
-1299	1315	drug sensitivity	Phenotype	

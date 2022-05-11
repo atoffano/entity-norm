@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-64	86	Machado-Joseph disease	SpecificDisease	D017827
-88	91	MJD	SpecificDisease	D017827
-156	183	neurodegenerative disorders	DiseaseClass	D019636
-201	230	progressive cerebellar ataxia	SpecificDisease	D002524
-515	544	spinocerebellar ataxia type 3	SpecificDisease	D017827
-546	550	SCA3	SpecificDisease	D017827
-1552	1555	MJD	SpecificDisease	D017827
-1647	1682	degeneration of certain brain areas	DiseaseClass	D001927

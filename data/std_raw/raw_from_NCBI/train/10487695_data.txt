@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-80	103	iodide transport defect	DiseaseClass	OMIM:274400
-180	205	congenital hypothyroidism	SpecificDisease	D003409
-216	239	iodide transport defect	DiseaseClass	OMIM:274400
-368	393	congenital hypothyroidism	SpecificDisease	D003409
-1149	1172	iodide transport defect	DiseaseClass	OMIM:274400
-1507	1532	congenital hypothyroidism	SpecificDisease	D003409
-1543	1566	iodide transport defect	DiseaseClass	OMIM:274400

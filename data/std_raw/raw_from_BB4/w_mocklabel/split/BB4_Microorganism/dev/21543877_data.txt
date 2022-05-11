@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-102	134	Mycobacterium tuberculosis H37Rv	Microorganism	83332
-517	543	Mycobacterium tuberculosis	Microorganism	83332

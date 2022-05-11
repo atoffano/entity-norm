@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-369	391	Salmonella typhimurium	Microorganism	90371
-415	431	Escherichia coli	Microorganism	562
-415	431	Escherichia coli	Microorganism	562
-415	431	Escherichia coli	Microorganism	562

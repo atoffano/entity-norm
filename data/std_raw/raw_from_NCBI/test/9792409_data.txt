@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-36	57	ataxia-telangiectasia	Modifier	D001260
-151	179	autosomal recessive disorder	DiseaseClass	D030342
-180	201	ataxia-telangiectasia	SpecificDisease	D001260
-203	206	A-T	SpecificDisease	D001260
-284	287	A-T	Modifier	D001260
-1019	1022	A-T	Modifier	D001260
-1077	1080	A-T	Modifier	D001260
-1526	1529	A-T	SpecificDisease	D001260

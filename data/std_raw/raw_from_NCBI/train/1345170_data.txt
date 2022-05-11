@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-64	85	diastrophic dysplasia	SpecificDisease	C536170
-634	655	diastrophic dysplasia	SpecificDisease	C536170
-657	660	DTD	SpecificDisease	C536170
-693	696	DTD	Modifier	C536170

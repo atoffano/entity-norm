@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-52	63	Lesch-Nyhan	Modifier	D007926
-572	592	Lesch-Nyhan syndrome	SpecificDisease	D007926
-685	696	Lesch-Nyhan	Modifier	D007926
-879	899	Lesch-Nyhan syndrome	SpecificDisease	D007926

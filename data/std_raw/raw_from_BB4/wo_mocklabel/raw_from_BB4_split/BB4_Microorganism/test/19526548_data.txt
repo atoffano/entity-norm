@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-50	72	Listeria monocytogenes	Microorganism	
-125	147	Listeria monocytogenes	Microorganism	
-397	413	L. monocytogenes	Microorganism	
-1056	1072	L. monocytogenes	Microorganism	
-1459	1475	L. monocytogenes	Microorganism	

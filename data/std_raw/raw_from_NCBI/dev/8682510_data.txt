@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-0	24	Wiskott-Aldrich syndrome	SpecificDisease	D014923
-162	186	Wiskott-Aldrich syndrome	Modifier	D014923
-259	262	WAS	SpecificDisease	D014923
-287	312	X-linked thrombocytopenia	SpecificDisease	OMIM:313900
-951	954	WAS	Modifier	D014923

@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-119	128	pathogens	Phenotype	MockLabel
-234	252	adherence capacity	Phenotype	MockLabel
-256	265	probiotic	Phenotype	MockLabel
-321	329	pathogen	Phenotype	MockLabel
-384	393	probiotic	Phenotype	MockLabel
-430	449	adhesion properties	Phenotype	MockLabel
-505	544	capable of producing exopolysaccharides	Phenotype	MockLabel
-667	688	formation of biofilms	Phenotype	MockLabel

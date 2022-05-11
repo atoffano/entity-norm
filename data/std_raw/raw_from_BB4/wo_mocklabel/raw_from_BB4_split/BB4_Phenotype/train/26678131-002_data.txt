@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-251	255	STEC	Phenotype	OBT:000019

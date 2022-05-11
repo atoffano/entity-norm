@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-35	57	Mycobacterium kansasii	Microorganism	1768

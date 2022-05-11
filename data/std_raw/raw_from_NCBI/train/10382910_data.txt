@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-30	72	X-linked Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
-74	116	X-linked Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
-118	122	EDMD	SpecificDisease	D020389
-145	174	benign neuromuscular disorder	DiseaseClass	D009468
-378	396	loss of ambulation	DiseaseClass	D051346
-408	422	muscle wasting	DiseaseClass	D009133
-748	781	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389

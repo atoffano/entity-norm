@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-117	152	inherited breast and ovarian cancer	CompositeMention	D061325
-724	730	tumour	Modifier	D009369

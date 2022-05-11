@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-47	67	Aerobacter aerogenes	Microorganism	MockLabel
-132	152	Aerobacter aerogenes	Microorganism	MockLabel
-847	859	A. aerogenes	Microorganism	MockLabel
-889	898	mammalian	Habitat	MockLabel
-889	904	mammalian liver	Habitat	MockLabel
-906	919	higher plants	Habitat	MockLabel
-925	947	Cryptococcus laurentii	Microorganism	MockLabel

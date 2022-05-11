@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-66	92	Mycobacterium tuberculosis	Microorganism	1773
-459	485	Mycobacterium tuberculosis	Microorganism	1773
-487	490	Mtb	Microorganism	1773
-751	754	Mtb	Microorganism	1773
-788	791	Mtb	Microorganism	1773
-893	896	Mtb	Microorganism	1773
-1024	1027	Mtb	Microorganism	1773
-1105	1108	Mtb	Microorganism	1773

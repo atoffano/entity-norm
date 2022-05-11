@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-140	161	Bacterial populations	Habitat	
-859	879	bacterial population	Habitat	
-1526	1533	biofilm	Habitat	

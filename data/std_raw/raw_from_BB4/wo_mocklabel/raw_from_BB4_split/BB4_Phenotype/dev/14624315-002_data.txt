@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-70	109;131	able to produce considerable amounts of 3-methylbutanol	Phenotype	OBT:000019
-70	125	able to produce considerable amounts of 3-methylbutanal	Phenotype	OBT:000019

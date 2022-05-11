@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-23	47	Wiskott-Aldrich syndrome	SpecificDisease	D014923
-52	77	X-linked thrombocytopenia	SpecificDisease	OMIM:313900
-183	207	Wiskott-Aldrich syndrome	SpecificDisease	D014923
-209	212	WAS	SpecificDisease	D014923
-706	733	congenital thrombocytopenia	SpecificDisease	OMIM:313900
-833	858	X-linked thrombocytopenia	SpecificDisease	OMIM:313900
-873	876	WAS	SpecificDisease	D014923
-899	902	WAS	Modifier	D014923

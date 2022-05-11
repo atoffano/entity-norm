@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-67	76	Halomonas	Microorganism	
-98	104	cheese	Habitat	
-98	110	cheese rinds	Habitat	

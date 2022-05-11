@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-222	268	LTQ Orbitrap high-resolution mass spectrometer	Habitat	OBT:000103
-710	776	mixtures of pure compounds and uniformly 13C-labeled cell extracts	Habitat	OBT:000007
-751	767	13C-labeled cell	Habitat	OBT:000061
-1035	1066	Methylobacterium extorquens AM1	Microorganism	272630
-1328	1339	LTQ Obitrap	Habitat	OBT:000103

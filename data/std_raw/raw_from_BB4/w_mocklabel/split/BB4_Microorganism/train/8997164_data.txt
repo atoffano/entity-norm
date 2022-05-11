@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-33	36	BCG	Microorganism	33892
-194	206	mycobacteria	Microorganism	1763
-238	251	mycobacterial	Microorganism	1763
-472	475	BCG	Microorganism	33892
-560	563	BCG	Microorganism	33892
-743	746	BCG	Microorganism	33892
-1048	1051	BCG	Microorganism	33892

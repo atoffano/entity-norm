@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-122	131	Camembert	Habitat	OBT:003500
-244	261	P. phenylpyruvica	Microorganism	29432
-267	283	cured meat model	Habitat	OBT:001984|OBT:001200
-322	339	Psychrobacter sp.	Microorganism	56811
-345	357	model cheese	Habitat	OBT:001480
-388	396	P. celer	Microorganism	306572
-413	420	cheeses	Habitat	OBT:001480
-511	526	control cheeses	Habitat	OBT:001480

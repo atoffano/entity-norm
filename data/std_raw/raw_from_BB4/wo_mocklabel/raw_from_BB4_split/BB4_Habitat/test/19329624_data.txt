@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-38	52	fermented fish	Habitat	
-54	60	pla-ra	Habitat	
-185	199	fermented fish	Habitat	
-201	207	pla-ra	Habitat	

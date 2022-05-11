@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-16	34	muscular dystrophy	DiseaseClass	D009136
-146	183	Duchenne or Becker muscular dystrophy	CompositeMention	D020388|C537666
-185	188	DMD	SpecificDisease	D020388
-192	195	BMD	SpecificDisease	C537666
-392	395	DMD	Modifier	D020388
-471	474	BMD	Modifier	C537666
-546	549	DMD	Modifier	D020388
-664	667	DMD	SpecificDisease	D020388

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-52	60	melanoma	Modifier	D008545
-98	115	Familial Melanoma	Modifier	D008545
-208	216	melanoma	Modifier	D008545
-321	329	melanoma	Modifier	D008545
-949	966	familial melanoma	SpecificDisease	D008545
-1010	1018	melanoma	Modifier	D008545

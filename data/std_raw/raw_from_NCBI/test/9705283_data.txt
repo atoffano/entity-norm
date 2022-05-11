@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-425	433	aniridia	SpecificDisease	D015783
-435	449	Peters anomaly	SpecificDisease	C537884
-451	479	autosomal dominant keratitis	SpecificDisease	C537022
-485	510	familial foveal dysplasia	SpecificDisease	OMIM:136520
-592	600	aniridia	SpecificDisease	D015783
-757	765	Aniridia	SpecificDisease	D015783
-1524	1532	aniridia	SpecificDisease	D015783

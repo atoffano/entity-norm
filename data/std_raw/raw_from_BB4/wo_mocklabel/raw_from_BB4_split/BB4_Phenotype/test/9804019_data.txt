@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-158	168	pathogenic	Phenotype	
-1282	1300	coagulase positive	Phenotype	
-1314	1335	methicillin resistant	Phenotype	
-1347	1351	MRSA	Phenotype	
-1402	1412	pathogenic	Phenotype	
-1432	1436	MRSA	Phenotype	

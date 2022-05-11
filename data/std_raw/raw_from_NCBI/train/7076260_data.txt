@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-0	44	Glucose-6-phosphate dehydrogenase deficiency	SpecificDisease	D005955
-253	267	G6PD deficient	Modifier	D005955
-502	517	G6PD deficiency	SpecificDisease	D005955

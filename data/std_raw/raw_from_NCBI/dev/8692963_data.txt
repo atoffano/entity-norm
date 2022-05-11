@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-431	459	inherited metabolic disorder	DiseaseClass	D008659
-460	472	galactosemia	SpecificDisease	D005693
-1578	1590	galactosemia	SpecificDisease	D005693

@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-4	19	hemochromatosis	Modifier	D006432
-96	111	Hemochromatosis	SpecificDisease	D006432
-117	154	inherited disorder of iron metabolism	DiseaseClass	D019189
-192	205	iron overload	SpecificDisease	D019190
-210	225	premature death	SpecificDisease	D003643
-231	246	hemochromatosis	Modifier	D006432
-473	488	hemochromatosis	SpecificDisease	D006432

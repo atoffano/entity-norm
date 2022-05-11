@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-42	60	bacteriophage M-13	Microorganism	1977402
-97	105	M-13 am5	Microorganism	1977402
-102	105	am5	Phenotype	OBT:000118
-115	131	Escherichia coli	Microorganism	562
-171	196	cellophane membrane disks	Habitat	OBT:000103
-230	234	M-13	Microorganism	1977402
-838	842	M-13	Microorganism	1977402
-884	891	E. coli	Microorganism	562

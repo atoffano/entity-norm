@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-64	107	late-infantile metachromatic leukodystrophy	SpecificDisease	D007966
-148	191	late-infantile metachromatic leukodystrophy	SpecificDisease	D007966
-193	196	MLD	SpecificDisease	D007966
-356	365	adult MLD	Modifier	D007966
-958	984	late-infantile type of MLD	SpecificDisease	D007966

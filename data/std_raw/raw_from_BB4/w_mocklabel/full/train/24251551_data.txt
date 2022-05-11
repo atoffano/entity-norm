@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-54	76	Haemophilus influenzae	Microorganism	727
-731	747	Escherichia coli	Microorganism	562
-915	937	Haemophilus influenzae	Microorganism	727

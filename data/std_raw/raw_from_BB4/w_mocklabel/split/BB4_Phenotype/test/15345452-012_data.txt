@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-238	256	heterofermentative	Phenotype	MockLabel
-869	882	salt-tolerant	Phenotype	MockLabel

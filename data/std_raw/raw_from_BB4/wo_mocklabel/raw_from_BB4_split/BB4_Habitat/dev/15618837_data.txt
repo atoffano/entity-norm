@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-196	214	dyspeptic patients	Habitat	OBT:003220
-327	358	patients with chronic dyspepsia	Habitat	OBT:003220
-371	377	clinic	Habitat	OBT:002694
-393	409	Gastric biopsies	Habitat	OBT:000110
-393	400	Gastric	Habitat	OBT:001792
-504	537	Patients with H. pylori infection	Habitat	OBT:003269
-1402	1420	dyspeptic patients	Habitat	OBT:003220

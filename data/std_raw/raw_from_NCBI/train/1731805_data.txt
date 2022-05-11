@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-43	84	normotriglyceridemic abetalipoproteinemia	SpecificDisease	D000012
-143	184	Normotriglyceridemic abetalipoproteinemia	SpecificDisease	D000012
-195	212	familial disorder	DiseaseClass	D009358
-242	264	deficiency of apoB-100	SpecificDisease	OMIM:200100
-380	401	genetic abnormalities	DiseaseClass	D030342

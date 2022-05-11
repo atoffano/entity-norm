@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-68	86	Lactococcus lactis	Microorganism	1358
-88	120	Lactococcus lactis subsp. lactis	Microorganism	1360
-152	178	Lc. lactis subsp. cremoris	Microorganism	1359
-331	357	Lc. lactis subsp. cremoris	Microorganism	1359
-514	537	Lactobacillus paracasei	Microorganism	1597
-640	653	Lb. paracasei	Microorganism	1597

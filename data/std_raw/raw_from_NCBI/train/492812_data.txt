@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-10	34	meningococcal meningitis	SpecificDisease	D008585
-40	84	absence of the sixth component of complement	SpecificDisease	OMIM:612446
-180	204	meningococcal meningitis	SpecificDisease	D008585
-209	253	absence of the sixth component of complement	SpecificDisease	OMIM:612446
-313	334	neisserial infections	SpecificDisease	D016870
-338	351	C6 deficiency	SpecificDisease	OMIM:612446
-592	604	C6-deficient	Modifier	OMIM:612446
-801	822	neisserial infections	SpecificDisease	D016870

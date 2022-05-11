@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-135	153	surface of cheeses	Habitat	
-146	153	cheeses	Habitat	

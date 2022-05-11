@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-0	9	Probiotic	Phenotype	
-358	368	probiotics	Phenotype	
-465	475	probiotics	Phenotype	
-2021	2031	probiotics	Phenotype	

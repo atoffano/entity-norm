@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-36	49	Gram-negative	Phenotype	OBT:000648
-500	514	non-pathogenic	Phenotype	OBT:000239

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-158	168	pathogenic	Phenotype	MockLabel
-1282	1300	coagulase positive	Phenotype	MockLabel
-1314	1335	methicillin resistant	Phenotype	MockLabel
-1347	1351	MRSA	Phenotype	MockLabel
-1402	1412	pathogenic	Phenotype	MockLabel
-1432	1436	MRSA	Phenotype	MockLabel

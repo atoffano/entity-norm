@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-56	62	cheese	Habitat	MockLabel
-56	85	cheese rinds from  facility A	Habitat	MockLabel
-311	339	cheese rinds from facility B	Habitat	MockLabel
-311	317	cheese	Habitat	MockLabel

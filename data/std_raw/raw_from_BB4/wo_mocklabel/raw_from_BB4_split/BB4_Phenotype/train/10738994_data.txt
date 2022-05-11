@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-98	119	methicillin-resistant	Phenotype	OBT:002817
-223	244	methicillin-resistant	Phenotype	OBT:002817
-268	272	MRSA	Phenotype	OBT:002817
-513	517	MRSA	Phenotype	OBT:002817
-593	597	MRSA	Phenotype	OBT:002817
-739	743	MRSA	Phenotype	OBT:002817
-1090	1094	MRSA	Phenotype	OBT:002817
-1583	1587	MRSA	Phenotype	OBT:002817

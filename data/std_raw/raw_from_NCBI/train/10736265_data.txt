@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-27	53	impaired glucose tolerance	SpecificDisease	D018149
-224	250	Impaired glucose tolerance	SpecificDisease	D018149
-252	255	IGT	SpecificDisease	D018149
-261	281	hypertriglyceridemia	SpecificDisease	D015228
-323	340	diabetes mellitus	SpecificDisease	D003920
-345	367	cardiovascular disease	SpecificDisease	D002318
-419	422	IGT	SpecificDisease	D018149
-684	701	hyperglycerolemia	SpecificDisease	C538138

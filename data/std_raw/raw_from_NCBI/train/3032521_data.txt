@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-75	89	retinoblastoma	Modifier	D012175
-423	437	retinoblastoma	SpecificDisease	D012175
-490	504	retinoblastoma	Modifier	D012175

@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-170	195	retinoblastoma (RB) tumor	SpecificDisease	D012175
-248	257	RB tumors	SpecificDisease	D012175
-409	418	RB tumors	SpecificDisease	D012175
-425	431	tumors	DiseaseClass	D009369
-924	933	RB tumors	SpecificDisease	D012175

@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-275	290	Pseudomonas sp.	Microorganism	
-295	307	Serratia sp.	Microorganism	
-646	675	Pseudomonas sp. strain Circle	Microorganism	
-712	737	Serratia sp. strain White	Microorganism	
-843	872	Pseudomonas sp. strain Circle	Microorganism	

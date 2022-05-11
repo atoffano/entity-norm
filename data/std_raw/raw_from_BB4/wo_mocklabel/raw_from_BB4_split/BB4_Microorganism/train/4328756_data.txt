@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-16	33	Coxiella burnetii	Microorganism	777
-85	102	Coxiella burnetii	Microorganism	777
-313	324	C. burnetii	Microorganism	777
-347	358	C. burnetii	Microorganism	777
-850	861	C. burnetii	Microorganism	777

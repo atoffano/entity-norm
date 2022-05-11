@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-98	104	cheese	Habitat	
-98	110	cheese rinds	Habitat	

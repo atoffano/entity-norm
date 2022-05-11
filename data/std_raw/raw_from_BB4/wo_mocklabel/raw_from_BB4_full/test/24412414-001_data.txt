@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-100	122	antimicrobial activity	Phenotype	

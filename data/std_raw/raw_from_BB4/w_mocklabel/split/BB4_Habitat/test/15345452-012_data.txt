@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-217	231	Morbier cheese	Habitat	MockLabel
-426	440	dairy industry	Habitat	MockLabel
-520	536	Leerdamer cheese	Habitat	MockLabel
-608	625	artificial medium	Habitat	MockLabel
-804	819	Epoisses cheese	Habitat	MockLabel
-915	929	dairy products	Habitat	MockLabel

@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-21	87	deficiency of mitochondrial very-long-chain acyl-CoA dehydrogenase	SpecificDisease	C536353
-435	451	VLCAD deficiency	SpecificDisease	C536353

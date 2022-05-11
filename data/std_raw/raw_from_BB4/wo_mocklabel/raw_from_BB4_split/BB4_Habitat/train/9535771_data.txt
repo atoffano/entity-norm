@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-39	48	mammalian	Habitat	OBT:001625
-183	192	mammalian	Habitat	OBT:001625
-802	811	mammalian	Habitat	OBT:001625

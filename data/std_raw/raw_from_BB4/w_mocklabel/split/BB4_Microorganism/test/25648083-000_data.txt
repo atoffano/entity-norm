@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-0	30	Lactobacillus johnsonii FI9785	Microorganism	MockLabel
-85	108	Clostridium perfringens	Microorganism	MockLabel
-486	499	Lactobacillus	Microorganism	MockLabel

@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-85	101	Proteus vulgaris	Microorganism	585
-106	126	Alcaligenes faecalis	Microorganism	511
-193	204	P. vulgaris	Microorganism	585
-238	249	P. vulgaris	Microorganism	585
-387	398	A. faecalis	Microorganism	511
-638	673	Marinilactibacillus psychrotolerans	Microorganism	191770
-812	830	M. psychrotolerans	Microorganism	191770
-863	881	M. psychrotolerans	Microorganism	191770

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-147	164	familial aniridia	SpecificDisease	D015783
-272	276	WAGR	Modifier	D017624
-286	297	Wilms tumor	SpecificDisease	D009396
-299	307	aniridia	SpecificDisease	D015783
-309	336	genitourinary abnormalities	DiseaseClass	D014564
-342	360	mental retardation	DiseaseClass	D008607

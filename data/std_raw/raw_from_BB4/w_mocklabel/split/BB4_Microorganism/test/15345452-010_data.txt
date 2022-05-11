@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-387	405	Lactococcus lactis	Microorganism	MockLabel
-407	430	Lactobacillus plantarum	Microorganism	MockLabel
-432	457	Leuconostoc mesenteroides	Microorganism	MockLabel
-463	489	Streptococcus thermophilus	Microorganism	MockLabel
-546	559	staphylococci	Microorganism	MockLabel
-588	603	Moraxella bovis	Microorganism	MockLabel
-608	623	Pseudomonas sp.	Microorganism	MockLabel

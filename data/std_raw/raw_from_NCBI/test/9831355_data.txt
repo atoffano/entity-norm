@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-59	101	hereditary non-polyposis colorectal cancer	SpecificDisease	D003123
-133	175	hereditary non-polyposis colorectal cancer	Modifier	D003123
-177	182	HNPCC	Modifier	D003123
-325	342	colorectal cancer	SpecificDisease	D015179
-622	628	cancer	DiseaseClass	D009369

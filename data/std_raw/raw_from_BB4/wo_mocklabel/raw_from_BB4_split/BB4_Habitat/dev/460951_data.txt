@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-34	43	pulmonary	Habitat	OBT:000716
-98	131	Tuberculosis Reference Laboratory	Habitat	OBT:001169
-208	217	pulmonary	Habitat	OBT:000716
-350	360	lymph node	Habitat	OBT:000718
-350	355	lymph	Habitat	OBT:000717
-375	383	children	Habitat	OBT:003188|OBT:003269
-463	484	superficial abscesses	Habitat	OBT:000476

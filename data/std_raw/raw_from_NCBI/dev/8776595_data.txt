@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-4	37	Emery-Dreifuss muscular dystrophy	Modifier	D020389
-687	720	Emery-Dreifuss muscular dystrophy	Modifier	D020389
-722	726	EMDM	Modifier	D020389
-870	874	EDMD	Modifier	D020389

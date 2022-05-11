@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-82	87	stool	Habitat	MockLabel
-163	168	stool	Habitat	MockLabel
-650	672	clinical fecal samples	Habitat	MockLabel
-650	658	clinical	Habitat	MockLabel
-827	848	cytotoxigenic culture	Habitat	MockLabel
-2022	2032	laboratory	Habitat	MockLabel

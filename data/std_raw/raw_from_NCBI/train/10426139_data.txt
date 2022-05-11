@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-35	50	McLeod syndrome	Modifier	OMIM:300842
-152	167	McLeod syndrome	SpecificDisease	OMIM:300842
-206	222	muscular atrophy	DiseaseClass	D009133
-224	240	choreic movement	DiseaseClass	D002819
-289	303	acanthocytosis	SpecificDisease	D000012
-690	696	McLeod	Modifier	OMIM:300842

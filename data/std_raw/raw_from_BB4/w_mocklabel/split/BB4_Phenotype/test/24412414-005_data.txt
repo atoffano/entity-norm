@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-34	51	production of PLA	Phenotype	MockLabel

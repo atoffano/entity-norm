@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-57	70	Campylobacter	Microorganism	194
-214	227	Campylobacter	Microorganism	194
-432	445	Campylobacter	Microorganism	194
-1002	1020	Campylobacter coli	Microorganism	195
-1407	1420	Campylobacter	Microorganism	194
-1558	1571	Campylobacter	Microorganism	194

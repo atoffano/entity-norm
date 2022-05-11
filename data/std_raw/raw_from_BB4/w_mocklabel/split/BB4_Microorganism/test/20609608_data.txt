@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-175	197	Pseudomonas aeruginosa	Microorganism	MockLabel
-640	653	P. aeruginosa	Microorganism	MockLabel
-760	773	P. aeruginosa	Microorganism	MockLabel
-1459	1472	P. aeruginosa	Microorganism	MockLabel

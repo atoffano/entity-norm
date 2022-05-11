@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-82	96	cheese surface	Habitat	OBT:001341
-82	88	cheese	Habitat	OBT:001480
-168	175;188	Munster cheeses	Habitat	OBT:003512
-180	195	Livarot cheeses	Habitat	OBT:003510
-257	286	French red-smear soft cheeses	Habitat	OBT:003494

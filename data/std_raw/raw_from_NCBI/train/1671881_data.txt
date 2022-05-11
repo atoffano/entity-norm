@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-49	64	phenylketonuria	SpecificDisease	D010661
-66	91	Classical phenylketonuria	SpecificDisease	D010661
-98	125	autosomal recessive disease	DiseaseClass	D030342
-138	185	deficiency of hepatic phenylalanine hydroxylase	SpecificDisease	OMIM:261600
-606	609	PKU	SpecificDisease	D010661
-684	700	PAH deficiencies	SpecificDisease	OMIM:261600

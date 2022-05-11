@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-594	638	patients with diarrhea of different severity	Habitat	MockLabel
-875	885	epithelial	Habitat	MockLabel
-875	908	epithelial cells of the intestine	Habitat	MockLabel
-899	908	intestine	Habitat	MockLabel

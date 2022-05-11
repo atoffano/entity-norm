@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-46	67	Clostridium difficile	Microorganism	MockLabel
-77	98	Clostridium difficile	Microorganism	MockLabel
-296	308	C. difficile	Microorganism	MockLabel
-891	903	C. difficile	Microorganism	MockLabel

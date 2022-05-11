@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-1208	1229	proteolytic  activity	Phenotype	
-1690	1706	red pigmentation	Phenotype	
-1752	1782	production of a red carotenoid	Phenotype	

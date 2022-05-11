@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-142	159	farmhouse cheeses	Habitat	OBT:001480
-142	151	farmhouse	Habitat	OBT:000583
-206	238	cheese from the industrial dairy	Habitat	OBT:001480
-222	238	industrial dairy	Habitat	OBT:001988

@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-48	72	Wiskott-Aldrich syndrome	Modifier	D014923
-170	194	Wiskott-Aldrich syndrome	Modifier	D014923

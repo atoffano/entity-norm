@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-9	23	B. aurantiacum	Microorganism	

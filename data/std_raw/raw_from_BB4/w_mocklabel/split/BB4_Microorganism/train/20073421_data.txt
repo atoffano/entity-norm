@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-71	97	Francisella tularensis LVS	Microorganism	263
-140	162	Francisella tularensis	Microorganism	263
-300	317	F. tularensis LVS	Microorganism	263
-405	412	E. coli	Microorganism	110766
-569	582	F. tularensis	Microorganism	263
-688	701	F. tularensis	Microorganism	263
-839	852	F. tularensis	Microorganism	263

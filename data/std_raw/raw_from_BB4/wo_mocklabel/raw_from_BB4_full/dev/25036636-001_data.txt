@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-11	23	Galactomyces	Microorganism	27316
-43	57	Proteobacteria	Microorganism	1224
-91	109	moist bloomy rinds	Habitat	OBT:001481
-227	241	Scopulariopsis	Microorganism	40374
-243	254	Aspergillus	Microorganism	5052
-256	270	Actinobacteria	Microorganism	1760
-276	290	Staphylococcus	Microorganism	1279
-315	332	dry natural rinds	Habitat	OBT:001481

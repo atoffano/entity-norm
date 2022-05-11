@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-35	44	pathogens	Phenotype	OBT:000375
-134	143	pathogens	Phenotype	OBT:002806
-403	412	pathogens	Phenotype	OBT:002806
-879	888	pathogens	Phenotype	OBT:002806
-1054	1063	pathogens	Phenotype	OBT:002806
-1657	1666	pathogens	Phenotype	OBT:002806

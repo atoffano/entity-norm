@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-20	45	Becker muscular dystrophy	Modifier	C537666
-146	171	Becker muscular dystrophy	SpecificDisease	C537666
-173	176	BMD	SpecificDisease	C537666
-329	332	BMD	Modifier	C537666
-420	451	Becker and Duchenne dystrophies	CompositeMention	D020388|C537666

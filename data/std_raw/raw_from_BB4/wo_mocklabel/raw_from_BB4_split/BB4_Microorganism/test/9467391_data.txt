@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-31	51	Streptococcus mutans	Microorganism	
-221	241	Streptococcus mutans	Microorganism	
-346	365	mutans streptococci	Microorganism	
-390	399	S. mutans	Microorganism	
-487	496	S. mutans	Microorganism	
-957	966	S. mutans	Microorganism	
-1062	1081	mutans streptococci	Microorganism	

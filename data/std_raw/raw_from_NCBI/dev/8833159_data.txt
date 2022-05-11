@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-252	288	benign familial neonatal convulsions	SpecificDisease	D020936
-290	340	autosomal dominant nocturnal frontal lobe epilepsy	SpecificDisease	D017034
-461	511	autosomal dominant nocturnal frontal lobe epilepsy	SpecificDisease	D017034
-1016	1037	idiopathic epilepsies	DiseaseClass	D004827

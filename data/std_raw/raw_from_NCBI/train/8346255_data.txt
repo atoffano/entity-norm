@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-47	53	tumors	DiseaseClass	D009369
-73	112	bilateral and unilateral retinoblastoma	CompositeMention	D012175
-141	162	retinoblastoma tumors	SpecificDisease	D012175
-282	288	tumors	DiseaseClass	D009369
-311	317	tumors	DiseaseClass	D009369
-480	486	tumors	DiseaseClass	D009369

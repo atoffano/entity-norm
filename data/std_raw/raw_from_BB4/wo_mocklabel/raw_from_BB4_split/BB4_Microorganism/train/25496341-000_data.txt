@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-339	369	Pseudoalteromonas haloplanktis	Microorganism	228
-373	396	Psychrobacter immobilis	Microorganism	498

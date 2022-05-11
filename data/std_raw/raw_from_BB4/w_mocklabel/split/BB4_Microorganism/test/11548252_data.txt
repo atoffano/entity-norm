@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-43	58	Vibrio cholerae	Microorganism	MockLabel
-114	125	V. cholerae	Microorganism	MockLabel
-1040	1056	V. cholerae O139	Microorganism	MockLabel
-1061	1072;1080	V. cholerae non-O1 (non-O139)	Microorganism	MockLabel
-1061	1075	V. cholerae O1	Microorganism	MockLabel
-1206	1217	V. cholerae	Microorganism	MockLabel

@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-99	133	Borjeson-Forssman-Lehmann syndrome	Modifier	C536575
-193	197	BFLS	Modifier	C536575
-212	246	Borjeson-Forssman-Lehmann syndrome	SpecificDisease	C536575
-248	252	BFLS	SpecificDisease	C536575
-269	296	X-linked mental retardation	DiseaseClass	D038901
-404	408	BFLS	Modifier	C536575
-1452	1465	BFLS syndrome	SpecificDisease	C536575
-1512	1539	X-linked mental retardation	DiseaseClass	D038901

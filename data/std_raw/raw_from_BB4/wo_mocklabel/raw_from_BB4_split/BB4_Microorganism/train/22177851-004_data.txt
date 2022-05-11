@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-357	374	Pseudomonas  spp.	Microorganism	306
-597	615	Enterobacteriaceae	Microorganism	543
-631	643	Hafnia alvei	Microorganism	569
-831	848	Psychrobacter sp.	Microorganism	56811

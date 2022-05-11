@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-4	29	alveolar rhabdomyosarcoma	Modifier	D018232
-265	277	solid tumors	DiseaseClass	D009369
-342	367	alveolar rhabdomyosarcoma	SpecificDisease	D018232
-1030	1035	tumor	Modifier	D009369

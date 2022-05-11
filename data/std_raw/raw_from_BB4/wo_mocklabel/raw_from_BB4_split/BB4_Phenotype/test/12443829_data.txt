@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-53	74	Shiga toxin-producing	Phenotype	
-357	366	virulence	Phenotype	
-370	391	Shiga toxin-producing	Phenotype	
-668	689	Shiga toxin-producing	Phenotype	
-984	1003	human pathogenicity	Phenotype	

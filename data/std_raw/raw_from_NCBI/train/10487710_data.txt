@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-22	66	familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
-112	156	Familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
-158	162	FNDI	SpecificDisease	OMIM:125700
-180	226	deficiency of the hormone arginine vasopressin	DiseaseClass	OMIM:125700
-1292	1296	FNDI	SpecificDisease	OMIM:125700
-1348	1352	FNDI	SpecificDisease	OMIM:125700

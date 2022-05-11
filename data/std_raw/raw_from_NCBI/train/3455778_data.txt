@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-86	94	hepatoma	Modifier	D006528
-102	117	Phenylketonuria	SpecificDisease	D010661
-119	122	PKU	SpecificDisease	D010661
-137	195	deficiency of the hepatic enzyme phenylalanine hydroxylase	SpecificDisease	OMIM:261600
-870	878	hepatoma	Modifier	D006528
-1037	1045	hepatoma	Modifier	D006528
-1322	1325	PKU	SpecificDisease	D010661

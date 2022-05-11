@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-13	40	Duchenne muscular dystrophy	SpecificDisease	D020388
-236	263	Duchenne muscular dystrophy	SpecificDisease	D020388
-265	268	DMD	SpecificDisease	D020388
-374	377	DMD	SpecificDisease	D020388
-382	412	growth hormone (GH) deficiency	SpecificDisease	OMIM:262400
-452	470	dystrophic process	DiseaseClass	D009136
-1052	1055	DMD	Modifier	D020388

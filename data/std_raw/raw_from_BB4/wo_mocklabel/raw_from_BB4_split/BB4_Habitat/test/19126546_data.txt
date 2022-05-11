@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-766	776	macrophage	Habitat	
-810	815	liver	Habitat	
-820	826	spleen	Habitat	

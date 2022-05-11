@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-23	45	ankylosing spondylitis	SpecificDisease	D013167
-91	113	Ankylosing spondylitis	SpecificDisease	D013167
-637	659	ankylosing spondylitis	SpecificDisease	D013167
-908	930	ankylosing spondylitis	SpecificDisease	D013167
