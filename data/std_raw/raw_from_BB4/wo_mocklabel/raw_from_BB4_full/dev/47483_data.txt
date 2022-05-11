@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+0	20	Ampicillin-resistant	Phenotype	OBT:002762
+21	50	Haemophilus influenzae type B	Microorganism	727
+135	155	Ampicillin-resistant	Phenotype	OBT:002762
+156	185	Haemophilus influenzae type B	Microorganism	727
+237	245	clinical	Habitat	OBT:003220
+369	382	gram-negative	Phenotype	OBT:000648
+383	390	bacilli	Microorganism	91061
+405	412	bacilli	Microorganism	91061
+427	440	H. influenzae	Microorganism	727
+528	541	H. influenzae	Microorganism	727
+697	722	resistance to penicillins	Phenotype	OBT:002829
+757	770	H. influenzae	Microorganism	727
+789	805	Escherichia coli	Microorganism	562
+855	864	resistant	Phenotype	OBT:002829
+893	903	resistance	Phenotype	OBT:002829
+927	940	H. influenzae	Microorganism	727

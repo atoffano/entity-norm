@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+522	544	antibiotic sensitivity	Phenotype	OBT:002675
+1138	1153	multiresistance	Phenotype	OBT:002674
+1416	1435	colonial morphology	Phenotype	OBT:000064
+1440	1455	multiresistance	Phenotype	OBT:002674

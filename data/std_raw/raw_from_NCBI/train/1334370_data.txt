@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+32	36	WAGR	Modifier	D017624
+241	245	WAGR	Modifier	D017624
+247	258	Wilms tumor	Modifier	D009396
+260	268	aniridia	Modifier	D015783
+270	297	genitourinary abnormalities	Modifier	D014564
+303	321	mental retardation	Modifier	D008607
+405	413	aniridia	SpecificDisease	D015783
+446	457	Wilms tumor	SpecificDisease	D009396
+527	535	aniridia	SpecificDisease	D015783
+591	599	aniridia	Modifier	D015783
+629	640	Wilms tumor	Modifier	D009396
+714	718	WAGR	Modifier	D017624
+729	740	Wilms tumor	SpecificDisease	D009396
+795	803	aniridia	Modifier	D015783
+861	869	aniridia	Modifier	D015783
+942	950	aniridia	Modifier	D015783
+1058	1066	aniridia	Modifier	D015783

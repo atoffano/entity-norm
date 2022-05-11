@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+0	14	Coats' disease	SpecificDisease	D058456
+30	63	unilateral retinal telangiectasis	SpecificDisease	D058456
+152	165	Coats disease	SpecificDisease	D058456
+186	223	abnormal retinal vascular development	DiseaseClass	D058456
+235	257	retinal telangiectasis	SpecificDisease	D058456
+284	330	intraretinal and subretinal lipid accumulation	CompositeMention	D006949
+332	360	exudative retinal detachment	DiseaseClass	D012163
+385	398	Coats disease	SpecificDisease	D058456
+498	511	Coats disease	SpecificDisease	D058456
+544	558	Norrie disease	SpecificDisease	C537849
+715	728	Coats disease	SpecificDisease	D058456
+849	869	Coats telangiectasis	SpecificDisease	D058456
+938	958	deficiency of norrin	DiseaseClass	C537849

@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+86	98	Caco-2 cells	Habitat	OBT:000062|OBT:000268
+114	134	pigs' jejunal tissue	Habitat	OBT:002993
+114	118	pigs	Habitat	OBT:003337
+120	127	jejunal	Habitat	OBT:001605
+233	250	intestinal mucosa	Habitat	OBT:002993
+233	243	intestinal	Habitat	OBT:002810
+266	287	cultured Caco-2 cells	Habitat	OBT:000062|OBT:000268
+303	332	pigs' small intestinal tissue	Habitat	OBT:002993
+303	307	pigs	Habitat	OBT:003337
+309	325	small intestinal	Habitat	OBT:003303
+509	542	fully differentiated Caco-2 cells	Habitat	OBT:000061
+692	698	Caco-2	Habitat	OBT:000061
+1165	1198	tissue derived from pigs' jejunum	Habitat	OBT:002993
+1185	1198	pigs' jejunum	Habitat	OBT:001605
+1185	1189	pigs	Habitat	OBT:003337
+1459	1466	jejunal	Habitat	OBT:001605
+1459	1473	jejunal mucosa	Habitat	OBT:002993
+1724	1731	jejunal	Habitat	OBT:001605
+1724	1738	jejunal tissue	Habitat	OBT:002993
+1829	1847	Caco-2 enterocytes	Habitat	OBT:000268
+1911	1929	pig jejunal tissue	Habitat	OBT:000196|OBT:002993
+1911	1914	pig	Habitat	OBT:003337
+1915	1922	jejunal	Habitat	OBT:001605

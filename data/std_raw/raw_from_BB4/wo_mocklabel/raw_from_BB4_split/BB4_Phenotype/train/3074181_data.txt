@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+262	275	Gram-positive	Phenotype	OBT:000649
+280	293	Gram-negative	Phenotype	OBT:000648
+1137	1146	pathogens	Phenotype	OBT:000375
+1820	1833	Gram-positive	Phenotype	OBT:000649
+1834	1839	cocci	Phenotype	OBT:000850
+1841	1854	Gram-negative	Phenotype	OBT:000648
+1868	1877	anaerobes	Phenotype	OBT:000189

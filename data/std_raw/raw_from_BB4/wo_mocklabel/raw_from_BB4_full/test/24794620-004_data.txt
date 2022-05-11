@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+61	82	Halomonas boliviensis	Microorganism	
+131	157	Brevibacterium aurantiacum	Microorganism	
+197	219	Staphylococcus equorum	Microorganism	

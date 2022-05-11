@@ -1,0 +1,25 @@
+start	end	mention	_class	labels
+9	18	virulence	Phenotype	OBT:000375
+22	41	Chlamydia muridarum	Microorganism	83560
+42	53	respiratory	Habitat	OBT:000407
+100	121	Chlamydia trachomatis	Microorganism	813
+134	163	sexually transmitted pathogen	Phenotype	OBT:002669
+187	193	infant	Habitat	OBT:003263
+219	274	female mouse model of genital tract chlamydia infection	Habitat	OBT:001103|OBT:003211
+241	254	genital tract	Habitat	OBT:000643
+255	264	chlamydia	Microorganism	810
+364	371	oviduct	Habitat	OBT:000463
+435	442	mucosal	Habitat	OBT:001218
+516	520	mice	Habitat	OBT:003211|OBT:001103
+529	539	intranasal	Habitat	OBT:000767
+551	563	C. muridarum	Microorganism	83560
+617	621	mice	Habitat	OBT:001103|OBT:003211
+654	658	lung	Habitat	OBT:000716
+705	716	neutrophils	Habitat	OBT:003004
+721	728	T-cells	Habitat	OBT:001623
+738	743	lungs	Habitat	OBT:000716
+808	827	TLR2-deficient mice	Habitat	OBT:003211|OBT:001103
+941	945	lung	Habitat	OBT:000716
+953	962	Chlamydia	Microorganism	810
+1003	1010	mucosal	Habitat	OBT:001218
+1044	1060	mucosal surfaces	Habitat	OBT:001654

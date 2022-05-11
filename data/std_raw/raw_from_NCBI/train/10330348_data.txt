@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+24	45	ataxia-telangiectasia	Modifier	D001260
+250	271	ataxia-telangiectasia	SpecificDisease	D001260
+273	275	AT	SpecificDisease	D001260
+1202	1204	AT	Modifier	D001260

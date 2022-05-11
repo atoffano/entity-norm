@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+44	72	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
+123	151	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
+643	671	Pelizaeus Merzbacher disease	SpecificDisease	OMIM:312080

@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+25	38	Lowe syndrome	SpecificDisease	D009800
+97	110	Lowe syndrome	SpecificDisease	D009800
+126	152	oculocerebrorenal syndrome	SpecificDisease	D009800
+1715	1728	Lowe syndrome	SpecificDisease	D009800

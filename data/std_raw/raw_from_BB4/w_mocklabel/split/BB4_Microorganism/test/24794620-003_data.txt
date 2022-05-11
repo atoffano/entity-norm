@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+122	143	Debaryomyces hansenii	Microorganism	MockLabel
+148	167	Geotrichum candidum	Microorganism	MockLabel
+409	422	staphylococci	Microorganism	MockLabel
+431	453	Staphylococcus equorum	Microorganism	MockLabel
+503	514	coryneforms	Microorganism	MockLabel
+525	545	Corynebacterium spp.	Microorganism	MockLabel
+547	564	Arthrobacter spp.	Microorganism	MockLabel
+566	582	Micrococcus spp.	Microorganism	MockLabel
+584	603	Brevibacterium spp.	Microorganism	MockLabel
+608	629	Brachybacterium  spp.	Microorganism	MockLabel
+701	720	Coryneform bacteria	Microorganism	MockLabel
+891	905	Halomonas spp.	Microorganism	MockLabel
+907	918	Vibrio spp.	Microorganism	MockLabel
+924	936	Hafnia alvei	Microorganism	MockLabel

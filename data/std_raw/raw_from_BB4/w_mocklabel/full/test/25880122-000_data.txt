@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	31	Pediococcus damnosus  LMG 28219	Microorganism	MockLabel
+37	58	lactic acid bacterium	Phenotype	MockLabel
+95	112	Flemish acid beer	Habitat	MockLabel
+165	169	beer	Habitat	MockLabel
+508	512	beer	Habitat	MockLabel
+552	558;567	stress resistances	Phenotype	MockLabel
+563	578	hop resistances	Phenotype	MockLabel
+589	608	folate biosynthesis	Phenotype	MockLabel
+613	647	exopolysaccharide (EPS) production	Phenotype	MockLabel

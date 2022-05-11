@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+18	40	ankylosing spondylitis	SpecificDisease	D013167
+199	221	ankylosing spondylitis	SpecificDisease	D013167
+223	225	AS	SpecificDisease	D013167
+248	250	AS	SpecificDisease	D013167
+304	322	Rheumatic Diseases	DiseaseClass	D012216
+808	810	AS	SpecificDisease	D013167
+1512	1514	AS	SpecificDisease	D013167
+1693	1695	AS	SpecificDisease	D013167

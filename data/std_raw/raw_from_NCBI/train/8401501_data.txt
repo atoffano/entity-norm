@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+23	53	breast-ovarian cancer syndrome	DiseaseClass	D061325
+171	203	hereditary breast-ovarian cancer	DiseaseClass	D061325
+471	503	breast and breast-ovarian cancer	Modifier	D001943|D061325
+641	654	breast cancer	Modifier	D001943
+1155	1196	hereditary breast-ovarian cancer syndrome	DiseaseClass	D061325

@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+173	182	commensal	Phenotype	MockLabel
+243	252	virulence	Phenotype	MockLabel
+317	326;341	morbidity of colonized humans	Phenotype	MockLabel
+331	360	mortality of colonized humans	Phenotype	MockLabel
+390	399	virulence	Phenotype	MockLabel
+454	463	virulence	Phenotype	MockLabel
+1258	1267	virulence	Phenotype	MockLabel

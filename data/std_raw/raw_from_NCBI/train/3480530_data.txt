@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+31	46	retinoblastomas	SpecificDisease	D012175
+51	69	mesenchymal tumors	DiseaseClass	C535700
+125	139	Retinoblastoma	SpecificDisease	D012175
+145	160	childhood tumor	DiseaseClass	D009369
+576	590	retinoblastoma	Modifier	D012175
+710	728	mesenchymal tumors	DiseaseClass	C535700
+781	795	retinoblastoma	SpecificDisease	D012175
+824	838	retinoblastoma	SpecificDisease	D012175
+846	852	tumors	DiseaseClass	D009369

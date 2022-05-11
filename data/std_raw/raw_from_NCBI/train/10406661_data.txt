@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+61	77	kniest dysplasia	SpecificDisease	C537207
+79	95	Kniest dysplasia	SpecificDisease	C537207
+119	141	type II collagenopathy	DiseaseClass	C535964
+183	197	kyphoscoliosis	DiseaseClass	OMIM:610170
+199	217	midface hypoplasia	SpecificDisease	OMIM:300194
+226	232	myopia	DiseaseClass	D009216
+238	250	hearing loss	DiseaseClass	D034381
+405	421	Kniest dysplasia	SpecificDisease	C537207
+772	788	Kniest dysplasia	SpecificDisease	C537207
+899	915	Kniest dysplasia	SpecificDisease	C537207
+1325	1341	Kniest dysplasia	SpecificDisease	C537207
+1511	1527	Kniest dysplasia	Modifier	C537207

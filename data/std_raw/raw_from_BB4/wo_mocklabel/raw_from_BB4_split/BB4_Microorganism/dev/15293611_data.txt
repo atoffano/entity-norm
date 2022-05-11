@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+18	40	Pseudomonas aeruginosa	Microorganism	287
+132	154	Pseudomonas aeruginosa	Microorganism	287
+398	411	P. aeruginosa	Microorganism	287
+655	668	P. aeruginosa	Microorganism	287

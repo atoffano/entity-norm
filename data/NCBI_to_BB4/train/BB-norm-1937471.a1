@@ -1,0 +1,9 @@
+T1	Title 0 142	Hypoxanthine-guanine phosphoribosyltransferase deficiency: analysis of HPRT mutations by direct sequencing and allele-specific amplification.
+T2	Paragraph 142 1174	The Lesch-Nyhan syndrome is a severe X chromosome-linked human disease caused by a virtual absence of hypoxanthine-guanine phosphoribosyltransferase (HPRT) activity. A partial deficiency in the activity of this enzyme can result in gouty arthritis. To determine the genetic basis for reduction or loss of enzyme activity, we have amplified and sequenced the coding region of HPRT cDNA from four patients  one with Lesch-Nyhan syndrome (HPRTPerth) and three with partial deficiencies of HPRT activity, which have been designated HPRTUrangan, HPRTSwan and HPRTToowong. In all four patients, the only mutation identified was a single base substitution in exons 2 or 3 of the coding region, which in each case predicts a single amino acid substitution in the translated protein. Each base change was confirmed by allele-specific amplification of the patients genomic DNA. It is interesting to note that the mutation found for HPRTPerth is identical to that reported for HPRTFlint. It appears that the two mutations are de novo events..
+T3	SpecificDisease 0 57	Hypoxanthine-guanine phosphoribosyltransferase deficiency
+T4	SpecificDisease 146 166	Lesch-Nyhan syndrome
+T5	DiseaseClass 179 212	X chromosome-linked human disease
+T6	SpecificDisease 233 306	absence of hypoxanthine-guanine phosphoribosyltransferase (HPRT) activity
+T7	SpecificDisease 374 389	gouty arthritis
+T8	SpecificDisease 556 576	Lesch-Nyhan syndrome
+T9	DiseaseClass 604 641	partial deficiencies of HPRT activity

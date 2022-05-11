@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+46	67	Clostridium difficile	Microorganism	MockLabel
+77	98	Clostridium difficile	Microorganism	MockLabel
+141	151	nosocomial	Habitat	MockLabel
+252	260	patients	Habitat	MockLabel
+296	308	C. difficile	Microorganism	MockLabel
+476	507	large district general hospital	Habitat	MockLabel
+599	607	patients	Habitat	MockLabel
+679	687	patients	Habitat	MockLabel
+891	903	C. difficile	Microorganism	MockLabel
+948	956	patients	Habitat	MockLabel
+998	1006	patients	Habitat	MockLabel
+1070	1078	patients	Habitat	MockLabel
+1112	1120	patients	Habitat	MockLabel
+1282	1290	patients	Habitat	MockLabel
+1469	1477	patients	Habitat	MockLabel
+1610	1618	patients	Habitat	MockLabel
+1684	1689	organ	Habitat	MockLabel

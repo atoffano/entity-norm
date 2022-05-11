@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+49	63	dairy products	Habitat	
+151	161	water tank	Habitat	
+198	202	soil	Habitat	

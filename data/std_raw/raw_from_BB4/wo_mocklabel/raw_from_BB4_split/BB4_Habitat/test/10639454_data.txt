@@ -1,0 +1,58 @@
+start	end	mention	_class	labels
+134	159	infected germfree piglets	Habitat	
+205	215	intestinal	Habitat	
+219	234	extraintestinal	Habitat	
+249	253	pigs	Habitat	
+361	368	porcine	Habitat	
+385	428	newborn colostrum-deprived germfree piglets	Habitat	
+393	402	colostrum	Habitat	
+610	614	lung	Habitat	
+610	614;627	lung inflammatory lesions	Habitat	
+619	647	serosal inflammatory lesions	Habitat	
+619	626	serosal	Habitat	
+703	710	piglets	Habitat	
+740	768	organs of inoculated piglets	Habitat	
+750	768	inoculated piglets	Habitat	
+781	791	intestinal	Habitat	
+849	854	cecum	Habitat	
+859	864	colon	Habitat	
+866	881	Extraintestinal	Habitat	
+866	888	Extraintestinal organs	Habitat	
+890	895	lungs	Habitat	
+897	902	liver	Habitat	
+904	910	spleen	Habitat	
+916	922	kidney	Habitat	
+985	995;1016	intestinal tissues	Habitat	
+985	995	intestinal	Habitat	
+1000	1023	extraintestinal tissues	Habitat	
+1000	1015	extraintestinal	Habitat	
+1027	1064	animals inoculated with either strain	Habitat	
+1093	1098	ileum	Habitat	
+1160	1170;1272	Intestinal tissues	Habitat	
+1160	1170	Intestinal	Habitat	
+1172	1177	ileum	Habitat	
+1182	1187	colon	Habitat	
+1190	1205;1272	extraintestinal tissues	Habitat	
+1190	1205	extraintestinal	Habitat	
+1207	1211	lung	Habitat	
+1216	1222	kidney	Habitat	
+1229	1235;1272	immune tissues	Habitat	
+1237	1259	mesenteric lymph nodes	Habitat	
+1264	1270	spleen	Habitat	
+1567	1584	intestinal organs	Habitat	
+1567	1577	intestinal	Habitat	
+1597	1617	uninoculated piglets	Habitat	
+1621	1682	piglets inoculated with nonpathogenic intestinal E. coli 862B	Habitat	
+1659	1669	intestinal	Habitat	
+1719	1735	intestinal tract	Habitat	
+1802	1812;1833	intestinal organs	Habitat	
+1817	1839	extraintestinal organs	Habitat	
+1843	1866;1891	piglets inoculated with  M623DeltaCNF1	Habitat	
+1843	1887	piglets inoculated with E. coli strains M623	Habitat	
+1920	1925	ileum	Habitat	
+2079	2127	immune tissues from piglets inoculated with M623	Habitat	
+2079	2122;2131	immune tissues from piglets inoculated with  M623DeltaCNF1	Habitat	
+2099	2127	piglets inoculated with M623	Habitat	
+2099	2122;2131	piglets inoculated with M623DeltaCNF1	Habitat	
+2280	2316	germfree, colostrum-deprived piglets	Habitat	
+2290	2299	colostrum	Habitat	

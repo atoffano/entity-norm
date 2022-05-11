@@ -1,0 +1,40 @@
+start	end	mention	_class	labels
+35	57	stomach of BALB/c mice	Habitat	MockLabel
+46	57	BALB/c mice	Habitat	MockLabel
+74	83	coccoidal	Phenotype	MockLabel
+84	103	Helicobacter pylori	Microorganism	MockLabel
+108	133	experimental murine model	Habitat	MockLabel
+171	184	pathogenicity	Phenotype	MockLabel
+188	195	coccoid	Phenotype	MockLabel
+196	215	Helicobacter pylori	Microorganism	MockLabel
+238	249	BALB/c mice	Habitat	MockLabel
+266	282	intragastrically	Habitat	MockLabel
+293	366	broth culture (10(8)organisms/ml) of a coccoid H. pylori clinical isolate	Habitat	MockLabel
+332	339	coccoid	Phenotype	MockLabel
+340	349	H. pylori	Microorganism	MockLabel
+350	358	clinical	Habitat	MockLabel
+372	379	animals	Habitat	MockLabel
+516	520	mice	Habitat	MockLabel
+542	550	Brucella	Microorganism	MockLabel
+542	556	Brucella broth	Habitat	MockLabel
+604	617	control group	Habitat	MockLabel
+619	623	Mice	Habitat	MockLabel
+699	706	stomach	Habitat	MockLabel
+711	719	duodenum	Habitat	MockLabel
+865	880	reinfected mice	Habitat	MockLabel
+902	925	inflammatory infiltrate	Habitat	MockLabel
+933	940	stomach	Habitat	MockLabel
+977	992	lymphomonocytic	Habitat	MockLabel
+1003	1015	plasma cells	Habitat	MockLabel
+1020	1031	eosinophils	Habitat	MockLabel
+1076	1088	eosinophilic	Habitat	MockLabel
+1121	1135;1150	lamina propria of gastric corpus	Habitat	MockLabel
+1140	1167	submucosa of gastric corpus	Habitat	MockLabel
+1153	1167	gastric corpus	Habitat	MockLabel
+1186	1193	animals	Habitat	MockLabel
+1204	1219	lymphomonocytic	Habitat	MockLabel
+1240	1247	stomach	Habitat	MockLabel
+1291	1298	coccoid	Phenotype	MockLabel
+1299	1308	H. pylori	Microorganism	MockLabel
+1362	1388	stomach of reinfected mice	Habitat	MockLabel
+1373	1388	reinfected mice	Habitat	MockLabel

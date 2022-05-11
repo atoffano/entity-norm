@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+100	118	GM1-gangliosidosis	Modifier	D016537
+133	152	cardiac involvement	SpecificDisease	D006331
+154	172	GM1-gangliosidosis	SpecificDisease	D016537
+178	204	lysosomal storage disorder	DiseaseClass	D016464
+215	252	deficiency of acid beta-galactosidase	SpecificDisease	D016537
+478	497	cardiac involvement	DiseaseClass	D006331
+532	550	GM1-gangliosidosis	SpecificDisease	D016537
+740	759	cardiac involvement	DiseaseClass	D006331
+1029	1050	cardiac abnormalities	DiseaseClass	D018376
+1065	1080	genetic lesions	DiseaseClass	D020022
+1124	1138	cardiomyopathy	DiseaseClass	D009202

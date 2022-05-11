@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+66	79	rare diseases	DiseaseClass	D035583
+80	101	ataxia-telangiectasia	SpecificDisease	D001260
+103	105	AT	SpecificDisease	D001260
+149	175	Nijmegen breakage syndrome	SpecificDisease	D049932
+177	180	NBS	SpecificDisease	D049932
+239	263	phenotypic abnormalities	DiseaseClass	D004194
+272	295	chromosomal instability	DiseaseClass	D043171
+640	642	AT	SpecificDisease	D001260
+647	650	NBS	SpecificDisease	D049932
+814	817	NBS	Modifier	D049932
+1239	1242	NBS	Modifier	D049932

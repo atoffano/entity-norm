@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+12	33	ataxia-telangiectasia	Modifier	D001260
+89	110	Ataxia-telangiectasia	SpecificDisease	D001260
+112	115	A-T	SpecificDisease	D001260
+216	222	cancer	DiseaseClass	D009369
+228	245	neurodegeneration	DiseaseClass	D019636
+448	451	A-T	SpecificDisease	D001260
+518	521	A-T	Modifier	D001260
+594	597	A-T	SpecificDisease	D001260
+865	868	A-T	Modifier	D001260

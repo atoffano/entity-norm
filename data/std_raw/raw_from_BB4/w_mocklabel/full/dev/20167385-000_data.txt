@@ -1,0 +1,25 @@
+start	end	mention	_class	labels
+52	66	Staphylococcus	Microorganism	1279
+68	79	Micrococcus	Microorganism	1269
+81	94	Psychrobacter	Microorganism	497
+96	108	Enterococcus	Microorganism	1350
+113	127	Brevibacterium	Microorganism	1696
+158	176	surface of cheeses	Habitat	OBT:001341
+169	176	cheeses	Habitat	OBT:001480
+212	222;256	Gorgonzola cheeses	Habitat	OBT:003504
+224	232;256	Taleggio cheeses	Habitat	OBT:003525
+237	263	Formaggio di Fossa cheeses	Habitat	OBT:003473
+391	399	Scimudin	Habitat	OBT:003522
+404	410	Casera	Habitat	OBT:003483
+464	477	Gram positive	Phenotype	OBT:000649
+545	559	Staphylococcus	Microorganism	1279
+561	572	Micrococcus	Microorganism	1269
+574	585	Macrococcus	Microorganism	69965
+587	599	Enterococcus	Microorganism	1350
+601	614	Lactobacillus	Microorganism	1578
+616	630	Carnobacterium	Microorganism	2747
+632	643	Leuconostoc	Microorganism	1243
+645	659	Brevibacterium	Microorganism	1696
+661	676	Corynebacterium	Microorganism	1716
+678	689	Brochothrix	Microorganism	2755
+691	699	Bacillus	Microorganism	1386

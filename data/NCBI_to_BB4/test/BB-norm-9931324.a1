@@ -1,0 +1,15 @@
+T1	Title 0 133	Missense mutations in the most ancient residues of the PAX6 paired domain underlie a spectrum of human congenital eye malformations.
+T2	Paragraph 133 1597	Mutations of the human PAX6 gene underlie aniridia (congenital absence of the iris), a rare dominant malformation of the eye. The spectrum of PAX6 mutations in aniridia patients is highly biased, with 92% of all reported mutations leading to premature truncation of the protein (nonsense, splicing, insertions and deletions) and just 2% leading to substitution of one amino acid by another (missense). The extraordinary conservation of the PAX6 protein at the amino acid level amongst vertebrates predicts that pathological missense mutations should in fact be common even though they are hardly ever seen in aniridia patients. This indicates that there is a heavy ascertainment bias in the selection of patients for PAX6 mutation analysis and that the missing PAX6 missense mutations frequently may underlie phenotypes distinct from textbook aniridia. Here we present four novel PAX6 missense mutations, two in association with atypical phenotypes  ectopia pupillae (displaced pupils) and congenital nystagmus (searching gaze), and two in association with more recognizable aniridia phenotypes. Strikingly, all four mutations are located within the PAX6 paired domain and affect amino acids which are highly conserved in all known paired domain proteins. Our results support the hypothesis that the under-representation of missense mutations is caused by ascertainment bias and suggest that a substantial burden of PAX6 -related disease remains to be uncovered..
+T3	DiseaseClass 103 131	congenital eye malformations
+T4	SpecificDisease 175 183	aniridia
+T5	SpecificDisease 185 215	congenital absence of the iris
+T6	DiseaseClass 234 257	malformation of the eye
+T7	Modifier 293 301	aniridia
+T8	Modifier 742 750	aniridia
+T9	SpecificDisease 976 984	aniridia
+T10	SpecificDisease 1083 1099	ectopia pupillae
+T11	SpecificDisease 1101 1117	displaced pupils
+T12	SpecificDisease 1123 1143	congenital nystagmus
+T13	SpecificDisease 1145 1159	searching gaze
+T14	Modifier 1208 1216	aniridia
+T15	DiseaseClass 1549 1570	PAX6 -related disease

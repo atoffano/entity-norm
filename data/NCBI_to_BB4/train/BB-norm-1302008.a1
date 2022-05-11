@@ -1,0 +1,9 @@
+T1	Title 0 105	Germline intronic and exonic mutations in the Wilms' tumour gene (WT1) affecting urogenital development.
+T2	Paragraph 105 732	Denys-Drash syndrome is a rare human developmental disorder affecting the urogenital system and leading to renal failure, intersex disorders and Wilms tumour. In this report, four individuals with this syndrome are described carrying germline point mutations in the Wilms tumour suppressor gene, WT1. Three of these mutations were in the zinc finger domains of WT1. The fourth occurred within intron 9, preventing splicing at one of the alternatively chosen splice donor sites of exon 9 when assayed in vitro. These results provide genetic evidence for distinct functional roles of the WT1 isoforms in urogenital development..
+T3	Modifier 46 59	Wilms' tumour
+T4	SpecificDisease 105 125	Denys-Drash syndrome
+T5	DiseaseClass 142 164	developmental disorder
+T6	DiseaseClass 212 225	renal failure
+T7	DiseaseClass 227 245	intersex disorders
+T8	SpecificDisease 250 262	Wilms tumour
+T9	Modifier 371 383	Wilms tumour

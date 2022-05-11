@@ -1,0 +1,36 @@
+start	end	mention	_class	labels
+0	8	Mosquito	Habitat	
+46	66	Euphorbia hirta Linn	Habitat	
+77	90	Euphorbiaceae	Habitat	
+124	150	Anopheles stephensi Liston	Habitat	
+162	171	Culicidae	Habitat	
+226	257	Euphorbia hirta (E. hirta) leaf	Habitat	
+226	265	Euphorbia hirta (E. hirta) leaf extract	Habitat	
+226	241	Euphorbia hirta	Habitat	
+243	251	E. hirta	Habitat	
+318	333	malarial vector	Habitat	
+335	354	Anopheles stephensi	Habitat	
+356	369	An. stephensi	Habitat	
+430	443	An. stephensi	Habitat	
+506	516	laboratory	Habitat	
+581	602	E. hirta leaf extract	Habitat	
+581	589	E. hirta	Habitat	
+581	594	E. hirta leaf	Habitat	
+642	647	plant	Habitat	
+642	655	plant extract	Habitat	
+727	733	larval	Habitat	
+761	789	methanol extract of E. hirta	Habitat	
+781	789	E. hirta	Habitat	
+826	832	larvae	Habitat	
+837	842	pupae	Habitat	
+958	964	larvae	Habitat	
+969	974	pupae	Habitat	
+1219	1253	methanol leaf extracts of E. hirta	Habitat	
+1228	1232	leaf	Habitat	
+1245	1253	E. hirta	Habitat	
+1355	1370	malarial vector	Habitat	
+1372	1385	An. stephensi	Habitat	
+1485	1493	mosquito	Habitat	
+1536	1555	plant crude extract	Habitat	
+1536	1541	plant	Habitat	
+1584	1608	An. stephensi mosquitoes	Habitat	

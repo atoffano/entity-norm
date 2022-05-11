@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+46	59	breast cancer	SpecificDisease	D001943
+217	222	tumor	Modifier	D009369
+296	321	breast and ovarian cancer	Modifier	D001943|D010051
+561	574	breast cancer	Modifier	D001943
+613	632	BRCA1 abnormalities	DiseaseClass	OMIM:604370
+677	691	breast cancers	SpecificDisease	D001943

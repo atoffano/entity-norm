@@ -1,0 +1,52 @@
+start	end	mention	_class	labels
+0	20	Aurioscope earpieces	Habitat	
+76	111	non disposable aurioscope earpieces	Habitat	
+120	148	community paediatric clinics	Habitat	
+158	168	pathogenic	Phenotype	
+209	221	pediatrician	Habitat	
+276	309	contaminated aurioscope earpieces	Habitat	
+327	347	aurioscope earpieced	Habitat	
+385	412	community pediatric clinics	Habitat	
+417	452	pediatricians' aurioscope earpieces	Habitat	
+417	430	pediatricians	Habitat	
+470	480;504	blood agar plates	Habitat	
+470	475	blood	Habitat	
+470	480	blood agar	Habitat	
+485	510	mannitol-salt-agar plates	Habitat	
+485	503	mannitol-salt-agar	Habitat	
+535	544	earpieces	Habitat	
+570	580	blood agar	Habitat	
+570	575	blood	Habitat	
+570	587	blood agar plates	Habitat	
+598	603	sheep	Habitat	
+598	609	sheep blood	Habitat	
+617	641	mannitol-salt-agar-plate	Habitat	
+617	635	mannitol-salt-agar	Habitat	
+674	682	earpiece	Habitat	
+702	771	sterile cotton tipped applicator moistened in sterile saline solution	Habitat	
+748	771	sterile saline solution	Habitat	
+810	820	blood agar	Habitat	
+810	815	blood	Habitat	
+810	826	blood agar plate	Habitat	
+834	858	mannitol-salt-agar-plate	Habitat	
+834	852	mannitol-salt-agar	Habitat	
+864	870	plates	Habitat	
+1074	1094	aurioscope earpieces	Habitat	
+1138	1160	contaminated earpieces	Habitat	
+1186	1199	Staphylococci	Microorganism	
+1235	1244	earpieces	Habitat	
+1261	1281	Staphylococci aureus	Microorganism	
+1282	1300	coagulase positive	Phenotype	
+1314	1335	methicillin resistant	Phenotype	
+1336	1345	S. aureus	Microorganism	
+1347	1351	MRSA	Microorganism	
+1347	1351	MRSA	Phenotype	
+1354	1378	Non disposable earpieces	Habitat	
+1402	1412	pathogenic	Phenotype	
+1432	1436	MRSA	Microorganism	
+1432	1436	MRSA	Phenotype	
+1462	1492	children with immunodeficiency	Habitat	
+1542	1552	physicians	Habitat	
+1570	1578	hospital	Habitat	
+1648	1656	patients	Habitat	
+1658	1682	Non disposable earpieces	Habitat	

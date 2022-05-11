@@ -1,0 +1,38 @@
+start	end	mention	_class	labels
+13	46	probiotic fermented milk beverage	Habitat	OBT:001269|OBT:003146|OBT:003343
+118	128	intestinal	Habitat	OBT:002810
+118	139	intestinal microbiota	Habitat	OBT:000113
+149	211	intestinal environment of healthy individuals with soft stools	Habitat	OBT:002810
+175	211	healthy individuals with soft stools	Habitat	OBT:002712
+200	211	soft stools	Habitat	OBT:001102
+239	262	fermented milk beverage	Habitat	OBT:003146|OBT:003343
+348	354	bottle	Habitat	OBT:003146
+368	378	probiotics	Habitat	OBT:001269
+382	388	bottle	Habitat	OBT:003146|OBT:001269
+419	440	intestinal microbiota	Habitat	OBT:000113
+419	429	intestinal	Habitat	OBT:002810
+449	511	intestinal environment of healthy individuals with soft stools	Habitat	OBT:002810
+475	511	healthy individuals with soft stools	Habitat	OBT:002712
+500	511	soft stools	Habitat	OBT:001102
+540	554	healthy adults	Habitat	OBT:002712|OBT:003245
+563	574	soft stools	Habitat	OBT:001102
+652	662	probiotics	Habitat	OBT:001269
+853	862	probiotic	Habitat	OBT:001269
+878	883	stool	Habitat	OBT:001102
+961	988	water content of the stools	Habitat	OBT:000215
+982	988	stools	Habitat	OBT:001102
+1006	1015	probiotic	Habitat	OBT:001269
+1006	1021	probiotic group	Habitat	OBT:003245
+1034	1047	placebo group	Habitat	OBT:003245
+1121	1126	stool	Habitat	OBT:001102
+1165	1174	probiotic	Habitat	OBT:001269
+1222	1228	stools	Habitat	OBT:001102
+1302	1312	probiotics	Habitat	OBT:001269
+1467	1476;1489	probiotic groups	Habitat	OBT:003245
+1467	1476	probiotic	Habitat	OBT:001269
+1481	1495	placebo groups	Habitat	OBT:003245
+1601	1634	probiotic fermented milk beverage	Habitat	OBT:001269|OBT:003146|OBT:003343
+1642	1651	intestine	Habitat	OBT:002810
+1717	1722	stool	Habitat	OBT:001102
+1778	1813	healthy individuals with soft stool	Habitat	OBT:002712
+1803	1813	soft stool	Habitat	OBT:001102

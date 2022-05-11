@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+0	47	Deficiency of the fifth component of complement	SpecificDisease	OMIM:609536
+179	226	deficiency of the fifth component of complement	SpecificDisease	OMIM:609536
+409	429	gonococcal infection	SpecificDisease	D006069
+974	986	C5-deficient	Modifier	OMIM:609536
+1518	1531	C5 deficiency	SpecificDisease	OMIM:609536
+1674	1687	C5 deficiency	SpecificDisease	OMIM:609536
+1689	1705	Deficiency of C5	SpecificDisease	OMIM:609536
+1790	1810	gonococcal infection	SpecificDisease	D006069

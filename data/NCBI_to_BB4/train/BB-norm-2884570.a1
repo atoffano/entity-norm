@@ -1,0 +1,13 @@
+T1	Title 0 106	An amino-acid substitution involved in phenylketonuria is in linkage disequilibrium with DNA haplotype 2.
+T2	Paragraph 106 1319	Phenylketonuria (PKU) is an autosomal recessive human genetic disorder caused by a deficiency of hepatic phenylalanine hydroxylase (PAH, phenylalanine 4-monooxygenase, EC 1. 14. 16. 1). PKU is a common inborn error of amino-acid metabolism in caucasian populations and approximately 1 in 50 individuals are carriers of a PKU allele. To define the molecular basis of PKU, we characterized twelve restriction fragment-length polymorphism (RFLP) haplotypes of the PAH locus in the northern European population and observed that 90% of the PKU alleles in this population are confined to four common RFLP haplotypes. We have recently reported a splicing mutation in the PAH gene that is associated with RFLP haplotype 3 which is present at about 40% of mutant alleles. We now report the molecular lesion associated with the RFLP haplotype 2 mutant allele. This defect is caused by a C-to-T transition in exon 12 resulting in an amino-acid substitution (Arg to Trp) at residue 408 of PAH. Direct hybridization analysis of the point mutation using a specific oligonucleotide probe demonstrated that this mutation is also in linkage disequilibrium with RFLP haplotype 2 alleles that make up about 20% of mutant PAH genes
+T3	SpecificDisease 39 54	phenylketonuria
+T4	SpecificDisease 106 121	Phenylketonuria
+T5	SpecificDisease 123 126	PKU
+T6	DiseaseClass 134 176	autosomal recessive human genetic disorder
+T7	SpecificDisease 189 236	deficiency of hepatic phenylalanine hydroxylase
+T8	SpecificDisease 292 295	PKU
+T9	DiseaseClass 308 345	inborn error of amino-acid metabolism
+T10	Modifier 427 430	PKU
+T11	SpecificDisease 472 475	PKU
+T12	Modifier 642 645	PKU
+T13	DiseaseClass 888 904	molecular lesion

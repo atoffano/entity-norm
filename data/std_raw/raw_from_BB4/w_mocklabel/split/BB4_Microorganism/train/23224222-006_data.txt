@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+50	76	Streptococcus thermophilus	Microorganism	1308
+302	319	Str. thermophilus	Microorganism	1308
+430	447	Str. thermophilus	Microorganism	1308
+586	603	Str. thermophilus	Microorganism	1308
+722	739	Str. thermophilus	Microorganism	1308
+775	792	Str. thermophilus	Microorganism	1308

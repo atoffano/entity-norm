@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+25	45	lactic acid bacteria	Phenotype	OBT:000019
+176	189	acid-tolerant	Phenotype	OBT:002883
+500	518	less acid-tolerant	Phenotype	OBT:002883
+520	527	aerobic	Phenotype	OBT:000179
+531	553	facultative  anaerobic	Phenotype	OBT:000279
+555	572	catalase-positive	Phenotype	OBT:000222
+574	587	halo-tolerant	Phenotype	OBT:002711
+588	601	Gram-positive	Phenotype	OBT:000649

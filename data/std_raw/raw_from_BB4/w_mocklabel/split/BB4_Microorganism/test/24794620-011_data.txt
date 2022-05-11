@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+56	70	B. aurantiacum	Microorganism	MockLabel
+84	95	Leucobacter	Microorganism	MockLabel
+114	125	Leucobacter	Microorganism	MockLabel
+134	148	B. aurantiacum	Microorganism	MockLabel
+293	305	Pusillimonas	Microorganism	MockLabel
+319	330	Leucobacter	Microorganism	MockLabel
+364	385	Corynebacterium casei	Microorganism	MockLabel
+390	402	C. variabile	Microorganism	MockLabel
+506	519	C. glutamicum	Microorganism	MockLabel
+825	840	Corynebacterium	Microorganism	MockLabel

@@ -1,0 +1,14 @@
+T1	Title 0 59	Complement deficiency and nephritis. A report of a family.
+T2	Paragraph 59 758	A family is described in which three children had homozygous deficiency of C3 and in which both parents and two other children were heterozygous for the C3 null gene. One child with heterozygous C3 deficiency was found to have membranoproliferative glomerulonephritis; proteinuria and/or microscopical haematuria was present in all three homozygous C3-deficient children. All children with homozygous or heterozygous C3 deficiency were, to a varying degree, susceptible to infection. The only child of the family with normal complement had no increased risk of infection and no renal disease. This family study provides further support for the proposal that C3 deficiency predisposes to nephritis..
+T3	SpecificDisease 0 21	Complement deficiency
+T4	SpecificDisease 26 35	nephritis
+T5	SpecificDisease 120 136	deficiency of C3
+T6	SpecificDisease 254 267	C3 deficiency
+T7	SpecificDisease 308 326	glomerulonephritis
+T8	SpecificDisease 328 339	proteinuria
+T9	SpecificDisease 361 371	haematuria
+T10	Modifier 408 420	C3-deficient
+T11	SpecificDisease 476 489	C3 deficiency
+T12	DiseaseClass 637 650	renal disease
+T13	SpecificDisease 717 730	C3 deficiency
+T14	SpecificDisease 746 755	nephritis

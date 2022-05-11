@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+12	24	alkaptonuria	Modifier	D000474
+26	29	AKU	Modifier	D000474
+193	205	alkaptonuria	SpecificDisease	D000474
+207	210	AKU	SpecificDisease	D000474
+375	378	AKU	Modifier	D000474
+513	516	AKU	Modifier	D000474
+653	656	AKU	SpecificDisease	D000474

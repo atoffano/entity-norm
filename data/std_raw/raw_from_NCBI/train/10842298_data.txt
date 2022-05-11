@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+38	50	microcephaly	DiseaseClass	D008831
+52	70	mental retardation	DiseaseClass	D008607
+76	89	short stature	DiseaseClass	D006130
+95	109	Cohen syndrome	Modifier	C536438
+179	191	microcephaly	DiseaseClass	D008831
+205	232	postnatal growth deficiency	DiseaseClass	D006130
+238	256	mental retardation	DiseaseClass	D008607
+363	372	Hypotonia	DiseaseClass	D009123
+374	397	chorioretinal dystrophy	DiseaseClass	 D015862+D058499
+403	409	myopia	DiseaseClass	D009216
+574	592	mental retardation	DiseaseClass	D008607
+598	611	short stature	DiseaseClass	D006130
+660	674	Cohen syndrome	SpecificDisease	C536438
+1075	1089	Cohen syndrome	SpecificDisease	C536438
+1245	1259	Cohen syndrome	SpecificDisease	C536438

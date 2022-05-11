@@ -1,0 +1,9 @@
+T1	Title 0 129	Missense mutations in the Fas gene resulting in autoimmune lymphoproliferative syndrome: a molecular and immunological analysis.
+T2	Paragraph 129 1272	Programmed cell death (or apoptosis) is a physiological process essential to the normal development and homeostatic maintenance of the immune system. The Fas/Apo-1 receptor plays a crucial role in the regulation of apoptosis, as demonstrated by lymphoproliferation in MRL-lpr/lpr mice and by the recently described autoimmune lymphoproliferative syndrome (ALPS) in humans, both of which are due to mutations in the Fas gene. We describe a novel family with ALPS in which three affected siblings carry two distinct missense mutations on both the Fas gene alleles and show lack of Fas-induced apoptosis. The children share common clinical features including splenomegaly and lymphadenopathy, but only one developed severe autoimmune manifestations. In all three siblings, we demonstrated the presence of anergic CD3 + CD4-CD8- (double negative, [DN]) T cells; moreover, a chronic lymphocyte activation was found, as demonstrated by the presence of high levels of HLA-DR expression on peripheral CD3 + cells and by the presence of high levels of serum activation markers such as soluble interleukin-2 receptor (slL-2R) and soluble CD30 (sCD30)..
+T3	SpecificDisease 48 87	autoimmune lymphoproliferative syndrome
+T4	SpecificDisease 444 483	autoimmune lymphoproliferative syndrome
+T5	SpecificDisease 485 489	ALPS
+T6	SpecificDisease 586 590	ALPS
+T7	DiseaseClass 785 797	splenomegaly
+T8	DiseaseClass 802 817	lymphadenopathy
+T9	DiseaseClass 849 874	autoimmune manifestations

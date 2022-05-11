@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+21	50	Haemophilus influenzae type B	Microorganism	727
+156	185	Haemophilus influenzae type B	Microorganism	727
+383	390	bacilli	Microorganism	91061
+405	412	bacilli	Microorganism	91061
+427	440	H. influenzae	Microorganism	727
+528	541	H. influenzae	Microorganism	727
+757	770	H. influenzae	Microorganism	727
+789	805	Escherichia coli	Microorganism	562
+927	940	H. influenzae	Microorganism	727

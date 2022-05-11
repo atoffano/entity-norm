@@ -1,0 +1,14 @@
+T1	Title 0 115	Absence of the seventh component of complement in a patient with chronic meningococcemia presenting as vasculitis.
+T2	Paragraph 115 663	A previously healthy 40-year-old man presenting with fever, arthritis, and cutaneous vasculitis was found to have chronic meningococcemia. Evaluation of his complement system showed an absence of functional and antigenic C7, compatible with a complete deficiency of the seventh component of complement. Study of the patients family spanning four generations showed heterozygous deficiency of C7 in five members. Chronic neisserial infection can be associated with C7 deficiency and must be distinguished from other causes of cutaneous vasculitis..
+T3	SpecificDisease 0 46	Absence of the seventh component of complement
+T4	SpecificDisease 65 88	chronic meningococcemia
+T5	SpecificDisease 103 113	vasculitis
+T6	SpecificDisease 168 173	fever
+T7	SpecificDisease 175 184	arthritis
+T8	SpecificDisease 190 210	cutaneous vasculitis
+T9	SpecificDisease 229 252	chronic meningococcemia
+T10	SpecificDisease 367 416	deficiency of the seventh component of complement
+T11	SpecificDisease 493 509	deficiency of C7
+T12	SpecificDisease 527 555	Chronic neisserial infection
+T13	SpecificDisease 579 592	C7 deficiency
+T14	SpecificDisease 640 660	cutaneous vasculitis

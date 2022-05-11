@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+34	46	galactosemia	Modifier	D005693
+227	239	galactosemia	Modifier	D005693
+358	370	galactosemia	Modifier	D005693
+878	890	galactosemia	SpecificDisease	D005693
+908	920	galactosemia	Modifier	D005693

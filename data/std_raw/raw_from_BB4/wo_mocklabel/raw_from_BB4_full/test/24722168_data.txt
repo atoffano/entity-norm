@@ -1,0 +1,75 @@
+start	end	mention	_class	labels
+0	9	Probiotic	Phenotype	
+10	36	Lactobacillus rhamnosus GG	Microorganism	
+46	58	Th1 cellular	Habitat	
+111	116	human	Habitat	
+111	175	human gut microbiota transplanted neonatal gnotobiotic pig model	Habitat	
+111	120	human gut	Habitat	
+111	131	human gut microbiota	Habitat	
+208	217	human gut	Habitat	
+208	213	human	Habitat	
+208	274	human gut microbiota (HGM) transplanted gnotobiotic (Gn) pig model	Habitat	
+208	234	human gut microbiota (HGM)	Habitat	
+230	233	HGM	Habitat	
+278	283	human	Habitat	
+278	293	human rotavirus	Microorganism	
+295	298	HRV	Microorganism	
+358	368	probiotics	Phenotype	
+372	383	HRV vaccine	Habitat	
+372	375	HRV	Microorganism	
+441	453	Gn pig model	Habitat	
+465	475	probiotics	Phenotype	
+508	514	T cell	Habitat	
+519	525	B cell	Habitat	
+554	572	rotavirus vaccines	Habitat	
+554	563	rotavirus	Microorganism	
+591	624	HGM transplanted neonatal Gn pigs	Habitat	
+591	594	HGM	Habitat	
+650	670	neonatal human fecal	Habitat	
+650	681	neonatal human fecal suspension	Habitat	
+650	664	neonatal human	Habitat	
+685	699	germ-free pigs	Habitat	
+770	773	HRV	Microorganism	
+775	781	AttHRV	Microorganism	
+840	849	rotavirus	Microorganism	
+881	888	Gn pigs	Habitat	
+893	896	HGM	Habitat	
+893	917	HGM transplanted Gn pigs	Habitat	
+919	922	HGM	Habitat	
+955	977	neonatal immune system	Habitat	
+1038	1044	T cell	Habitat	
+1083	1090	T cells	Habitat	
+1128	1150	AttHRV-vaccinated pigs	Habitat	
+1128	1134	AttHRV	Microorganism	
+1168	1194	Lactobacillus rhamnosus GG	Microorganism	
+1196	1199	LGG	Microorganism	
+1288	1291	LGG	Microorganism	
+1306	1336	HGM Gn pig intestinal contents	Habitat	
+1306	1327	HGM Gn pig intestinal	Habitat	
+1306	1316	HGM Gn pig	Habitat	
+1306	1309	HGM	Habitat	
+1364	1367	HRV	Microorganism	
+1393	1399	T cell	Habitat	
+1417	1431	AttHRV vaccine	Habitat	
+1417	1423	AttHRV	Microorganism	
+1444	1447	LGG	Microorganism	
+1512	1515	LGG	Microorganism	
+1560	1563	HRV	Microorganism	
+1604	1609	serum	Habitat	
+1637	1656	intestinal contents	Habitat	
+1637	1647	intestinal	Habitat	
+1673	1687	AttHRV vaccine	Habitat	
+1673	1679	AttHRV	Microorganism	
+1734	1737	LGG	Microorganism	
+1781	1791	microbiota	Habitat	
+1839	1847	HGM pigs	Habitat	
+1839	1842	HGM	Habitat	
+1878	1881	HGM	Habitat	
+1878	1888	HGM Gn pig	Habitat	
+1906	1918	animal model	Habitat	
+1952	1970	rotavirus vaccines	Habitat	
+1952	1961	rotavirus	Microorganism	
+2021	2031	probiotics	Phenotype	
+2111	2119	vaccines	Habitat	
+2142	2145	gut	Habitat	
+2142	2156	gut microbiota	Habitat	

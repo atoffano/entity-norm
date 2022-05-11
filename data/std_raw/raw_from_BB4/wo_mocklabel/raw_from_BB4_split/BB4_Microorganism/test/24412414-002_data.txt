@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+96	121	Leuconostoc mesenteroides	Microorganism	
+123	146	Lactobacillus plantarum	Microorganism	
+148	171	Lactobacillus rhamnosus	Microorganism	
+173	203	Lactobacillus sanfranciscensis	Microorganism	
+205	230	Lactobacillus acidophilus	Microorganism	
+232	258	Lactobacillus alimentarius	Microorganism	
+260	284	Lactobacillus amylovorus	Microorganism	
+286	305	Lactobacillus casei	Microorganism	
+307	327	Lactobacillus lactis	Microorganism	
+329	352	Lactobacillus paracasei	Microorganism	
+354	375	Lactobacillus reuteri	Microorganism	
+381	405	Pediococcus acidilactici	Microorganism	
+745	764	Geotrichum candidum	Microorganism	
+801	817	propionibacteria	Microorganism	

@@ -1,0 +1,36 @@
+start	end	mention	_class	labels
+30	53	Pseudomonas fluorescens	Microorganism	294
+98	122	cross-protective vaccine	Habitat	OBT:000464
+212	225	Gram-negative	Phenotype	OBT:000648
+358	367	virulence	Phenotype	OBT:000375
+404	414	pathogenic	Phenotype	OBT:000375
+548	558	pathogenic	Phenotype	OBT:002669
+559	594	Pseudomonas fluorescens strain, TSS	Microorganism	294
+610	661	diseased Japanese flounder cultured in a local farm	Habitat	OBT:000491|OBT:003553
+651	661	local farm	Habitat	OBT:000630
+663	666	TSS	Microorganism	294
+726	742	Escherichia coli	Microorganism	562
+743	753	fur mutant	Phenotype	OBT:000118
+757	760	TSS	Microorganism	294
+761	776	fur null mutant	Phenotype	OBT:000118
+778	781	TFM	Microorganism	562
+812	815	TSS	Microorganism	294
+817	820	TFM	Microorganism	562
+902	963	decreased resistance against host serum bactericidal activity	Phenotype	OBT:000152
+931	941	host serum	Habitat	OBT:000524
+1000	1004;1015	host tissues	Habitat	OBT:000196
+1000	1010	host blood	Habitat	OBT:000521
+1059	1078	bacterial virulence	Phenotype	OBT:002669
+1084	1101	Japanese flounder	Habitat	OBT:003553|OBT:000700
+1134	1146	live vaccine	Habitat	OBT:000464
+1194	1198	oral	Habitat	OBT:001653
+1207	1210	TFM	Microorganism	562
+1250	1267	Japanese flounder	Habitat	OBT:000700|OBT:003553
+1285	1299	P. fluorescens	Microorganism	294
+1319	1339	Aeromonas hydrophila	Microorganism	644
+1440	1454	Vibrio harveyi	Microorganism	669
+1474	1477	TFM	Microorganism	562
+1560	1577	Japanese flounder	Habitat	OBT:003553|OBT:000700
+1588	1591	TFM	Microorganism	562
+1643	1653	V. harveyi	Microorganism	669
+1658	1671	A. hydrophila	Microorganism	644

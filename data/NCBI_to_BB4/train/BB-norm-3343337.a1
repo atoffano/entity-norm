@@ -1,0 +1,19 @@
+T1	Title 0 173	Sjogren-Larsson syndrome. Impaired fatty alcohol oxidation in cultured fibroblasts due to deficient fatty alcohol:nicotinamide adenine dinucleotide oxidoreductase activity.
+T2	Paragraph 173 1561	Lipid metabolism was studied in cultured skin fibroblasts from patients with the inherited disorder, Sjogren-Larsson syndrome (SLS). Intact SLS fibroblasts incubated in the presence of [1-14C] palmitate accumulated more radioactive hexadecanol than did normal cells, whereas incorporation of radioactivity into other cellular lipids was unaltered. The hexadecanol content of SLS fibroblasts was abnormally elevated. Hexadecanol accumulation was not due to increased fatty alcohol synthesis nor its deficient utilization for glycerol ether synthesis. The half-life of intracellular hexadecanol loaded into SLS fibroblasts was increased (70 min) compared with normal (15 min), and intact SLS fibroblasts showed impaired oxidation of [14C] -hexadecanol to fatty acid. Fatty alcohol  NAD + oxidoreductase, the enzyme catalyzing this reaction, was deficient in SLS fibroblasts. Mean total activity in SLS fibroblasts (n = 5) was 13% of that in normal fibroblasts, and palmitoyl CoA-inhibitable activity was 1% of normal. Fibroblasts from two obligate SLS heterozygotes had enzyme activities intermediate between that in normal fibroblasts and individuals with SLS. These results suggest that the primary defect in SLS is deficiency of fatty alcohol  NAD + oxidoreductase. SLS represents the first inherited disorder in man associated with an isolated abnormality in fatty alcohol metabolism..
+T3	SpecificDisease 0 24	Sjogren-Larsson syndrome
+T4	DiseaseClass 254 272	inherited disorder
+T5	SpecificDisease 274 298	Sjogren-Larsson syndrome
+T6	SpecificDisease 300 303	SLS
+T7	Modifier 313 316	SLS
+T8	Modifier 548 551	SLS
+T9	Modifier 778 781	SLS
+T10	Modifier 859 862	SLS
+T11	Modifier 1029 1032	SLS
+T12	Modifier 1069 1072	SLS
+T13	Modifier 1219 1222	SLS
+T14	SpecificDisease 1328 1331	SLS
+T15	SpecificDisease 1382 1385	SLS
+T16	SpecificDisease 1389 1438	deficiency of fatty alcohol  NAD + oxidoreductase
+T17	SpecificDisease 1440 1443	SLS
+T18	DiseaseClass 1465 1483	inherited disorder
+T19	DiseaseClass 1519 1558	abnormality in fatty alcohol metabolism

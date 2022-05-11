@@ -1,0 +1,19 @@
+T1	Title 0 149	Genetic mapping of the copper toxicosis locus in Bedlington terriers to dog chromosome 10, in a region syntenic to human chromosome region 2p13-p16.
+T2	Paragraph 149 1529	Abnormal hepatic copper accumulation is recognized as an inherited disorder in man, mouse, rat and dog. The major cause of hepatic copper accumulation in man is a dysfunctional ATP7B gene, causing Wilson disease (WD). Mutations in the ATP7B genes have also been demonstrated in mouse and rat. The ATP7B gene has been excluded in the much rarer human copper overload disease non-Indian childhood cirrhosis, indicating genetic heterogeneity. By investigating the common autosomal recessive copper toxicosis (CT) in Bedlington terriers, we have identified a new locus involved in progressive liver disease. We examined whether the WD gene ATP7B was also causative for CT by investigating the chromosomal co-localization of ATP7B and C04107, using fluorescence in situ hybridization (FISH). C04107 is an anonymous microsatellite marker closely linked to CT. However, BAC clones containing ATP7B and C04107 mapped to the canine chromosome regions CFA22q11 and CFA10q26, respectively, demonstrating that WD cannot be homologous to CT. The copper transport genes CTR1 and CTR2 were also excluded as candidate genes for CT since they both mapped to canine chromosome region CFA11q22. 2-22. 5. A transcribed sequence identified from the C04107-containing BAC was found to be homologous to a gene expressed from human chromosome 2p13-p16, a region devoid of any positional candidate genes.
+T3	Modifier 23 39	copper toxicosis
+T4	SpecificDisease 158 185	hepatic copper accumulation
+T5	DiseaseClass 206 224	inherited disorder
+T6	SpecificDisease 272 299	hepatic copper accumulation
+T7	SpecificDisease 346 360	Wilson disease
+T8	SpecificDisease 362 364	WD
+T9	SpecificDisease 499 514	copper overload
+T10	SpecificDisease 523 553	non-Indian childhood cirrhosis
+T11	SpecificDisease 637 653	copper toxicosis
+T12	SpecificDisease 655 657	CT
+T13	DiseaseClass 738 751	liver disease
+T14	Modifier 777 779	WD
+T15	SpecificDisease 814 816	CT
+T16	SpecificDisease 999 1001	CT
+T17	SpecificDisease 1147 1149	WD
+T18	SpecificDisease 1174 1176	CT
+T19	SpecificDisease 1261 1263	CT

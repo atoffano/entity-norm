@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+13	34	Staphylococcus aureus	Microorganism	1280
+45	49	MRSA	Microorganism	1280
+217	238	Staphylococcus aureus	Microorganism	1280
+240	244	MRSA	Microorganism	1280
+391	400	S. aureus	Microorganism	1280
+473	482	S. aureus	Microorganism	1280
+535	539	MRSA	Microorganism	1280
+739	743	MRSA	Microorganism	1280
+948	952	MRSA	Microorganism	1280

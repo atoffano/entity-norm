@@ -1,0 +1,14 @@
+T1	Title 0 125	Familial deficiency of the seventh component of complement associated with recurrent bacteremic infections due to Neisseria.
+T2	Paragraph 125 1461	The serum of a 29-year old woman with a recent episode of disseminated gonococcal infection and a history of meningococcal meningitis and arthritis as a child was found to lack serum hemolytic complement activity. The seventh component of complement (C7) was not detected by functional or immunochemical assays, whereas other components were normal by hemolytic and immunochemical assessment. Her fresh serum lacked complement-mediated bactericidal activity against Neisseria gonorrhoeae, but the addition of fresh normal serum or purified C7 restored bactericidal activity as well as hemolytic activity. The absence of functional C7 activity could not be accounted for on the basis of an inhibitor. Opsonization and generation of chemotactic activity functioned normally. Complete absence of C7 was also found in one sibling who had the clinical syndrome of meningococcal meningitis and arthritis  as a child and in this siblings clinically well eight-year-old son. HLA histocompatibility typing of the family members did not demonstrate evidence for genetic linkage of C7 deficiency with the major histocompatibility loci. This report represents the first cases of C7 deficiency associated with infectious complications and suggests that bactericidal activity may be important in host defense against bacteremic neisseria infections.
+T3	SpecificDisease 0 58	Familial deficiency of the seventh component of complement
+T4	DiseaseClass 85 123	bacteremic infections due to Neisseria
+T5	SpecificDisease 183 216	disseminated gonococcal infection
+T6	SpecificDisease 234 258	meningococcal meningitis
+T7	DiseaseClass 263 272	arthritis
+T8	Modifier 734 758	absence of functional C7
+T9	SpecificDisease 898 920	Complete absence of C7
+T10	SpecificDisease 984 1008	meningococcal meningitis
+T11	DiseaseClass 1013 1022	arthritis
+T12	SpecificDisease 1196 1209	C7 deficiency
+T13	SpecificDisease 1292 1305	C7 deficiency
+T14	SpecificDisease 1428 1459	bacteremic neisseria infections

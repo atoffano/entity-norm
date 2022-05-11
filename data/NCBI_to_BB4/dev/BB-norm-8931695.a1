@@ -1,0 +1,24 @@
+T1	Title 0 92	Phenotypic and genotypic overlap between atelosteogenesis type 2 and diastrophic dysplasia.
+T2	Paragraph 92 1869	Mutations in the diastrophic dysplasia sulfate transporter gene DTDST have been associated with a family of chondrodysplasias that comprises, in order of increasing severity, diastrophic dysplasia (DTD), atelosteogenesis type 2 (AO2), and achondrogenesis type 1B (ACG1B). To learn more about the molecular basis of DTDST chondrodysplasias and about genotype-phenotype correlations, we studied fibroblast cultures of three new patients  one with AO-2, one with DTD, and one with an intermediate phenotype (AO2/DTD). Reduced incorporation of inorganic sulfate into macromolecules was found in all three. Each of the three patients was found to be heterozygous for a c862t transition predicting a R279W substitution in the third extracellular loop of DTDST. In two patients (DTD and AO2/DTD), no other structural mutation was found, but polymerase chain reaction amplification and single-strand conformation polymorphism analysis of fibroblast cDNA showed reduced mRNA levels of the wild-type DTDST allele  these two patients may be compound heterozygotes for the " Finnish " mutation (as yet uncharacterized at the DNA level), which causes reduced expression of DTDST. The third patient (with AO2) had the R279W mutation compounded with a novel mutation, the deletion of cytosine 418 (delta c418), predicting a frameshift with premature termination. Also the delta c418 allele was underrepresented in the cDNA, in accordance with previous observations that premature stop codons reduce mRNA levels. The presence of the DTDST R279W mutation in a total of 11 patients with AO2 or DTD emphasizes the overlap between these conditions. This mutation has not been found so far in 8 analyzed ACG1B patients, suggesting that it allows some residual activity of the sulfate transporter..
+T3	SpecificDisease 41 64	atelosteogenesis type 2
+T4	SpecificDisease 69 90	diastrophic dysplasia
+T5	Modifier 109 130	diastrophic dysplasia
+T6	DiseaseClass 200 217	chondrodysplasias
+T7	SpecificDisease 267 288	diastrophic dysplasia
+T8	SpecificDisease 290 293	DTD
+T9	SpecificDisease 296 319	atelosteogenesis type 2
+T10	SpecificDisease 321 324	AO2
+T11	SpecificDisease 331 354	achondrogenesis type 1B
+T12	SpecificDisease 356 361	ACG1B
+T13	SpecificDisease 407 430	DTDST chondrodysplasias
+T14	SpecificDisease 537 541	AO-2
+T15	SpecificDisease 552 555	DTD
+T16	SpecificDisease 597 600	AO2
+T17	SpecificDisease 601 604	DTD
+T18	SpecificDisease 864 867	DTD
+T19	SpecificDisease 872 875	AO2
+T20	SpecificDisease 876 879	DTD
+T21	SpecificDisease 1283 1286	AO2
+T22	SpecificDisease 1661 1664	AO2
+T23	SpecificDisease 1668 1671	DTD
+T24	Modifier 1775 1780	ACG1B

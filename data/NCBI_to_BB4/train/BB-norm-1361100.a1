@@ -1,0 +1,10 @@
+T1	Title 0 48	Multiple origins for phenylketonuria in Europe.
+T2	Paragraph 48 1425	Phenylketonuria (PKU), a disorder of amino acid metabolism prevalent among Caucasians and other ethnic groups, is caused primarily by a deficiency of the hepatic enzyme phenylalanine hydroxylase (PAH). PKU is a highly heterogeneous disorder, with more than 60 molecular lesions identified in the PAH gene. The haplotype associations, relative frequencies, and distributions of five prevalent PAH mutations (R158Q, R261Q, IVS10nt546, R408W, and IVS12n1) were established in a comprehensive European sample population and subsequently were examined to determine the potential roles of several genetic mechanisms in explaining the present distribution of the major PKU alleles. Each of these five mutations was strongly associated with only one of the more than 70 chromosomal haplotypes defined by eight RFLPs in or near the PAH gene. These findings suggest that each of these mutations arose through a single founding event that occurred within time periods ranging from several hundred to several thousand years ago. From the significant differences observed in the relative frequencies and distributions of these five alleles throughout Europe, four of these putative founding events could be localized to specific ethnic subgroups. Together, these data suggest that there were multiple, geographically and ethnically distinct origins for PKU within the European population..
+T3	SpecificDisease 21 36	phenylketonuria
+T4	SpecificDisease 48 63	Phenylketonuria
+T5	SpecificDisease 65 68	PKU
+T6	DiseaseClass 73 106	disorder of amino acid metabolism
+T7	SpecificDisease 184 242	deficiency of the hepatic enzyme phenylalanine hydroxylase
+T8	SpecificDisease 250 253	PKU
+T9	Modifier 710 713	PKU
+T10	SpecificDisease 1388 1391	PKU

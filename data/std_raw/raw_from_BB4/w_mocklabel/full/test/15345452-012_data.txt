@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+181	203	Lactobacillus buchneri	Microorganism	MockLabel
+217	231	Morbier cheese	Habitat	MockLabel
+238	256	heterofermentative	Phenotype	MockLabel
+257	270	lactobacillus	Microorganism	MockLabel
+426	440	dairy industry	Habitat	MockLabel
+460	492	Propionibacterium freudenreichii	Microorganism	MockLabel
+520	536	Leerdamer cheese	Habitat	MockLabel
+608	625	artificial medium	Habitat	MockLabel
+707	724	Pseudoalteromonas	Microorganism	MockLabel
+737	746	Halomonas	Microorganism	MockLabel
+804	819	Epoisses cheese	Habitat	MockLabel
+869	882	salt-tolerant	Phenotype	MockLabel
+915	929	dairy products	Habitat	MockLabel

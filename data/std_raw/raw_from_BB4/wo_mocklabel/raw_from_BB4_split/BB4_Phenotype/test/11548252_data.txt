@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+59	68	virulence	Phenotype	
+244	253	virulence	Phenotype	
+468	477	virulence	Phenotype	
+754	763	virulence	Phenotype	
+1218	1227	virulence	Phenotype	

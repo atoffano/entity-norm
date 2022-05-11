@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+76	98	Pseudomonas aeruginosa	Microorganism	287
+178	200	Pseudomonas aeruginosa	Microorganism	287
+202	215	P. aeruginosa	Microorganism	287
+668	681	P. aeruginosa	Microorganism	287
+849	862	P. aeruginosa	Microorganism	1276719
+984	1004	Burkholderia cepacia	Microorganism	292
+1088	1109	Aspergillus fumigatus	Microorganism	746128
+1111	1139	Stenotrophomonas maltophilia	Microorganism	40324
+1141	1164	Mycobacterium abscessus	Microorganism	36809

@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+79	115	children attending a day care center	Habitat	OBT:003188
+100	115	day care center	Habitat	OBT:000403
+188	219	throats of two healthy children	Habitat	OBT:000918
+203	219	healthy children	Habitat	OBT:003188|OBT:002712
+452	470	colonized children	Habitat	OBT:003188|OBT:002712

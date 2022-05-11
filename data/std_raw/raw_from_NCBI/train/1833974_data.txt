@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+88	105	Tay-Sachs disease	SpecificDisease	D013661
+153	170	Tay-Sachs disease	SpecificDisease	D013661
+817	834	Tay-Sachs disease	Modifier	D013661

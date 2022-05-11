@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+27	62	Prader-Willi and Angelman syndromes	CompositeMention	D011218|D017204
+157	178	Prader-Willi syndrome	SpecificDisease	D011218
+180	183	PWS	SpecificDisease	D011218
+189	206	Angelman syndrome	SpecificDisease	D017204
+208	210	AS	SpecificDisease	D017204
+225	250	neurobehavioral disorders	DiseaseClass	D019954
+1159	1162	PWS	Modifier	D011218
+1163	1165	AS	Modifier	D017204

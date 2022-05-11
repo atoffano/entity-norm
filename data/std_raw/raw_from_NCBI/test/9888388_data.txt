@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+66	91	hereditary coproporphyria	SpecificDisease	D046349
+113	138	Hereditary coproporphyria	SpecificDisease	D046349
+140	142	HC	SpecificDisease	D046349
+156	173	hepatic porphyria	SpecificDisease	D017094
+220	272	deficient activity of coproporphyrinogen III oxidase	SpecificDisease	D046349
+357	381	neurological dysfunction	DiseaseClass	D009422
+450	469	infectious diseases	DiseaseClass	D003141
+773	775	HC	Modifier	D046349
+1886	1888	HC	SpecificDisease	D046349
+1971	1983	gene defects	DiseaseClass	D030342

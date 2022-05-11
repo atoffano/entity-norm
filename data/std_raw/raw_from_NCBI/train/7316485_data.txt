@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+212	229	enzyme deficiency	DiseaseClass	D008661
+258	268	haemolysis	SpecificDisease	D006461
+425	440	G6PD deficiency	SpecificDisease	D005955

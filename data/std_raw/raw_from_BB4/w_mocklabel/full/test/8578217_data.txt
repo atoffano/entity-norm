@@ -1,0 +1,27 @@
+start	end	mention	_class	labels
+14	33	Helicobacter pylori	Microorganism	MockLabel
+126	145	Helicobacter pylori	Microorganism	MockLabel
+244	253	H. pylori	Microorganism	MockLabel
+263	271	duodenal	Habitat	MockLabel
+263	277	duodenal ulcer	Habitat	MockLabel
+387	401	duodenal ulcer	Habitat	MockLabel
+387	395	duodenal	Habitat	MockLabel
+414	423	H. pylori	Microorganism	MockLabel
+556	564	duodenal	Habitat	MockLabel
+556	570	duodenal ulcer	Habitat	MockLabel
+583	592	H. pylori	Microorganism	MockLabel
+680	685	ulcer	Habitat	MockLabel
+710	719	H. pylori	Microorganism	MockLabel
+816	830	duodenal ulcer	Habitat	MockLabel
+816	824	duodenal	Habitat	MockLabel
+843	852	H. pylori	Microorganism	MockLabel
+994	1002	duodenal	Habitat	MockLabel
+994	1008	duodenal ulcer	Habitat	MockLabel
+1055	1064	H. pylori	Microorganism	MockLabel
+1151	1159	duodenal	Habitat	MockLabel
+1151	1165	duodenal ulcer	Habitat	MockLabel
+1178	1187	H. pylori	Microorganism	MockLabel
+1410	1419	H. pylori	Microorganism	MockLabel
+1423	1451	patients with duodenal ulcer	Habitat	MockLabel
+1437	1445	duodenal	Habitat	MockLabel
+1437	1451	duodenal ulcer	Habitat	MockLabel

@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+17	38	core Beaufort cheeses	Habitat	
+22	38	Beaufort cheeses	Habitat	
+90	108	core Comté cheeses	Habitat	
+95	108	Comté cheeses	Habitat	
+195	214	part of the  cheese	Habitat	
+208	214	cheese	Habitat	
+298	304	cheese	Habitat	
+298	309	cheese core	Habitat	
+314	320	cheese	Habitat	
+314	328	cheese surface	Habitat	
+334	345	cheese core	Habitat	
+334	340	cheese	Habitat	
+382	385	LAB	Phenotype	
+387	405	Lactococcus lactis	Microorganism	
+407	430	Lactobacillus plantarum	Microorganism	
+432	457	Leuconostoc mesenteroides	Microorganism	
+463	489	Streptococcus thermophilus	Microorganism	
+504	510	cheese	Habitat	
+504	518	cheese surface	Habitat	
+546	559	staphylococci	Microorganism	
+564	577	gram-negative	Phenotype	
+588	603	Moraxella bovis	Microorganism	
+608	623	Pseudomonas sp.	Microorganism	

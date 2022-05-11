@@ -1,0 +1,9 @@
+T1	Title 0 94	Influence of PAX6 gene dosage on development: overexpression causes severe eye abnormalities.
+T2	Paragraph 94 985	Aniridia in man and Small eye in mice are semidominant developmental disorders caused by mutations within the paired box gene PAX6. Whereas heterozygotes suffer from iris hypoplasia, homozygous mice lack eyes and nasal cavities and exhibit brain abnormalities. To investigate the role of gene dosage in more detail, we have generated yeast artificial chromosome transgenic mice carrying the human PAX6 locus. When crossed onto the Small eye background, the transgene rescues the mutant phenotype. Strikingly, mice carrying multiple copies on a wild-type background show specific developmental abnormalities of the eye, but not of other tissues expressing the gene. Thus, at least five different eye phenotypes are associated with changes in PAX6 expression. We provide evidence that not only reduced, but also increased levels of transcriptional regulators can cause developmental defects..
+T3	DiseaseClass 75 92	eye abnormalities
+T4	SpecificDisease 94 102	Aniridia
+T5	DiseaseClass 136 172	semidominant developmental disorders
+T6	SpecificDisease 260 275	iris hypoplasia
+T7	DiseaseClass 334 353	brain abnormalities
+T8	DiseaseClass 673 711	developmental abnormalities of the eye
+T9	DiseaseClass 961 982	developmental defects

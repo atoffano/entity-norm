@@ -1,0 +1,19 @@
+T1	Title 0 74	Increased incidence of cancer in patients with cartilage-hair hypoplasia.
+T2	Paragraph 74 1389	OBJECTIVE  Previous reports have suggested an increased risk of cancer among patients with cartilage-hair hypoplasia (CHH). This study was carried out to further evaluate this risk among patients with CHH and their first-degree relatives. STUDY DESIGN  One hundred twenty-two patients with CHH were identified through 2 countrywide epidemiologic surveys in 1974 and in 1986. Their parents and nonaffected siblings were identified through the Population Register Center. This cohort underwent follow-up for cancer incidence through the Finnish Cancer Registry to the end of 1995. RESULTS  A statistically significant excess risk of cancer was seen among the patients with CHH (standardized incidence ratio 6. 9, 95% confidence interval 2. 3 to 16), which was mainly attributable to non-Hodgkins lymphoma  (standardized incidence ratio 90, 95% confidence interval 18 to 264). In addition, a significant excess risk of basal cell carcinoma was seen (standardized incidence ratio 35, 95% confidence interval 7. 2 to 102). The cancer incidence among the siblings or the parents did not differ from the average cancer incidence in the Finnish population. CONCLUSIONS  This study confirms an increased risk of cancer, especially non-Hodgkins lymphoma, probably attributable to defective immunity, among patients with CHH.
+T3	DiseaseClass 23 29	cancer
+T4	SpecificDisease 47 72	cartilage-hair hypoplasia
+T5	DiseaseClass 138 144	cancer
+T6	SpecificDisease 165 190	cartilage-hair hypoplasia
+T7	SpecificDisease 192 195	CHH
+T8	SpecificDisease 275 278	CHH
+T9	SpecificDisease 364 367	CHH
+T10	Modifier 580 586	cancer
+T11	DiseaseClass 705 711	cancer
+T12	SpecificDisease 745 748	CHH
+T13	SpecificDisease 855 876	non-Hodgkins lymphoma
+T14	SpecificDisease 990 1010	basal cell carcinoma
+T15	Modifier 1096 1102	cancer
+T16	Modifier 1179 1185	cancer
+T17	DiseaseClass 1277 1283	cancer
+T18	SpecificDisease 1296 1317	non-Hodgkins lymphoma
+T19	SpecificDisease 1384 1387	CHH

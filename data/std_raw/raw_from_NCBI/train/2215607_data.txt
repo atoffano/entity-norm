@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+362	377	CETP deficiency	SpecificDisease	OMIM:143470
+874	889	CETP deficiency	SpecificDisease	OMIM:143470
+912	932	hypercholesterolemia	SpecificDisease	D006937
+1547	1562	CETP deficiency	SpecificDisease	OMIM:143470
+1705	1720	CETP deficiency	SpecificDisease	OMIM:143470
+2000	2025	premature atherosclerosis	SpecificDisease	D050197
+2047	2062	CETP deficiency	SpecificDisease	OMIM:143470
+2113	2128	CETP deficiency	SpecificDisease	OMIM:143470

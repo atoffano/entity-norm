@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+14	35	lactic acid bacterial	Phenotype	OBT:000019
+43	46	LAB	Phenotype	OBT:000019
+676	689	Gram positive	Phenotype	OBT:000649
+690	693	rod	Phenotype	OBT:000848
+696	711	microaerophilic	Phenotype	OBT:000347

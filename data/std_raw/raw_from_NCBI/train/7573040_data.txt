@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+90	137	spinocerebellar ataxia 3/Machado-Joseph disease	Modifier	D017827
+149	173	spinocerebellar ataxia 3	Modifier	D017827
+181	185	SCA3	SpecificDisease	D017827
+191	234	type I autosomal dominant cerebellar ataxia	SpecificDisease	OMIM:109150
+236	247	ADCA type I	SpecificDisease	OMIM:109150
+302	329	neurodegenerative disorders	DiseaseClass	D019636
+373	384	ADCA type I	Modifier	OMIM:109150
+420	424	SCA3	SpecificDisease	D017827
+475	497	Machado-Joseph disease	SpecificDisease	D017827
+499	502	MJD	SpecificDisease	D017827
+619	630	ADCA type I	Modifier	OMIM:109150
+731	765	dentatorubropallidoluysian atrophy	SpecificDisease	OMIM:125370
+844	847	MJD	SpecificDisease	D017827

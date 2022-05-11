@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+1533	1599	widespread bacterial resistance due to unrestricted antibiotic use	Phenotype	OBT:002674

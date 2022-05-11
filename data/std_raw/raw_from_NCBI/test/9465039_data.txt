@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+4	19	hemochromatosis	Modifier	D006432
+185	211	hereditary hemochromatosis	SpecificDisease	D006432
+1984	2010	hereditary hemochromatosis	SpecificDisease	D006432

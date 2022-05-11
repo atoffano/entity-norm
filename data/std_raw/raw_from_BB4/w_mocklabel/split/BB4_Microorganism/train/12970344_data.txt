@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+377	406	Zobellia galactanivorans Dsij	Microorganism	63186
+564	580	Escherichia coli	Microorganism	562
+1476	1499	Z. galactanivorans Dsij	Microorganism	63186

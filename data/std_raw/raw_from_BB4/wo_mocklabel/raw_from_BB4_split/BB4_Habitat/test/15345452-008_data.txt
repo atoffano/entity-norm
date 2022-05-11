@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+9	23	Munster cheese	Habitat	
+354	368	Munster cheese	Habitat	
+462	476	Morbier cheese	Habitat	
+890	904	Morbier cheese	Habitat	
+1576	1591	Epoisses cheese	Habitat	
+2094	2104	salt water	Habitat	

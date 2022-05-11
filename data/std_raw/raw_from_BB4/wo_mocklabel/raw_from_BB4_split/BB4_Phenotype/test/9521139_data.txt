@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+22	43	antibiotic resistance	Phenotype	
+251	272	antibiotic resistance	Phenotype	
+652	673	antibiotic resistance	Phenotype	
+974	994	Antibiotic-resistant	Phenotype	

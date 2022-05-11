@@ -1,0 +1,8 @@
+T1	Title 0 99	Identification of a novel mutation of the CPO gene in a Japanese hereditary coproporphyria family.
+T2	Paragraph 99 973	Hereditary coproporphyria (HCP) is an autosomal dominant disease characterized by a deficiency of coproporphyrinogen oxidase (CPO) caused by a mutation in the CPO gene. Only 11 mutations of the gene have been reported in HCP patients. We report another mutation in a Japanese family. Polymerase chain reaction-single strand conformational polymorphism and direct sequence analyses demonstrated a C to T substitution in exon 1 of the CPO gene at nucleotide position 85, which lies in the putative presequence for targeting to mitochondria. This mutation changes the codon for glutamine to a termination codon at amino acid position 29. MaeI restriction analysis showed two other carriers in the family. The C-T mutation is located within a recently proposed putative alternative translation initiation codon (TIC-1), supporting that TIC-1 is the real TIC rather than TIC-2..
+T3	Modifier 65 90	hereditary coproporphyria
+T4	SpecificDisease 99 124	Hereditary coproporphyria
+T5	SpecificDisease 126 129	HCP
+T6	DiseaseClass 137 163	autosomal dominant disease
+T7	SpecificDisease 183 223	deficiency of coproporphyrinogen oxidase
+T8	Modifier 320 323	HCP

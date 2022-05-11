@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+89	98	pathogens	Phenotype	
+406	415	pathogens	Phenotype	
+1226	1235	pathogens	Phenotype	
+1349	1358	pathogens	Phenotype	

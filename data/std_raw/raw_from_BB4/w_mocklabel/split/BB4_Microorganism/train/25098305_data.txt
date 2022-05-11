@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+53	63	Mycoplasma	Microorganism	2093
+476	496	Mycoplasma agassizii	Microorganism	33922
+501	523	Mycoplasma testudineum	Microorganism	244584
+640	652	M. agassizii	Microorganism	33922
+827	841	M. testudineum	Microorganism	244584
+1172	1186	M. testudineum	Microorganism	244584
+1329	1341	M. agassizii	Microorganism	33922
+1346	1360	M. testudineum	Microorganism	244584

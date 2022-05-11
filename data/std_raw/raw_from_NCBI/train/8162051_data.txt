@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+21	24	APC	Modifier	D011125
+129	155	adenomatous polyposis coli	SpecificDisease	D011125
+238	264	adenomatous polyposis coli	SpecificDisease	D011125
+266	269	APC	SpecificDisease	D011125
+762	768	cancer	Modifier	D009369
+897	900	APC	Modifier	D011125
+1212	1215	APC	Modifier	D011125

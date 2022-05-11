@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+20	42	Salmonella Paratyphi A	Microorganism	54388
+59	76	israeli travelers	Habitat	OBT:003308
+96	118	Salmonella Paratyphi A	Microorganism	54388
+149	158	travelers	Habitat	OBT:003308
+235	249	S. Paratyphi A	Microorganism	54388
+273	290	Israeli travelers	Habitat	OBT:003308
+402	410	patients	Habitat	OBT:003269
+467	495	antimicrobial susceptibility	Phenotype	OBT:002338
+584	601	Israeli travelers	Habitat	OBT:003308
+643	657	S. Paratyphi A	Microorganism	54388
+738	762	nalidixic acid resistant	Phenotype	OBT:002823
+771	781	food venue	Habitat	OBT:000607
+771	775	food	Habitat	OBT:000094
+903	911	patients	Habitat	OBT:003269
+973	1035	patients treated with ceftriaxone and azithromycin combination	Habitat	OBT:003269
+1072	1114	cases treated with ceftriaxone monotherapy	Habitat	OBT:003269
+1244	1261	Israeli travelers	Habitat	OBT:003308

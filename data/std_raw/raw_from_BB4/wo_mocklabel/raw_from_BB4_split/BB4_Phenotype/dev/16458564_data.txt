@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+390	399	pathogens	Phenotype	OBT:002806
+502	527	antibiotic susceptibility	Phenotype	OBT:002675
+697	705	pathogen	Phenotype	OBT:002806
+786	799	diarrheagenic	Phenotype	OBT:002806
+836	851	enterotoxigenic	Phenotype	OBT:002806
+1004	1017	diarrheagenic	Phenotype	OBT:002806
+1107	1122	enterotoxigenic	Phenotype	OBT:002806
+1175	1188	Diarrheagenic	Phenotype	OBT:002806
+1240	1253;1290	resistance to trimethoprim/sulfamethoxazole	Phenotype	OBT:002844
+1240	1264	resistance to ampicillin	Phenotype	OBT:002762
+1240	1253;1266	resistance to chloramphenicol	Phenotype	OBT:002772
+2044	2057	diarrheagenic	Phenotype	OBT:002806
+2094	2109	enterotoxigenic	Phenotype	OBT:002806

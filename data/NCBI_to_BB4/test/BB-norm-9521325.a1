@@ -1,0 +1,12 @@
+T1	Title 0 79	Genetic basis and molecular mechanism for idiopathic ventricular fibrillation.
+T2	Paragraph 79 1264	Ventricular fibrillation causes more than 300, 000 sudden deaths each year in the USA alone. In approximately 5-12% of these cases, there are no demonstrable cardiac or non-cardiac causes to account for the episode, which is therefore classified as idiopathic ventricular fibrillation (IVF). A distinct group of IVF patients has been found to present with a characteristic electrocardiographic pattern. Because of the small size of most pedigrees and the high incidence of sudden death, however, molecular genetic studies of IVF have not yet been done. Because IVF causes cardiac rhythm disturbance, we investigated whether malfunction of ion channels could cause the disorder by studying mutations in the cardiac sodium channel gene SCN5A. We have now identified a missense mutation, a splice-donor mutation, and a frameshift mutation in the coding region of SCN5A in three IVF families. We show that sodium channels with the missense mutation recover from inactivation more rapidly than normal and that the frameshift mutation causes the sodium channel to be non-functional. Our results indicate that mutations in cardiac ion-channel genes contribute to the risk of developing IVF..
+T3	SpecificDisease 42 77	idiopathic ventricular fibrillation
+T4	SpecificDisease 79 103	Ventricular fibrillation
+T5	SpecificDisease 328 363	idiopathic ventricular fibrillation
+T6	SpecificDisease 365 368	IVF
+T7	Modifier 391 394	IVF
+T8	SpecificDisease 552 564	sudden death
+T9	SpecificDisease 604 607	IVF
+T10	SpecificDisease 640 643	IVF
+T11	Modifier 954 957	IVF
+T12	SpecificDisease 1258 1261	IVF

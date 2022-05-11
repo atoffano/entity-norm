@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+63	88	Streptococcus infantarius	Microorganism	150054
+104	135	Western African fermented milks	Habitat	OBT:003146
+162	165	3AG	Microorganism	1255600
+170	174	11FA	Microorganism	1255580
+221	227	infant	Habitat	OBT:003263
+221	233	infant feces	Habitat	OBT:001102
+236	248	ATCC BAA-102	Microorganism	471872
+265	269	CJ18	Microorganism	1069533
+285	316	Eastern African  fermented milk	Habitat	OBT:003146

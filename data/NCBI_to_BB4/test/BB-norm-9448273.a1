@@ -1,0 +1,20 @@
+T1	Title 0 99	The von Hippel-Lindau tumor suppressor gene is required for cell cycle exit upon serum withdrawal.
+T2	Paragraph 99 1433	The inactivation of the von Hippel-Lindau (VHL) tumor suppressor gene predisposes affected individuals to the human VHL cancer syndrome and is associated with sporadic renal cell carcinomas (RCC) and brain hemangioblastomas. VHL-negative 786-0 RCC cells are tumorigenic in nude mice which is suppressed by the reintroduction of VHL. Remarkably, this occurs without affecting the growth rate and cell cycle profile of these cells in culture. The 786-0 cell line, like many cancer cells, fails to exit the cell cycle upon serum withdrawal. Here, it is shown that reintroduction of the wild-type VHL gene restores the ability of VHL-negative RCC cancer cells to exit the cell cycle and enter G0/quiescence in low serum. Both VHL-positive and VHL-negative RCC cells exit the cell cycle by contact inhibition. The cyclin-dependent kinase inhibitor, p27, accumulates upon serum withdrawal, only in the presence of VHL, as a result of the stabilization of the protein. We propose that the loss of wild-type VHL gene results in a specific cellular defect in serum-dependent growth control, which may initiate tumor formation. This is corrected by the reintroduction of wild-type VHL, implicating VHL as the first tumor suppressor involved in the regulation of cell cycle exit, which is consistent with its gatekeeper function in the kidney..
+T3	Modifier 4 27	von Hippel-Lindau tumor
+T4	Modifier 123 152	von Hippel-Lindau (VHL) tumor
+T5	SpecificDisease 215 234	VHL cancer syndrome
+T6	SpecificDisease 258 288	sporadic renal cell carcinomas
+T7	SpecificDisease 290 293	RCC
+T8	SpecificDisease 299 322	brain hemangioblastomas
+T9	Modifier 343 346	RCC
+T10	SpecificDisease 427 430	VHL
+T11	Modifier 571 577	cancer
+T12	Modifier 692 695	VHL
+T13	Modifier 738 748	RCC cancer
+T14	Modifier 851 854	RCC
+T15	SpecificDisease 1007 1010	VHL
+T16	Modifier 1099 1102	VHL
+T17	Modifier 1200 1205	tumor
+T18	SpecificDisease 1270 1273	VHL
+T19	SpecificDisease 1287 1290	VHL
+T20	Modifier 1304 1309	tumor

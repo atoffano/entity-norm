@@ -1,0 +1,15 @@
+T1	Title 0 149	Detection of heterozygous carriers of the ataxia-telangiectasia (ATM) gene by G2 phase chromosomal radiosensitivity of peripheral blood lymphocytes.
+T2	Paragraph 149 1329	In ataxia-telangiectasia (A-T) patients, mutations in a single gene, ATM, result in an autosomal recessive syndrome that embraces a variety of clinical features and manifests extreme radiosensitivity and a strong pre-disposition to malignancy. Heterozygotes for the ATM gene have no clinical expression of A-T but may be cancer prone with a moderate increase in in vitro radiosensitivity. We performed a blind chromosomal analysis on G2-phase lymphocytes from 7 unrelated A-T patients, 13 obligate A-T heterozygotes (parents of the patients), and 14 normal controls following X-irradiation with 1 Gy in order to evaluate this cytogenetic method as a tool for detection of ATM carriers. Both A-T homozygotes and heterozygotes showed significantly increased levels of radiation-induced chromatid damage relative to that of normal controls. These results show that the G2-phase chromosomal radiosensitivity assay can be used for the detection of A-T heterozygotes. In combination with molecular genetic analyses, this test may be of value in studies of familial and sporadic cancers aimed at determination of the potential involvement of ATM mutations in tumor risk or development..
+T3	Modifier 42 63	ataxia-telangiectasia
+T4	Modifier 152 173	ataxia-telangiectasia
+T5	Modifier 175 178	A-T
+T6	DiseaseClass 236 264	autosomal recessive syndrome
+T7	DiseaseClass 381 391	malignancy
+T8	SpecificDisease 455 458	A-T
+T9	Modifier 470 476	cancer
+T10	Modifier 621 624	A-T
+T11	Modifier 647 650	A-T
+T12	Modifier 840 843	A-T
+T13	Modifier 1092 1095	A-T
+T14	CompositeMention 1199 1228	familial and sporadic cancers
+T15	Modifier 1301 1306	tumor

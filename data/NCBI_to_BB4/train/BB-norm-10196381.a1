@@ -1,0 +1,11 @@
+T1	Title 0 144	Adrenoleukodystrophy-related protein can compensate functionally for adrenoleukodystrophy protein deficiency (X-ALD): implications for therapy.
+T2	Paragraph 144 1452	Inherited defects in the peroxisomal ATP-binding cassette (ABC) transporter adrenoleukodystrophy protein (ALDP) lead to the lethal peroxisomal disorder X-linked adrenoleukodystrophy (X-ALD), for which no efficient treatment has been established so far. Three other peroxisomal ABC transporters currently are known  adrenoleukodystrophy-related protein (ALDRP), 70 kDa peroxisomal membrane protein (PMP70) and PMP70- related protein. By using transient and stable overexpression of human cDNAs encoding ALDP and its closest relative ALDRP, we could restore the impaired peroxisomal beta-oxidation in fibroblasts of X-ALD patients. The pathognomonic accumulation of very long chain fatty acids could also be prevented by overexpression of ALDRP in immortalized X-ALD cells. Immunofluorescence analysis demonstrated that the functional replacement of ALDP by ALDRP was not due to stabilization of the mutated ALDP itself. Moreover, we were able to restore the peroxisomal beta-oxidation defect in the liver of ALDP-deficient mice by stimulation of ALDRP and PMP70 gene expression through a dietary treatment with the peroxisome proliferator fenofibrate. These results suggest that a correction of the biochemical defect in X-ALD could be possible by drug-induced overexpression or ectopic expression of ALDRP..
+T3	SpecificDisease 69 108	adrenoleukodystrophy protein deficiency
+T4	SpecificDisease 110 115	X-ALD
+T5	DiseaseClass 144 161	Inherited defects
+T6	Modifier 220 240	adrenoleukodystrophy
+T7	DiseaseClass 275 295	peroxisomal disorder
+T8	SpecificDisease 296 325	X-linked adrenoleukodystrophy
+T9	SpecificDisease 327 332	X-ALD
+T10	Modifier 758 763	X-ALD
+T11	SpecificDisease 1364 1369	X-ALD

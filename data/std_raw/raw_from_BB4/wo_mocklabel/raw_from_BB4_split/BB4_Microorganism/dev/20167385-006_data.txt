@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+0	16	S. saprophyticus	Microorganism	29385
+534	544	S. equorum	Microorganism	246432

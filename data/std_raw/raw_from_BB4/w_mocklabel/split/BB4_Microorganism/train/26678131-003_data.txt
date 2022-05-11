@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+41	60	Lb. plantarum (FH3)	Microorganism	1590
+62	76	H. alvei (B16)	Microorganism	569
+78	95	Lc. lactis (D5.3)	Microorganism	1358
+136	147	Leuconostoc	Microorganism	1243
+149	160	Lactococcus	Microorganism	1357
+162	175	Lactobacillus	Microorganism	1578
+209	220	Pseudomonas	Microorganism	286
+306	317	Pseudomonas	Microorganism	286

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+44	57	Psychrobacter	Microorganism	497
+69	106	surface of Formaggio di  Fossa cheese	Habitat	OBT:001341
+80	106	Formaggio di  Fossa cheese	Habitat	OBT:003473

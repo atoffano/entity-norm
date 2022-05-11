@@ -1,0 +1,28 @@
+start	end	mention	_class	labels
+63	83	lactic acid bacteria	Phenotype	
+122	143	Debaryomyces hansenii	Microorganism	
+148	167	Geotrichum candidum	Microorganism	
+211	225	cheese surface	Habitat	
+211	217	cheese	Habitat	
+390	408	coagulase-negative	Phenotype	
+409	422	staphylococci	Microorganism	
+431	453	Staphylococcus equorum	Microorganism	
+458	471	salt-tolerant	Phenotype	
+458	493	salt-tolerant bacterial communities	Habitat	
+503	514	coryneforms	Microorganism	
+525	545	Corynebacterium spp.	Microorganism	
+547	564	Arthrobacter spp.	Microorganism	
+566	582	Micrococcus spp.	Microorganism	
+584	603	Brevibacterium spp.	Microorganism	
+608	629	Brachybacterium  spp.	Microorganism	
+669	699	entire surface of the  cheeses	Habitat	
+692	699	cheeses	Habitat	
+701	720	Coryneform bacteria	Microorganism	
+750	762	cheese rinds	Habitat	
+750	756	cheese	Habitat	
+860	873	Gram-negative	Phenotype	
+891	905	Halomonas spp.	Microorganism	
+907	918	Vibrio spp.	Microorganism	
+924	936	Hafnia alvei	Microorganism	
+959	965	cheese	Habitat	
+959	974	cheese surfaces	Habitat	

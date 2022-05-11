@@ -1,0 +1,15 @@
+T1	Title 0 147	Pelizaeus-Merzbacher disease: an X-linked neurologic disorder of myelin metabolism with a novel mutation in the gene encoding proteolipid protein.
+T2	Paragraph 147 1889	The nosology of the inborn errors of myelin metabolism has been stymied by the lack of molecular genetic analysis. Historically, Pelizaeus-Merzbacher disease has encompassed a host of neurologic disorders that present with a deficit of myelin, the membrane elaborated by glial cells that encircles and successively enwraps axons. We describe here a Pelizaeus-Merzbacher pedigree of the classical type, with X-linked inheritance, a typical clinical progression, and a pathologic loss of myelinating cells and myelin in the central nervous system. To discriminate variants of Pelizaeus-Merzbacher disease, a set of oligonucleotide primers was constructed to polymerase-chain-reaction (PCR) amplify and sequence the gene encoding proteolipid protein (PLP), a structural protein that comprises half of the protein of the myelin sheath. The PLP gene in one of two affected males and the carrier mother of this family exhibited a single base difference in the more than 2 kb of the PLP gene sequenced, a C----T transition that would create a serine substitution for proline at the carboxy end of the protein. Our results delineate the clinical features of Pelizaeus-Merzbacher disease, define the possible molecular pathology of this dysmyelinating disorder, and address the molecular classification of inborn errors of myelin metabolism. Patients with the classical form (type I) and the more severely affected, connatal variant of Pelizaeus-Merzbacher disease (type II) would be predicted to display mutation at the PLP locus. The other variants (types III-VI), which have sometimes been categorized as Pelizaeus-Merzbacher disease, may represent mutations in genes encoding other structural myelin proteins or proteins critical to myelination..
+T3	SpecificDisease 0 28	Pelizaeus-Merzbacher disease
+T4	DiseaseClass 33 82	X-linked neurologic disorder of myelin metabolism
+T5	DiseaseClass 167 201	inborn errors of myelin metabolism
+T6	SpecificDisease 276 304	Pelizaeus-Merzbacher disease
+T7	DiseaseClass 331 351	neurologic disorders
+T8	DiseaseClass 372 389	deficit of myelin
+T9	Modifier 496 516	Pelizaeus-Merzbacher
+T10	SpecificDisease 721 749	Pelizaeus-Merzbacher disease
+T11	SpecificDisease 1297 1325	Pelizaeus-Merzbacher disease
+T12	DiseaseClass 1375 1398	dysmyelinating disorder
+T13	DiseaseClass 1444 1478	inborn errors of myelin metabolism
+T14	SpecificDisease 1574 1612	Pelizaeus-Merzbacher disease (type II)
+T15	SpecificDisease 1746 1774	Pelizaeus-Merzbacher disease

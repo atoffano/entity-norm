@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+48	67	Helicobacter pylori	Microorganism	
+233	252	Helicobacter pylori	Microorganism	
+458	467	H. pylori	Microorganism	
+636	645	H. pylori	Microorganism	
+780	789	H. pylori	Microorganism	
+1238	1247	H. pylori	Microorganism	

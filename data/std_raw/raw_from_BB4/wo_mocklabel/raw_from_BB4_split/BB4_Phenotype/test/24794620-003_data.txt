@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+63	83	lactic acid bacteria	Phenotype	
+390	408	coagulase-negative	Phenotype	
+458	471	salt-tolerant	Phenotype	
+860	873	Gram-negative	Phenotype	

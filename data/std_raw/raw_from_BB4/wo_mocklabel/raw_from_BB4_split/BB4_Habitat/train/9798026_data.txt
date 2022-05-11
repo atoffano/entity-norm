@@ -1,0 +1,20 @@
+start	end	mention	_class	labels
+86	93	gastric	Habitat	OBT:001792
+109	158	human immunodeficiency virus-infected outpatients	Habitat	OBT:003206|OBT:003269
+209	216	gastric	Habitat	OBT:001792
+235	285	persons infected with human immunodeficiency virus	Habitat	OBT:003206
+297	318	asymptomatic subjects	Habitat	OBT:003206|OBT:003269
+392	399	Gastric	Habitat	OBT:001792
+421	428	gastric	Habitat	OBT:001792
+505	513	CD4 cell	Habitat	OBT:001623
+604	611	gastric	Habitat	OBT:001792
+616	641	Subjects with hypoacidity	Habitat	OBT:003206|OBT:003269
+705	733	subjects without hypoacidity	Habitat	OBT:003206|OBT:003269
+931	938	gastric	Habitat	OBT:001792
+1021	1025	male	Habitat	OBT:003451
+1071	1078	gastric	Habitat	OBT:001792
+1083	1091	CD4 cell	Habitat	OBT:001623
+1136	1143	gastric	Habitat	OBT:001792
+1205	1217;1228	HIV-positive Hispanic populations	Habitat	OBT:003206
+1205	1223;1237	HIV-positive black populations	Habitat	OBT:003206
+1271	1278	gastric	Habitat	OBT:001792

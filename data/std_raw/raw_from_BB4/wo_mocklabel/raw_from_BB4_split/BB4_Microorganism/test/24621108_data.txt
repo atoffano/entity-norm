@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+526	547	Staphylococcus aureus	Microorganism	
+552	574	Salmonella Typhimurium	Microorganism	
+584	606	Listeria monocytogenes	Microorganism	
+611	635	Escherichia coli O157:H7	Microorganism	
+710	719	S. aureus	Microorganism	
+721	737	L. monocytogenes	Microorganism	
+739	754	E. coli O157:H7	Microorganism	
+760	774	S. Typhimurium	Microorganism	
+854	863	S. aureus	Microorganism	
+865	881	L. monocytogenes	Microorganism	
+883	898	E. coli O157:H7	Microorganism	
+904	918	S. Typhimurium	Microorganism	
+1024	1033	S. aureus	Microorganism	
+1039	1055	L. monocytogenes	Microorganism	

@@ -1,0 +1,8 @@
+T1	Title 0 66	Two distinct mutations at a single BamHI site in phenylketonuria.
+T2	Paragraph 66 703	Classical phenylketonuria is an autosomal recessive disease caused by a deficiency of hepatic phenylalanine hydroxylase (PAH). The abolition of an invariant BamHI site located in the coding sequence of the PAH gene (exon 7) led to the recognition of two new point mutations at codon 272 and 273 (272gly----stop and 273ser----phe, respectively). Both mutations were detected in north eastern France or Belgium and occurred on the background of RFLP haplotype 7 alleles. The present study supports the view that the clinical heterogeneity in PKU is accounted for by the large variety of mutant genotypes associated with PAH deficiencies..
+T3	SpecificDisease 49 64	phenylketonuria
+T4	SpecificDisease 66 91	Classical phenylketonuria
+T5	DiseaseClass 98 125	autosomal recessive disease
+T6	SpecificDisease 138 185	deficiency of hepatic phenylalanine hydroxylase
+T7	SpecificDisease 606 609	PKU
+T8	SpecificDisease 684 700	PAH deficiencies

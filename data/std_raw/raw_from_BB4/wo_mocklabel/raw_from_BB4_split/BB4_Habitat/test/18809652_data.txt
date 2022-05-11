@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+192	206	gastroduodenal	Habitat	
+263	273	epithelial	Habitat	
+263	278	epithelial cell	Habitat	

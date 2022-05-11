@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+15	18	LAB	Phenotype	OBT:000019
+24	54	yield of heteropolysaccharides	Phenotype	OBT:000019
+106	119	EPS producers	Phenotype	OBT:000019
+123	144	L. rhamnosus RW-9595M	Microorganism	47715
+182	217	Lactobacillus kefiranofaciens WT-2B	Microorganism	267818
+263	288	L. lactis subsp. cremoris	Microorganism	1359
+304	319	S. thermophilus	Microorganism	1308
+335	378	Lactobacillus delbrueckii subsp. bulgaricus	Microorganism	1585
+394	413	Lactobacillus casei	Microorganism	1582
+447	459	L. plantarum	Microorganism	1590

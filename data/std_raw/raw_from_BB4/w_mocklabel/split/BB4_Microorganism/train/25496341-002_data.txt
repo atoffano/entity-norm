@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+67	79	Arthrobacter	Microorganism	1663
+174	186	Arthrobacter	Microorganism	1663
+506	537	Arthrobacter arilaitensis Re117	Microorganism	861360

@@ -1,0 +1,17 @@
+T1	Title 0 148	Null mutation of the murine ATP7B (Wilson disease) gene results in intracellular copper accumulation and late-onset hepatic nodular transformation.
+T2	Paragraph 148 1559	The Atp7b protein is a copper-transporting ATPase expressed predominantly in the liver and to a lesser extent in most other tissues. Mutations in the ATP7B gene lead to Wilson disease, a copper toxicity disorder characterized by dramatic build-up of intracellular hepatic copper with subsequent hepatic and neuro-logical abnormalities. Using homologous recombination to disrupt the normal translation of ATP7B, we have generated a strain of mice that are homozygous mutants (null) for the Wilson disease gene. The ATP7B null mice display a gradual accumulation of hepatic copper that increases to a level 60-fold greater than normal by 5 months of age. An increase in copper concentration was also observed in the kidney, brain, placenta and lactating mammary glands of homo-zygous mutants, although milk from the mutant glands was copper deficient. Morphological abnormalities resembling cirrhosis developed in the majority of the livers from homozygous mutants older than 7 months of age. Progeny of the homozygous mutant females demonstrated neurological abnormalities and growth retardation characteristic of copper deficiency. Copper concentration in the livers of the newborn homozygous null mutants was decreased dramatically. In summary, inactivation of the murine ATP7B gene produces a form of cirrhotic liver disease that resembles Wilson disease in humans and the toxic milk phenotype in the mouse..
+T3	SpecificDisease 35 49	Wilson disease
+T4	DiseaseClass 67 100	intracellular copper accumulation
+T5	DiseaseClass 105 146	late-onset hepatic nodular transformation
+T6	SpecificDisease 317 331	Wilson disease
+T7	DiseaseClass 335 359	copper toxicity disorder
+T8	CompositeMention 443 482	hepatic and neuro-logical abnormalities
+T9	Modifier 637 651	Wilson disease
+T10	DiseaseClass 980 996	copper deficient
+T11	DiseaseClass 998 1025	Morphological abnormalities
+T12	SpecificDisease 1037 1046	cirrhosis
+T13	DiseaseClass 1193 1219	neurological abnormalities
+T14	DiseaseClass 1224 1242	growth retardation
+T15	SpecificDisease 1261 1278	copper deficiency
+T16	DiseaseClass 1451 1474	cirrhotic liver disease
+T17	SpecificDisease 1490 1504	Wilson disease

@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+0	21	Ataxia-telangiectasia	SpecificDisease	D001260
+100	128	autosomal recessive disorder	DiseaseClass	D030342
+129	150	ataxia-telangiectasia	SpecificDisease	D001260
+152	155	A-T	SpecificDisease	D001260
+175	198	cerebellar degeneration	DiseaseClass	D013132
+200	216	immunodeficiency	DiseaseClass	D007153
+221	242	cancer predisposition	DiseaseClass	D009369
+244	247	A-T	Modifier	D001260
+288	300	cancer-prone	DiseaseClass	D009369
+320	323	A-T	Modifier	D001260
+563	566	A-T	Modifier	D001260
+1095	1098	A-T	Modifier	D001260

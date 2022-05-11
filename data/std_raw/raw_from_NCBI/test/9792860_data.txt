@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+89	124	autosomal recessive Alport syndrome	SpecificDisease	C536587
+126	161	Autosomal recessive Alport syndrome	SpecificDisease	C536587
+179	207	hematuric glomerulonephritis	SpecificDisease	D005921
+225	267	glomerular basement membrane abnormalities	DiseaseClass	D005921
+716	751	autosomal recessive Alport syndrome	SpecificDisease	C536587

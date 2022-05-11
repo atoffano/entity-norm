@@ -1,0 +1,14 @@
+T1	Title 0 76	Myotonic dystrophy: evidence for a possible dominant-negative RNA mutation.
+T2	Paragraph 76 1611	The trinucleotide expansion mutation causing myotonic dystrophy is in the 3 untranslated region of a protein kinase gene. The molecular mechanisms by which the expanded repeat causes the clinically variable and multisystemic disease, myotonic dystrophy, are not understood. It has been particularly difficult to rationalize the dominant inheritance with the fact that the expansion mutation lies outside of the protein-encoding gene elements, and should not be translated into protein. Here we use muscle biopsies from classical adult-onset myotonic dystrophy patients to study the accumulation of transcripts from both the normal and expanded DM kinase genes in patient muscle, and compare the results to normal and myopathic controls. We found relatively small decreases of DM kinase RNA in the total RNA pool from muscle; however, these reductions were not disease specific. Analysis of poly (A) + RNA showed dramatic decreases of both the mutant and normal DM kinase RNAs, and these changes were disease-specific. Our findings are consistent with a novel molecular pathogenetic mechanism for myotonic dystrophy  both the normal and expanded DM kinase genes are transcribed in patient muscle, but the abnormal expansion-containing RNA has a dominant effect on RNA metabolism by preventing the accumulation of poly (A) + RNA. The ability of the expansion mutation to alter accumulation of poly (A) + RNA in trans suggests that myotonic dystrophy may be the first example of a dominant-negative mutation manifested at the RNA level..
+T3	SpecificDisease 0 18	Myotonic dystrophy
+T4	SpecificDisease 121 139	myotonic dystrophy
+T5	DiseaseClass 287 308	multisystemic disease
+T6	SpecificDisease 310 328	myotonic dystrophy
+T7	Modifier 617 635	myotonic dystrophy
+T8	Modifier 720 722	DM
+T9	Modifier 793 802	myopathic
+T10	Modifier 852 854	DM
+T11	Modifier 1037 1039	DM
+T12	SpecificDisease 1172 1190	myotonic dystrophy
+T13	Modifier 1221 1223	DM
+T14	SpecificDisease 1505 1523	myotonic dystrophy

@@ -1,0 +1,14 @@
+T1	Title 0 195	MEFV-Gene analysis in armenian patients with Familial Mediterranean fever: diagnostic value and unfavorable renal prognosis of the M694V homozygous genotype-genetic and therapeutic implications.
+T2	Paragraph 195 1604	Familial Mediterranean fever (FMF) is a recessively inherited disorder that is common in patients of Armenian ancestry. To date, its diagnosis, which can be made only retrospectively, is one of exclusion, based entirely on nonspecific clinical signs that result from serosal inflammation and that may lead to unnecessary surgery. Renal amyloidosis, prevented by colchicine, is the most severe complication of FMF, a disorder associated with mutations in the MEFV gene. To evaluate the diagnostic and prognostic value of MEFV-gene analysis, we investigated 90 Armenian FMF patients from 77 unrelated families that were not selected through genetic-linkage analysis. Eight mutations, one of which (R408Q) is new, were found to account for 93% of the 163 independent FMF alleles, with both FMF alleles identified in 89% of the patients. In several instances, family studies provided molecular evidence for pseudodominant transmission and incomplete penetrance of the disease phenotype. The M694V homozygous genotype was found to be associated with a higher prevalence of renal amyloidosis and arthritis, compared with other genotypes (P =. 0002 and P =. 006, respectively). The demonstration of both the diagnostic and prognostic value of MEFV analysis and particular modes of inheritance should lead to new ways for management of FMF-including genetic counseling and therapeutic decisions in affected families.
+T3	SpecificDisease 45 73	Familial Mediterranean fever
+T4	SpecificDisease 195 223	Familial Mediterranean fever
+T5	SpecificDisease 225 228	FMF
+T6	DiseaseClass 235 265	recessively inherited disorder
+T7	SpecificDisease 462 482	serosal inflammation
+T8	SpecificDisease 525 542	Renal amyloidosis
+T9	SpecificDisease 604 607	FMF
+T10	Modifier 763 766	FMF
+T11	Modifier 959 962	FMF
+T12	Modifier 982 985	FMF
+T13	SpecificDisease 1263 1280	renal amyloidosis
+T14	SpecificDisease 1285 1294	arthritis

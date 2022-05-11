@@ -1,0 +1,27 @@
+start	end	mention	_class	labels
+16	36	Streptococcus mutans	Microorganism	
+64	72	adhesion	Phenotype	
+74	85	endothelial	Habitat	
+74	90	endothelial cell	Habitat	
+105	114	virulence	Phenotype	
+190	197;241	ability to bind	Phenotype	
+220	240	Streptococcus mutans	Microorganism	
+275	280	human	Habitat	
+275	314	human coronary artery endothelial cells	Habitat	
+281	296	coronary artery	Habitat	
+297	308	endothelial	Habitat	
+316	321	HCAEC	Habitat	
+334	341	killing	Phenotype	
+345	364	Galleria mellonella	Habitat	
+668	680	streptococci	Microorganism	
+965	970	ΔpgfS	Microorganism	
+1053	1069	collagen binding	Phenotype	
+1071	1076	HCAEC	Habitat	
+1091	1098	killing	Phenotype	
+1102	1115	G. mellonella	Habitat	
+1166	1171	ΔpgfS	Microorganism	
+1172	1178	mutant	Phenotype	
+1279	1284	ΔpgfS	Microorganism	
+1620	1625	ΔpgfS	Microorganism	
+1658	1686	defects in Cnm glycosylation	Phenotype	
+1880	1889	virulence	Phenotype	

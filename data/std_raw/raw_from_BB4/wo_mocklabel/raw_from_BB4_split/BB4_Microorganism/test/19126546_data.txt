@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+79	101	Salmonella typhimurium	Microorganism	
+240	256	Escherichia coli	Microorganism	
+372	391	Salmonella enterica	Microorganism	
+468	478	Salmonella	Microorganism	
+723	733	Salmonella	Microorganism	
+1132	1142	Salmonella	Microorganism	

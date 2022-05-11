@@ -1,0 +1,50 @@
+start	end	mention	_class	labels
+37	58	methicillin-resistant	Phenotype	OBT:002817
+59	80	Staphylococcus aureus	Microorganism	1280
+82	86	MRSA	Phenotype	OBT:002817
+82	86	MRSA	Microorganism	1280
+92	112	vancomycin-resistant	Phenotype	OBT:002874
+113	125	Enterococcus	Microorganism	1350
+127	130	VRE	Phenotype	OBT:002874
+127	130	VRE	Microorganism	1350
+241	262	methicillin-resistant	Phenotype	OBT:002817
+263	284	Staphylococcus aureus	Microorganism	1280
+286	290	MRSA	Phenotype	OBT:002817
+286	290	MRSA	Microorganism	1280
+295	315	vancomycin-resistant	Phenotype	OBT:002874
+316	328	Enterococcus	Microorganism	1350
+330	333	VRE	Phenotype	OBT:002874
+330	333	VRE	Microorganism	1350
+401	408	patient	Habitat	OBT:003269
+553	557	MRSA	Phenotype	OBT:002817
+553	557	MRSA	Microorganism	1280
+562	565	VRE	Phenotype	OBT:002874
+562	565	VRE	Microorganism	1350
+658	662	MRSA	Phenotype	OBT:002817
+658	662	MRSA	Microorganism	1280
+834	837	VRE	Phenotype	OBT:002874
+834	837	VRE	Microorganism	1350
+1268	1272	MRSA	Phenotype	OBT:002817
+1268	1272	MRSA	Microorganism	1280
+1290	1293	VRE	Phenotype	OBT:002874
+1290	1293	VRE	Microorganism	1350
+1413	1417	MRSA	Phenotype	OBT:002817
+1413	1417	MRSA	Microorganism	1280
+1413	1436	MRSA-colonized patients	Habitat	OBT:003269
+1454	1457	VRE	Phenotype	OBT:002874
+1454	1457	VRE	Microorganism	1350
+1454	1476	VRE-colonized patients	Habitat	OBT:003269
+1523	1527	MRSA	Phenotype	OBT:002817
+1523	1527	MRSA	Microorganism	1280
+1532	1535	VRE	Phenotype	OBT:002874
+1532	1535	VRE	Microorganism	1350
+1599	1603	MRSA	Phenotype	OBT:002817
+1599	1603	MRSA	Microorganism	1280
+1651	1654	VRE	Phenotype	OBT:002874
+1651	1654	VRE	Microorganism	1350
+1755	1759	MRSA	Phenotype	OBT:002817
+1755	1759	MRSA	Microorganism	1280
+1950	1954	MRSA	Phenotype	OBT:002817
+1950	1954	MRSA	Microorganism	1280
+1959	1962	VRE	Phenotype	OBT:002874
+1959	1962	VRE	Microorganism	1350

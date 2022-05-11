@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+140	184	familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
+186	230	Familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
+232	236	FNDI	SpecificDisease	OMIM:125700
+244	270	autosomal dominant disease	DiseaseClass	D030342
+463	467	FNDI	SpecificDisease	OMIM:125700
+1173	1177	FNDI	Modifier	OMIM:125700

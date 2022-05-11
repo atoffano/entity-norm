@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+59	81	Streptococcus pyogenes	Microorganism	1314
+133	155	Streptococcus pyogenes	Microorganism	1314
+420	433	streptococcal	Microorganism	1314
+610	621	S. pyogenes	Microorganism	1314
+1118	1129	S. pyogenes	Microorganism	1314

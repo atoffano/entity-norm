@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+22	52	plant Kalanchoë daigremontiana	Habitat	
+86	110	Kalanchoë daigremontiana	Habitat	
+224	247	Sterilized plant tissue	Habitat	
+235	240	plant	Habitat	
+334	340	shoots	Habitat	
+354	368	rooting medium	Habitat	
+354	361	rooting	Habitat	
+381	385	soil	Habitat	
+387	392	Plant	Habitat	
+457	463	plants	Habitat	
+467	471	soil	Habitat	

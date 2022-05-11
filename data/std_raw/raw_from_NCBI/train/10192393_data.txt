@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+15	26	skin tumour	DiseaseClass	D012878
+443	449	cancer	DiseaseClass	D009369
+483	496	colon cancers	DiseaseClass	D003110
+539	565	adenomatous polyposis coli	SpecificDisease	D011125
+567	570	APC	SpecificDisease	D011125
+670	698	colon and some other cancers	CompositeMention	D003110|D009369
+855	867	skin tumours	DiseaseClass	D012878
+879	893	pilomatricomas	SpecificDisease	D018296
+1021	1035	pilomatricomas	SpecificDisease	D018296
+1210	1221	skin tumour	DiseaseClass	D012878
+1262	1268	tumour	Modifier	D009369
+1312	1326	pilomatricomas	SpecificDisease	D018296
+1385	1392	tumours	DiseaseClass	D009369
+1615	1622	tumours	DiseaseClass	D009369

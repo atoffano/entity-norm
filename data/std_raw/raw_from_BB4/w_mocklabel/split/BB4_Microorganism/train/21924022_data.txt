@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+44	63	Helicobactor pylori	Microorganism	210
+119	138	Helicobacter pylori	Microorganism	210
+140	148	H.pylori	Microorganism	210
+206	214	H.pylori	Microorganism	210
+470	478	H.pylori	Microorganism	210
+741	749	H.pylori	Microorganism	210
+936	944	H.pylori	Microorganism	210
+1381	1389	H.pylori	Microorganism	210
+1713	1721	H.pylori	Microorganism	210

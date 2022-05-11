@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+42	66	Escherichia coli O157:H7	Microorganism	MockLabel
+67	96	Shiga toxin-encoding prophage	Microorganism	MockLabel
+145	169	Escherichia coli O157:H7	Microorganism	MockLabel
+218	233	E. coli O157:H7	Microorganism	MockLabel
+617	638	Stx-encoding prophage	Microorganism	MockLabel
+642	657	E. coli O157:H7	Microorganism	MockLabel
+692	699	E. coli	Microorganism	MockLabel
+737	759	Tetrahymena pyriformis	Microorganism	MockLabel
+800	811	Tetrahymena	Microorganism	MockLabel
+833	854	Stx-encoding prophage	Microorganism	MockLabel
+892	904	E. coli K-12	Microorganism	MockLabel
+937	949	E. coli O157	Microorganism	MockLabel
+1031	1039	ciliates	Microorganism	MockLabel
+1169	1190	Stx-encoding prophage	Microorganism	MockLabel
+1194	1209	E. coli O157:H7	Microorganism	MockLabel

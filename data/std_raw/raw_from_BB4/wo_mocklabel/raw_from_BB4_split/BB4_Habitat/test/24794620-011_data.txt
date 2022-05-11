@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+157	180	rinds of old VB cheeses	Habitat	
+166	180	old VB cheeses	Habitat	
+198	205	cellars	Habitat	
+346	353	cellars	Habitat	
+437	467	Danish surface-ripened cheeses	Habitat	
+524	538	Fontina cheese	Habitat	
+524	544	Fontina cheese rinds	Habitat	
+749	754	Brine	Habitat	
+756	765	personnel	Habitat	
+771	780	equipment	Habitat	

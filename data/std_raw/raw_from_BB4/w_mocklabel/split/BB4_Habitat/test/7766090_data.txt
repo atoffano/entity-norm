@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+198	214	E. coli cultures	Habitat	MockLabel

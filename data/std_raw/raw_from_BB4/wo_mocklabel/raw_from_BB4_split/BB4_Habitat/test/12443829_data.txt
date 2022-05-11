@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+39	44	human	Habitat	
+244	264	tissue culture cells	Habitat	
+269	276	animals	Habitat	
+736	742	humans	Habitat	
+853	861	clinical	Habitat	
+984	989	human	Habitat	

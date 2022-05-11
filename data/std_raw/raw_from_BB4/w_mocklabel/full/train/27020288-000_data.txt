@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+4	36	production of exopolysaccharides	Phenotype	OBT:000019
+40	43	LAB	Phenotype	OBT:000019
+127	153	Streptococcus thermophilus	Microorganism	1308
+157	180	Lactobacillus plantarum	Microorganism	1590
+309	327	Lactococcus lactis	Microorganism	1358
+332	353	Pediococcus damnsosus	Microorganism	51663
+493	511	L. plantarum WCFS1	Microorganism	220668
+539	572	surface polysaccharide production	Phenotype	OBT:000019

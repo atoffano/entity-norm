@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+8	17	anaerobic	Phenotype	OBT:000189
+50	61	Lactococcus	Microorganism	1357
+63	76	Lactobacillus	Microorganism	1578
+78	91	Streptococcus	Microorganism	1301
+96	107	Leuconostoc	Microorganism	1243
+118	153	hydroxy acid dehydrogenase activity	Phenotype	OBT:000019
+200	221	transaminase activity	Phenotype	OBT:000019
+324	346	decarboxylase activity	Phenotype	OBT:000068
+392	397	B1157	Microorganism	1358
+402	407	B1506	Microorganism	1697

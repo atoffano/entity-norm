@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+102	119	Tay-Sachs disease	SpecificDisease	D013661
+181	198	Tay-Sachs disease	SpecificDisease	D013661
+200	203	TSD	SpecificDisease	D013661
+1638	1655	Tay-Sachs disease	Modifier	D013661

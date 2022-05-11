@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+101	119	myotonic dystrophy	Modifier	D009223
+151	169	myotonic dystrophy	SpecificDisease	D009223
+171	173	DM	SpecificDisease	D009223
+285	287	DM	Modifier	D009223
+385	387	DM	Modifier	D009223
+417	419	DM	SpecificDisease	D009223
+587	605	Fragile X syndrome	SpecificDisease	D005600
+607	609	DM	SpecificDisease	D009223
+756	758	DM	SpecificDisease	D009223
+800	818	myotonic dystrophy	SpecificDisease	D009223
+914	916	DM	Modifier	D009223
+1044	1046	DM	Modifier	D009223
+1111	1113	DM	Modifier	D009223
+1238	1240	DM	Modifier	D009223

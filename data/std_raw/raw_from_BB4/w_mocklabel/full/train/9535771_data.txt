@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+39	48	mammalian	Habitat	OBT:001625
+86	102	Escherichia coli	Microorganism	562
+128	144	Escherichia coli	Microorganism	562
+183	192	mammalian	Habitat	OBT:001625
+304	311	E. coli	Microorganism	562
+752	759	E. coli	Microorganism	562
+802	811	mammalian	Habitat	OBT:001625
+965	972	E. coli	Microorganism	562

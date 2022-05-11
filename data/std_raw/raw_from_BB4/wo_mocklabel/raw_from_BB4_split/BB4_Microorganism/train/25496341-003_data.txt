@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+63	88	Streptococcus infantarius	Microorganism	150054
+162	165	3AG	Microorganism	1255600
+170	174	11FA	Microorganism	1255580
+236	248	ATCC BAA-102	Microorganism	471872
+265	269	CJ18	Microorganism	1069533

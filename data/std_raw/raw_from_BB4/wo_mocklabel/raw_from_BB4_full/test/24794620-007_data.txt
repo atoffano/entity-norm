@@ -1,0 +1,35 @@
+start	end	mention	_class	labels
+7	21	H. boliviensis	Microorganism	
+47	60	young cheeses	Habitat	
+95	110	ripening cellar	Habitat	
+123	129	Cheese	Habitat	
+123	158	Cheese rinds from cellars A1 and A2	Habitat	
+141	148	cellars	Habitat	
+185	194	B. linens	Microorganism	
+240	250	S. equorum	Microorganism	
+263	281	Brevibacterium sp.	Microorganism	
+305	316	old cheeses	Habitat	
+317	343	Short-ripened cheese rinds	Habitat	
+317	337	Short-ripened cheese	Habitat	
+430	444	H. boliviensis	Microorganism	
+446	460	B. aurantiacum	Microorganism	
+462	477	A. kashmirensis	Microorganism	
+479	491	P. aquaticus	Microorganism	
+615	625	S. equorum	Microorganism	
+627	653	Brevibacterium pityocampae	Microorganism	
+655	684	Brachybacterium conglomeratum	Microorganism	
+686	701	Y. halotolerans	Microorganism	
+766	786	long-ripened cheeses	Habitat	
+893	898;907	young cheeses	Habitat	
+903	914	old cheeses	Habitat	
+925	946	Short-ripened cheeses	Habitat	
+1008	1032	Pyxidiophora arvernensis	Microorganism	
+1034	1055	Debaryomyces hansenii	Microorganism	
+1097	1116	Nectria mariannaeae	Microorganism	
+1144	1165	short-ripened cheeses	Habitat	
+1184	1210	Scopulariopsis brevicaulis	Microorganism	
+1215	1237	Arachnomyces glareosus	Microorganism	
+1271	1291	long-ripened cheeses	Habitat	
+1352	1373	Short-ripened cheeses	Habitat	
+1392	1406	Actinobacteria	Microorganism	
+1410	1424	Proteobacteria	Microorganism	

@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+30	47	Friedreich ataxia	SpecificDisease	D005621
+77	94	Friedreich ataxia	SpecificDisease	D005621
+101	129	autosomal recessive disorder	DiseaseClass	D030342
+157	161	FRDA	Modifier	D005621
+779	788	scoliosis	DiseaseClass	D012600
+836	850	foot deformity	DiseaseClass	D005530
+932	946	cardiomyopathy	SpecificDisease	D009202
+948	965	diabetes mellitus	SpecificDisease	D003920
+967	989	loss of proprioception	DiseaseClass	D020886
+994	1010	bladder symptoms	DiseaseClass	D001745
+1051	1067	bladder symptoms	DiseaseClass	D001745
+1088	1102	foot deformity	DiseaseClass	D005530
+1182	1190	diabetes	DiseaseClass	D003920
+1192	1201	scoliosis	DiseaseClass	D012600
+1203	1219	bladder symptoms	DiseaseClass	D001745
+1224	1247	impaired proprioception	DiseaseClass	D020886

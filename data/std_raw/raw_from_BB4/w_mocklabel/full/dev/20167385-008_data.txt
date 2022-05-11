@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+41	57	white mould rind	Habitat	OBT:001481
+59	74	Scimudin cheese	Habitat	OBT:003522
+100	109	M. luteus	Microorganism	415
+114	129	P. glacincolaus	Microorganism	56810
+150	162	S. vitulinus	Microorganism	71237
+181	198	Casera Valtellina	Habitat	OBT:003483
+202	208	cheese	Habitat	OBT:001480
+252	256	rind	Habitat	OBT:001481
+287	297	S. equorum	Microorganism	246432
+299	308	B. linens	Microorganism	1703
+313	321	B. casei	Microorganism	33889

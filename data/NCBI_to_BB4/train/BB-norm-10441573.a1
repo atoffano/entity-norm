@@ -1,0 +1,13 @@
+T1	Title 0 93	Penetrances of BRCA1 1675delA and 1135insA with respect to breast cancer and ovarian cancer.
+T2	Paragraph 93 1575	For genetic counseling and predictive testing in families with inherited breast-ovarian cancer, penetrances and expressions of the underlying mutations should be known. We have previously reported two BRCA1 founder mutations in the Norwegian population. Index cases for the present study were found two different ways  through a series of consecutive ovarian cancers (n = 16) and through our family cancer clinic (n = 14). Altogether, 20 of the patients had BRCA1 1675delA, and 10 had 1135insA. Their relatives were described with respect to absence/presence of breast and/or ovarian cancer. Of 133 living female relatives, 83 (62%) were tested for the presence of a mutation. No difference, in penetrance and expression, between the two mutations were found, whereas differences according to method of ascertainment were seen. The overall findings were that disease started to occur at age 30 years and that by age 50 years 48% of the mutation-carrying women had experienced breast and/or ovarian cancer. More ovarian cancers than breast cancers were recorded. Both penetrance and expression (breast cancer vs. ovarian cancer) were different from those in reports of the Ashkenazi founder mutations. Whether the reported differences reflect true differences and/or methodological problems is discussed. An observed excess of mutation carriers could not be accounted for by methodological problems; possible explanations were a " true " low penetrance or preferential segregation..
+T3	SpecificDisease 59 72	breast cancer
+T4	SpecificDisease 77 91	ovarian cancer
+T5	CompositeMention 156 187	inherited breast-ovarian cancer
+T6	SpecificDisease 444 459	ovarian cancers
+T7	Modifier 492 498	cancer
+T8	CompositeMention 655 683	breast and/or ovarian cancer
+T9	CompositeMention 1069 1097	breast and/or ovarian cancer
+T10	SpecificDisease 1104 1119	ovarian cancers
+T11	SpecificDisease 1125 1139	breast cancers
+T12	SpecificDisease 1187 1200	breast cancer
+T13	SpecificDisease 1205 1219	ovarian cancer

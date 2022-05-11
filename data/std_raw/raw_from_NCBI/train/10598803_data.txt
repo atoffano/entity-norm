@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+55	69	attenuated APC	Modifier	C538265
+155	158	APC	Modifier	D011125
+196	238	adenomatous polyps of the colon and rectum	CompositeMention	D011125
+246	263	colorectal cancer	SpecificDisease	D015179
+311	314	APC	Modifier	D011125
+381	418	attenuated adenomatous polyposis coli	SpecificDisease	C538265
+420	424	AAPC	SpecificDisease	C538265
+449	453	AAPC	SpecificDisease	C538265
+477	494	colorectal polyps	SpecificDisease	D003111
+526	543	colorectal cancer	SpecificDisease	D015179
+586	589	APC	Modifier	D011125
+639	643	AAPC	Modifier	C538265
+780	783	APC	Modifier	D011125
+870	873	APC	Modifier	D011125
+1076	1079	APC	Modifier	D011125
+1113	1133	attenuated polyposis	Modifier	C538265

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+19	41	X-linked retinoschisis	Modifier	D041441
+137	159	X-linked retinoschisis	SpecificDisease	D041441
+283	303	visual deterioration	DiseaseClass	C531604
+1376	1390	retinoblastoma	Modifier	D012175
+1604	1626	X-linked retinoschisis	SpecificDisease	D041441
+1779	1796	retinal dystrophy	DiseaseClass	D058499

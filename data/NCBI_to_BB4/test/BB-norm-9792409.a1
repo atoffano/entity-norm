@@ -1,0 +1,10 @@
+T1	Title 0 92	ATM germline mutations in classical ataxia-telangiectasia patients in the Dutch population.
+T2	Paragraph 92 1583	Germline mutations in the ATM gene are responsible for the autosomal recessive disorder ataxia-telangiectasia (A-T). In our study, we have determined the ATM mutation spectrum in 19 classical A-T patients, including some immigrant populations, as well as 12 of Dutch ethnic origin. Both the protein truncation test (PTT) and the restriction endonuclease fingerprinting (REF) method were used and compared for their detection efficiency, identifying 76% and 60% of the mutations, respectively. Most patients were found to be compound heterozygote. Seventeen mutations were distinct, of which 10 were not reported previously. Mutations are small deletions or point mutations frequently affecting splice sites. Moreover, a 16. 7-kb genomic deletion of the 3 end of the gene, most likely a result of recombination between two LINE elements, was identified. The most frequently found mutation, identified in three unrelated Turkish A-T individuals, was previously described to be a Turkish A-T founder mutation. The presence of a founder mutation among relatively small ethnic population groups in Western Europe could indicate a high carrier frequency in such communities. In patients of Dutch ethnic origin, however, no significant founder effect could be identified. The observed genetic heterogeneity including the relative high percentage of splice-site mutations had no reflection on the phenotype. All patients manifested classical A-T and increased cellular radioresistant DNA synthesis.
+T3	Modifier 36 57	ataxia-telangiectasia
+T4	DiseaseClass 151 179	autosomal recessive disorder
+T5	SpecificDisease 180 201	ataxia-telangiectasia
+T6	SpecificDisease 203 206	A-T
+T7	Modifier 284 287	A-T
+T8	Modifier 1019 1022	A-T
+T9	Modifier 1077 1080	A-T
+T10	SpecificDisease 1526 1529	A-T

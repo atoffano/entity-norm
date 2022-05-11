@@ -1,0 +1,9 @@
+T1	Title 0 73	Myotonic dystrophy in transgenic mice expressing an expanded CUG repeat.
+T2	Paragraph 73 725	Myotonic dystrophy (DM), the most common form of muscular dystrophy in adult humans, results from expansion of a CTG repeat in the 3 untranslated region of the DMPK gene. The mutant DMPK messenger RNA (mRNA) contains an expanded CUG repeat and is retained in the nucleus. We have expressed an untranslated CUG repeat in an unrelated mRNA in transgenic mice. Mice that expressed expanded CUG repeats developed myotonia and myopathy, whereas mice expressing a nonexpanded repeat did not. Thus, transcripts with expanded CUG repeats are sufficient to generate a DM phenotype. This result supports a role for RNA gain of function in disease pathogenesis..
+T3	SpecificDisease 0 18	Myotonic dystrophy
+T4	SpecificDisease 73 91	Myotonic dystrophy
+T5	SpecificDisease 93 95	DM
+T6	SpecificDisease 122 140	muscular dystrophy
+T7	DiseaseClass 482 490	myotonia
+T8	DiseaseClass 495 503	myopathy
+T9	Modifier 632 634	DM

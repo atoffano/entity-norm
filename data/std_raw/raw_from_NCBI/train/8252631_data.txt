@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+63	66	APC	Modifier	D011125
+80	106	adenomatous polyposis coli	Modifier	D011125
+146	151	tumor	Modifier	D009369
+169	172	APC	Modifier	D011125
+181	207	adenomatous polyposis coli	SpecificDisease	D011125
+247	264	colorectal cancer	SpecificDisease	D015179
+331	387	congenital hypertrophy of the retinal pigment epithelium	SpecificDisease	D012164
+389	394	CHRPE	SpecificDisease	D012164
+450	455	CHRPE	SpecificDisease	D012164
+508	511	APC	Modifier	D011125
+669	674	CHRPE	SpecificDisease	D012164
+760	765	CHRPE	Modifier	D012164
+1032	1035	APC	Modifier	D011125

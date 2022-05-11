@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+211	225	cheese surface	Habitat	
+211	217	cheese	Habitat	
+458	493	salt-tolerant bacterial communities	Habitat	
+669	699	entire surface of the  cheeses	Habitat	
+692	699	cheeses	Habitat	
+750	762	cheese rinds	Habitat	
+750	756	cheese	Habitat	
+959	965	cheese	Habitat	
+959	974	cheese surfaces	Habitat	

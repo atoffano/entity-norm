@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+72	96	Wiskott-Aldrich syndrome	Modifier	D014923
+98	101	WAS	Modifier	D014923
+179	182	WAS	SpecificDisease	D014923
+199	215	thrombocytopenic	Modifier	D013921
+256	280	Wiskott-Aldrich syndrome	SpecificDisease	D014923
+282	285	WAS	SpecificDisease	D014923
+388	391	WAS	Modifier	D014923
+436	439	WAS	SpecificDisease	D014923
+544	547	WAS	Modifier	D014923
+909	925	thrombocytopenia	SpecificDisease	D013921
+949	952	WAS	SpecificDisease	D014923
+1032	1035	WAS	Modifier	D014923

@@ -1,0 +1,14 @@
+T1	Title 0 132	Nonsense mutation in exon 3 of the proteolipid protein gene (PLP) in a family with an unusual form of Pelizaeus-Merzbacher disease.
+T2	Paragraph 132 1096	We report a G-- > A transition at nucleotide 431 of the proteolipid protein gene (PLP) results in a nonsense codon in a family with an unusual form of Pelizaeus-Merzbacher disease (PMD). The mutation, which creates a second AluI restriction site, results in a nonsense mutation in PLP. The clinical picture resembles somewhat that of X-linked spastic paraplegia (SPG). It differs from this and both the classical and connatal forms of PMD in that it is relatively mild in form, onset is delayed beyond age 2 years, nystagmus is absent, tremors are prominent, mental retardation is not severe, some patients show dementia or personality disorders, the disease is progressive rather than static in some, and several females show signs of disease. The nonsense mutation, which is in exon 3B, should block the synthesis of normal PLP but spare DM20, the isoform whose persistence has been associated with mild forms of PLP-associated disease in both humans and mice..
+T3	SpecificDisease 102 130	Pelizaeus-Merzbacher disease
+T4	SpecificDisease 283 311	Pelizaeus-Merzbacher disease
+T5	SpecificDisease 313 316	PMD
+T6	SpecificDisease 466 493	X-linked spastic paraplegia
+T7	SpecificDisease 495 498	SPG
+T8	SpecificDisease 567 570	PMD
+T9	DiseaseClass 647 656	nystagmus
+T10	DiseaseClass 668 675	tremors
+T11	DiseaseClass 691 709	mental retardation
+T12	DiseaseClass 744 752	dementia
+T13	DiseaseClass 756 777	personality disorders
+T14	DiseaseClass 1047 1069	PLP-associated disease

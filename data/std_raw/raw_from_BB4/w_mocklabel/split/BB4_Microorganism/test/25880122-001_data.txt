@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+38	60	P. damnosus  LMG 28219	Microorganism	MockLabel
+308	335	P. claussenii ATCC BAA-344T	Microorganism	MockLabel
+784	805	P. damnosus  IOEB8801	Microorganism	MockLabel

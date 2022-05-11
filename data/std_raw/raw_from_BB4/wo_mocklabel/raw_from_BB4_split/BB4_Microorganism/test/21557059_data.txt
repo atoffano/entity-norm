@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+23	37	corynebacteria	Microorganism	
+71	86	Corynebacterium	Microorganism	
+222	249	Corynebacterium diphtheriae	Microorganism	
+389	403	C. diphtheriae	Microorganism	
+784	798	corynebacteria	Microorganism	
+864	879	corynebacterial	Microorganism	
+1227	1242	corynebacterial	Microorganism	

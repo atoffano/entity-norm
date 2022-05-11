@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+23	37	corynebacteria	Microorganism	MockLabel
+71	86	Corynebacterium	Microorganism	MockLabel
+222	249	Corynebacterium diphtheriae	Microorganism	MockLabel
+389	403	C. diphtheriae	Microorganism	MockLabel
+784	798	corynebacteria	Microorganism	MockLabel
+864	879	corynebacterial	Microorganism	MockLabel
+1227	1242	corynebacterial	Microorganism	MockLabel

@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+38	56	myotonic dystrophy	Modifier	D009223
+92	110	Myotonic dystrophy	SpecificDisease	D009223
+115	135	dystrophia myotonica	SpecificDisease	D009223
+137	139	DM	SpecificDisease	D009223
+148	187	autosomal dominant multisystem disorder	DiseaseClass	D030342
+351	353	DM	Modifier	D009223
+486	507	neuromuscular disease	DiseaseClass	D009468
+1006	1008	DM	Modifier	D009223
+1470	1472	DM	Modifier	D009223

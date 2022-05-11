@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+15	28	Gram-negative	Phenotype	OBT:000648
+127	144	yeast communities	Habitat	OBT:000113
+163	176	Gram-negative	Phenotype	OBT:000648
+268	279	D. hansenii	Microorganism	4959
+292	303	G. candidum	Microorganism	1173061
+318	324	cheese	Habitat	OBT:001480
+318	332	cheese surface	Habitat	OBT:001341
+411	422	G. candidum	Microorganism	1173061
+474	485	D. hansenii	Microorganism	4959
+560	573	Y. lipolytica	Microorganism	4952

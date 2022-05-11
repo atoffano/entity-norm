@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+45	72	Duchenne muscular dystrophy	Modifier	D020388
+166	217	Duchenne and the milder Becker muscular dystrophies	CompositeMention	D020388|C537666
+528	547	dystrophic syndrome	SpecificDisease	D009136
+608	642	Duchenne/Becker muscular dystrophy	CompositeMention	D020388|C537666
+708	735	Duchenne muscular dystrophy	Modifier	D020388
+737	740	DMD	Modifier	D020388
+831	834	DMD	SpecificDisease	D020388
+1171	1181	myopathies	DiseaseClass	D009135
+1183	1216	Emery Dreifuss muscular dystrophy	SpecificDisease	D020389
+1278	1281	DMD	Modifier	D020388

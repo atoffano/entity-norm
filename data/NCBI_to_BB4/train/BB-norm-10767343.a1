@@ -1,0 +1,10 @@
+T1	Title 0 155	Transgenic mice carrying large human genomic sequences with expanded CTG repeat mimic closely the DM CTG repeat intergenerational and somatic instability.
+T2	Paragraph 155 1410	Myotonic dystrophy (DM) is caused by a CTG repeat expansion in the 3UTR of the DM protein kinase (DMPK) gene. A very high level of instability is observed through successive generations and the size of the repeat is generally correlated with the severity of the disease and with age at onset. Furthermore, tissues from DM patients exhibit somatic mosaicism that increases with age. We generated transgenic mice carrying large human genomic sequences with 20, 55 or > 300 CTG, cloned from patients from the same affected DM family. Using large human flanking sequences and a large amplification, we demonstrate that the intergenerational CTG repeat instability is reproduced in mice, with a strong bias towards expansions and with the same sex- and size-dependent characteristics as in humans. Moreover, a high level of instability, increasing with age, can be observed in tissues and in sperm. Although we did not observe dramatic expansions (or big jumps over several hundred CTG repeats) as in congenital forms of DM, our model carrying > 300 CTG is the first to show instability so close to the human DM situation. Our three models carrying different sizes of CTG repeat provide insight on the different factors modulating the CTG repeat instability..
+T3	Modifier 98 100	DM
+T4	SpecificDisease 155 173	Myotonic dystrophy
+T5	SpecificDisease 175 177	DM
+T6	Modifier 234 236	DM
+T7	Modifier 474 476	DM
+T8	Modifier 675 677	DM
+T9	SpecificDisease 1171 1173	DM
+T10	Modifier 1259 1261	DM

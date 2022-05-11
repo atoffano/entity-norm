@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+81	105	severe neonatal jaundice	SpecificDisease	D007567
+125	140	G6PD deficiency	SpecificDisease	D005955
+253	272	hyperbilirubinaemia	DiseaseClass	D006932
+735	759	severe neonatal jaundice	SpecificDisease	D007567

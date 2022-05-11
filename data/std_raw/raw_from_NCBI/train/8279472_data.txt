@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+21	35	Wilson disease	SpecificDisease	D006527
+57	71	Wilson disease	SpecificDisease	D006527
+228	242	Wilson disease	Modifier	D006527
+249	252	WND	SpecificDisease	D006527
+410	413	WND	SpecificDisease	D006527
+604	607	WND	SpecificDisease	D006527
+737	740	WND	SpecificDisease	D006527
+901	915	Wilson disease	SpecificDisease	D006527

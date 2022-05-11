@@ -1,0 +1,43 @@
+start	end	mention	_class	labels
+14	29	Artemisia annua	Habitat	OBT:000972
+33	40	broiler	Habitat	OBT:003334
+57	78	intestinal microbiota	Habitat	OBT:000113
+57	67	intestinal	Habitat	OBT:002810
+185	226	aerial parts of the plant Artemisia annua	Habitat	OBT:000395
+205	226	plant Artemisia annua	Habitat	OBT:000972
+235	249	essential oils	Habitat	OBT:000742
+365	373	broilers	Habitat	OBT:003334
+449	470	dried A. annua leaves	Habitat	OBT:001174|OBT:000038
+455	463	A. annua	Habitat	OBT:000972
+498	541	n-hexane extract from fresh A. annua leaves	Habitat	OBT:000038
+520	541	fresh A. annua leaves	Habitat	OBT:001174
+526	534	A. annua	Habitat	OBT:000972
+573	580	broiler	Habitat	OBT:003334
+611	631	Dried plant material	Habitat	OBT:000038|OBT:001258|OBT:001174
+617	622	plant	Habitat	OBT:000972
+642	646	feed	Habitat	OBT:000038
+658	662	body	Habitat	OBT:000214
+744	748	feed	Habitat	OBT:000038
+771	787	n-hexane extract	Habitat	OBT:000038
+801	805	feed	Habitat	OBT:000038
+818	825	broiler	Habitat	OBT:003334
+899	903	feed	Habitat	OBT:000038
+944	949	birds	Habitat	OBT:003334
+977	993	n-hexane extract	Habitat	OBT:001258|OBT:000038
+1118	1139	dried A. annua leaves	Habitat	OBT:001174|OBT:000038|OBT:001258
+1124	1132	A. annua	Habitat	OBT:000972
+1160	1188	n-hexane extract of A. annua	Habitat	OBT:001258|OBT:000038
+1180	1188	A. annua	Habitat	OBT:000972
+1235	1243	broilers	Habitat	OBT:003334
+1261	1277	n-hexane extract	Habitat	OBT:000038|OBT:001258
+1290	1300	intestinal	Habitat	OBT:002810
+1364	1380	small intestinal	Habitat	OBT:003303
+1364	1388	small intestinal lesions	Habitat	OBT:000471
+1439	1483	birds supplemented with the n-hexane extract	Habitat	OBT:003334
+1467	1483	n-hexane extract	Habitat	OBT:001258|OBT:000038
+1517	1541	challenged control birds	Habitat	OBT:003334
+1546	1582	birds receiving dried plant material	Habitat	OBT:003334
+1562	1582	dried plant material	Habitat	OBT:000038|OBT:001258|OBT:001174
+1568	1573	plant	Habitat	OBT:000972
+1610	1649	n-hexane extracts derived from A. annua	Habitat	OBT:001258|OBT:000038
+1641	1649	A. annua	Habitat	OBT:000972

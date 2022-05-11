@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+85	102	UK retail poultry	Habitat	OBT:002199
+205	213	clinical	Habitat	OBT:003220
+296	310	retail poultry	Habitat	OBT:002199
+331	336	human	Habitat	OBT:002488
+449	463	retail poultry	Habitat	OBT:002199
+1388	1395	chicken	Habitat	OBT:002394
+1644	1650	humans	Habitat	OBT:002488
+1779	1794	farmed chickens	Habitat	OBT:003314

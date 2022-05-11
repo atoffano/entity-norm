@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+43	58	samples of milk	Habitat	
+63	77	cheese samples	Habitat	
+201	207	cheese	Habitat	
+306	312	cheese	Habitat	
+417	429	young cheese	Habitat	
+417	457	young cheese rinds of ripening cellar A1	Habitat	
+439	454	ripening cellar	Habitat	

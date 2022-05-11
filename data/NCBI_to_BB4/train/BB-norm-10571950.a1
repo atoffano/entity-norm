@@ -1,0 +1,19 @@
+T1	Title 0 111	Splice-site mutation in the PDS gene may result in intrafamilial variability for deafness in Pendred syndrome.
+T2	Paragraph 111 1245	Pendred syndrome is a recessive inherited disorder that consists of developmental abnormalities of the cochlea, sensorineural hearing loss, and diffuse thyroid enlargement (goiter). This disorder may account for up to 10% of cases of hereditary deafness. The disease gene (PDS) has been mapped to chromosome 7q22-q31, and encodes a chloride-iodide transport protein. We performed mutation analysis of individual exons of the PDS gene in one Spanish family that shows intrafamilial variability of the deafness phenotype (two patients with profound and one with moderate-severe deafness). We identified a new splice-site mutation affecting intron 4 of the PDS gene, at nucleotide position 639 + 7. RNA analysis from lymphocytes of the affected patients showed that mutation 639 + 7A-- > G generates a new donor splice site, leading to an mRNA with an insertion of six nucleotides from intron 4 of PDS. Since the newly created donor splice site is likely to compete with the normal one, variations of the levels of normal and aberrant transcripts of the PDS gene in the cochlea may explain the variability in the deafness presentation..
+T3	Modifier 28 31	PDS
+T4	SpecificDisease 81 89	deafness
+T5	SpecificDisease 93 109	Pendred syndrome
+T6	SpecificDisease 111 127	Pendred syndrome
+T7	DiseaseClass 133 161	recessive inherited disorder
+T8	DiseaseClass 179 221	developmental abnormalities of the cochlea
+T9	SpecificDisease 223 249	sensorineural hearing loss
+T10	SpecificDisease 255 282	diffuse thyroid enlargement
+T11	SpecificDisease 284 290	goiter
+T12	SpecificDisease 345 364	hereditary deafness
+T13	SpecificDisease 384 387	PDS
+T14	Modifier 536 539	PDS
+T15	Modifier 611 619	deafness
+T16	SpecificDisease 687 695	deafness
+T17	Modifier 765 768	PDS
+T18	Modifier 1162 1165	PDS
+T19	Modifier 1221 1229	deafness

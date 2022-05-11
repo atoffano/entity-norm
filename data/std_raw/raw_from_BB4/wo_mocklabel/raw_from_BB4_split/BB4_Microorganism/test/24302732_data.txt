@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+468	492	Kuenenia stuttgartiensis	Microorganism	
+759	777	K. stuttgartiensis	Microorganism	
+888	909	Nitrosomonas europaea	Microorganism	
+1008	1026	K. stuttgartiensis	Microorganism	

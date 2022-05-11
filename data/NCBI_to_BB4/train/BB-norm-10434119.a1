@@ -1,0 +1,14 @@
+T1	Title 0 137	Linkage analysis of 5 novel van der Woude syndrome kindreds to 1q32-q41 markers further supports locus homogeneity of the disease trait.
+T2	Paragraph 137 1150	van der Woude syndrome (vWS, MIM 119300) is a rare autosomal dominant clefting condition with cardinal features of mucous cysts (lower-lip pits) and clefts to the lip and/or palate. The vWS gene has been assigned to a locus in 1q32-q41 by linkage analysis and physical mapping. We have investigated 5 novel vWS families through probands attended for cleft lip and/or palate repair at the Department of Maxillofacial Surgery of Hopital Trousseau, Paris, in order to tentatively refine the genetic map of the vWS region in 1q32-q41 and possibly identify unlinked pedigrees. Linkage analysis was carried out to 6 microsatellite markers (D1S249, D1S425, D1S491, D1S205, D1S414, D1S425), yielding a maximum cumulative LOD score of Z = 3. 27 at theta = 0. 00 for D1S245. The innermost four markers were found to be tightly linked to one another, with no evidence for recombination. Our results support linkage of vWS within a region of tightly linked markers and do not favour locus heterogeneity of the disease trait.
+T3	Modifier 28 50	van der Woude syndrome
+T4	SpecificDisease 137 159	van der Woude syndrome
+T5	SpecificDisease 161 164	vWS
+T6	DiseaseClass 188 225	autosomal dominant clefting condition
+T7	SpecificDisease 252 264	mucous cysts
+T8	SpecificDisease 266 280	lower-lip pits
+T9	CompositeMention 286 317	clefts to the lip and/or palate
+T10	Modifier 323 326	vWS
+T11	Modifier 444 447	vWS
+T12	Modifier 487 510	cleft lip and/or palate
+T13	Modifier 644 647	vWS
+T14	SpecificDisease 1044 1047	vWS

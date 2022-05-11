@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+111	116	fleas	Habitat	
+131	148	vectors of plague	Habitat	
+150	165	Yersinia pestis	Microorganism	
+195	211	species of fleas	Habitat	
+244	280	potential vectors of Yersinia pestis	Habitat	
+265	280	Yersinia pestis	Microorganism	
+323	337	plague vectors	Habitat	
+400	405	human	Habitat	
+407	422	domestic animal	Habitat	
+428	436	wildlife	Habitat	
+516	530	plague vectors	Habitat	
+852	882	flea Oropsylla montana (Baker)	Habitat	
+1054	1068	vector species	Habitat	
+1172	1177	fleas	Habitat	
+1263	1267	flea	Habitat	
+1426	1440	plague vectors	Habitat	

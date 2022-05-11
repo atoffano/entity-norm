@@ -1,0 +1,54 @@
+start	end	mention	_class	labels
+0	15	Bile resistance	Phenotype	OBT:000152
+0	4	Bile	Habitat	OBT:000514
+19	37	Lactococcus lactis	Microorganism	1358
+133	148	Bile resistance	Phenotype	OBT:000152
+133	137	Bile	Habitat	OBT:000514
+188	197	probiotic	Phenotype	OBT:000827
+272	287	bile resistance	Phenotype	OBT:000152
+272	276	bile	Habitat	OBT:000514
+291	301	lactococci	Microorganism	1357
+339	354	bile resistance	Phenotype	OBT:000152
+339	343	bile	Habitat	OBT:000514
+394	405	lactococcci	Microorganism	1357
+450	465	bile resistance	Phenotype	OBT:000152
+450	454	bile	Habitat	OBT:000514
+483	524;532	lactose-free M17 medium supplemented with glucose only (GM17)	Habitat	OBT:000007
+483	524;555	lactose-free M17 medium supplemented with lactose only (LM17)	Habitat	OBT:000007
+819	834	bile resistance	Phenotype	OBT:000152
+819	823	bile	Habitat	OBT:000514
+935	950	bile resistance	Phenotype	OBT:000152
+935	939	bile	Habitat	OBT:000514
+1083	1098	bile resistance	Phenotype	OBT:000152
+1083	1087	bile	Habitat	OBT:000514
+1153	1178	L. lactis subsp. cremoris	Microorganism	1359
+1196	1207	GM17 medium	Habitat	OBT:000007
+1213	1227	bile-resistant	Phenotype	OBT:000152
+1213	1217	bile	Habitat	OBT:000514
+1286	1300	bile-sensitive	Phenotype	OBT:000153
+1286	1290	bile	Habitat	OBT:000514
+1313	1324	LM17 medium	Habitat	OBT:000007
+1326	1340	bile-resistant	Phenotype	OBT:000152
+1326	1330	bile	Habitat	OBT:000514
+1451	1465	bile-sensitive	Phenotype	OBT:000153
+1451	1455	bile	Habitat	OBT:000514
+1478	1501	L. lactis subsp. lactis	Microorganism	1360
+1511	1527	bile resistances	Phenotype	OBT:000152
+1511	1515	bile	Habitat	OBT:000514
+1607	1624	resistant to bile	Phenotype	OBT:000152
+1620	1624	bile	Habitat	OBT:000514
+1628	1639	GM17 medium	Habitat	OBT:000007
+1644	1661	sensitive to bile	Phenotype	OBT:000153
+1657	1661	bile	Habitat	OBT:000514
+1665	1676	LM17 medium	Habitat	OBT:000007
+1696	1705	resistant	Phenotype	OBT:000152
+1749	1760	GM17 medium	Habitat	OBT:000007
+1948	1959	LM17 medium	Habitat	OBT:000007
+2011	2025	bile-resistant	Phenotype	OBT:000152
+2011	2015	bile	Habitat	OBT:000514
+2026	2036	lactococci	Microorganism	1357
+2064	2078	bile-sensitive	Phenotype	OBT:000153
+2064	2068	bile	Habitat	OBT:000514
+2352	2367	bile resistance	Phenotype	OBT:000152
+2352	2356	bile	Habitat	OBT:000514
+2371	2381	lactococci	Microorganism	1357

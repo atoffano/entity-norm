@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+9	31	Advenella kashmirensis	Microorganism	
+35	44	VB cheese	Habitat	
+35	50	VB cheese rinds	Habitat	
+96	110	Munster cheese	Habitat	
+165	180	A. kashmirensis	Microorganism	
+199	242	short-ripened cheeses of ripening cellar C2	Habitat	
+224	242	ripening cellar C2	Habitat	

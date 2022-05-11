@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+92	115	Lactobacillus plantarum	Microorganism	MockLabel
+120	138	Lactococcus lactis	Microorganism	MockLabel
+191	216	Leuconostoc mesenteroides	Microorganism	MockLabel
+218	243	Lactococcus raffinolactis	Microorganism	MockLabel
+244	266	Staphylococcus equorum	Microorganism	MockLabel
+272	295	Pseudomonas fluorescens	Microorganism	MockLabel
+296	316	Enterococcus faecium	Microorganism	MockLabel
+324	344	Alcaligenes tolerans	Microorganism	MockLabel

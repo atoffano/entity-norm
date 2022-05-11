@@ -1,0 +1,15 @@
+T1	Title 0 29	Craniofrontonasal dysplasia.
+T2	Paragraph 29 934	We report on nine patients with craniofrontonasal dysplasia (CFND). Seven classical cases had facial features suggestive of frontonasal dysplasia and coronal craniosynostosis. Extracranial abnormalities such as brittle nails with prominent longitudinal grooves or syndactyly of fingers and toes were observed in individual patients. In two families the father of classical cases showed a milder pattern of abnormalities, consistent with the diagnosis. We present a 2- to 13-year follow-up on our patients. Hypotonia and laxity of joints are common and may necessitate supportive measures. Mild developmental delay was noted in three out of six classical cases studied in detail. Unlike almost all other X-linked disorders, clinical expression in CFND is generally much more severe in females than in males. In contrast to previous reports of this condition, one of our severely affected cases is a male..
+T3	SpecificDisease 0 27	Craniofrontonasal dysplasia
+T4	SpecificDisease 61 88	craniofrontonasal dysplasia
+T5	SpecificDisease 90 94	CFND
+T6	SpecificDisease 153 174	frontonasal dysplasia
+T7	SpecificDisease 179 203	coronal craniosynostosis
+T8	DiseaseClass 205 231	Extracranial abnormalities
+T9	SpecificDisease 240 289	brittle nails with prominent longitudinal grooves
+T10	CompositeMention 293 323	syndactyly of fingers and toes
+T11	SpecificDisease 535 544	Hypotonia
+T12	SpecificDisease 549 565	laxity of joints
+T13	DiseaseClass 623 642	developmental delay
+T14	DiseaseClass 732 750	X-linked disorders
+T15	SpecificDisease 775 779	CFND

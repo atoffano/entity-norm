@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+16	36	Streptococcus mutans	Microorganism	
+220	240	Streptococcus mutans	Microorganism	
+668	680	streptococci	Microorganism	
+965	970	ΔpgfS	Microorganism	
+1166	1171	ΔpgfS	Microorganism	
+1279	1284	ΔpgfS	Microorganism	
+1620	1625	ΔpgfS	Microorganism	

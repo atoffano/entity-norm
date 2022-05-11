@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+56	91	familial adenomatous polyposis coli	SpecificDisease	D011125
+122	157	familial adenomatous polyposis coli	SpecificDisease	D011125
+159	163	FAPC	SpecificDisease	D011125
+170	186	epidermoid cysts	SpecificDisease	D004814
+188	197	osteomata	SpecificDisease	D010016
+212	268	congenital hypertrophy of the retinal pigment epithelium	SpecificDisease	D012164
+270	276	CHRPEs	SpecificDisease	D012164
+370	385	mental handicap	DiseaseClass	D008607
+860	863	APC	Modifier	D011125
+874	877	APC	Modifier	D011125

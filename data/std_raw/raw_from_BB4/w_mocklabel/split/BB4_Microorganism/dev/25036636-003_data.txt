@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+75	96	Brevibacterium linens	Microorganism	1703
+284	300	γ-Proteobacteria	Microorganism	1236
+427	449	Pseudoalteromonas spp.	Microorganism	53246
+529	546	Pseudoalteromonas	Microorganism	53246
+587	617	Pseudoalteromonas haloplanktis	Microorganism	228
+671	688	Pseudoalteromonas	Microorganism	53246

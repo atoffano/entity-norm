@@ -1,0 +1,7 @@
+T1	Title 0 122	A novel missense mutation in patients from a retinoblastoma pedigree showing only mild expression of the tumor phenotype.
+T2	Paragraph 122 1115	We have used single strand conformation polymorphism analysis to study the 27 exons of the RB1 gene in individuals from a family showing mild expression of the retinoblastoma phenotype. In this family affected individuals developed unilateral tumors and, as a result of linkage analysis, unaffected mutation carriers were also identified within the pedigree. A single band shift using SSCP was identified in exon 21 which resulted in a missense mutation converting a cys-- > arg at nucleotide position 28 in the exon. The mutation destroyed an NdeI restriction enzyme site. Analysis of all family members demonstrated that the missense mutation co-segregated with patients with tumors or who, as a result of linkage analysis had been predicted to carry the predisposing mutation. These observations point to another region of the RB1 gene where mutations only modify the function of the gene and raise important questions for genetic counseling in families with these distinctive phenotypes..
+T3	Modifier 45 59	retinoblastoma
+T4	Modifier 105 110	tumor
+T5	Modifier 282 296	retinoblastoma
+T6	DiseaseClass 354 371	unilateral tumors
+T7	DiseaseClass 800 806	tumors

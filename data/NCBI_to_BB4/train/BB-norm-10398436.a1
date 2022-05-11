@@ -1,0 +1,15 @@
+T1	Title 0 77	Beta-catenin accumulation and mutation of the CTNNB1 gene in hepatoblastoma.
+T2	Paragraph 77 1277	Hepatoblastoma is a rare malignant tumor of the liver that occurs in children at an average age of 2 to 3 years. Epidemiologic studies have shown an increased frequency of this tumor type in families affected by adenomatous polyposis coli. In addition to the epidemiologic data, molecular genetic studies suggest that inactivation of the APC tumor suppressor may be involved in hepatoblastoma tumorigenesis. A major function of APC is the downregulation of beta-catenin, a transcription-activating protein with oncogenic potential. In an ongoing immunohistochemical study of beta-catenin expression in sporadic cases of tumor types that are associated with adenomatous polyposis coli, we observed increased beta-catenin levels in the cytoplasm and in the nuclei of three investigated hepatoblastomas. Sequencing of exon 3 of the beta-catenin gene (CTNNB1) revealed an activating mutation in one of the tumor samples. Our data indicate for the first time that beta-catenin accumulation may play a role in the development of hepatoblastoma and that activating mutations of the beta-catenin gene may substitute biallelic APC inactivation in this tumor type. Genes Chromosomes Cancer 25  399-402, 1999..
+T3	SpecificDisease 61 75	hepatoblastoma
+T4	SpecificDisease 77 91	Hepatoblastoma
+T5	DiseaseClass 102 130	malignant tumor of the liver
+T6	Modifier 254 259	tumor
+T7	SpecificDisease 289 315	adenomatous polyposis coli
+T8	Modifier 415 424	APC tumor
+T9	Modifier 455 469	hepatoblastoma
+T10	Modifier 697 702	tumor
+T11	SpecificDisease 734 760	adenomatous polyposis coli
+T12	SpecificDisease 861 876	hepatoblastomas
+T13	Modifier 979 984	tumor
+T14	SpecificDisease 1100 1114	hepatoblastoma
+T15	Modifier 1220 1225	tumor

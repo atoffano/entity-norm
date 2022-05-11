@@ -1,0 +1,17 @@
+T1	Title 0 165	Homozygosity mapping in a family with microcephaly, mental retardation, and short stature to a Cohen syndrome region on 8q21.3-8q22.1: redefining a clinical entity.
+T2	Paragraph 165 1305	A syndrome of microcephaly, progressive postnatal growth deficiency, and mental retardation was observed in two brothers and their cousin from a multiply consanguineous kindred of Lebanese descent. Hypotonia, chorioretinal dystrophy, and myopia were also identified. The severity of the condition varied among the closely related patients. Because of absence of a distinctive facial appearance, the degree of mental retardation, and short stature, the initially considered clinical diagnosis of Cohen syndrome was withdrawn and a novel genetic entity was assumed. Homozygosity mapping in this family assigned the gene to a 26. 8-cM region on the chromosome band 8q21. 3 -22. 1, between the microsatellites at D8S270 and D8S514. The maximum two-point LOD score was found for marker at D8S267 (Zmax = 3.. 237 at Omax = 0. 00). Intriguingly enough, the identified gene region overlaps the refined gene region for Cohen syndrome (COH1) [Kolehmainen et al., 1997  Euro J Hum Genet 5  206-213]. This fact encourages the hypothesis that the described kindred segregates for a variant of Cohen syndrome and suggests a redefinition of its phenotype
+T3	DiseaseClass 38 50	microcephaly
+T4	DiseaseClass 52 70	mental retardation
+T5	DiseaseClass 76 89	short stature
+T6	Modifier 95 109	Cohen syndrome
+T7	DiseaseClass 179 191	microcephaly
+T8	DiseaseClass 205 232	postnatal growth deficiency
+T9	DiseaseClass 238 256	mental retardation
+T10	DiseaseClass 363 372	Hypotonia
+T11	DiseaseClass 374 397	chorioretinal dystrophy
+T12	DiseaseClass 403 409	myopia
+T13	DiseaseClass 574 592	mental retardation
+T14	DiseaseClass 598 611	short stature
+T15	SpecificDisease 660 674	Cohen syndrome
+T16	SpecificDisease 1075 1089	Cohen syndrome
+T17	SpecificDisease 1245 1259	Cohen syndrome

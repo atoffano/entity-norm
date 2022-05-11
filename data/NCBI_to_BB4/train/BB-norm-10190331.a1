@@ -1,0 +1,16 @@
+T1	Title 0 100	Non-syndromic hearing loss associated with enlarged vestibular aqueduct is caused by PDS mutations.
+T2	Paragraph 100 886	Enlarged vestibular aqueduct (EVA), known as the most common form of inner ear abnormality, has recently been of particular genetic interest because this anomaly is inherited in a recessive manner. The locus for non-syndromic sensorineural hearing loss with EVA has been mapped to the same chromosomal region, 7q31, as the Pendred syndrome locus. In the present study, seven mutations in the PDS gene (PDS), the gene responsible for Pendred syndrome, have been found in families of non-syndromic sensorineural hearing loss with EVA. One family is homozygous, three families are compound heterozygotes, and two families are heterozygous but with no other mutation detected. The present results provide evidence that mutations in PDS cause both syndromic and non-syndromic hearing loss..
+T3	SpecificDisease 0 26	Non-syndromic hearing loss
+T4	SpecificDisease 43 71	enlarged vestibular aqueduct
+T5	Modifier 85 88	PDS
+T6	SpecificDisease 100 128	Enlarged vestibular aqueduct
+T7	SpecificDisease 130 133	EVA
+T8	DiseaseClass 169 190	inner ear abnormality
+T9	SpecificDisease 312 352	non-syndromic sensorineural hearing loss
+T10	SpecificDisease 358 361	EVA
+T11	Modifier 423 439	Pendred syndrome
+T12	Modifier 492 495	PDS
+T13	SpecificDisease 533 549	Pendred syndrome
+T14	SpecificDisease 582 622	non-syndromic sensorineural hearing loss
+T15	SpecificDisease 628 631	EVA
+T16	CompositeMention 843 883	syndromic and non-syndromic hearing loss

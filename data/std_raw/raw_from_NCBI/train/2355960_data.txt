@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+26	43	Tay-Sachs disease	SpecificDisease	D013661
+158	175	Tay-Sachs disease	SpecificDisease	D013661
+177	203	GM2 gangliosidosis, type 1	SpecificDisease	D013661
+268	296	autosomal recessive disorder	DiseaseClass	D030342
+361	378	Tay-Sachs disease	SpecificDisease	D013661
+568	585	Tay-Sachs disease	SpecificDisease	D013661
+837	854	Tay-Sachs disease	SpecificDisease	D013661
+1876	1893	Tay-Sachs disease	SpecificDisease	D013661

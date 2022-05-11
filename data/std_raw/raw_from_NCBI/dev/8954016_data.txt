@@ -1,0 +1,26 @@
+start	end	mention	_class	labels
+27	69	hyperparathyroidism and jaw tumor syndrome	SpecificDisease	OMIM:145001
+86	102	renal hamartomas	SpecificDisease	D007674+D006222
+107	128	cystic kidney disease	DiseaseClass	D052177
+186	202	renal hamartomas	SpecificDisease	D007674+D006222
+204	253	Hereditary hyperparathyroidism-jaw tumor syndrome	SpecificDisease	OMIM:145001
+255	261	HPT-JT	SpecificDisease	OMIM:145001
+269	295	autosomal dominant disease	DiseaseClass	D030342
+413	428	HPT-JT syndrome	SpecificDisease	OMIM:145001
+438	460	adult renal hamartomas	SpecificDisease	C536399
+464	485	cystic kidney disease	DiseaseClass	D052177
+576	591	HPT-JT syndrome	SpecificDisease	OMIM:145001
+614	627	renal lesions	DiseaseClass	D007680
+690	693	HPT	SpecificDisease	D006961
+698	700	JT	SpecificDisease	D007573
+770	772	JT	SpecificDisease	D007573
+865	890	polycystic kidney disease	SpecificDisease	D007690
+1026	1037	primary HPT	SpecificDisease	D049950
+1211	1259	multiple endocrine neoplasia (MEN) types 1 and 2	Modifier	D009377
+1438	1442	MEN1	Modifier	OMIM:131100
+1447	1451	MEN2	Modifier	D018813
+1688	1704	renal hamartomas	SpecificDisease	D007674+D006222
+1772	1781	jaw tumor	SpecificDisease	D007573
+1788	1805	parathyroid tumor	SpecificDisease	D010282
+1834	1850	renal hamartomas	SpecificDisease	D007674+D006222
+2026	2031	tumor	Modifier	D009369

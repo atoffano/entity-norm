@@ -1,0 +1,42 @@
+start	end	mention	_class	labels
+107	116	Halomonas	Microorganism	
+155	196	short-ripened cheeses from all facilities	Habitat	
+240	249	Halomonas	Microorganism	
+253	267	dairy products	Habitat	
+311	320	Halomonas	Microorganism	
+383	410	cheese producing facilities	Habitat	
+383	389	cheese	Habitat	
+519	538	marine environments	Habitat	
+554	562	sea salt	Habitat	
+554	557	sea	Habitat	
+566	572	cheese	Habitat	
+566	582	cheese  surfaces	Habitat	
+656	665	Halomonas	Microorganism	
+670	690	short-ripened cheese	Habitat	
+670	696	short-ripened cheese rinds	Habitat	
+756	761	brine	Habitat	
+799	808	Halomonas	Microorganism	
+813	828	VB cheese rinds	Habitat	
+813	822	VB cheese	Habitat	
+867	873	cheese	Habitat	
+901	913	young cheese	Habitat	
+953	962	Halomonas	Microorganism	
+1003	1005	VB	Habitat	
+1015	1022	cheeses	Habitat	
+1023	1042	Coryneform bacteria	Microorganism	
+1053	1072	Brevibacterium spp.	Microorganism	
+1074	1094	Corynebacterium spp.	Microorganism	
+1096	1113	Arthrobacter spp.	Microorganism	
+1115	1134	Microbacterium spp.	Microorganism	
+1139	1160	Brachybacterium  spp.	Microorganism	
+1179	1185	cheese	Habitat	
+1208	1229	proteolytic  activity	Phenotype	
+1531	1542	coryneforms	Microorganism	
+1579	1588	VB cheese	Habitat	
+1579	1594	VB cheese rinds	Habitat	
+1595	1604	B. linens	Microorganism	
+1690	1706	red pigmentation	Phenotype	
+1710	1727	red-smear cheeses	Habitat	
+1752	1782	production of a red carotenoid	Phenotype	
+1838	1853	cheese surfaces	Habitat	
+1838	1844	cheese	Habitat	

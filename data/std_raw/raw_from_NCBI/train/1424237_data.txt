@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+20	36	cat eye syndrome	SpecificDisease	C535918|OMIM:115470
+128	144	cat eye syndrome	SpecificDisease	C535918|OMIM:115470
+146	149	CES	SpecificDisease	C535918|OMIM:115470
+188	191	CES	SpecificDisease	C535918|OMIM:115470
+388	397	tetrasomy	DiseaseClass	D058670

@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+0	16	Brca1 deficiency	SpecificDisease	OMIM:604370
+34	53	embryonic lethality	DiseaseClass	D020964
+71	100	neuroepithelial abnormalities	DiseaseClass	D018302
+106	131	breast and ovarian cancer	Modifier	D061325
+305	330	breast and ovarian cancer	CompositeMention	D061325
+370	385	ovarian cancers	SpecificDisease	D010051
+418	425	tumours	DiseaseClass	D009369
+511	517	tumour	Modifier	D009369
+709	715	cancer	Modifier	D009369
+1039	1054	Brca1-deficient	Modifier	OMIM:604370
+1160	1172	spina bifida	SpecificDisease	D016135
+1177	1188	anencephaly	SpecificDisease	D000757
+1226	1241	Brca1-deficient	Modifier	OMIM:604370

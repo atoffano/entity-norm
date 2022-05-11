@@ -1,0 +1,5 @@
+T1	Title 0 131	The human factor IX gene as germline mutagen test: samples from Mainland China have the putatively endogenous pattern of mutation.
+T2	Paragraph 131 1003	Germline mutations are the major source of genetic variation that allows a species to evolve over time but at the cost of Mendelian disease and genetic predisposition to multifactorial diseases. Previous analyses have revealed that the pattern of germline mutations in the factor IX gene (F9) is similar among a variety of ethnically and geographically diverse populations and compatible with the ancient pattern that has shaped the mammalian genome. Here, we compare the pattern of germline mutation in a population of hemophilia B patients from Mainland China (n = 66) to that in U. S. Caucasians, Blacks, and Mexican Hispanics and stratify by disease severity and ethnicity. The similar pattern of germline mutation in all ethnic groups studied to date provides additional data compatible with the inference that endogenous processes predominate in germline mutations.
+T3	DiseaseClass 253 270	Mendelian disease
+T4	DiseaseClass 301 324	multifactorial diseases
+T5	Modifier 651 663	hemophilia B

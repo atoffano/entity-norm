@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+31	51	Streptococcus mutans	Microorganism	MockLabel
+221	241	Streptococcus mutans	Microorganism	MockLabel
+346	365	mutans streptococci	Microorganism	MockLabel
+390	399	S. mutans	Microorganism	MockLabel
+487	496	S. mutans	Microorganism	MockLabel
+957	966	S. mutans	Microorganism	MockLabel
+1062	1081	mutans streptococci	Microorganism	MockLabel

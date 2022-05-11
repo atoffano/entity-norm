@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+188	205	Str. thermophilus	Microorganism	1308
+209	215	cheese	Habitat	OBT:001480
+209	225	cheese interiors	Habitat	OBT:000373
+237	259	Vagococcus carniphilus	Microorganism	218144
+261	279	Psychrobacter spp.	Microorganism	56811
+284	296	Lb. curvatus	Microorganism	28038
+301	316	cheese surfaces	Habitat	OBT:001341
+301	307	cheese	Habitat	OBT:001480

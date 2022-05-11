@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+23	29	marine	Habitat	
+23	43	marine invertebrates	Habitat	
+88	108	Marine invertebrates	Habitat	
+88	94	Marine	Habitat	
+317	323	marine	Habitat	
+317	336	marine invertebrate	Habitat	
+556	597	bryostatin-producing bryozoan B. neritina	Habitat	
+744	762	listhistid sponges	Habitat	

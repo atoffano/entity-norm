@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+101	106	tumor	Modifier	D009369
+137	172	familial breast and ovarian cancers	CompositeMention	D061325
+515	528	breast cancer	Modifier	D001943

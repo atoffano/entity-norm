@@ -1,0 +1,39 @@
+start	end	mention	_class	labels
+9	17	adhesion	Phenotype	
+21	35	Staphylococcus	Microorganism	
+47	53	rabbit	Habitat	
+47	61	rabbit tissues	Habitat	
+91	99	adhesion	Phenotype	
+103	117	Staphylococcus	Microorganism	
+129	143	rabbit tissues	Habitat	
+129	135	rabbit	Habitat	
+207	225	coagulase-positive	Phenotype	
+272	279	Cowan I	Microorganism	
+314	321	Wood 46	Microorganism	
+343	353	peritoneum	Habitat	
+372	377	Smith	Microorganism	
+395	413	coagulase-positive	Phenotype	
+418	430	encapsulated	Phenotype	
+442	448	rabbit	Habitat	
+442	459	rabbit peritoneum	Habitat	
+472	480	adhesion	Phenotype	
+506	513	Cowan I	Microorganism	
+548	555	Wood 46	Microorganism	
+660	670	peritoneum	Habitat	
+683	700	mesentery samples	Habitat	
+884	894	epithelium	Habitat	
+907	930	fibers of the mesentery	Habitat	
+944	951	Cowan I	Microorganism	
+1037	1045	adhesion	Phenotype	
+1064	1070	rabbit	Habitat	
+1064	1078	rabbit tissues	Habitat	
+1123	1131	adhesion	Phenotype	
+1170	1180	peritoneum	Habitat	
+1236	1244	adhesion	Phenotype	
+1319	1326	Cowan I	Microorganism	
+1342	1352	peritoneum	Habitat	
+1360	1369	mesentery	Habitat	
+1394	1401	Wood 46	Microorganism	
+1485	1493	adhesion	Phenotype	
+1537	1550	pathogenicity	Phenotype	
+1554	1568	Staphylococcus	Microorganism	

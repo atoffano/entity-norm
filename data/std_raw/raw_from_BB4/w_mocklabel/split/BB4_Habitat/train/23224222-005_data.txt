@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+179	214	interior of the cheese from dairy A	Habitat	OBT:000373
+195	214	cheese from dairy A	Habitat	OBT:001480
+207	212	dairy	Habitat	OBT:001988
+351	373	cheese surface samples	Habitat	OBT:001341
+351	357	cheese	Habitat	OBT:001480
+426	448	cheeses from dairies A	Habitat	OBT:001480
+426	446;456	cheeses from dairies D	Habitat	OBT:001480
+426	446;450	cheeses from dairies B	Habitat	OBT:001480
+439	446	dairies	Habitat	OBT:001988
+484	506	cheeses from dairies A	Habitat	OBT:001480
+484	504;511	cheeses from dairies C	Habitat	OBT:001480
+497	504	dairies	Habitat	OBT:001988
+537	556	cheese from dairy B	Habitat	OBT:001480
+549	554	dairy	Habitat	OBT:001988
+618	624	cheese	Habitat	OBT:003428
+768	782	cheese surface	Habitat	OBT:001341
+768	774	cheese	Habitat	OBT:001480

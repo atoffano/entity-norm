@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+11	60	deficiency of the seventh component of complement	SpecificDisease	OMIM:610102
+75	98	meningococcal infection	SpecificDisease	D008589
+222	262	Terminal complement component deficiency	SpecificDisease	D007153
+278	301	meningococcal infection	SpecificDisease	D008589
+424	447	meningococcal infection	SpecificDisease	D008589
+501	531	terminal complement deficiency	SpecificDisease	D007153
+577	636	completely deficient in the seventh component of complement	SpecificDisease	OMIM:610102
+839	852	C7 deficiency	Modifier	OMIM:610102
+934	946	C7 deficient	SpecificDisease	OMIM:610102
+1074	1097	meningococcal infection	SpecificDisease	D008589
+1128	1141	meningococcal	Modifier	D008589
+1171	1191	complement deficient	Modifier	D007153

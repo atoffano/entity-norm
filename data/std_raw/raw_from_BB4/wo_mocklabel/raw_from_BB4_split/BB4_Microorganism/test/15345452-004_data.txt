@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+187	205	Lactococcus lactis	Microorganism	
+219	245	Streptococcus thermophilus	Microorganism	
+598	637	Lactobacillus delbrueckii subsp. lactis	Microorganism	
+758	786	Staphylococcus saprophyticus	Microorganism	
+972	993	Staphylococcus lentus	Microorganism	
+995	1017	Staphylococcus equorum	Microorganism	
+1023	1048	Lactobacillus acidophilus	Microorganism	
+1162	1184	Lactobacillus buchneri	Microorganism	
+1453	1471	Lactococcus lactis	Microorganism	
+1900	1921	Enterococcus faecalis	Microorganism	
+1932	1950	Lactococcus lactis	Microorganism	
+1965	1991	Streptococcus thermophilus	Microorganism	
+2062	2085	Lactobacillus plantarum	Microorganism	
+2099	2124	Lactobacillus acidophilus	Microorganism	

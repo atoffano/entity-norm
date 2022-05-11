@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+65	82	Friedreich ataxia	SpecificDisease	D005621
+84	101	Friedreich ataxia	SpecificDisease	D005621
+103	107	FRDA	SpecificDisease	D005621
+133	150	inherited ataxias	DiseaseClass	D013132
+158	199	autosomal recessive degenerative disorder	DiseaseClass	D019636
+259	291	progressive gait and limb ataxia	CompositeMention	D020234|D001259
+293	324	absence of deep tendon reflexes	DiseaseClass	D012021
+326	352	extensor plantar responses	DiseaseClass	D001405
+358	394	loss of position and vibration sense	CompositeMention	D053421
+415	419	FRDA	SpecificDisease	D005621
+484	488	FRDA	Modifier	D005621
+537	541	FRDA	Modifier	D005621
+660	664	FRDA	Modifier	D005621
+983	987	FRDA	Modifier	D005621
+1160	1164	FRDA	Modifier	D005621
+1313	1317	FRDA	SpecificDisease	D005621
+1339	1361	mitochondrial disorder	DiseaseClass	D028361

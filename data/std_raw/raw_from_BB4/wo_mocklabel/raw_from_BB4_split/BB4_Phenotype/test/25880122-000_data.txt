@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+37	58	lactic acid bacterium	Phenotype	
+552	558;567	stress resistances	Phenotype	
+563	578	hop resistances	Phenotype	
+589	608	folate biosynthesis	Phenotype	
+613	647	exopolysaccharide (EPS) production	Phenotype	

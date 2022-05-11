@@ -1,0 +1,9 @@
+T1	Title 0 132	Molecular genetics of PKU in eastern Europe: a nonsense mutation associated with haplotype 4 of the phenylalanine hydroxylase gene.
+T2	Paragraph 132 1014	Phenylketonuria (PKU) is a genetic disorder secondary to a deficiency of hepatic phenylalanine hydroxylase (PAH). Several mutations in the PAH gene have recently been reported, and linkage disequilibrium was observed between RFLP haplotypes and specific mutations. A new molecular lesion has been identified in exon 7 of the PAH gene in a Hungarian PKU patient by direct sequencing of PCR-amplified DNA. The C-to-T transition causes the substitution of Arg243 to a termination codon, and the mutant allele is associated with haplotype 4 of the PAH gene. The mutation is present in two of nine mutant haplotype 4 alleles among Eastern Europeans and is not present among Western Europeans and Asians. The rarity of this mutant allele and its restricted geographic distribution suggest that the mutational event occurred recently on a normal haplotype 4 background in Eastern Europe..
+T3	SpecificDisease 22 25	PKU
+T4	SpecificDisease 132 147	Phenylketonuria
+T5	SpecificDisease 149 152	PKU
+T6	DiseaseClass 159 175	genetic disorder
+T7	SpecificDisease 191 238	deficiency of hepatic phenylalanine hydroxylase
+T8	DiseaseClass 403 419	molecular lesion
+T9	Modifier 481 484	PKU

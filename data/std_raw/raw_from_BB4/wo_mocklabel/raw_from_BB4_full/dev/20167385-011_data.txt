@@ -1,0 +1,38 @@
+start	end	mention	_class	labels
+14	35	lactic acid bacterial	Phenotype	OBT:000019
+43	46	LAB	Phenotype	OBT:000019
+49	62	Lactobacillus	Microorganism	1578
+124	130	cheese	Habitat	OBT:001480
+124	138	cheese surface	Habitat	OBT:001341
+170	183	Lactobacillus	Microorganism	1578
+213	235	Fontina cheese surface	Habitat	OBT:001341
+213	227	Fontina cheese	Habitat	OBT:003472
+303	313	lactococci	Microorganism	1357
+318	330	lactobacilli	Microorganism	1578
+368	378	Gorgonzola	Habitat	OBT:003504
+368	383	Gorgonzola rind	Habitat	OBT:001481
+421	432	L. curvatus	Microorganism	28038
+468	476	Taleggio	Habitat	OBT:003525
+468	481	Taleggio rind	Habitat	OBT:001481
+486	495	L. brevis	Microorganism	1580
+519	540;554	surface of Gorgonzola cheeses	Habitat	OBT:001341
+519	529;545	surface of Scimudin cheeses	Habitat	OBT:001341
+530	540;554	Gorgonzola cheeses	Habitat	OBT:003504
+545	561	Scimudin cheeses	Habitat	OBT:003522
+612	637	Formaggio di Fossa cheese	Habitat	OBT:003473
+658	672	L. acidipiscis	Microorganism	89059
+676	689	Gram positive	Phenotype	OBT:000649
+690	693	rod	Phenotype	OBT:000848
+696	711	microaerophilic	Phenotype	OBT:000347
+787	801	fermented fish	Habitat	OBT:003145
+891	903	Greek cheese	Habitat	OBT:001480
+927	939	Enteroccocci	Microorganism	1350
+974	982;1026	Scimudin surfaces	Habitat	OBT:001341
+974	982	Scimudin	Habitat	OBT:003522
+1001	1011	Gorgonzola	Habitat	OBT:003504
+1001	1011;1026	Gorgonzola surfaces	Habitat	OBT:001341
+1043	1050	Fontina	Habitat	OBT:003472
+1043	1055	Fontina rind	Habitat	OBT:001481
+1150	1161	enterococci	Microorganism	1350
+1233	1243	Gorgonzola	Habitat	OBT:003504
+1233	1249	Gorgonzola rinds	Habitat	OBT:001481

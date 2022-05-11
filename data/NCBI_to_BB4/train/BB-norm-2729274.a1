@@ -1,0 +1,13 @@
+T1	Title 0 47	Color vision defects in adrenomyeloneuropathy.
+T2	Paragraph 47 892	The relationship between abnormal color vision and adrenomyeloneuropathy (AMN) was investigated in 27 AMN patients and 31 age-matched controls by using the Farnsworth-Munsell 100 Hue test. Twelve (44%) of 27 patients showed test scores significantly above normal. The axes of bipolarity determined by the testing differed widely between the patients with abnormal scores, compatible with the notion that different alterations in visual pigment genes occur in different AMN kindreds. These observations confirm our earlier impression that the frequency of abnormal color vision is increased in these kindreds, and it supports our contentions that (1) AMN (and its companion, adrenoleukodystrophy) are very closely linked to the visual pigment loci at Xq28 and (2) this proximity might provide the opportunity to observe contiguous gene defects..
+T3	DiseaseClass 0 20	Color vision defects
+T4	SpecificDisease 24 45	adrenomyeloneuropathy
+T5	DiseaseClass 72 93	abnormal color vision
+T6	SpecificDisease 98 119	adrenomyeloneuropathy
+T7	SpecificDisease 121 124	AMN
+T8	Modifier 149 152	AMN
+T9	Modifier 516 519	AMN
+T10	DiseaseClass 602 623	abnormal color vision
+T11	SpecificDisease 697 700	AMN
+T12	DiseaseClass 721 741	adrenoleukodystrophy
+T13	DiseaseClass 866 889	contiguous gene defects

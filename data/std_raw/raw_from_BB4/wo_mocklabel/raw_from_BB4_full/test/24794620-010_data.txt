@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+20	34	B. pityocampae	Microorganism	
+64	75	old cheeses	Habitat	
+130	141	old cheeses	Habitat	

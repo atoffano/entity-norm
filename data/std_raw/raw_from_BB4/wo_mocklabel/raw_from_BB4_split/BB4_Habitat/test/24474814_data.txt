@@ -1,0 +1,26 @@
+start	end	mention	_class	labels
+53	61	maternal	Habitat	
+62	67	fetal	Habitat	
+104	116	intrauterine	Habitat	
+104	122	intrauterine fetal	Habitat	
+139	155	Maternal vaginal	Habitat	
+139	147	Maternal	Habitat	
+265	270	fetal	Habitat	
+286	294	neonatal	Habitat	
+419	431	murine model	Habitat	
+517	524	vaginal	Habitat	
+554	559	fetal	Habitat	
+666	678	Intrauterine	Habitat	
+666	684	Intrauterine fetal	Habitat	
+737	750	pregnant mice	Habitat	
+927	936	placental	Habitat	
+965	973	maternal	Habitat	
+974	979	fetal	Habitat	
+994	999	fetal	Habitat	
+1032	1039	animals	Habitat	
+1127	1137	fetal lung	Habitat	
+1127	1132;1142	fetal liver	Habitat	
+1127	1132	fetal	Habitat	
+1167	1172	fetal	Habitat	
+1310	1329	upper genital tract	Habitat	
+1425	1430	fetal	Habitat	

@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+959	968	pathogens	Phenotype	OBT:002669
+1249	1262	pathogenicity	Phenotype	OBT:002669
+1480	1489	pathogens	Phenotype	OBT:002669
+1576	1585	pathogens	Phenotype	OBT:002669
+1607	1616	pathogens	Phenotype	OBT:002669

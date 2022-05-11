@@ -1,0 +1,28 @@
+T1	Title 0 118	Constitutional von Hippel-Lindau (VHL) gene deletions detected in VHL families by fluorescence in situ hybridization.
+T2	Paragraph 118 2330	von Hippel-Lindau (VHL) disease is an autosomal dominantly inherited cancer syndrome predisposing to a variety of tumor types that include retinal hemangioblastomas, hemangioblastomas of the central nervous system, renal cell carcinomas, pancreatic cysts and tumors, pheochromocytomas, endolymphatic sac tumors, and epididymal cystadenomas [W. M. Linehan et al., J. Am. Med. Assoc., 273  564-570, 1995; E. A. Maher and W. G. Kaelin, Jr., Medicine (Baltimore), 76  381-391, 1997; W. M. Linehan and R. D. Klausner, In  B. Vogelstein and K. Kinzler (eds.), The Genetic Basis of Human Cancer, pp. 455-473, McGraw-Hill, 1998]. The VHL gene was localized to chromosome 3p25-26 and cloned [F. Latif et al., Science (Washington DC), 260  1317-1320, 1993]. Germline mutations in the VHL gene have been detected in the majority of VHL kindreds. The reported frequency of detection of VHL germline mutations has varied from 39 to 80% (J. M. Whaley et al., Am. J. Hum. Genet., 55  1092-1102, 1994; Clinical Research Group for Japan, Hum. Mol. Genet., 4  2233-2237, 1995; F. Chen et al., Hum. Mutat., 5  66-75, 1995; E. R. Maher et al., J. Med. Genet., 33  328-332, 1996; B. Zbar, Cancer Surv., 25  219-232, 1995). Recently a quantitative Southern blotting procedure was found to improve this frequency (C. Stolle et al., Hum. Mutat., 12  417-423, 1998). In the present study, we report the use of fluorescence in situ hybridization (FISH) as a method to detect and characterize VHL germline deletions. We reexamined a group of VHL patients shown previously by single-strand conformation and sequencing analysis not to harbor point mutations in the VHL locus. We found constitutional deletions in 29 of 30 VHL patients in this group using cosmid and P1 probes that cover the VHL locus. We then tested six phenotypically normal offspring from four of these VHL families  two were found to carry the deletion and the other four were deletion-free. In addition, germline mosaicism of the VHL gene was identified in one family. In sum, FISH was found to be a simple and reliable method to detect VHL germline deletions and practically useful in cases where other methods of screening have failed to detect a VHL gene abnormality
+T3	Modifier 15 32	von Hippel-Lindau
+T4	Modifier 34 37	VHL
+T5	Modifier 66 69	VHL
+T6	SpecificDisease 118 149	von Hippel-Lindau (VHL) disease
+T7	DiseaseClass 156 202	autosomal dominantly inherited cancer syndrome
+T8	Modifier 232 237	tumor
+T9	DiseaseClass 265 282	hemangioblastomas
+T10	DiseaseClass 284 301	hemangioblastomas
+T11	SpecificDisease 333 354	renal cell carcinomas
+T12	CompositeMention 356 383	pancreatic cysts and tumors
+T13	DiseaseClass 385 402	pheochromocytomas
+T14	DiseaseClass 404 428	endolymphatic sac tumors
+T15	DiseaseClass 434 457	epididymal cystadenomas
+T16	Modifier 744 747	VHL
+T17	Modifier 892 895	VHL
+T18	Modifier 939 942	VHL
+T19	Modifier 992 995	VHL
+T20	Modifier 1584 1587	VHL
+T21	Modifier 1633 1636	VHL
+T22	Modifier 1754 1757	VHL
+T23	Modifier 1811 1814	VHL
+T24	Modifier 1880 1883	VHL
+T25	Modifier 1961 1964	VHL
+T26	Modifier 2090 2093	VHL
+T27	Modifier 2197 2200	VHL
+T28	SpecificDisease 2309 2329	VHL gene abnormality

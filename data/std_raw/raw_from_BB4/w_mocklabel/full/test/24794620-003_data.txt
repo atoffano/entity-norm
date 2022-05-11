@@ -1,0 +1,28 @@
+start	end	mention	_class	labels
+63	83	lactic acid bacteria	Phenotype	MockLabel
+122	143	Debaryomyces hansenii	Microorganism	MockLabel
+148	167	Geotrichum candidum	Microorganism	MockLabel
+211	225	cheese surface	Habitat	MockLabel
+211	217	cheese	Habitat	MockLabel
+390	408	coagulase-negative	Phenotype	MockLabel
+409	422	staphylococci	Microorganism	MockLabel
+431	453	Staphylococcus equorum	Microorganism	MockLabel
+458	471	salt-tolerant	Phenotype	MockLabel
+458	493	salt-tolerant bacterial communities	Habitat	MockLabel
+503	514	coryneforms	Microorganism	MockLabel
+525	545	Corynebacterium spp.	Microorganism	MockLabel
+547	564	Arthrobacter spp.	Microorganism	MockLabel
+566	582	Micrococcus spp.	Microorganism	MockLabel
+584	603	Brevibacterium spp.	Microorganism	MockLabel
+608	629	Brachybacterium  spp.	Microorganism	MockLabel
+669	699	entire surface of the  cheeses	Habitat	MockLabel
+692	699	cheeses	Habitat	MockLabel
+701	720	Coryneform bacteria	Microorganism	MockLabel
+750	762	cheese rinds	Habitat	MockLabel
+750	756	cheese	Habitat	MockLabel
+860	873	Gram-negative	Phenotype	MockLabel
+891	905	Halomonas spp.	Microorganism	MockLabel
+907	918	Vibrio spp.	Microorganism	MockLabel
+924	936	Hafnia alvei	Microorganism	MockLabel
+959	965	cheese	Habitat	MockLabel
+959	974	cheese surfaces	Habitat	MockLabel

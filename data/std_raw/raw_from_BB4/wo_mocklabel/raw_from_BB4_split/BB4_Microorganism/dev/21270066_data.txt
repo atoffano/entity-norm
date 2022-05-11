@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+217	220	HIV	Microorganism	12721
+565	568	HIV	Microorganism	35274
+695	716	Chlamydia trachomatis	Microorganism	813
+968	977	chlamydia	Microorganism	813

@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+75	80	tumor	Modifier	D009369
+267	280	Ewing sarcoma	SpecificDisease	D012512
+293	315	neuroectodermal tumors	SpecificDisease	D017599
+1054	1066	Ewing tumors	DiseaseClass	D012512

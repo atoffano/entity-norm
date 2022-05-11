@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	34	Homozygous hypobetalipoproteinemia	SpecificDisease	D006995
+60	83	abetalipoproproteinemia	SpecificDisease	D000012
+158	192	homozygous hypobetalipoproteinemia	SpecificDisease	D006995
+194	197	HBL	SpecificDisease	D006995
+441	444	HBL	Modifier	D006995
+570	573	HBL	Modifier	D006995
+749	752	HBL	Modifier	D006995
+875	878	HBL	Modifier	D006995
+1010	1030	abetalipoproteinemia	SpecificDisease	D000012

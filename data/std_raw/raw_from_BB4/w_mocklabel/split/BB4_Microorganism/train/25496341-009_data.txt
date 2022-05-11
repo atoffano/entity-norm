@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+229	248	Geotrichum candidum	Microorganism	1173061
+250	271	Debaryomyces hansenii	Microorganism	4959
+277	299	Penicillium roqueforti	Microorganism	5082

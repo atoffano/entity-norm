@@ -1,0 +1,1423 @@
+
+20167385-010|t|
+20167385-010|a|With regard to the Corynebacterium species, C. casei and C. variabilis were those more commonly isolated from the cheese rinds ( Brennan et al., 2002, Mounier et al., 2005 and Rea et al., 2007). C. flavescens was only found on the rind of Gorgonzola and Scimudin cheeses. This species was also isolated by  Brennan et al. (2002) on the surface of Gobbeen cheese, though only once during the ripening. C. flavescens produced a yellow pigment and together with C. casei, C. variabile, and C. ammoniagenes are considered dairy species ( Denis and Irlinger, 2008).
+20167385-010	19	34	Corynebacterium	Microorganism	1716
+20167385-010	44	52	C. casei	Microorganism	160386
+20167385-010	57	70	C. variabilis	Microorganism	1727
+20167385-010	114	126	cheese rinds	Habitat	OBT:001481
+20167385-010	114	120	cheese	Habitat	OBT:001480
+20167385-010	195	208	C. flavescens	Microorganism	28028
+20167385-010	231	249;263	rind of Gorgonzola cheeses	Habitat	OBT:001481
+20167385-010	231	238;254	rind of Scimudin cheeses	Habitat	OBT:001481
+20167385-010	239	249;263	Gorgonzola cheeses	Habitat	OBT:003504
+20167385-010	254	270	Scimudin cheeses	Habitat	OBT:003522
+20167385-010	336	361	surface of Gobbeen cheese	Habitat	OBT:001341
+20167385-010	347	361	Gobbeen cheese	Habitat	OBT:003505
+20167385-010	401	414	C. flavescens	Microorganism	28028
+20167385-010	426	440	yellow pigment	Phenotype	OBT:001386
+20167385-010	459	467	C. casei	Microorganism	160386
+20167385-010	469	481	C. variabile	Microorganism	1727
+20167385-010	487	502	C. ammoniagenes	Microorganism	1697
+20167385-010	518	523	dairy	Habitat	OBT:001208
+
+14624315-005|t|
+14624315-005|a|In line with this, L. lactis subsp. cremoris B697, a strain with a high hydroxy acid dehydrogenase activity compared to the transaminase activity (Fig. 3A, B), did not produce detectable amounts of 3-methylbutanal. Interestingly, L. lactis subsp. cremoris strain B1157, a strain reported to produce high levels of 3-methylbutanal (Ayad et al. 1999, 2000), has transaminase and hydroxy acid dehydrogenase activities approximately similar to those of strain B697.
+14624315-005	19	49	L. lactis subsp. cremoris B697	Microorganism	1359
+14624315-005	67	107	high hydroxy acid dehydrogenase activity	Phenotype	OBT:000019
+14624315-005	124	145	transaminase activity	Phenotype	OBT:000019
+14624315-005	230	268	L. lactis subsp. cremoris strain B1157	Microorganism	1359
+14624315-005	361	373;405	transaminase activities	Phenotype	OBT:000019
+14624315-005	378	415	hydroxy acid dehydrogenase activities	Phenotype	OBT:000019
+14624315-005	458	462	B697	Microorganism	1359
+
+21270066|t|Lymphogranuloma venereum presenting as perianal ulceration: an emerging clinical presentation?
+21270066|a|An outbreak of lymphogranuloma venereum (LGV) infection has been recognised in the UK since 2004, predominantly affecting HIV-positive men who have sex with men (MSM). Patients typically present with proctitis symptoms. The prevalence of rectal LGV in MSM attending sexually transmitted infection clinics in London is estimated at 1%. Health Protection Agency surveillance has shown a decrease in anorectal manifestations despite little demographic change. Two cases of HIV-infected patients presenting with isolated perianal ulcer disease are reported here. Both cases were confirmed to have rectal Chlamydia trachomatis-specific DNA of an LGV associated serovar. As presentations of LGV diversify, further education and surveillance are needed in order to reduce transmission and prevent long-term complications. A strong argument already exists for the incorporation of chlamydia nucleic acid amplification tests in the management of MSM with proctitis; this paper provides evidence that this should be extended to MSM with perianal ulcer disease.
+21270066	39	47	perianal	Habitat	OBT:000988
+21270066	39	58	perianal ulceration	Habitat	OBT:000933
+21270066	217	255	HIV-positive men who have sex with men	Habitat	OBT:003451|OBT:003156
+21270066	217	220	HIV	Microorganism	12721
+21270066	252	255	men	Habitat	OBT:003451
+21270066	257	260	MSM	Habitat	OBT:003451|OBT:003156
+21270066	263	271	Patients	Habitat	OBT:003269|OBT:003451
+21270066	333	339	rectal	Habitat	OBT:001738
+21270066	347	399	MSM attending sexually transmitted infection clinics	Habitat	OBT:003451|OBT:003269
+21270066	361	399	sexually transmitted infection clinics	Habitat	OBT:002694
+21270066	492	501	anorectal	Habitat	OBT:000988|OBT:001738
+21270066	565	634	HIV-infected patients presenting with isolated perianal ulcer disease	Habitat	OBT:003451|OBT:003269
+21270066	565	568	HIV	Microorganism	35274
+21270066	612	626	perianal ulcer	Habitat	OBT:000933
+21270066	612	620	perianal	Habitat	OBT:000988
+21270066	688	694	rectal	Habitat	OBT:001738
+21270066	695	716	Chlamydia trachomatis	Microorganism	813
+21270066	968	977	chlamydia	Microorganism	813
+21270066	1032	1050	MSM with proctitis	Habitat	OBT:003451|OBT:003156
+21270066	1113	1144	MSM with perianal ulcer disease	Habitat	OBT:003451|OBT:003156
+21270066	1122	1130	perianal	Habitat	OBT:000988
+21270066	1122	1136	perianal ulcer	Habitat	OBT:000933
+
+10496597|t|The differential diagnosis of early gastric mucosa-associated lymphoma: polymerase chain reaction and paraffin section immunophenotyping.
+10496597|a|The distinction between benign florid lymphoid hyperplasia and low-grade gastric mucosal-associated lymphoid tissue (MALT) lymphoma may be a challenge. The presence of monoclonal B cells in Helicobacter pylori-chronic active gastritis has suggested that polymerase chain reaction (PCR) data should be viewed with caution. We investigated the reliability of PCR versus immunophenotyping in diagnosing early gastric MALT lymphoma. We studied 1511 biopsies from eight patients with high-grade primary gastric lymphoma, 25 with low-grade MALT lymphoma, 32 with atypical lymphoid infiltrates, and 39 with Helicobacter pylori-chronic active gastritis. Paraffin sections from all cases were stained with antibodies to CD20, CD3, AE1/AE3, kappa and lambda. PCR was performed on paraffin sections using the primer set VH-FR3/J(H). Using histopathology as the gold standard in diagnosis, we confirmed monoclonality in 22 of 25 MALT lymphomas (88%); a clonal band was found in 38% (15 of 39) of patients with chronic active gastritis. An immunophenotype pattern with predominance of CD20-positive cells in lymphocytic infiltrates was associated with monoclonality in 92% of cases. The presence of an enlarged irregular mantle zone was found in both monoclonal and polyclonal areas. An equal prevalence of B and T cells in lymphocytic infiltrates was associated with a polyclonal pattern in 24 of 31 cases (77%). Immunostaining of sIg (kappa and lambda) was difficult in paraffin sections and convincing proof of monoclonality was not obtained. Lymphoepithelial lesions were infrequent in gastric biopsies and their presence was highlighted with keratin stains. Because monoclonal B cells are observed in Helicobacter pylori-associated gastritis, the correct interpretation of clonality by PCR remains unclear. Paraffin section IHC using CD20 and CD3 is especially useful to confirm the diagnosis of gastric MALT lymphoma.
+10496597	36	43	gastric	Habitat	OBT:001792
+10496597	36	50	gastric mucosa	Habitat	OBT:001577
+10496597	211	253	gastric mucosal-associated lymphoid tissue	Habitat	OBT:000334
+10496597	211	226	gastric mucosal	Habitat	OBT:001577
+10496597	211	218	gastric	Habitat	OBT:001792
+10496597	255	259	MALT	Habitat	OBT:000334
+10496597	306	324	monoclonal B cells	Habitat	OBT:001623
+10496597	328	347	Helicobacter pylori	Microorganism	210
+10496597	544	551	gastric	Habitat	OBT:001792
+10496597	544	556	gastric MALT	Habitat	OBT:000334
+10496597	603	611;690	patients with atypical lymphoid infiltrates	Habitat	OBT:003220
+10496597	603	611;657	patients with low-grade MALT lymphoma	Habitat	OBT:003220
+10496597	603	611;733	patients with Helicobacter pylori-chronic active gastritis	Habitat	OBT:003269
+10496597	603	652	patients with high-grade primary gastric lymphoma	Habitat	OBT:003220
+10496597	636	643	gastric	Habitat	OBT:001792
+10496597	672	676	MALT	Habitat	OBT:000334
+10496597	738	757	Helicobacter pylori	Microorganism	210
+10496597	849	853	CD20	Habitat	OBT:001623
+10496597	855	858	CD3	Habitat	OBT:001623
+10496597	1055	1059	MALT	Habitat	OBT:000334
+10496597	1122	1160	patients with chronic active gastritis	Habitat	OBT:003220
+10496597	1210	1229	CD20-positive cells	Habitat	OBT:001623
+10496597	1233	1244	lymphocytic	Habitat	OBT:001623
+10496597	1432	1433;1440	B cells	Habitat	OBT:001623
+10496597	1438	1445	T cells	Habitat	OBT:001623
+10496597	1449	1460	lymphocytic	Habitat	OBT:001623
+10496597	1671	1687	Lymphoepithelial	Habitat	OBT:001091|OBT:000334
+10496597	1671	1695	Lymphoepithelial lesions	Habitat	OBT:000332
+10496597	1715	1722	gastric	Habitat	OBT:001792
+10496597	1715	1731	gastric biopsies	Habitat	OBT:000110
+10496597	1796	1814	monoclonal B cells	Habitat	OBT:001623
+10496597	1831	1850	Helicobacter pylori	Microorganism	210
+10496597	1964	1968	CD20	Habitat	OBT:001623
+10496597	1973	1976	CD3	Habitat	OBT:001623
+10496597	2026	2038	gastric MALT	Habitat	OBT:000334
+10496597	2026	2033	gastric	Habitat	OBT:001792
+
+18094887|t|Rickettsia infection in five areas of the state of São Paulo, Brazil.
+18094887|a|This study investigated rickettsial infection in animals, humans, ticks, and fleas collected in five areas of the state of São Paulo. Eight flea species (Adoratopsylla antiquorum antiquorum, Ctenocephalides felis felis, Polygenis atopus, Polygenis rimatus, Polygenis roberti roberti, Polygenis tripus, Rhopalopsyllus lugubris, and Rhopalopsyllus lutzi lutzi), and five tick species (Amblyomma aureolatum, Amblyomma cajennense, Amblyomma dubitatum, Ixodes loricatus, and Rhipicephalus sanguineus) were collected from dogs, cats, and opossums. Rickettsia felis was the only rickettsia found infecting fleas, whereas Rickettsia bellii was the only agent infecting ticks, but no animal or human blood was shown to contain rickettsial DNA. Testing animal and human sera by indirect immunofluorescence assay against four rickettsia antigens (R. rickettsii, R. parkeri, R. felis, and R. bellii), some opossum, dog, horse, and human sera reacted to R. rickettsii with titers at least four-fold higher than to the other three rickettsial antigens. These sera were considered to have a predominant antibody response to R. rickettsii. Using the same criteria, opossum, dog, and horse sera showed predominant antibody response to R. parkeri or a very closely related genotype. Our serological results suggest that both R. rickettsii and R. parkeri infected animals and/or humans in the studied areas.
+18094887	0	10	Rickettsia	Microorganism	780
+18094887	94	105	rickettsial	Microorganism	780
+18094887	119	126	animals	Habitat	OBT:000193
+18094887	128	134	humans	Habitat	OBT:002488
+18094887	136	141	ticks	Habitat	OBT:001821
+18094887	147	152	fleas	Habitat	OBT:002034
+18094887	210	214	flea	Habitat	OBT:002034
+18094887	224	259	Adoratopsylla antiquorum antiquorum	Habitat	OBT:002034
+18094887	261	288	Ctenocephalides felis felis	Habitat	OBT:002034
+18094887	290	306	Polygenis atopus	Habitat	OBT:002034
+18094887	308	325	Polygenis rimatus	Habitat	OBT:002034
+18094887	327	352	Polygenis roberti roberti	Habitat	OBT:002034
+18094887	354	370	Polygenis tripus	Habitat	OBT:002034
+18094887	372	395	Rhopalopsyllus lugubris	Habitat	OBT:002034
+18094887	401	427	Rhopalopsyllus lutzi lutzi	Habitat	OBT:002034
+18094887	439	443	tick	Habitat	OBT:001821
+18094887	453	473	Amblyomma aureolatum	Habitat	OBT:001821
+18094887	475	495	Amblyomma cajennense	Habitat	OBT:001821
+18094887	497	516	Amblyomma dubitatum	Habitat	OBT:001821
+18094887	518	534	Ixodes loricatus	Habitat	OBT:001821
+18094887	540	564	Rhipicephalus sanguineus	Habitat	OBT:002693
+18094887	586	590	dogs	Habitat	OBT:003092
+18094887	592	596	cats	Habitat	OBT:003086
+18094887	602	610	opossums	Habitat	OBT:002161
+18094887	612	628	Rickettsia felis	Microorganism	42862
+18094887	642	652	rickettsia	Microorganism	780
+18094887	669	674	fleas	Habitat	OBT:002034
+18094887	684	701	Rickettsia bellii	Microorganism	33990
+18094887	731	736	ticks	Habitat	OBT:001821
+18094887	745	751;761	animal blood	Habitat	OBT:000521
+18094887	745	751	animal	Habitat	OBT:000193
+18094887	755	766	human blood	Habitat	OBT:000521
+18094887	755	760	human	Habitat	OBT:002488
+18094887	788	799	rickettsial	Microorganism	780
+18094887	813	819	animal	Habitat	OBT:000193
+18094887	813	819;830	animal sera	Habitat	OBT:000007|OBT:000524
+18094887	824	829	human	Habitat	OBT:002488
+18094887	824	834	human sera	Habitat	OBT:000524|OBT:000007
+18094887	885	895	rickettsia	Microorganism	780
+18094887	906	919	R. rickettsii	Microorganism	783
+18094887	921	931	R. parkeri	Microorganism	35792
+18094887	933	941	R. felis	Microorganism	42862
+18094887	947	956	R. bellii	Microorganism	33990
+18094887	964	971;995	opossum sera	Habitat	OBT:000524|OBT:000007
+18094887	964	971	opossum	Habitat	OBT:002161
+18094887	973	976;995	dog sera	Habitat	OBT:000007|OBT:000524
+18094887	973	976	dog	Habitat	OBT:003092
+18094887	978	983	horse	Habitat	OBT:003320
+18094887	978	983;995	horse sera	Habitat	OBT:000524|OBT:000007
+18094887	989	999	human sera	Habitat	OBT:000524|OBT:000007
+18094887	989	994	human	Habitat	OBT:002488
+18094887	1011	1024	R. rickettsii	Microorganism	783
+18094887	1087	1098	rickettsial	Microorganism	780
+18094887	1115	1119	sera	Habitat	OBT:000524|OBT:000007
+18094887	1179	1192	R. rickettsii	Microorganism	783
+18094887	1219	1226;1243	opossum sera	Habitat	OBT:000524|OBT:000007
+18094887	1219	1226	opossum	Habitat	OBT:002161
+18094887	1228	1231	dog	Habitat	OBT:003092
+18094887	1228	1231;1243	dog sera	Habitat	OBT:000524|OBT:000007
+18094887	1237	1242	horse	Habitat	OBT:003320
+18094887	1237	1247	horse sera	Habitat	OBT:000524|OBT:000007
+18094887	1288	1298	R. parkeri	Microorganism	35792
+18094887	1377	1390	R. rickettsii	Microorganism	783
+18094887	1395	1405	R. parkeri	Microorganism	35792
+18094887	1415	1422	animals	Habitat	OBT:000193
+18094887	1430	1436	humans	Habitat	OBT:002488
+
+20167385-007|t|
+20167385-007|a|Despite the different production technologies and geographical origin, the surface microbiota of Formaggio di Fossa, Gorgonzola and Taleggio cheeses share common features. Common DGGE bands originated by P. celer, P. aquimaris, P. glacincolaus, S. equorum, and M. luteus were identified.
+20167385-007	77	98;134	surface microbiota of Taleggio  cheeses	Habitat	OBT:000113
+20167385-007	77	98;119	surface microbiota of Gorgonzola cheeses	Habitat	OBT:000113
+20167385-007	77	117;144	surface microbiota of Formaggio di Fossa cheeses	Habitat	OBT:000113
+20167385-007	99	117;144	Formaggio di Fossa cheeses	Habitat	OBT:003473
+20167385-007	119	129;144	Gorgonzola cheeses	Habitat	OBT:003504
+20167385-007	134	151	Taleggio  cheeses	Habitat	OBT:003525
+20167385-007	207	215	P. celer	Microorganism	306572
+20167385-007	217	229	P. aquimaris	Microorganism	292733
+20167385-007	231	246	P. glacincolaus	Microorganism	56810
+20167385-007	248	258	S. equorum	Microorganism	246432
+20167385-007	264	273	M. luteus	Microorganism	415
+
+16514151|t|Hg(II) sequestration and protection by the MerR metal-binding domain (MBD).
+16514151|a|MerR, the metalloregulator of the bacterial mercury resistance (mer) operon, binds Hg(II) with high affinity. To study the mechanism of metal-induced activation, a small protein was previously engineered embodying in a single polypeptide the metal-binding domain (MBD) ordinarily formed between two monomers of MerR. Here the physiological and biochemical properties of MBD expressed on the cell surface or in the cytosol were examined, to better understand the environments in which specific metal binding can occur with this small derivative. Over 20 000 surface copies of MBD were expressed per Escherichia coli cell, with metal stoichiometries of approximately 1.0 Hg(II) per MBD monomer. Cells expressing MBD on their surface in rich medium bound 6.1-fold more Hg(II) than those not expressing MBD. Although in nature cells use the entire mer operon to detoxify mercury, it was interesting to note that cells expressing only MBD survived Hg(II) challenge and recovered more quickly than cells without MBD. Cell-surface-expressed MBD bound Hg(II) preferentially even in the presence of a 22-fold molar excess of Zn(II) and when exposed to equimolar Cd(II) in addition. MBD expressed in the cystosol also afforded improved survival from Hg(II) exposure for E. coli and for the completely unrelated bacterium Deinococcus radiodurans.
+16514151	120	138	mercury resistance	Phenotype	OBT:002521
+16514151	140	143	mer	Phenotype	OBT:002521
+16514151	674	690	Escherichia coli	Microorganism	562
+16514151	810	821	rich medium	Habitat	OBT:000007
+16514151	1336	1343	E. coli	Microorganism	562
+16514151	1387	1410	Deinococcus radiodurans	Microorganism	1299
+
+14624315-007|t|
+14624315-007|a|This could also be seen from the data: in L. lactis subsp. cremoris B1157 about 80% of the flavour formed in the incubation experiment was 3-methylbutanal, while for C. ammoniagenes B1506 this percentage was about 20% (data not shown).Taken together, our results indicate that various strains and species used in the dairy industry vary significantly in the enzyme activities involved in the conversion of the amino acid leucine into flavour components like 3-methylbutanal.
+14624315-007	42	73	L. lactis subsp. cremoris B1157	Microorganism	1359
+14624315-007	166	187	C. ammoniagenes B1506	Microorganism	1697
+14624315-007	319	333	dairy industry	Habitat	OBT:001988
+
+20167385-003|t|
+20167385-003|a|DGGE bands (a, b, e, g, h, i) corresponding to Psychrobacter species were evident in Formaggio di Fossa, Gorgonzola, Taleggio and Scimudin. DGGE band “d” identified as Staphylococcus equorum was present in all cheese profiles, with the most intense signal in Casera. Micrococcus luteus (band “l”) was detected in all samples except for Casera cheese, while the band for S. vitulinus (band “c”) was only evident in Scimudin. A faint DNA band of Lactobacillus delbrueckii (band “f”) could be detected in Casera and Gorgonzola cheeses, as well as faint Streptococcus thermophilus band (“k”) in the Casera and Formaggio di Fossa samples. Enterococcus faecium band (band “j”) was detected in Casera cheese, and showed less intensity in Formaggio di Fossa and Scimudin cheeses. DGGE bands of Brevibacterium casei (bands “n”) and B. linens (band “m”) could only be observed in Casera cheese surface.
+20167385-003	47	60	Psychrobacter	Microorganism	497
+20167385-003	85	103	Formaggio di Fossa	Habitat	OBT:003473
+20167385-003	105	115	Gorgonzola	Habitat	OBT:003504
+20167385-003	117	125	Taleggio	Habitat	OBT:003525
+20167385-003	130	138	Scimudin	Habitat	OBT:003522
+20167385-003	168	190	Staphylococcus equorum	Microorganism	246432
+20167385-003	210	216	cheese	Habitat	OBT:001480
+20167385-003	259	265	Casera	Habitat	OBT:003483
+20167385-003	267	285	Micrococcus luteus	Microorganism	1270
+20167385-003	336	349	Casera cheese	Habitat	OBT:003483
+20167385-003	370	382	S. vitulinus	Microorganism	71237
+20167385-003	414	422	Scimudin	Habitat	OBT:003522
+20167385-003	444	469	Lactobacillus delbrueckii	Microorganism	1584
+20167385-003	502	508;524	Casera cheeses	Habitat	OBT:003483
+20167385-003	513	531	Gorgonzola cheeses	Habitat	OBT:003504
+20167385-003	550	576	Streptococcus thermophilus	Microorganism	1308
+20167385-003	595	601	Casera	Habitat	OBT:003483
+20167385-003	606	624	Formaggio di Fossa	Habitat	OBT:003473
+20167385-003	634	654	Enterococcus faecium	Microorganism	1352
+20167385-003	688	701	Casera cheese	Habitat	OBT:003483
+20167385-003	733	751;765	Formaggio di Fossa cheeses	Habitat	OBT:003473
+20167385-003	756	772	Scimudin cheeses	Habitat	OBT:003522
+20167385-003	788	808	Brevibacterium casei	Microorganism	33889
+20167385-003	825	834	B. linens	Microorganism	1703
+20167385-003	872	885	Casera cheese	Habitat	OBT:003483
+20167385-003	872	893	Casera cheese surface	Habitat	OBT:001341
+
+18694716|t|Quantitative metabolome analysis using liquid chromatography-high-resolution mass spectrometry.
+18694716|a|In this report, we introduce a liquid chromatography single-mass spectrometry method for metabolome quantification, using the LTQ Orbitrap high-resolution mass spectrometer. Analytes were separated with hydrophilic interaction liquid chromatography. At a working resolution of 30,000 (at m/z 400), the limit of detection varied from 50 fmol to 5 pmol for 25 metabolites tested. In terms of metabolite concentration, the linearity was about 2 to 3 orders of magnitude for most compounds (R(2)>0.99). To determine the accuracy of the system in complex sample matrices, the isotope dilution method was evaluated from mixtures of pure compounds and uniformly 13C-labeled cell extracts. With the application of this method, quantification was possible within single runs even when the pool sizes of individual metabolites varied from 0.13 to 55.6 microM. As a case study, intracellular concentrations of central metabolites were determined for Methylobacterium extorquens AM1 during growth on two different carbon sources, methanol and succinate. Reproducible results from technical and biological repetitions were obtained that revealed significant variations of intracellular metabolite pool sizes, depending on the carbon source. The LTQ Obitrap offers new perspectives and strategies for metabolome quantification.
+18694716	222	268	LTQ Orbitrap high-resolution mass spectrometer	Habitat	OBT:000103
+18694716	710	776	mixtures of pure compounds and uniformly 13C-labeled cell extracts	Habitat	OBT:000007
+18694716	751	767	13C-labeled cell	Habitat	OBT:000061
+18694716	1035	1066	Methylobacterium extorquens AM1	Microorganism	272630
+18694716	1328	1339	LTQ Obitrap	Habitat	OBT:000103
+
+19552770|t|Prevalence of thermotolerant Campylobacter in partridges (Perdix perdix).
+19552770|a|To estimate the prevalence of thermotolerant Campylobacter spp. in commercially reared partridges (Perdix perdix) in southern Italy.
+19552770	14	28	thermotolerant	Phenotype	OBT:000453
+19552770	29	42	Campylobacter	Microorganism	194
+19552770	46	56	partridges	Habitat	OBT:003066
+19552770	58	71	Perdix perdix	Habitat	OBT:003066
+19552770	104	118	thermotolerant	Phenotype	OBT:000453
+19552770	119	137	Campylobacter spp.	Microorganism	194
+19552770	141	171	commercially reared partridges	Habitat	OBT:003066|OBT:002726
+19552770	173	186	Perdix perdix	Habitat	OBT:003066
+19552770	207	234	Cloacal swabs of partridges	Habitat	OBT:001737
+19552770	207	214	Cloacal	Habitat	OBT:001488
+19552770	224	234	partridges	Habitat	OBT:003066|OBT:002726
+19552770	274	278;290	male birds	Habitat	OBT:001192|OBT:003066|OBT:002726
+19552770	283	295	female birds	Habitat	OBT:001103|OBT:003066|OBT:002726
+19552770	304	313	game bird	Habitat	OBT:001446
+19552770	304	318	game bird farm	Habitat	OBT:000194
+19552770	385	399	thermotolerant	Phenotype	OBT:000453
+19552770	400	418	Campylobacter spp.	Microorganism	194
+19552770	465	479	thermotolerant	Phenotype	OBT:000453
+19552770	480	498	Campylobacter spp.	Microorganism	194
+19552770	600	614	Thermotolerant	Phenotype	OBT:000453
+19552770	615	633	Campylobacter spp.	Microorganism	194
+19552770	676	689	cloacal swabs	Habitat	OBT:001737
+19552770	757	775	Campylobacter coli	Microorganism	195
+19552770	857	877	Campylobacter jejuni	Microorganism	197
+19552770	892	910	Campylobacter lari	Microorganism	201
+19552770	931	947	Adult partridges	Habitat	OBT:002726|OBT:003066|OBT:001395
+19552770	1005	1017	younger ones	Habitat	OBT:003066|OBT:002726|OBT:001849
+19552770	1063	1073	game birds	Habitat	OBT:001446
+19552770	1117	1135	Campylobacter spp.	Microorganism	194
+19552770	1140	1151	human being	Habitat	OBT:002488
+19552770	1162	1176	animal species	Habitat	OBT:000193
+19552770	1243	1261	Campylobacter coli	Microorganism	195
+19552770	1265	1295	commercially reared partridges	Habitat	OBT:003066|OBT:002726
+19552770	1348	1361	Campylobacter	Microorganism	194
+
+20174624|t|Neutrophils are resistant to Yersinia YopJ/P-induced apoptosis and are protected from ROS-mediated cell death by the type III secretion system.
+20174624|a|The human innate immune system relies on the coordinated activity of macrophages and polymorphonuclear leukocytes (neutrophils or PMNs) for defense against bacterial pathogens. Yersinia spp. subvert the innate immune response to cause disease in humans. In particular, the Yersinia outer protein YopJ (Y. pestis and Y. pseudotuberculosis) and YopP (Y. enterocolitica) rapidly induce apoptosis in murine macrophages and dendritic cells. However, the effects of Yersinia Yop J/P on neutrophil fate are not clearly defined.
+20174624	0	11	Neutrophils	Habitat	OBT:003004
+20174624	29	37	Yersinia	Microorganism	629
+20174624	99	103	cell	Habitat	OBT:000061
+20174624	117	135	type III secretion	Phenotype	OBT:000019
+20174624	148	153	human	Habitat	OBT:002488
+20174624	148	174	human innate immune system	Habitat	OBT:000686
+20174624	213	224	macrophages	Habitat	OBT:002995
+20174624	229	257	polymorphonuclear leukocytes	Habitat	OBT:001134
+20174624	259	270	neutrophils	Habitat	OBT:003004
+20174624	274	278	PMNs	Habitat	OBT:001134
+20174624	300	319	bacterial pathogens	Phenotype	OBT:002806
+20174624	321	329	Yersinia	Microorganism	629
+20174624	390	396	humans	Habitat	OBT:002488
+20174624	417	425	Yersinia	Microorganism	629
+20174624	446	455	Y. pestis	Microorganism	632
+20174624	460	481	Y. pseudotuberculosis	Microorganism	633
+20174624	493	510	Y. enterocolitica	Microorganism	630
+20174624	540	558	murine macrophages	Habitat	OBT:002995
+20174624	540	546;563	murine dendritic cells	Habitat	OBT:002785
+20174624	540	546	murine	Habitat	OBT:002530
+20174624	604	612	Yersinia	Microorganism	630
+20174624	624	634	neutrophil	Habitat	OBT:003004
+20174624	692	701	wild-type	Phenotype	OBT:000169
+20174624	706	712	mutant	Phenotype	OBT:000118
+20174624	724	732	Yersinia	Microorganism	629
+20174624	804	838	human monocyte-derived macrophages	Habitat	OBT:002995
+20174624	804	809	human	Habitat	OBT:002488
+20174624	840	844	HMDM	Habitat	OBT:002995
+20174624	850	861	neutrophils	Habitat	OBT:003004
+20174624	916	921	HMDMs	Habitat	OBT:002995
+20174624	938	955	human neutrophils	Habitat	OBT:003004
+20174624	938	943	human	Habitat	OBT:002488
+20174624	961	970	virulence	Phenotype	OBT:002806
+20174624	990	998	Yersinia	Microorganism	629
+20174624	1017	1020	PMN	Habitat	OBT:001134
+20174624	1100	1103	PMN	Habitat	OBT:001134
+20174624	1142	1152	human PMNs	Habitat	OBT:001134
+20174624	1142	1147	human	Habitat	OBT:002488
+20174624	1162	1171	virulence	Phenotype	OBT:002806
+20174624	1190	1211	Y. pestis strain KIM6	Microorganism	187410
+20174624	1282	1286	cell	Habitat	OBT:000706
+20174624	1294	1297	PMN	Habitat	OBT:001134
+20174624	1358	1367	virulence	Phenotype	OBT:002806
+20174624	1458	1479	Y. pestis strain KIM6	Microorganism	187410
+20174624	1495	1498	PMN	Habitat	OBT:001134
+20174624	1575	1583	PMN cell	Habitat	OBT:001134
+20174624	1621	1630	virulence	Phenotype	OBT:002806
+20174624	1657	1671	Y. pestis KIM5	Microorganism	187410
+20174624	1698	1706	Yersinia	Microorganism	629
+20174624	1763	1780	human neutrophils	Habitat	OBT:003004
+20174624	1763	1768	human	Habitat	OBT:002488
+20174624	1802	1805	PMN	Habitat	OBT:001134
+20174624	1836	1845	virulence	Phenotype	OBT:002806
+20174624	1864	1872	Yersinia	Microorganism	629
+20174624	1903	1911	PMN cell	Habitat	OBT:001134
+20174624	1935	1943	Yersinia	Microorganism	629
+20174624	1958	1961	PMN	Habitat	OBT:001134
+20174624	2008	2013	human	Habitat	OBT:002488
+20174624	2057	2060	PMN	Habitat	OBT:001134
+
+14624315-002|t|
+14624315-002|a|Corynebacterium ammoniagenes B1506 and Lactococcus lactis B1157 were able to produce considerable amounts of 3-methylbutanal and 3-methylbutanol, while all other strains tested, including those closely related to the two above, lacked this ability.
+14624315-002	0	34	Corynebacterium ammoniagenes B1506	Microorganism	1697
+14624315-002	39	64	Lactococcus lactis  B1157	Microorganism	1358
+14624315-002	70	109;131	able to produce considerable amounts of 3-methylbutanol	Phenotype	OBT:000019
+14624315-002	70	125	able to produce considerable amounts of 3-methylbutanal	Phenotype	OBT:000019
+
+47483|t|Ampicillin-resistant Haemophilus influenzae type B possessing a TEM-type beta-lactamase but little permeability barrier to ampicillin.
+47483|a|Ampicillin-resistant Haemophilus influenzae type B have been reported only during the past year. Five clinical isolates from the U.S. and Germany all had the TEM-type beta-lactamase which is known to be transferred widely among other gram-negative bacilli. Unlike those bacilli, however, the H. influenzae cell had very little barrier to entry of penicillins. This greater permeability of the H. influenzae cell to penicillins appeared to reduce the protective effect of its beta-lactamase, in that acquisition of the TEM-type beta-lactamase increased levels of resistance to penicillins much less for individual cells of H. influenzae than for those of Escherichia coli. Large inocula of either species appeared highly resistant. The unusually low level of resistance of individual cells of H. influenzae containing the TEM-type beta-lactamase may have delayed their emergence or recognition, and has unresolved clinical implications.
+47483	0	20	Ampicillin-resistant	Phenotype	OBT:002762
+47483	21	50	Haemophilus influenzae type B	Microorganism	727
+47483	135	155	Ampicillin-resistant	Phenotype	OBT:002762
+47483	156	185	Haemophilus influenzae type B	Microorganism	727
+47483	237	245	clinical	Habitat	OBT:003220
+47483	369	382	gram-negative	Phenotype	OBT:000648
+47483	383	390	bacilli	Microorganism	91061
+47483	405	412	bacilli	Microorganism	91061
+47483	427	440	H. influenzae	Microorganism	727
+47483	528	541	H. influenzae	Microorganism	727
+47483	697	722	resistance to penicillins	Phenotype	OBT:002829
+47483	757	770	H. influenzae	Microorganism	727
+47483	789	805	Escherichia coli	Microorganism	562
+47483	855	864	resistant	Phenotype	OBT:002829
+47483	893	903	resistance	Phenotype	OBT:002829
+47483	927	940	H. influenzae	Microorganism	727
+
+16458564|t|Etiology and epidemiology of diarrhea in children in Hanoi, Vietnam.
+16458564|a|This paper provides a preliminary picture of diarrhea with regards to etiology, clinical symptoms, and some related epidemiologic factors in children less than five years of age living in Hanoi, Vietnam.
+16458564	41	49	children	Habitat	OBT:003188
+16458564	210	246	children less than five years of age	Habitat	OBT:003188
+16458564	277	293	study population	Habitat	OBT:003188
+16458564	307	329	children with diarrhea	Habitat	OBT:003188|OBT:003156
+16458564	338	366	age-matched healthy controls	Habitat	OBT:003188|OBT:002712
+16458564	390	399	pathogens	Phenotype	OBT:002806
+16458564	502	527	antibiotic susceptibility	Phenotype	OBT:002675
+16458564	697	705	pathogen	Phenotype	OBT:002806
+16458564	733	755	children with diarrhea	Habitat	OBT:003156|OBT:003188
+16458564	767	784	group A rotavirus	Microorganism	28875
+16458564	786	799	diarrheagenic	Phenotype	OBT:002806
+16458564	800	816	Escherichia coli	Microorganism	562
+16458564	818	830	Shigella spp	Microorganism	620
+16458564	836	851	enterotoxigenic	Phenotype	OBT:002806
+16458564	852	872	Bacteroides fragilis	Microorganism	817
+16458564	941	955	Salmonella spp	Microorganism	590
+16458564	959	974	Vibrio cholerae	Microorganism	666
+16458564	990	999	Rotavirus	Microorganism	10912
+16458564	1004	1017	diarrheagenic	Phenotype	OBT:002806
+16458564	1018	1025	E. coli	Microorganism	562
+16458564	1046	1081	children less than two years of age	Habitat	OBT:003184|OBT:003156
+16458564	1089	1101	Shigella spp	Microorganism	620
+16458564	1107	1122	enterotoxigenic	Phenotype	OBT:002806
+16458564	1123	1134	B. fragilis	Microorganism	817
+16458564	1159	1173	older children	Habitat	OBT:003188|OBT:003156
+16458564	1175	1188	Diarrheagenic	Phenotype	OBT:002806
+16458564	1189	1196	E. coli	Microorganism	562
+16458564	1201	1213	Shigella spp	Microorganism	620
+16458564	1240	1253;1290	resistance to trimethoprim/sulfamethoxazole	Phenotype	OBT:002844
+16458564	1240	1264	resistance to ampicillin	Phenotype	OBT:002762
+16458564	1240	1253;1266	resistance to chloramphenicol	Phenotype	OBT:002772
+16458564	1321	1353	Children attending the hospitals	Habitat	OBT:003269|OBT:003188
+16458564	1344	1353	hospitals	Habitat	OBT:002714
+16458564	1416	1428	Watery stool	Habitat	OBT:001102
+16458564	1485	1497	mucous stool	Habitat	OBT:001102
+16458564	1485	1491	mucous	Habitat	OBT:001220
+16458564	1528	1534	stools	Habitat	OBT:001102
+16458564	1604	1613	hospitals	Habitat	OBT:002714
+16458564	1631	1639	children	Habitat	OBT:003188|OBT:003269
+16458564	1682	1690	children	Habitat	OBT:003188|OBT:003269
+16458564	1746	1757	piped water	Habitat	OBT:001530
+16458564	1764	1771	latrine	Habitat	OBT:000702
+16458564	1807	1814	mothers	Habitat	OBT:003491
+16458564	1864	1872	children	Habitat	OBT:003188|OBT:003269
+16458564	1894	1901	mothers	Habitat	OBT:003491
+16458564	2025	2042	Group A rotavirus	Microorganism	28875
+16458564	2044	2057	diarrheagenic	Phenotype	OBT:002806
+16458564	2058	2074	Escherichia coli	Microorganism	562
+16458564	2076	2088	Shigella spp	Microorganism	620
+16458564	2094	2109	enterotoxigenic	Phenotype	OBT:002806
+16458564	2110	2130	Bacteroides fragilis	Microorganism	817
+16458564	2177	2185	children	Habitat	OBT:003188
+16458564	2245	2256	fresh water	Habitat	OBT:002455
+16458564	2245	2263	fresh water supply	Habitat	OBT:001082
+16458564	2265	2287	unhygienic septic tank	Habitat	OBT:003116
+16458564	2422	2430	children	Habitat	OBT:003188
+
+25036636-002|t|
+25036636-002|a|Three mgl sequences with high similarity to the marine bacterium Pseudoalteromonas haloplanktis were recovered from three cheese metagenomes (highlighted in gray box).
+25036636-002	48	54	marine	Habitat	OBT:000338
+25036636-002	65	95	Pseudoalteromonas haloplanktis	Microorganism	228
+25036636-002	122	128	cheese	Habitat	OBT:001480
+
+11989773|t|Evaluation of two commercial methods for the detection of Listeria sp. and Listeria monocytogenes in a chicken nugget processing plant.
+11989773|a|This study measures the detection performances of two rapid test systems (Listeria Rapid Test Clearview and Bax system) for the screening of Listeria sp. and Listeria monocytogenes, respectively. A total of 413 samples from different sources (product from (i) different stages of processing, (ii) different environments, and (iii) different food handlers), collected from a chicken nugget processing plant, were analysed by both rapid methods and a cultural method consisting of pre-enrichment, enrichment, and isolation onto selective agars (PALCAM, LPM, and HCLA). Overall, results showed an excellent correlation between data obtained using Clearview and the cultural method, with Clearview presenting an efficiency of 99%. Bax showed a lower correlation using the cultural method, with an efficiency of 71.1%. The type of sample did not affect the efficiency of Clearview, which varied from 98.1% for product samples to 100% for environmental and food handler samples, while for Bax it had a marked influence. Efficiency of Bax varied from as high as 100% for food handlers to 37.9% for product samples.
+11989773	58	70	Listeria sp.	Microorganism	1637
+11989773	75	97	Listeria monocytogenes	Microorganism	1639
+11989773	103	134	chicken nugget processing plant	Habitat	OBT:002129
+11989773	103	110	chicken	Habitat	OBT:002394
+11989773	103	117	chicken nugget	Habitat	OBT:001265|OBT:002729
+11989773	210	218	Listeria	Microorganism	1637
+11989773	277	289	Listeria sp.	Microorganism	1637
+11989773	294	316	Listeria monocytogenes	Microorganism	1639
+11989773	477	490	food handlers	Habitat	OBT:003311
+11989773	477	481	food	Habitat	OBT:000094
+11989773	510	517	chicken	Habitat	OBT:002394
+11989773	510	524	chicken nugget	Habitat	OBT:001265|OBT:002729
+11989773	510	541	chicken nugget processing plant	Habitat	OBT:002129
+11989773	662	677	selective agars	Habitat	OBT:000031
+11989773	679	685	PALCAM	Habitat	OBT:000031
+11989773	687	690	LPM	Habitat	OBT:000031
+11989773	696	700	HCLA	Habitat	OBT:000031
+11989773	1087	1099	food handler	Habitat	OBT:003311
+11989773	1087	1091	food	Habitat	OBT:000094
+11989773	1200	1204	food	Habitat	OBT:000094
+11989773	1200	1213	food handlers	Habitat	OBT:003311
+
+20167385-008|t|
+20167385-008|a|The culture independent analysis of the white mould rind, Scimudin cheese, revealed as major bands M. luteus and P. glacincolaus and the presence of S. vitulinus. DGGE analysis of Casera Valtellina, a cheese characterized by low water activity of the rind, showed a surface composed by S. equorum, B. linens and B. casei as the main bacterial species.
+20167385-008	41	57	white mould rind	Habitat	OBT:001481
+20167385-008	59	74	Scimudin cheese	Habitat	OBT:003522
+20167385-008	100	109	M. luteus	Microorganism	415
+20167385-008	114	129	P. glacincolaus	Microorganism	56810
+20167385-008	150	162	S. vitulinus	Microorganism	71237
+20167385-008	181	198	Casera Valtellina	Habitat	OBT:003483
+20167385-008	202	208	cheese	Habitat	OBT:001480
+20167385-008	252	256	rind	Habitat	OBT:001481
+20167385-008	287	297	S. equorum	Microorganism	246432
+20167385-008	299	308	B. linens	Microorganism	1703
+20167385-008	313	321	B. casei	Microorganism	33889
+
+14624315-003|t|
+14624315-003|a|First, the activity of branched-chain transaminase was measured by incubating CFE with leucine and an excess of the co-substrate, α-ketoglutarate. The transaminase activity was found to be present in all microorganisms tested (Fig. 3A). The highest variation was observed in the Lactobacillus genus. L. lactis spp. and Streptococcus thermophilus showed the highest specific transaminase activity towards leucine and therefore potentially produce the highest concentrations of α-ketoisocaproic acid, which is the substrate for the formation of 3-methylbutanal.
+14624315-003	153	174	transaminase activity	Phenotype	OBT:000019
+14624315-003	282	295	Lactobacillus	Microorganism	1578
+14624315-003	303	312	L. lactis	Microorganism	1246
+14624315-003	322	348	Streptococcus thermophilus	Microorganism	1308
+14624315-003	378	415	transaminase activity towards leucine	Phenotype	OBT:000019
+
+20167385-011|t|
+20167385-011|a|Regarding the lactic acid bacterial group (LAB), Lactobacillus was seen to be present in different numbers depending of the cheese surface.  Dolci et al. (2009) detected Lactobacillus counts of 105–107 CFU/cm2 on Fontina cheese surface after 90 days of ripening and Cocolin et al. (2009) reported that lactococci and lactobacilli, dominated the microbial ecology of Gorgonzola rind. Our results showed that the species L. curvatus for example was only isolated from Taleggio rind and L. brevis was isolated from the surface of Gorgonzola and Scimudin cheeses. In particular most of the surface isolates from Formaggio di Fossa cheese were identified as L. acidipiscis, a Gram positive rod, microaerophilic, able to grow in 10–12% (w/v) NaCl. This species originally isolated from fermented fish, and characterized by  Tanasupawat et al. (2000), was recently reported to be present in Greek cheese (Asteri et al., 2009). Enteroccocci were present in larger numbers on Scimudin (107 CFU/cm2) and Gorgonzola (105 CFU/cm2) surfaces than on Fontina rind (104 CFU/cm2) as reported by Dolci et al. (2009) while Cocolin et al. (2009) obtained diverse enterococci counts, with variation between 103–108 CFU/g within the 18 samples of Gorgonzola rinds analyzed.
+20167385-011	14	35	lactic acid bacterial	Phenotype	OBT:000019
+20167385-011	43	46	LAB	Phenotype	OBT:000019
+20167385-011	49	62	Lactobacillus	Microorganism	1578
+20167385-011	124	130	cheese	Habitat	OBT:001480
+20167385-011	124	138	cheese surface	Habitat	OBT:001341
+20167385-011	170	183	Lactobacillus	Microorganism	1578
+20167385-011	213	235	Fontina cheese surface	Habitat	OBT:001341
+20167385-011	213	227	Fontina cheese	Habitat	OBT:003472
+20167385-011	303	313	lactococci	Microorganism	1357
+20167385-011	318	330	lactobacilli	Microorganism	1578
+20167385-011	368	378	Gorgonzola	Habitat	OBT:003504
+20167385-011	368	383	Gorgonzola rind	Habitat	OBT:001481
+20167385-011	421	432	L. curvatus	Microorganism	28038
+20167385-011	468	476	Taleggio	Habitat	OBT:003525
+20167385-011	468	481	Taleggio rind	Habitat	OBT:001481
+20167385-011	486	495	L. brevis	Microorganism	1580
+20167385-011	519	540;554	surface of Gorgonzola cheeses	Habitat	OBT:001341
+20167385-011	519	529;545	surface of Scimudin cheeses	Habitat	OBT:001341
+20167385-011	530	540;554	Gorgonzola cheeses	Habitat	OBT:003504
+20167385-011	545	561	Scimudin cheeses	Habitat	OBT:003522
+20167385-011	612	637	Formaggio di Fossa cheese	Habitat	OBT:003473
+20167385-011	658	672	L. acidipiscis	Microorganism	89059
+20167385-011	676	689	Gram positive	Phenotype	OBT:000649
+20167385-011	690	693	rod	Phenotype	OBT:000848
+20167385-011	696	711	microaerophilic	Phenotype	OBT:000347
+20167385-011	787	801	fermented fish	Habitat	OBT:003145
+20167385-011	891	903	Greek cheese	Habitat	OBT:001480
+20167385-011	927	939	Enteroccocci	Microorganism	1350
+20167385-011	974	982;1026	Scimudin surfaces	Habitat	OBT:001341
+20167385-011	974	982	Scimudin	Habitat	OBT:003522
+20167385-011	1001	1011	Gorgonzola	Habitat	OBT:003504
+20167385-011	1001	1011;1026	Gorgonzola surfaces	Habitat	OBT:001341
+20167385-011	1043	1050	Fontina	Habitat	OBT:003472
+20167385-011	1043	1055	Fontina rind	Habitat	OBT:001481
+20167385-011	1150	1161	enterococci	Microorganism	1350
+20167385-011	1233	1243	Gorgonzola	Habitat	OBT:003504
+20167385-011	1233	1249	Gorgonzola rinds	Habitat	OBT:001481
+
+20167385-004|t|
+20167385-004|a|Bacterial enumeration revealed the presence of a large community of Staphylococcus and micrococci-corynebacteria groups on the cheese surfaces. Although E. faecium DNA was present in Formaggio di Fossa, no presumptive enterococci were found on Enterococcus selective agar (SB), though they were detected in different amounts in Casera, Taleggio, Gorgonzola and Scimudin cheeses. Lactobacilli were also detected using Rogosa agar in all cheese surfaces in a range of 104–106 CFU/cm2. The counts obtained on Pseudomonas agar were high in Gorgonzola, Scimudin and Taleggio surfaces (108 CFU/cm2), while in Casera samples the Pseudomonas values were three log units lower, and were absent (< 100) in Formaggio di Fossa.Table 3.        Results of the enumeration of the bacterial groups on cheese surfaces by plating.
+20167385-004	56	120	community of Staphylococcus and micrococci-corynebacteria groups	Habitat	OBT:000113
+20167385-004	69	83	Staphylococcus	Microorganism	1279
+20167385-004	88	98	micrococci	Microorganism	1269
+20167385-004	99	113	corynebacteria	Microorganism	1716
+20167385-004	128	134	cheese	Habitat	OBT:001480
+20167385-004	128	143	cheese surfaces	Habitat	OBT:001341
+20167385-004	154	164	E. faecium	Microorganism	1352
+20167385-004	184	202	Formaggio di Fossa	Habitat	OBT:003473
+20167385-004	219	230	enterococci	Microorganism	1350
+20167385-004	245	273	Enterococcus  selective agar	Habitat	OBT:000031
+20167385-004	245	257	Enterococcus	Microorganism	1350
+20167385-004	275	277	SB	Habitat	OBT:000031
+20167385-004	331	337;373	Casera cheeses	Habitat	OBT:003483
+20167385-004	339	347;373	Taleggio cheeses	Habitat	OBT:003525
+20167385-004	349	359;373	Gorgonzola cheeses	Habitat	OBT:003504
+20167385-004	364	380	Scimudin cheeses	Habitat	OBT:003522
+20167385-004	382	394	Lactobacilli	Microorganism	1578
+20167385-004	421	432	Rogosa agar	Habitat	OBT:000031
+20167385-004	440	446	cheese	Habitat	OBT:001480
+20167385-004	440	455	cheese surfaces	Habitat	OBT:001341
+20167385-004	510	526	Pseudomonas agar	Habitat	OBT:000031
+20167385-004	510	521	Pseudomonas	Microorganism	286
+20167385-004	540	550;574	Gorgonzola surfaces	Habitat	OBT:001341
+20167385-004	540	550	Gorgonzola	Habitat	OBT:003504
+20167385-004	552	560;574	Scimudin surfaces	Habitat	OBT:001341
+20167385-004	552	560	Scimudin	Habitat	OBT:003522
+20167385-004	565	573	Taleggio	Habitat	OBT:003525
+20167385-004	565	582	Taleggio surfaces	Habitat	OBT:001341
+20167385-004	607	613	Casera	Habitat	OBT:003483
+20167385-004	626	637	Pseudomonas	Microorganism	286
+20167385-004	700	718	Formaggio di Fossa	Habitat	OBT:003473
+20167385-004	790	796	cheese	Habitat	OBT:001480
+20167385-004	790	805	cheese surfaces	Habitat	OBT:001341
+
+14624315-006|t|
+14624315-006|a|Nevertheless, only two strains were found to be able to produce 3-methylbutanal or the reduced aldehyde, 3-methylbutanol. This 3-methylbutanal production clearly correlated with the presence or absence of decarboxylase activity. Again the difference between L. lactis B1157 and B697 is illustrative (Fig. 3), with B1157 being decarboxylase-positive and B697 negative.
+14624315-006	184	192;205	presence of decarboxylase activity	Phenotype	OBT:000252
+14624315-006	197	230	absence of decarboxylase activity	Phenotype	OBT:000251
+14624315-006	261	270;281	L. lactis B697	Microorganism	1359
+14624315-006	261	276	L. lactis B1157	Microorganism	1359
+14624315-006	318	323	B1157	Microorganism	1359
+14624315-006	330	352	decarboxylase-positive	Phenotype	OBT:000252
+14624315-006	330	344;362	decarboxylase- negative	Phenotype	OBT:000251
+14624315-006	357	361	B697	Microorganism	1359
+
+351567|t|A cell-free system for the replication fo bacteriophage M-13 duplex DNA.
+351567|a|Cell-free extracts from M-13 am5 infected Escherichia coli cells which are highly concentrated on cellophane membrane disks replicate efficiently endogenous M-13 duplex DNA. If the reaction is carried out in the presence of bromodeoxyuridine triphosphate, the majority of the label is found in two classes of hybrid DNA molecules in which either the viral or the complementary strand is newly synthesized. A minor portion of the label is incorporated into fully synthetic duplex DNA. DNA synthesis requires ATP and is inhibited by nalidixic acid, novobiocin, and arabinosylnucleoside triphosphates. Rifampicin blocks preferentially the synthesis of molecules with labeled complementary strands. A similar effect is observed upon addition of the helix-destabilising M-13 gene V protein. In contrast, addition of E. coli helix-destabilising protein (Eco HD-protein) stimulates the synthesis of both types of hybrid DNA molecules as well as the formation of fully synthetic duplex DNA.
+351567	42	60	bacteriophage M-13	Microorganism	1977402
+351567	97	105	M-13 am5	Microorganism	1977402
+351567	102	105	am5	Phenotype	OBT:000118
+351567	115	131	Escherichia coli	Microorganism	562
+351567	171	196	cellophane membrane disks	Habitat	OBT:000103
+351567	230	234	M-13	Microorganism	1977402
+351567	838	842	M-13	Microorganism	1977402
+351567	884	891	E. coli	Microorganism	562
+
+3544198|t|Methods for the detection of a specific Mycobacterium leprae antigen in the urine of leprosy patients.
+3544198|a|Two methods for detecting the phenolic glycolipid, PGL-1, a Mycobacterium leprae-specific molecule, in the urine of leprosy patients are described. Both methods rely on the 100-fold preconcentration of the urine, which can be accomplished by a single-step ultrafiltration procedure. The equivalent of approximately 2.5 micrograms of PGL-1/ml was detected in the urine of LL patients with an inhibition ELISA. The second method, a direct dot-blot assay on nitrocellulose paper, was much simpler and more sensitive. As little as 3 ng of antigen was detected by the dot-blot technique. PGL-1 was detected in the urine of LL patients.
+3544198	40	60	Mycobacterium leprae	Microorganism	1769
+3544198	76	101	urine of leprosy patients	Habitat	OBT:001367
+3544198	85	101	leprosy patients	Habitat	OBT:003269
+3544198	163	183	Mycobacterium leprae	Microorganism	1769
+3544198	210	235	urine of leprosy patients	Habitat	OBT:001367
+3544198	219	235	leprosy patients	Habitat	OBT:003269
+3544198	309	314	urine	Habitat	OBT:001367
+3544198	465	485	urine of LL patients	Habitat	OBT:001367
+3544198	474	485	LL patients	Habitat	OBT:003269
+3544198	558	578	nitrocellulose paper	Habitat	OBT:000007
+3544198	712	732	urine of LL patients	Habitat	OBT:001367
+3544198	721	732	LL patients	Habitat	OBT:003269
+
+18789156|t|A novel receptor - ligand pathway for entry of Francisella tularensis in monocyte-like THP-1 cells: interaction between surface nucleolin and bacterial elongation factor Tu.
+18789156|a|Francisella tularensis, the causative agent of tularemia, is one of the most infectious human bacterial pathogens. It is phagocytosed by immune cells, such as monocytes and macrophages. The precise mechanisms that initiate bacterial uptake have not yet been elucidated. Participation of C3, CR3, class A scavenger receptors and mannose receptor in bacterial uptake have been already reported. However, contribution of an additional, as-yet-unidentified receptor for F. tularensis internalization has been suggested.
+18789156	47	69	Francisella tularensis	Microorganism	263
+18789156	73	98	monocyte-like THP-1 cells	Habitat	OBT:000062|OBT:003001
+18789156	174	196	Francisella tularensis	Microorganism	263
+18789156	202	230	causative agent of tularemia	Phenotype	OBT:002806
+18789156	262	267	human	Habitat	OBT:002488
+18789156	262	287	human bacterial pathogens	Phenotype	OBT:002806
+18789156	311	323	immune cells	Habitat	OBT:000320
+18789156	333	342	monocytes	Habitat	OBT:003001
+18789156	347	358	macrophages	Habitat	OBT:002995
+18789156	640	653	F. tularensis	Microorganism	263
+18789156	708	712	cell	Habitat	OBT:000061
+18789156	759	801	Francisella tularensis Live Vaccine Strain	Microorganism	263
+18789156	803	806	LVS	Microorganism	263
+18789156	821	824	LVS	Microorganism	263
+18789156	825	832	binding	Phenotype	OBT:000029
+18789156	850	855	human	Habitat	OBT:002488
+18789156	850	881	human monocyte-like THP-1 cells	Habitat	OBT:003001|OBT:000062
+18789156	856	881	monocyte-like THP-1 cells	Habitat	OBT:003001|OBT:000062
+18789156	981	984	LVS	Microorganism	263
+18789156	985	992	binding	Phenotype	OBT:000029
+18789156	1010	1035	monocyte-like THP-1 cells	Habitat	OBT:000062|OBT:003001
+18789156	1192	1195	LVS	Microorganism	263
+18789156	1280	1286	murine	Habitat	OBT:002530
+18789156	1327	1330	LVS	Microorganism	263
+18789156	1499	1502	LVS	Microorganism	263
+18789156	1503	1510	binding	Phenotype	OBT:000029
+18789156	1514	1539	monocyte-like THP-1 cells	Habitat	OBT:000062|OBT:003001
+18789156	1781	1785	cell	Habitat	OBT:000061
+18789156	1950	1972	Francisella tularensis	Microorganism	263
+18789156	1973	1981	adhesion	Phenotype	OBT:000029
+18789156	2029	2053	invasion of host tissues	Phenotype	OBT:002806
+18789156	2041	2053	host tissues	Habitat	OBT:000196
+18789156	2117	2120	LVS	Microorganism	263
+18789156	2124	2142	infected monocytes	Habitat	OBT:003001
+18789156	2172	2177	human	Habitat	OBT:002488
+18789156	2172	2188	human pathogenic	Phenotype	OBT:002806
+18789156	2189	2217	F. tularensis ssp tularensis	Microorganism	119856
+18789156	2247	2272	monocyte-like THP-1 cells	Habitat	OBT:003001|OBT:000062
+18789156	2512	2525	F. tularensis	Microorganism	263
+
+20167385-000|t|
+20167385-000|a|Bands showing different intensity and identified as Staphylococcus, Micrococcus, Psychrobacter, Enterococcus and Brevibacterium species were detected on the surface of cheeses. The cluster analysis showed that Gorgonzola, Taleggio and Formaggio di Fossa cheeses present high similarity in their surface bacterial composition while major differences in the DGGE profiles were observed in Scimudin and Casera. The molecular taxonomical identification among the Gram positive isolates, reveals the presence of the following bacterial genera: Staphylococcus, Micrococcus, Macrococcus, Enterococcus, Lactobacillus, Carnobacterium, Leuconostoc, Brevibacterium, Corynebacterium, Brochothrix, Bacillus.
+20167385-000	52	66	Staphylococcus	Microorganism	1279
+20167385-000	68	79	Micrococcus	Microorganism	1269
+20167385-000	81	94	Psychrobacter	Microorganism	497
+20167385-000	96	108	Enterococcus	Microorganism	1350
+20167385-000	113	127	Brevibacterium	Microorganism	1696
+20167385-000	158	176	surface of cheeses	Habitat	OBT:001341
+20167385-000	169	176	cheeses	Habitat	OBT:001480
+20167385-000	212	222;256	Gorgonzola cheeses	Habitat	OBT:003504
+20167385-000	224	232;256	Taleggio cheeses	Habitat	OBT:003525
+20167385-000	237	263	Formaggio di Fossa cheeses	Habitat	OBT:003473
+20167385-000	391	399	Scimudin	Habitat	OBT:003522
+20167385-000	404	410	Casera	Habitat	OBT:003483
+20167385-000	464	477	Gram positive	Phenotype	OBT:000649
+20167385-000	545	559	Staphylococcus	Microorganism	1279
+20167385-000	561	572	Micrococcus	Microorganism	1269
+20167385-000	574	585	Macrococcus	Microorganism	69965
+20167385-000	587	599	Enterococcus	Microorganism	1350
+20167385-000	601	614	Lactobacillus	Microorganism	1578
+20167385-000	616	630	Carnobacterium	Microorganism	2747
+20167385-000	632	643	Leuconostoc	Microorganism	1243
+20167385-000	645	659	Brevibacterium	Microorganism	1696
+20167385-000	661	676	Corynebacterium	Microorganism	1716
+20167385-000	678	689	Brochothrix	Microorganism	2755
+20167385-000	691	699	Bacillus	Microorganism	1386
+
+20167385-014|t|
+20167385-014|a|An example of this fact is the presence of Psychrobacter DNA on the surface of Formaggio di Fossa cheese.
+20167385-014	44	57	Psychrobacter	Microorganism	497
+20167385-014	69	106	surface of Formaggio di  Fossa cheese	Habitat	OBT:001341
+20167385-014	80	106	Formaggio di  Fossa cheese	Habitat	OBT:003473
+
+14624315-004|t|
+14624315-004|a|In most anaerobic strains belonging to the genera Lactococcus, Lactobacillus, Streptococcus and Leuconostoc, specific hydroxy acid dehydrogenase activity was found to be 5- to 10-fold higher than the transaminase activity.The decarboxylation of α-ketoisocaproic acid leads to the formation of 3-methylbutanal (Fig. 1). This decarboxylase activity was found in only two of the strains tested (B1157 and B1506) (Fig. 3C).
+14624315-004	8	17	anaerobic	Phenotype	OBT:000189
+14624315-004	50	61	Lactococcus	Microorganism	1357
+14624315-004	63	76	Lactobacillus	Microorganism	1578
+14624315-004	78	91	Streptococcus	Microorganism	1301
+14624315-004	96	107	Leuconostoc	Microorganism	1243
+14624315-004	118	153	hydroxy acid dehydrogenase activity	Phenotype	OBT:000019
+14624315-004	200	221	transaminase activity	Phenotype	OBT:000019
+14624315-004	324	346	decarboxylase activity	Phenotype	OBT:000068
+14624315-004	392	397	B1157	Microorganism	1358
+14624315-004	402	407	B1506	Microorganism	1697
+
+25204345|t|Association of mutation patterns in GyrA and ParC genes with quinolone resistance levels in lactic acid bacteria.
+25204345|a|The quinolone resistance of 19 lactic acid bacterial strains belonging to the genera Enterococcus and Lactobacillus isolated from the natural fermented koumiss and yoghurt were investigated. The objective of this study was to determine the quinolone resistance levels and to explore the association of the resistance with the mutation patterns in gyrA and parC genes, as is currently recommended by the Food and Agriculture Organization/World Health Organization Joint Expert Committee in Guidelines for Evaluation of Probiotics in Food for probiotic lactic acid bacteria drug resistance in 2001. The Oxford Cup method and double-tube dilution method were used to determine the quinolone resistance levels of the isolated strains. Generally, all of the 19 strains showed resistance towards norfloxacin and ciprofloxacin when the Oxford cup method was used, whereas the incidence was lower (to norfloxacin 89.5% and to ciprofloxacin 68.4%) when minimum inhibitory concentration breakpoints (CLSI M100-S23) were tested. Furthermore, gene sequencing was conducted on gyrA and parC of topoisomerase II of these isolated strains. The genetic basis for quinolone resistance may be closely related to mutations in gyrA genes as there were 10 mutation sites in amino-acid sequences encoded by gyrA genes in 10 quinolone resistance strains and 14 mutation sites in Enterococcus durans HZ28, whereas no typical mutations were detected in parC genes. 
+25204345	61	81	quinolone resistance	Phenotype	OBT:002840
+25204345	92	112	lactic acid bacteria	Phenotype	OBT:000019
+25204345	118	138	quinolone resistance	Phenotype	OBT:002840
+25204345	145	166	lactic acid bacterial	Phenotype	OBT:000019
+25204345	199	211	Enterococcus	Microorganism	1350
+25204345	216	229	Lactobacillus	Microorganism	1578
+25204345	248	273	natural fermented koumiss	Habitat	OBT:003210
+25204345	278	285	yoghurt	Habitat	OBT:003241
+25204345	354	374	quinolone resistance	Phenotype	OBT:002840
+25204345	420	430	resistance	Phenotype	OBT:002840
+25204345	655	664	probiotic	Phenotype	OBT:000827
+25204345	665	685	lactic acid bacteria	Phenotype	OBT:000019
+25204345	686	701	drug resistance	Phenotype	OBT:000598
+25204345	792	812	quinolone resistance	Phenotype	OBT:002840
+25204345	885	903;920	resistance towards ciprofloxacin	Phenotype	OBT:002773
+25204345	885	915	resistance towards norfloxacin	Phenotype	OBT:002824
+25204345	1261	1281	quinolone resistance	Phenotype	OBT:002840
+25204345	1416	1436	quinolone resistance	Phenotype	OBT:002840
+25204345	1470	1494	Enterococcus durans HZ28	Microorganism	53345
+
+460951|t|Atypical mycobacteria causing non-pulmonary disease in Queensland.
+460951|a|During the period 1971--7, the Tuberculosis Reference Laboratory in Queensland dealt with 52 isolates of atypical mycobacteria made from non-pulmonary sites under circumstances suggesting complicity in disease. Twenty-four isolates belonging to the MAIS complex were associated with lymph node infections in children. Twelve isolates belonged to the M. fortuitum-chelonei complex; most were from superficial abscesses. Five cases of M. marinum infection and 8 of M. ulcerans disease were detected.
+460951	9	21	mycobacteria	Microorganism	1763
+460951	22	51	causing non-pulmonary disease	Phenotype	OBT:002806
+460951	34	43	pulmonary	Habitat	OBT:000716
+460951	98	131	Tuberculosis Reference Laboratory	Habitat	OBT:001169
+460951	181	193	mycobacteria	Microorganism	1763
+460951	208	217	pulmonary	Habitat	OBT:000716
+460951	255	276	complicity in disease	Phenotype	OBT:002806
+460951	350	360	lymph node	Habitat	OBT:000718
+460951	350	355	lymph	Habitat	OBT:000717
+460951	375	383	children	Habitat	OBT:003188|OBT:003269
+460951	417	446	M. fortuitum-chelonei complex	Microorganism	1766|1774
+460951	463	484	superficial abscesses	Habitat	OBT:000476
+460951	500	510	M. marinum	Microorganism	1781
+460951	530	541	M. ulcerans	Microorganism	1809
+
+21695078|t|Enhanced virulence of Chlamydia muridarum respiratory infections in the absence of TLR2 activation.
+21695078|a|Chlamydia trachomatis is a common sexually transmitted pathogen and is associated with infant pneumonia. Data from the female mouse model of genital tract chlamydia infection suggests a requirement for TLR2-dependent signaling in the induction of inflammation and oviduct pathology. We hypothesized that the role of TLR2 in moderating mucosal inflammation is site specific. In order to investigate this, we infected mice via the intranasal route with C. muridarum and observed that in the absence of TLR2 activation, mice had more severe disease, higher lung cytokine levels, and an exaggerated influx of neutrophils and T-cells into the lungs. This could not be explained by impaired bacterial clearance as TLR2-deficient mice cleared the infection similar to controls. These data suggest that TLR2 has an anti-inflammatory function in the lung during Chlamydia infection, and that the role of TLR2 in mucosal inflammation varies at different mucosal surfaces.
+21695078	9	18	virulence	Phenotype	OBT:000375
+21695078	22	41	Chlamydia muridarum	Microorganism	83560
+21695078	42	53	respiratory	Habitat	OBT:000407
+21695078	100	121	Chlamydia trachomatis	Microorganism	813
+21695078	134	163	sexually transmitted pathogen	Phenotype	OBT:002669
+21695078	187	193	infant	Habitat	OBT:003263
+21695078	219	274	female mouse model of genital tract chlamydia infection	Habitat	OBT:001103|OBT:003211
+21695078	241	254	genital tract	Habitat	OBT:000643
+21695078	255	264	chlamydia	Microorganism	810
+21695078	364	371	oviduct	Habitat	OBT:000463
+21695078	435	442	mucosal	Habitat	OBT:001218
+21695078	516	520	mice	Habitat	OBT:003211|OBT:001103
+21695078	529	539	intranasal	Habitat	OBT:000767
+21695078	551	563	C. muridarum	Microorganism	83560
+21695078	617	621	mice	Habitat	OBT:001103|OBT:003211
+21695078	654	658	lung	Habitat	OBT:000716
+21695078	705	716	neutrophils	Habitat	OBT:003004
+21695078	721	728	T-cells	Habitat	OBT:001623
+21695078	738	743	lungs	Habitat	OBT:000716
+21695078	808	827	TLR2-deficient mice	Habitat	OBT:003211|OBT:001103
+21695078	941	945	lung	Habitat	OBT:000716
+21695078	953	962	Chlamydia	Microorganism	810
+21695078	1003	1010	mucosal	Habitat	OBT:001218
+21695078	1044	1060	mucosal surfaces	Habitat	OBT:001654
+
+16273411|t|Early pregnancy loss and neonatal deaths associated with Klebsiella pneumonia infection: a mini review of possible occupational health risk.
+16273411|a|Recurrent pregnancy loss is a disease of grave psychological and economic concern. The etiology in the vast majority of the cases is unknown or at best poorly understood. Although Klebsiella pneumonia infections have been reported in humans and animals during pregnancy, there is hardly any information to indicate whether or not these infections may be responsible for early pregnancy loss. We present a review of literature and report for the first time in humans, Klebsiella pneumonia infection in placenta of a 38-year-old secondary recurrent aborter (parity 2 + 3).
+16273411	25	33	neonatal	Habitat	OBT:003453
+16273411	57	77	Klebsiella pneumonia	Microorganism	573
+16273411	321	341	Klebsiella pneumonia	Microorganism	573
+16273411	375	381	humans	Habitat	OBT:003493
+16273411	386	393	animals	Habitat	OBT:001103
+16273411	600	606	humans	Habitat	OBT:002488
+16273411	608	628	Klebsiella pneumonia	Microorganism	573
+16273411	642	695	placenta of a 38-year-old secondary recurrent aborter	Habitat	OBT:000811
+16273411	656	695	38-year-old secondary recurrent aborter	Habitat	OBT:003493
+
+14624315-000|t|
+14624315-000|a|In semi-hard cheeses, like Gouda or Cheddar, degradation of protein into amino acids and subsequent conversion of amino acids by Lactococcus sp. and/or Lactobacillus sp. is crucial for flavour development (Smit et al. 2000; Visser 1993). Other examples of microorganisms involved in the formation of very diverse flavours in dairy products are Propionibacterium sp. in Maasdammer and Swiss-type cheeses (Sarkar and Misra 1995), Streptococcus sp., Lb. bulgaricus spp. and Bifidobacterium sp. in (health-promoting) yoghurts (Nosova et al. 2000; Zourari et al. 1992; Hugenholtz et al. 2000), and Arthrobacter, Brevibacterium and Corynebacterium sp. in surface-ripened cheeses (Bockelmann and Hoppe Seyler 2001).
+14624315-000	3	20	semi-hard cheeses	Habitat	OBT:003458
+14624315-000	27	32	Gouda	Habitat	OBT:003474
+14624315-000	36	43	Cheddar	Habitat	OBT:003469
+14624315-000	130	145	Lactococcus sp.	Microorganism	44273
+14624315-000	153	170	Lactobacillus sp.	Microorganism	1591
+14624315-000	326	340	dairy products	Habitat	OBT:001208
+14624315-000	345	362	Propionibacterium	Microorganism	1743
+14624315-000	370	380	Maasdammer	Habitat	OBT:003458
+14624315-000	385	403	Swiss-type cheeses	Habitat	OBT:003428
+14624315-000	429	446	Streptococcus sp.	Microorganism	1306
+14624315-000	448	467	Lb. bulgaricus spp.	Microorganism	1585
+14624315-000	472	491	Bifidobacterium sp.	Microorganism	41200
+14624315-000	514	522	yoghurts	Habitat	OBT:003241
+14624315-000	594	606	Arthrobacter	Microorganism	1663
+14624315-000	608	622	Brevibacterium	Microorganism	1696
+14624315-000	627	646	Corynebacterium sp.	Microorganism	1720
+14624315-000	650	673	surface-ripened cheeses	Habitat	OBT:003428
+
+25036636-003|t|
+25036636-003|a|However, to date, a cheese-associated mgl gene has only been identified in Brevibacterium linens ( Amarita et al., 2004, Monnet et al., 2010 and Schröder et al., 2011). Our metagenomic sequencing uncovered previously undescribed mgl sequences with high sequence similarity to various γ-Proteobacteria in cheeses from both Europe and North America ( Table S4B). Several of these previously undescribed mgl sequences belonged to Pseudoalteromonas spp. ( Figures 4C and S4B). We mapped metagenomic reads from three cheeses in which Pseudoalteromonas was abundant to the reference genome of Pseudoalteromonas haloplanktis (99.5% pairwise identity,  Table S4C). Additionally, Pseudoalteromonas is known to have many cold-adapted enzymes that function in the polar seawater where this bacterium typically grows ( Médigue et al., 2005).
+25036636-003	20	26	cheese	Habitat	OBT:001480
+25036636-003	75	96	Brevibacterium linens	Microorganism	1703
+25036636-003	284	300	γ-Proteobacteria	Microorganism	1236
+25036636-003	304	311	cheeses	Habitat	OBT:001480
+25036636-003	427	449	Pseudoalteromonas spp.	Microorganism	53246
+25036636-003	512	519	cheeses	Habitat	OBT:001480
+25036636-003	529	546	Pseudoalteromonas	Microorganism	53246
+25036636-003	587	617	Pseudoalteromonas haloplanktis	Microorganism	228
+25036636-003	671	688	Pseudoalteromonas	Microorganism	53246
+25036636-003	711	723	cold-adapted	Phenotype	OBT:002982
+25036636-003	753	767	polar seawater	Habitat	OBT:003105
+
+25114119|t|Characterization of a lipopolysaccharide-targeted monoclonal antibody and its variable fragments as candidates for prophylaxis against the obligate intracellular bacterial pathogen Coxiella burnetii.
+25114119|a|Our previous study demonstrated that treatment of Coxiella burnetii with the phase I lipopolysaccharide (PI-LPS)-targeted monoclonal antibody (MAb) 1E4 significantly inhibited C. burnetii infection in mice, suggesting that 1E4 is a protective MAb. To determine whether passive transfer of antibodies (Abs) can provide protection against C. burnetii natural infection, we examined if passive transfer of 1E4 would protect SCID mice against C. burnetii aerosol infection. The results indicated that 1E4 conferred significant protection against aerosolized C. burnetii, suggesting that 1E4 may be useful for preventing C. burnetii natural infection. To further understand the mechanisms of 1E4-mediated protection and to test the possibility of using humanized 1E4 to prevent C. burnetii infection, we examined whether the Fab fragment of 1E4 (Fab1E4), a recombinant murine single-chain variable fragment (muscFv1E4), and a humanized single-chain variable fragment (huscFv1E4) retained the ability of 1E4 to inhibit C. burnetii infection. The results indicated that Fab1E4, muscFv1E4, and huscFv1E4 were able to inhibit C. burnetii infection in mice but that their ability to inhibit C. burnetii infection was lower than that of 1E4. In addition, treatment of C. burnetii with Fab1E4, muscFv1E4, or huscFv1E4 can block C. burnetii infection of macrophages. Interestingly, treatment of C. burnetii with huscFv1E4 can significantly reduce C. burnetii infectivity in human macrophages. This report provides the first evidence to demonstrate that the humanized variable fragments of an LPS-specific MAb can neutralize C. burnetii infection and appears to be a promising step toward the potential use of a humanized MAb as emergency prophylaxis against C. burnetii exposure.
+25114119	139	161	obligate intracellular	Phenotype	OBT:000771
+25114119	172	180	pathogen	Phenotype	OBT:000375
+25114119	181	198	Coxiella burnetii	Microorganism	777
+25114119	250	267	Coxiella burnetii	Microorganism	777
+25114119	376	387	C. burnetii	Microorganism	777
+25114119	401	405	mice	Habitat	OBT:003211
+25114119	537	548	C. burnetii	Microorganism	777
+25114119	621	630	SCID mice	Habitat	OBT:003211
+25114119	639	650	C. burnetii	Microorganism	777
+25114119	651	658	aerosol	Habitat	OBT:000030
+25114119	742	753	aerosolized	Habitat	OBT:000030
+25114119	754	765	C. burnetii	Microorganism	777
+25114119	816	827	C. burnetii	Microorganism	777
+25114119	973	984	C. burnetii	Microorganism	777
+25114119	1064	1070	murine	Habitat	OBT:002530
+25114119	1213	1224	C. burnetii	Microorganism	777
+25114119	1317	1328	C. burnetii	Microorganism	777
+25114119	1342	1346	mice	Habitat	OBT:003211
+25114119	1381	1392	C. burnetii	Microorganism	777
+25114119	1457	1468	C. burnetii	Microorganism	777
+25114119	1516	1527	C. burnetii	Microorganism	777
+25114119	1541	1552	macrophages	Habitat	OBT:002995
+25114119	1582	1593	C. burnetii	Microorganism	777
+25114119	1634	1645	C. burnetii	Microorganism	777
+25114119	1661	1666	human	Habitat	OBT:002488
+25114119	1661	1678	human macrophages	Habitat	OBT:002995
+25114119	1811	1822	C. burnetii	Microorganism	777
+25114119	1945	1956	C. burnetii	Microorganism	777
+
+20167385-015|t|
+20167385-015|a|Also bands detected by DGGE were originating from S. thermophilus and L. delbrueckii, bacteria involved in the primary stage of cheese fermentation, but not found among the analysed isolates.
+20167385-015	50	65	S. thermophilus	Microorganism	1308
+20167385-015	70	84	L. delbrueckii	Microorganism	1584
+20167385-015	129	135	cheese	Habitat	OBT:001480
+
+12109661|t|Long-term Helicobacter pylori infection and the development of atrophic gastritis and gastric cancer in Japan.
+12109661|a|The incidence of gastric cancer and the prevalence of Helicobacter pylori are high in Japan, so it is an important issue whether long-term H. pylori infection leads to chronic atrophic gastritis, considered one of the precursors of gastric cancer. We have reported that the grade of atrophy was higher in H. pylori-positive subjects than in H. pylori-negative subjects. It has also been reported that the atrophy of gastric mucosa increased in H. pylori-infected monkeys compared with control monkeys in a 5-year follow-up study. Most H. pylori infections occur in children, and atrophy of the gastric mucosa progresses during aging. Long-term data show that H. pylori infection can lead to gastric atrophy and may play an important role in the development of gastric cancer. Interestingly, there was no difference in the prevalence of H. pylori between patients with chronic gastritis and gastric cancer in Japan, but the prevalence of H. pylori in young Japanese gastric cancer patients was significantly higher than in the control group. These data clearly show that H. pylori infection is one of the risk factors of gastric cancer in young Japanese people, There is no answer to whether curing H. pylori infection can reverse the atrophy of the gastric mucosa and decrease the risk of gastric cancer development. To clarify this issue, an intervention study must be done. A large clinical trial called the Japanese Intervention Trial of H. pylori is in progress.
+12109661	10	29	Helicobacter pylori	Microorganism	210
+12109661	10	29	Helicobacter pylori	Microorganism	210
+12109661	10	29	Helicobacter pylori	Microorganism	210
+12109661	86	93	gastric	Habitat	OBT:001792
+12109661	86	93	gastric	Habitat	OBT:001792
+12109661	86	93	gastric	Habitat	OBT:001792
+12109661	128	135	gastric	Habitat	OBT:001792
+12109661	128	135	gastric	Habitat	OBT:001792
+12109661	128	135	gastric	Habitat	OBT:001792
+12109661	165	184	Helicobacter pylori	Microorganism	210
+12109661	165	184	Helicobacter pylori	Microorganism	210
+12109661	165	184	Helicobacter pylori	Microorganism	210
+12109661	250	259	H. pylori	Microorganism	210
+12109661	250	259	H. pylori	Microorganism	210
+12109661	250	259	H. pylori	Microorganism	210
+12109661	343	350	gastric	Habitat	OBT:001792
+12109661	416	443	H. pylori-positive subjects	Habitat	OBT:003269
+12109661	416	425	H. pylori	Microorganism	210
+12109661	452	479	H. pylori-negative subjects	Habitat	OBT:002712
+12109661	452	461	H. pylori	Microorganism	210
+12109661	527	541	gastric mucosa	Habitat	OBT:001577
+12109661	527	534	gastric	Habitat	OBT:001792
+12109661	527	534	gastric	Habitat	OBT:001792
+12109661	527	534	gastric	Habitat	OBT:001792
+12109661	527	541	gastric mucosa	Habitat	OBT:001577
+12109661	527	541	gastric mucosa	Habitat	OBT:001577
+12109661	555	581	H. pylori-infected monkeys	Habitat	OBT:000491|OBT:003107|OBT:000700
+12109661	555	581	H. pylori-infected monkeys	Habitat	OBT:000491|OBT:003107|OBT:000700
+12109661	555	581	H. pylori-infected monkeys	Habitat	OBT:000491|OBT:003107|OBT:000700
+12109661	555	564	H. pylori	Microorganism	210
+12109661	555	564	H. pylori	Microorganism	210
+12109661	555	564	H. pylori	Microorganism	210
+12109661	596	611	control monkeys	Habitat	OBT:003107|OBT:000700
+12109661	596	611	control monkeys	Habitat	OBT:003107|OBT:000700
+12109661	596	611	control monkeys	Habitat	OBT:003107|OBT:000700
+12109661	646	655	H. pylori	Microorganism	210
+12109661	676	684	children	Habitat	OBT:003188
+12109661	705	719	gastric mucosa	Habitat	OBT:001577
+12109661	705	712	gastric	Habitat	OBT:001792
+12109661	770	779	H. pylori	Microorganism	210
+12109661	770	779	H. pylori	Microorganism	210
+12109661	770	779	H. pylori	Microorganism	210
+12109661	802	809	gastric	Habitat	OBT:001792
+12109661	871	878	gastric	Habitat	OBT:001792
+12109661	947	956	H. pylori	Microorganism	210
+12109661	947	956	H. pylori	Microorganism	210
+12109661	947	956	H. pylori	Microorganism	210
+12109661	965	996	patients with chronic gastritis	Habitat	OBT:003269
+12109661	965	996	patients with chronic gastritis	Habitat	OBT:003269
+12109661	965	996	patients with chronic gastritis	Habitat	OBT:003220
+12109661	965	978;1001	patients with gastric cancer	Habitat	OBT:003220
+12109661	1001	1008	gastric	Habitat	OBT:001792
+12109661	1001	1008	gastric	Habitat	OBT:001792
+12109661	1001	1008	gastric	Habitat	OBT:001792
+12109661	1048	1057	H. pylori	Microorganism	210
+12109661	1048	1057	H. pylori	Microorganism	210
+12109661	1048	1057	H. pylori	Microorganism	210
+12109661	1061	1099	young Japanese gastric cancer patients	Habitat	OBT:003188|OBT:003220
+12109661	1076	1083	gastric	Habitat	OBT:001792
+12109661	1076	1083	gastric	Habitat	OBT:001792
+12109661	1076	1083	gastric	Habitat	OBT:001792
+12109661	1137	1150	control group	Habitat	OBT:003188
+12109661	1181	1190	H. pylori	Microorganism	210
+12109661	1181	1190	H. pylori	Microorganism	210
+12109661	1181	1190	H. pylori	Microorganism	210
+12109661	1231	1238	gastric	Habitat	OBT:001792
+12109661	1249	1270	young Japanese people	Habitat	OBT:003188
+12109661	1249	1270	young Japanese people	Habitat	OBT:003188
+12109661	1249	1270	young Japanese people	Habitat	OBT:003188
+12109661	1309	1318	H. pylori	Microorganism	210
+12109661	1360	1367	gastric	Habitat	OBT:001792
+12109661	1360	1374	gastric mucosa	Habitat	OBT:001577
+12109661	1400	1407	gastric	Habitat	OBT:001792
+12109661	1552	1561	H. pylori	Microorganism	210
+12109661	1552	1561	H. pylori	Microorganism	210
+12109661	1552	1561	H. pylori	Microorganism	210
+
+20167385-002|t|
+20167385-002|a|Contamination of some varieties of soft smear cheeses with Listeria monocytogenes is an important problem for the consumer's health, leading to industrial substantial financial losses ( Cocolin et al., 2009, de Cesare et al., 2007, Lomonaco et al., 2009 and Rudolf and Scherer, 2001).
+20167385-002	35	53	soft smear cheeses	Habitat	OBT:003494
+20167385-002	59	81	Listeria monocytogenes	Microorganism	1639
+
+21894542|t|Iron transport in the genus Marinobacter.
+21894542|a|Marinobacter belong to the class of Gammaproteobacteria and these motile, halophilic or halotolerent bacteria are widely distributed throughout the world's oceans having been isolated from a wide variety of marine environments. They have also been identified as members of the bacterial flora associated with other marine organisms. Here, using a combination of natural products chemistry and genomic analysis, we assess the nature of the siderophores produced by this genus and their potential relationship to phylogeny and lifestyle/ecological niche of this diverse group of organisms. Our analysis shows a wide level of diversity in siderophore based iron uptake systems among this genus with three general strategies: (1) production and utilization of native siderophores in addition to utilization of a variety of exogenous ones, (2) production and utilization of native siderophores only, (3) lack of siderophore production but utilization of exogenous ones. They all share the presence of at least one siderophore-independent iron uptake ABC transport systems of the FbpABC iron metal type and lack the ability for direct transport of ferrous iron. Siderophore production and utilization can be correlated with phylogeny and thus it forms a type of chemotaxonomic marker for this genus.
+21894542	28	40	Marinobacter	Microorganism	2742
+21894542	42	54	Marinobacter	Microorganism	2742
+21894542	78	97	Gammaproteobacteria	Microorganism	1236
+21894542	108	114	motile	Phenotype	OBT:000117
+21894542	116	126	halophilic	Phenotype	OBT:000656
+21894542	130	142	halotolerent	Phenotype	OBT:002711
+21894542	190	204	world's oceans	Habitat	OBT:003105
+21894542	249	268	marine environments	Habitat	OBT:000338
+21894542	319	334	bacterial flora	Habitat	OBT:000113
+21894542	357	363	marine	Habitat	OBT:000338
+21894542	357	373	marine organisms	Habitat	OBT:000010
+21894542	768	778;795	production of native siderophores	Phenotype	OBT:000019
+21894542	881	891;908	production of native siderophores	Phenotype	OBT:000019
+21894542	949	971	siderophore production	Phenotype	OBT:000019
+21894542	1198	1220	Siderophore production	Phenotype	OBT:000019
+
+19004249|t|Evaluation of antibacterial activity of synthetic aliphatic and aromatic monoacylglycerols.
+19004249|a|The antibacterial activity of synthetic aliphatic and aromatic monoacylglycerols (MAGs) was studied against two human pathogens: Staphylococcus aureus and Escherichia coli. The active compounds inhibited selectively S. aureus. The most active compounds amongst them were those with medium size aliphatic chain and aromatic MAGs with electron withdrawing substituents at the aryl ring. The introduction of one or two-carbon spacer between the aryl ring and the carboxylic function did not influence antibacterial effectiveness.
+19004249	204	219	human pathogens	Phenotype	OBT:002806
+19004249	204	209	human	Habitat	OBT:002488
+19004249	221	242	Staphylococcus aureus	Microorganism	1280
+19004249	247	263	Escherichia coli	Microorganism	562
+19004249	308	317	S. aureus	Microorganism	1280
+
+20167385-001|t|
+20167385-001|a|In addition, the production of growth factors by yeasts appears to promote the development of a Gram positive, catalase positive, salt-tolerant microbial communities composed mainly of coagulase-negative cocci (CNC) and coryneform bacteria, belonging to genera such as Staphylococcus, Micrococcus, Brevibacterium, and Arthrobacter ( Bockelmann, 1999, Bockelmann et al., 1997, Corsetti et al., 2001, Eliskases-Lechner and Ginzinger, 1995a, Eliskases-Lechner and Ginzinger, 1995b and Valdés-Stauber et al., 1997)
+20167385-001	98	111	Gram positive	Phenotype	OBT:000649
+20167385-001	113	130	catalase positive	Phenotype	OBT:000222
+20167385-001	132	145	salt-tolerant	Phenotype	OBT:002711
+20167385-001	188	206	coagulase-negative	Phenotype	OBT:000235
+20167385-001	207	212	cocci	Phenotype	OBT:000850
+20167385-001	224	243	coryneform bacteria	Microorganism	1653
+20167385-001	273	287	Staphylococcus	Microorganism	1279
+20167385-001	289	300	Micrococcus	Microorganism	1269
+20167385-001	302	316	Brevibacterium	Microorganism	1696
+20167385-001	322	334	Arthrobacter	Microorganism	1663
+
+20167385-009|t|
+20167385-009|a|B. linens was only isolated from the Casera, Gorgonzola and Scimudin cheese surfaces, confirming the more recent information that this species is not the most important bacterium on smear cheeses.
+20167385-009	0	9	B. linens	Microorganism	1703
+20167385-009	38	44;70	Casera cheese	Habitat	OBT:003483
+20167385-009	38	44;70	Casera cheese  surfaces	Habitat	OBT:001341
+20167385-009	46	56;70	Gorgonzola cheese  surfaces	Habitat	OBT:001341
+20167385-009	46	56;70	Gorgonzola cheese	Habitat	OBT:003504
+20167385-009	61	76	Scimudin cheese	Habitat	OBT:003522
+20167385-009	61	86	Scimudin cheese  surfaces	Habitat	OBT:001341
+20167385-009	185	198	smear cheeses	Habitat	OBT:003494
+
+8559802|t|Construction of a cloning vector from a naturally occurring plasmid of Salmonella typhimurium.
+8559802|a|A naturally occurring plasmid isolated from a drug-resistant strain of Salmonella typhimurium (993) has been used to construct a plasmid vector for cloning in a wild strain of Salmonella. The strain (993) contains at least two plasmids. The smaller plasmid (9 kb) contains an ampicillin-resistant marker, while the larger one (25 kb) is cryptic. Physical mapping of the 9-kb plasmid and construction of a 3.5-kb derivative have been carried out. This plasmid has been used for cloning in a restriction+modification+strain of S. typhimurium using a conventional calcium chloride method. It exhibited better efficiency of transformation than other commonly used plasmids such as pBR322 or its derivatives and transformants were found to be stable in the absence of antibiotic selection. The vector is compatible with pBR322 and can be used to study the expression of cloned genes in minicells.
+8559802	71	93	Salmonella typhimurium	Microorganism	90371
+8559802	141	155	drug-resistant	Phenotype	OBT:000598
+8559802	166	194	Salmonella typhimurium (993)	Microorganism	90371
+8559802	256	267	wild strain	Phenotype	OBT:000169
+8559802	271	281	Salmonella	Microorganism	590
+8559802	295	298	993	Microorganism	90371
+8559802	371	391	ampicillin-resistant	Phenotype	OBT:002762
+8559802	620	634	S. typhimurium	Microorganism	90371
+
+15293611|t|Clonal strains of Pseudomonas aeruginosa in paediatric and adult cystic fibrosis units.
+15293611|a|Despite recent reports of clonal strains of Pseudomonas aeruginosa in cystic fibrosis (CF) units, the need for routine microbiological surveillance remains contentious. Sputum was collected prospectively from productive patients attending the regional paediatric and adult CF units in Brisbane, Australia. All P. aeruginosa isolates were typed using pulsed-field gel electrophoresis. Spirometry, anthropometrics, hospitalisations and antibiotic sensitivity data were recorded. The first 100 sputum samples (first 50 patients at each clinic) harboured 163 isolates of P. aeruginosa. A total of 39 patients shared a common strain (pulsotype 2), 20 patients shared a strain with at least one other patient and 41 patients harboured unique strains. Eight patients shared a strain identical to a previously reported Australian transmissible strain (pulsotype 1). Compared with the unique strain group, patients harbouring pulsotype 2 were younger and had poorer lung function. Treatment requirements were similar in these two groups, as were the rates of multiresistance. In conclusion, 59% of patients harboured a clonal strain, supporting the need for routine microbiological surveillance. In contrast to previously described clonal strains, the dominant pulsotype was indistinguishable from nonclonal strains with respect to both colonial morphology and multiresistance. The clinical significance of clonal strains remains uncertain and requires longitudinal study.
+15293611	18	40	Pseudomonas aeruginosa	Microorganism	287
+15293611	44	54;65	paediatric cystic fibrosis units	Habitat	OBT:000097
+15293611	44	54	paediatric	Habitat	OBT:003188
+15293611	59	86	adult cystic fibrosis units	Habitat	OBT:000097
+15293611	59	64	adult	Habitat	OBT:003245
+15293611	132	154	Pseudomonas aeruginosa	Microorganism	287
+15293611	158	184	cystic fibrosis (CF) units	Habitat	OBT:000097
+15293611	257	263	Sputum	Habitat	OBT:001335
+15293611	297	316	productive patients	Habitat	OBT:003220
+15293611	331	339;355	regional adult CF units	Habitat	OBT:000097
+15293611	331	350;361	regional paediatric CF units	Habitat	OBT:000097
+15293611	340	350	paediatric	Habitat	OBT:003188
+15293611	355	360	adult	Habitat	OBT:003245
+15293611	398	411	P. aeruginosa	Microorganism	287
+15293611	522	544	antibiotic sensitivity	Phenotype	OBT:002675
+15293611	579	585	sputum	Habitat	OBT:001335
+15293611	604	612	patients	Habitat	OBT:003220
+15293611	621	627	clinic	Habitat	OBT:002694
+15293611	655	668	P. aeruginosa	Microorganism	287
+15293611	684	692	patients	Habitat	OBT:003220
+15293611	734	742	patients	Habitat	OBT:003220
+15293611	783	790	patient	Habitat	OBT:003220
+15293611	798	806	patients	Habitat	OBT:003220
+15293611	839	847	patients	Habitat	OBT:003220
+15293611	985	993	patients	Habitat	OBT:003220
+15293611	1045	1049	lung	Habitat	OBT:000716
+15293611	1138	1153	multiresistance	Phenotype	OBT:002674
+15293611	1177	1185	patients	Habitat	OBT:003220
+15293611	1416	1435	colonial morphology	Phenotype	OBT:000064
+15293611	1440	1455	multiresistance	Phenotype	OBT:002674
+
+23902156|t|Isolation, expression and characterization of a minor allergen from Penicillium crustosum.
+23902156|a|A ribosomal P1 protein, Pen b 26 from Penicillium brevicompactum, was previously identified as a major allergen. A homolog protein was isolated and characterized from Penicillium crustosum which is not known to be allergenic mold. A cDNA library of P. crustosum was constructed and screened using a probe based on the DNA sequence of Pen b 26. A positive clone was isolated, expressed in Escherichia coli, purified and characterized by comparing its immunological and physical properties to Pen b 26. It was designated as Pen cr 26 and had a 321 nt ORF corresponding to 107 amino acids with a MW of 11 kDa. Pen cr 26 had strong sequence homology to Pen b 26 (92% for nucleotides and 86% for amino acids) and its physical and predicted structural properties were similar to the latter. The level of expression of Pen cr 26 was much lower than that of Pen b 26 in the same expression vector. Both proteins were recognized equally well by the IgG class specific antibodies, but Pen cr 26 was poorly recognized by Penicillium-sensitive atopic sera (IgE), suggesting striking antigenic difference in IgE epitopes, i.e., 87% were positive for Pen b 26 while only 23% were positive for Pen cr 26. The allergenicity of Pen cr 26 seems to be minor in nature and it could be a hypoallergenic variant of Pen b 26. 
+23902156	68	89	Penicillium crustosum	Microorganism	36656
+23902156	68	89	Penicillium crustosum	Microorganism	36656
+23902156	129	155	Penicillium brevicompactum	Microorganism	5074
+23902156	258	279	Penicillium crustosum	Microorganism	36656
+23902156	340	352	P. crustosum	Microorganism	36656
+23902156	479	495	Escherichia coli	Microorganism	562
+23902156	1101	1112	Penicillium	Microorganism	5073
+23902156	1101	1134	Penicillium-sensitive atopic sera	Habitat	OBT:000007
+23902156	1101	1134	Penicillium-sensitive atopic sera	Habitat	OBT:000007
+
+25036636-000|t|
+25036636-000|a|For most uninoculated microbial groups, their function in the context of the community or in the production of cheese is largely unexplored. For example, we identified two bacterial genera, Yaniella and Nocardiopsis, that have never been reported in food microbial ecosystems. We also find that halotolerant γ-Proteobacteria such as Vibrio, Halomonas, and Pseudoalteromonas that are typically associated with marine environments ( Holmström and Kjelleberg, 1999 and Reen et al., 2006) are widespread in cheese communities (Figure 2).
+25036636-000	79	88	community	Habitat	OBT:000113
+25036636-000	113	119	cheese	Habitat	OBT:001480
+25036636-000	193	201	Yaniella	Microorganism	225447
+25036636-000	206	218	Nocardiopsis	Microorganism	2013
+25036636-000	253	257	food	Habitat	OBT:000094
+25036636-000	298	310	halotolerant	Phenotype	OBT:002711
+25036636-000	311	327	γ-Proteobacteria	Microorganism	1236
+25036636-000	336	342	Vibrio	Microorganism	662
+25036636-000	344	353	Halomonas	Microorganism	2745
+25036636-000	359	376	Pseudoalteromonas	Microorganism	53246
+25036636-000	412	431	marine environments	Habitat	OBT:000338
+25036636-000	506	512	cheese	Habitat	OBT:001480
+25036636-000	506	524	cheese communities	Habitat	OBT:000113
+
+20167385-013|t|
+20167385-013|a|In addition, several authors reported that Pseudomonas, and other Gram-negative bacteria such as Halomonas and members of the Enterobacteriaceae family may be very common on the cheese surface ( Chaves-Lopez et al., 2006, Deetae et al., 2009, Larpin, 2006, Morales et al., 2003, Mounier et al., 2005 and Rea et al., 2007).
+20167385-013	44	55	Pseudomonas	Microorganism	286
+20167385-013	67	80	Gram-negative	Phenotype	OBT:000648
+20167385-013	98	107	Halomonas	Microorganism	2745
+20167385-013	127	145	Enterobacteriaceae	Microorganism	543
+20167385-013	179	193	cheese surface	Habitat	OBT:001341
+20167385-013	179	185	cheese	Habitat	OBT:001480
+
+25036636-005|t|
+25036636-005|a|Intensive sampling of three batches of cheese over a 63-day aging period demonstrates that patterns of succession are highly reproducible (Figures 7A and 7B). At the first time point, the community consisted primarily of Proteobacteria, the bacterium Leuconostoc, and the yeast Candida, which can be found at low levels in raw milk ( Quigley et al., 2013). Whereas Candida persisted in the fungal portion of the community, the Proteobacteria were succeeded by Staphylococcus within the first 7 days. As the rinds matured, bacterial taxa Brevibacterium and Brachybacterium and fungal taxa Penicillium and Scopulariopsis emerged consistently as a significant fraction of the community (on average, >1% in mature cheeses). Principal coordinate analysis shows a reproducible trajectory of all three communities over time ( Figure 7B), with the most rapid changes in composition occurring at early time points, which is consistent with previous observations of primary succession ( Fierer et al., 2012 and Shade et al., 2013).
+25036636-005	39	45	cheese	Habitat	OBT:001480
+25036636-005	190	199	community	Habitat	OBT:000113
+25036636-005	223	237	Proteobacteria	Microorganism	1224
+25036636-005	253	264	Leuconostoc	Microorganism	1243
+25036636-005	280	287	Candida	Microorganism	1535326
+25036636-005	325	333	raw milk	Habitat	OBT:001276
+25036636-005	367	374	Candida	Microorganism	1535326
+25036636-005	414	423	community	Habitat	OBT:000113
+25036636-005	429	443	Proteobacteria	Microorganism	1224
+25036636-005	462	476	Staphylococcus	Microorganism	1279
+25036636-005	509	514	rinds	Habitat	OBT:001481
+25036636-005	539	553	Brevibacterium	Microorganism	1696
+25036636-005	558	573	Brachybacterium	Microorganism	43668
+25036636-005	590	601	Penicillium	Microorganism	5073
+25036636-005	606	620	Scopulariopsis	Microorganism	40374
+25036636-005	676	685	community	Habitat	OBT:000113
+25036636-005	707	721	mature cheeses	Habitat	OBT:001480
+
+25036636-001|t|
+25036636-001|a|The fungus Galactomyces and four genera of Proteobacteria, both found in high abundance on moist bloomy rinds ( Figure S2C), are positively correlated with moisture (Figure 3D), whereas several other fungal and bacterial taxa (Scopulariopsis, Aspergillus, Actinobacteria, and Staphylococcus), which are abundant on dry natural rinds ( Figure S2C), are negatively associated with moisture (Figure 3D).
+25036636-001	11	23	Galactomyces	Microorganism	27316
+25036636-001	43	57	Proteobacteria	Microorganism	1224
+25036636-001	91	109	moist bloomy rinds	Habitat	OBT:001481
+25036636-001	227	241	Scopulariopsis	Microorganism	40374
+25036636-001	243	254	Aspergillus	Microorganism	5052
+25036636-001	256	270	Actinobacteria	Microorganism	1760
+25036636-001	276	290	Staphylococcus	Microorganism	1279
+25036636-001	315	332	dry natural rinds	Habitat	OBT:001481
+
+20167385-005|t|
+20167385-005|a|When V3 region of 16S rRNA gene motility from the isolates was compared with those of the reference strains on DGGE gels, several Staphylococcus were identified, mainly S. saprophyticus, S. equorum, S. vitulinus and S. caprae species. E. faecalis, E. faecium, B. linens, Corynebacterium flavescens were also frequently isolated. M. luteus was only isolated from Scimudin cheese.
+20167385-005	132	146	Staphylococcus	Microorganism	1279
+20167385-005	171	187	S. saprophyticus	Microorganism	29385
+20167385-005	189	199	S. equorum	Microorganism	246432
+20167385-005	201	213	S. vitulinus	Microorganism	71237
+20167385-005	218	227	S. caprae	Microorganism	29380
+20167385-005	237	248	E. faecalis	Microorganism	1351
+20167385-005	250	260	E. faecium	Microorganism	1352
+20167385-005	262	271	B. linens	Microorganism	1703
+20167385-005	273	299	Corynebacterium flavescens	Microorganism	28028
+20167385-005	331	340	M. luteus	Microorganism	415
+20167385-005	365	380	Scimudin cheese	Habitat	OBT:003522
+
+5526468|t|Vibrio fetus human infection--isolation from a subacute bacterial endocarditis case.
+5526468|a|
+5526468	0	12	Vibrio fetus	Microorganism	196
+5526468	13	18	human	Habitat	OBT:002488
+
+19339076|t|Bile resistance in Lactococcus lactis strains varies with cellular fatty acid composition: analysis by using different growth media.
+19339076|a|Bile resistance is one of the basic characteristics of probiotic bacteria. The aim of this study was to investigate the characteristics of bile resistance in lactococci by studying the relationship between bile resistance and cellular fatty acid composition in lactococcci grown on different media. We determined the bile resistance of 14 strains in lactose-free M17 medium supplemented with either glucose only (GM17) or lactose only (LM17). Gas chromatographic analyses of free lipids extracted from the tested strains were used for determining their fatty acid composition. A correlation analysis of all strains grown in both media revealed significant positive correlations between bile resistance and relative contents of hexadecanoic acid and octadecenoic acid, and negative correlations between bile resistance and relative contents of hexadecenoic acid and C-19 cyclopropane fatty acid. It is also a fact that the fatty acids associated with bile resistance depended on species, strain, and/or growth medium. In L. lactis subsp. cremoris strains grown in GM17 medium, the bile-resistant strains had significantly more octadecenoic acid than the bile-sensitive strains. In LM17 medium, bile-resistant strains had significantly more octadecenoic acid and significantly less C-19 cyclopropane fatty acid than the bile-sensitive strains. In L. lactis subsp. lactis strains, bile resistances of some of the tested strains were altered by growth medium. Some strains were resistant to bile in GM17 medium but sensitive to bile in LM17 medium. Some strains were resistant in both media tested. The strains grown in GM17 medium had significantly more hexadecanoic acid and octadecenoic acid, and significantly less tetradecanoic acid, octadecadienoic acid and C-19 cyclopropane fatty acid than the strains grown in LM17 medium. In conclusion, the fatty acid compositions of the bile-resistant lactococci differed from those of the bile-sensitive ones. More importantly, our data suggest that altering their fatty acid composition (i.e. increased hexadecanoic acid and octadecenoic acid and decreased hexadecenoic acid and C-19 cyclopropane fatty acid) by changing growth conditions may be a useful way to enhance their bile resistance in lactococci.
+19339076	0	15	Bile resistance	Phenotype	OBT:000152
+19339076	0	4	Bile	Habitat	OBT:000514
+19339076	19	37	Lactococcus lactis	Microorganism	1358
+19339076	133	148	Bile resistance	Phenotype	OBT:000152
+19339076	133	137	Bile	Habitat	OBT:000514
+19339076	188	197	probiotic	Phenotype	OBT:000827
+19339076	272	287	bile resistance	Phenotype	OBT:000152
+19339076	272	276	bile	Habitat	OBT:000514
+19339076	291	301	lactococci	Microorganism	1357
+19339076	339	354	bile resistance	Phenotype	OBT:000152
+19339076	339	343	bile	Habitat	OBT:000514
+19339076	394	405	lactococcci	Microorganism	1357
+19339076	450	465	bile resistance	Phenotype	OBT:000152
+19339076	450	454	bile	Habitat	OBT:000514
+19339076	483	524;532	lactose-free M17 medium supplemented with glucose only (GM17)	Habitat	OBT:000007
+19339076	483	524;555	lactose-free M17 medium supplemented with lactose only (LM17)	Habitat	OBT:000007
+19339076	819	834	bile resistance	Phenotype	OBT:000152
+19339076	819	823	bile	Habitat	OBT:000514
+19339076	935	950	bile resistance	Phenotype	OBT:000152
+19339076	935	939	bile	Habitat	OBT:000514
+19339076	1083	1098	bile resistance	Phenotype	OBT:000152
+19339076	1083	1087	bile	Habitat	OBT:000514
+19339076	1153	1178	L. lactis subsp. cremoris	Microorganism	1359
+19339076	1196	1207	GM17 medium	Habitat	OBT:000007
+19339076	1213	1227	bile-resistant	Phenotype	OBT:000152
+19339076	1213	1217	bile	Habitat	OBT:000514
+19339076	1286	1300	bile-sensitive	Phenotype	OBT:000153
+19339076	1286	1290	bile	Habitat	OBT:000514
+19339076	1313	1324	LM17 medium	Habitat	OBT:000007
+19339076	1326	1340	bile-resistant	Phenotype	OBT:000152
+19339076	1326	1330	bile	Habitat	OBT:000514
+19339076	1451	1465	bile-sensitive	Phenotype	OBT:000153
+19339076	1451	1455	bile	Habitat	OBT:000514
+19339076	1478	1501	L. lactis subsp. lactis	Microorganism	1360
+19339076	1511	1527	bile resistances	Phenotype	OBT:000152
+19339076	1511	1515	bile	Habitat	OBT:000514
+19339076	1607	1624	resistant to bile	Phenotype	OBT:000152
+19339076	1620	1624	bile	Habitat	OBT:000514
+19339076	1628	1639	GM17 medium	Habitat	OBT:000007
+19339076	1644	1661	sensitive to bile	Phenotype	OBT:000153
+19339076	1657	1661	bile	Habitat	OBT:000514
+19339076	1665	1676	LM17 medium	Habitat	OBT:000007
+19339076	1696	1705	resistant	Phenotype	OBT:000152
+19339076	1749	1760	GM17 medium	Habitat	OBT:000007
+19339076	1948	1959	LM17 medium	Habitat	OBT:000007
+19339076	2011	2025	bile-resistant	Phenotype	OBT:000152
+19339076	2011	2015	bile	Habitat	OBT:000514
+19339076	2026	2036	lactococci	Microorganism	1357
+19339076	2064	2078	bile-sensitive	Phenotype	OBT:000153
+19339076	2064	2068	bile	Habitat	OBT:000514
+19339076	2352	2367	bile resistance	Phenotype	OBT:000152
+19339076	2352	2356	bile	Habitat	OBT:000514
+19339076	2371	2381	lactococci	Microorganism	1357
+
+1214327|t|Serotypes of Vibrio parahaemolyticus from clinical and environmental sources in Togo (West Africa).
+1214327|a|Serological analysis of O and K antigens was performed on 343 strains of Vibro parahaemolyticus isolated from clinical and environmental sources in Togo. Only two strains were not typable by the available O antisera. K untypable strains were found in 4.8% of isolates from gastroenteritis patients, in 11% from healthy carriers, and in 47% and 46% of isolates, respectively, from water and fish samples. Thirteen serotypes identified in Togo are not considered in the Japanese antigenic scheme. The suitability of the Japanese typing scheme for geographic areas outside of Japan is discussed and its extension is suggested.
+1214327	13	36	Vibrio parahaemolyticus	Microorganism	670
+1214327	42	50	clinical	Habitat	OBT:003220
+1214327	173	195	Vibro parahaemolyticus	Microorganism	670
+1214327	210	218	clinical	Habitat	OBT:003220
+1214327	373	397	gastroenteritis patients	Habitat	OBT:003269
+1214327	411	427	healthy carriers	Habitat	OBT:002712
+1214327	480	485	water	Habitat	OBT:000468
+1214327	490	502	fish samples	Habitat	OBT:002793
+
+20167385-006|t|
+20167385-006|a|S. saprophyticus strains analysed ( Fig. 2A), at a similarity level of 60%; (i) Cluster 1 (S of 65%) containing two strains from Taleggio and Scimudin cheeses, (ii) Cluster 2 (S of 78%) only contained strains from Gorgonzola cheese, (iii) Cluster 3 (S of 65%) included ten strains, of which 4 were isolated from Taleggio and Casera cheeses, and one each from Scimudin and Gorgonzola, and (iv) Cluster 4 (S of 80%) including three strains, of which one was from Taleggio and two from Scimudin cheeses. The cluster analysis of 23S. equorum strains ( Fig. 2B) shows two main clusters (i) Cluster 1 (S of 84%) containing strains from Taleggio (4), Scimudin (6), Casera (5) and Gorgonzola (1) cheeses and (ii) Cluster 2 (S of 87%) including 4 strains from Gorgonzola, 2 from Scimudin and only one from Taleggio.
+20167385-006	0	16	S. saprophyticus	Microorganism	29385
+20167385-006	131	139;153	Taleggio cheeses	Habitat	OBT:003525
+20167385-006	144	160	Scimudin cheeses	Habitat	OBT:003522
+20167385-006	217	234	Gorgonzola cheese	Habitat	OBT:003504
+20167385-006	316	324;337	Taleggio cheeses	Habitat	OBT:003525
+20167385-006	330	344	Casera cheeses	Habitat	OBT:003483
+20167385-006	364	372	Scimudin	Habitat	OBT:003522
+20167385-006	377	387	Gorgonzola	Habitat	OBT:003504
+20167385-006	468	476	Taleggio	Habitat	OBT:003525
+20167385-006	490	506	Scimudin cheeses	Habitat	OBT:003522
+20167385-006	534	544	S. equorum	Microorganism	246432
+20167385-006	639	647;697	Taleggio cheeses	Habitat	OBT:003525
+20167385-006	653	661;697	Scimudin cheeses	Habitat	OBT:003522
+20167385-006	667	673;697	Casera cheeses	Habitat	OBT:003483
+20167385-006	682	692;697	Gorgonzola cheeses	Habitat	OBT:003504
+20167385-006	761	771	Gorgonzola	Habitat	OBT:003504
+20167385-006	781	789	Scimudin	Habitat	OBT:003522
+20167385-006	808	816	Taleggio	Habitat	OBT:003525
+
+21543877|t|Cloning, expression, purification, crystallization and X-ray crystallographic analysis of Rv3168 from Mycobacterium tuberculosis H37Rv.
+21543877|a|Tuberculosis is a widespread and deadly infectious disease, with one third of the human population already being infected. Aminoglycoside antibiotics have become less effective in recent years owing to antibiotic resistance, which arises primarily through enzymatic modification of the antibiotics. The gene product Rv3168, a putative aminoglycoside phosphotransferase (APH), from Mycobacterium tuberculosis was crystallized using the sitting-drop vapour-diffusion method in the presence of 0.2 M calcium acetate, 0.1 M Tris-HCl pH 7.0 and 20% PEG 3000 at 295 K. X-ray diffraction data were collected to a maximum resolution of 1.67 Å on a synchrotron beamline. The crystal belonged to space group P2(1)2(1)2(1), with unit-cell parameters a = 56.74, b = 62.37, c = 103.61 Å. With one molecule per asymmetric unit, the crystal volume per unit protein weight (V(M)) is 2.91 Å(3) Da(-1). The structure was solved by the single-wavelength anomalous dispersion method and refinement of the selenomethionine structure is in progress.
+21543877	102	134	Mycobacterium tuberculosis H37Rv	Microorganism	83332
+21543877	218	234	human population	Habitat	OBT:002488
+21543877	338	359	antibiotic resistance	Phenotype	OBT:002674
+21543877	517	543	Mycobacterium tuberculosis	Microorganism	83332
+
+14633026|t|Characterization of a mosquitocidal Bacillus thuringiensis serovar sotto strain isolated from Okinawa, Japan.
+14633026|a|To characterize the mosquitocidal activity of parasporal inclusions of the Bacillus thuringiensis serovar sotto strain 96-OK-85-24, for comparison with two well-characterized mosquitocidal strains.
+14633026	22	35	mosquitocidal	Phenotype	OBT:002809
+14633026	36	72	Bacillus thuringiensis serovar sotto	Microorganism	29340
+14633026	130	152	mosquitocidal activity	Phenotype	OBT:002809
+14633026	185	240	Bacillus thuringiensis serovar sotto strain 96-OK-85-24	Microorganism	29340
+14633026	285	298	mosquitocidal	Phenotype	OBT:002809
+14633026	319	330	96-OK-85-24	Microorganism	29340
+14633026	372	385	mosquitocidal	Phenotype	OBT:002809
+14633026	386	402	B. thuringiensis	Microorganism	1428
+14633026	431	450	larvicidal activity	Phenotype	OBT:002809
+14633026	459	481	Culex pipiens molestus	Habitat	OBT:002142
+14633026	486	505	haemolytic activity	Phenotype	OBT:000304
+14633026	674	685	96-OK-85-24	Microorganism	29340
+14633026	706	719	mosquitocidal	Phenotype	OBT:002809
+14633026	813	826	mosquitocidal	Phenotype	OBT:002809
+14633026	827	843	B. thuringiensis	Microorganism	1428
+14633026	919	936	culicine mosquito	Habitat	OBT:002142
+
+20580604|t|Effects of a probiotic fermented milk beverage containing Lactobacillus casei strain Shirota on defecation frequency, intestinal microbiota, and the intestinal environment of healthy individuals with soft stools.
+20580604|a|The effects of drinking a fermented milk beverage that contains Lactobacillus casei strain Shirota (LcS) at 40 billion bacterial cells/bottle for 4 weeks (probiotics, 1 bottle/day) on defecation frequency, intestinal microbiota and the intestinal environment of healthy individuals with soft stools were evaluated. Thirty-four healthy adults who had soft stools were randomised into 2 groups, and the effects of a regular 4-week intake of probiotics were evaluated by a placebo-controlled, double-blind, parallel-group comparative design. Defecation frequency significantly decreased after the 4-week intake period compared with before the probiotic treatment. The stool quality significantly improved (hardened) compared to the placebo. Also, the water content of the stools was lower in the probiotic group than in the placebo group. Live LcS was recovered at 6.9 ± 1.3 and 7.2 ± 0.8 log(10) CFU per 1g of stool after 2 and 4 weeks, respectively, of probiotic treatment. The number of bifidobacteria in the stools also increased significantly compared with the level before starting the probiotics. The organic acid levels (total, acetic acid, propionic acid, and butyric acid) significantly increased compared with the level before intake in both the probiotic and placebo groups, but they returned to the original levels after the end of the intake period. These results suggest that probiotic fermented milk beverage has an intestine-conditioning effect by improving the frequency of defecation and stool quality and increasing the intrinsic bifidobacteria in healthy individuals with soft stool.
+20580604	13	46	probiotic fermented milk beverage	Habitat	OBT:001269|OBT:003146|OBT:003343
+20580604	58	92	Lactobacillus casei strain Shirota	Microorganism	1582
+20580604	118	128	intestinal	Habitat	OBT:002810
+20580604	118	139	intestinal microbiota	Habitat	OBT:000113
+20580604	149	211	intestinal environment of healthy individuals with soft stools	Habitat	OBT:002810
+20580604	175	211	healthy individuals with soft stools	Habitat	OBT:002712
+20580604	200	211	soft stools	Habitat	OBT:001102
+20580604	239	262	fermented milk beverage	Habitat	OBT:003146|OBT:003343
+20580604	277	311	Lactobacillus casei strain Shirota	Microorganism	1582
+20580604	313	316	LcS	Microorganism	1582
+20580604	348	354	bottle	Habitat	OBT:003146
+20580604	368	378	probiotics	Habitat	OBT:001269
+20580604	382	388	bottle	Habitat	OBT:003146|OBT:001269
+20580604	419	440	intestinal microbiota	Habitat	OBT:000113
+20580604	419	429	intestinal	Habitat	OBT:002810
+20580604	449	511	intestinal environment of healthy individuals with soft stools	Habitat	OBT:002810
+20580604	475	511	healthy individuals with soft stools	Habitat	OBT:002712
+20580604	500	511	soft stools	Habitat	OBT:001102
+20580604	540	554	healthy adults	Habitat	OBT:002712|OBT:003245
+20580604	563	574	soft stools	Habitat	OBT:001102
+20580604	652	662	probiotics	Habitat	OBT:001269
+20580604	853	862	probiotic	Habitat	OBT:001269
+20580604	878	883	stool	Habitat	OBT:001102
+20580604	961	988	water content of the stools	Habitat	OBT:000215
+20580604	982	988	stools	Habitat	OBT:001102
+20580604	1006	1015	probiotic	Habitat	OBT:001269
+20580604	1006	1021	probiotic group	Habitat	OBT:003245
+20580604	1034	1047	placebo group	Habitat	OBT:003245
+20580604	1054	1057	LcS	Microorganism	1582
+20580604	1121	1126	stool	Habitat	OBT:001102
+20580604	1165	1174	probiotic	Habitat	OBT:001269
+20580604	1200	1214	bifidobacteria	Microorganism	1678
+20580604	1222	1228	stools	Habitat	OBT:001102
+20580604	1302	1312	probiotics	Habitat	OBT:001269
+20580604	1467	1476;1489	probiotic groups	Habitat	OBT:003245
+20580604	1467	1476	probiotic	Habitat	OBT:001269
+20580604	1481	1495	placebo groups	Habitat	OBT:003245
+20580604	1601	1634	probiotic fermented milk beverage	Habitat	OBT:001269|OBT:003146|OBT:003343
+20580604	1642	1651	intestine	Habitat	OBT:002810
+20580604	1717	1722	stool	Habitat	OBT:001102
+20580604	1760	1774	bifidobacteria	Microorganism	1678
+20580604	1778	1813	healthy individuals with soft stool	Habitat	OBT:002712
+20580604	1803	1813	soft stool	Habitat	OBT:001102
+
+14624315-001|t|
+14624315-001|a|A number of transaminases with different substrate specificities have been described (Engels et al. 2000; Yvon et al. 1998). These enzymes are reported for several Lactococcus lactis, Lactobacillus, Streptococcus and Propionibacterium species (Engels et al. 2000; Hansen et al. 2001; Thierry et al. 2002).
+14624315-001	165	183	Lactococcus lactis	Microorganism	1358
+14624315-001	185	198	Lactobacillus	Microorganism	1578
+14624315-001	200	213	Streptococcus	Microorganism	1301
+14624315-001	218	235	Propionibacterium	Microorganism	1743
+
+20167385-012|t|
+20167385-012|a|Deetae et al. (2009) reported that Gram negative bacteria including Microbacterium foliorum, Psychrobacter sp. and Proteus vulgaris, showed a strong potential for producing aroma compounds with pronounced “cheese” notes such as volatile sulphur compounds.
+20167385-012	35	48	Gram negative	Phenotype	OBT:000648
+20167385-012	68	91	Microbacterium foliorum	Microorganism	104336
+20167385-012	93	110	Psychrobacter sp.	Microorganism	56811
+20167385-012	115	131	Proteus vulgaris	Microorganism	585
+
+1356998|t|Human and tick spotted fever group Rickettsia isolates from Israel: a genotypic analysis.
+1356998|a|The genomes of spotted fever group rickettsiae isolated in different geographical areas of Israel (two from ticks and four from humans, obtained over a span of 20 years) were studied by polymerase chain reaction (PCR) and restriction endonuclease fragment length polymorphism (RFLP) analysis. The human isolates were obtained from patients suffering from rickettsial disease of different degrees of severity. The PCR products obtained with five pairs of oligonucleotide primers (two primer sets derived from the 190-kDa polypeptide gene and three from the 120-kDa polypeptide gene) and cleaved with restriction endonucleases were used to study the Israeli isolates and reference Rickettsia conorii isolates. Subtle differences between the PCR-RFLP patterns of Israeli isolates and the two R. conorii reference strains (Moroccan and no. 7) were seen when the PCR products derived from the 190-kDa gene-derived primer sets were digested. All of the Israeli isolates were identical by RFLP analysis using all of the primer sets. This study showed that the Israeli spotted fever group isolates (from both ticks and humans) were genetically homogeneous by the criteria used in this study, despite the time and location differences in their original isolation, and different as a group from R. conorii.
+1356998	0	5	Human	Habitat	OBT:002488
+1356998	10	14	tick	Habitat	OBT:001821
+1356998	15	34	spotted fever group	Microorganism	114277
+1356998	35	45	Rickettsia	Microorganism	780
+1356998	105	124	spotted fever group	Microorganism	114277
+1356998	125	136	rickettsiae	Microorganism	780
+1356998	198	203	ticks	Habitat	OBT:001821
+1356998	218	224	humans	Habitat	OBT:002488
+1356998	387	392	human	Habitat	OBT:003269
+1356998	421	497	patients suffering from rickettsial disease of different degrees of severity	Habitat	OBT:003269
+1356998	769	787	Rickettsia conorii	Microorganism	781
+1356998	879	907;922	R. conorii reference strains no. 7	Microorganism	781
+1356998	879	907;909	R. conorii reference strains Moroccan	Microorganism	781
+1356998	1151	1170	spotted fever group	Microorganism	114277
+1356998	1191	1196	ticks	Habitat	OBT:001821
+1356998	1201	1207	humans	Habitat	OBT:003269
+1356998	1375	1385	R. conorii	Microorganism	781
+
+15618837|t|Recurrence of Helicobacter pylori infection 1 year after successful treatment: prospective cohort study in the Republic of Yemen.
+15618837|a|To investigate the prevalence of Helicobacter pylori infection in dyspeptic patients in the Republic of Yemen and the recurrence rate 1 year after apparently successful eradication.
+15618837	14	33	Helicobacter pylori	Microorganism	210
+15618837	163	182	Helicobacter pylori	Microorganism	210
+15618837	196	214	dyspeptic patients	Habitat	OBT:003220
+15618837	327	358	patients with chronic dyspepsia	Habitat	OBT:003220
+15618837	371	377	clinic	Habitat	OBT:002694
+15618837	393	409	Gastric biopsies	Habitat	OBT:000110
+15618837	393	400	Gastric	Habitat	OBT:001792
+15618837	441	450	H. pylori	Microorganism	210
+15618837	504	537	Patients with H. pylori infection	Habitat	OBT:003269
+15618837	518	527	H. pylori	Microorganism	210
+15618837	626	635	H. pylori	Microorganism	210
+15618837	722	731	H. pylori	Microorganism	210
+15618837	817	826	H. pylori	Microorganism	210
+15618837	1092	1101	H. pylori	Microorganism	210
+15618837	1379	1388	H. pylori	Microorganism	210
+15618837	1402	1420	dyspeptic patients	Habitat	OBT:003220
+15618837	1533	1599	widespread bacterial resistance due to unrestricted antibiotic use	Phenotype	OBT:002674
+
+9521147|t|Lipopolysaccharide from nonvirulent Ara+ Burkholderia pseudomallei isolates is immunologically indistinguishable from lipopolysaccharide from virulent Ara- clinical isolates.
+9521147|a|Different lines of evidence suggest that a discrepancy between the distribution of Burkholderia (Pseudomonas) pseudomallei in the environment and the distribution of the disease melioidosis is attributable, at least in part, to phenotypic differences between clinical and some environmental isolates. Two antigenically and biochemically distinct biotypes have been described, only one of which is virulent. In this study, lipopolysaccharides (LPSs) were extracted by the proteinase K digestion method from a total of 214 B. pseudomallei isolates, and their immunoreactivities with sera from patients with different clinical spectra and with other infections were evaluated. With the exception of4 isolates from a total of 214 tested, the sodium dodecyl sulfate-polyacrylamide gel electrophoresis silver-staining profiles of the LPSs from the two biotypes showed identical ladder patterns that were typical for smooth LPSs from other gram-negative bacteria. The 210 isolates with typical LPS patterns (119 Ara- clinical, 13 Ara- soil, 70 Ara+ soil, and 8 reference National Type Culture Collection strains) also exhibited similar immunoblot profiles against pooled sera from patients with melioidosis and hyperimmune mouse sera. Concordant findings were noted in the indirect enzyme-linked immunosorbent assay with Ara- and Ara+ LPSs to coat the microtiter plates. The LPSs of the different B. pseudomallei biotypes appear antigenically indistinguishable. It is, therefore, unlikely that this component is related to the virulence and pathogenicity of B. pseudomallei.
+9521147	24	35	nonvirulent	Phenotype	OBT:002668
+9521147	36	66	Ara+ Burkholderia pseudomallei	Microorganism	95163
+9521147	142	150	virulent	Phenotype	OBT:002806
+9521147	151	155	Ara-	Microorganism	28450
+9521147	156	164	clinical	Habitat	OBT:003220
+9521147	258	297	Burkholderia (Pseudomonas) pseudomallei	Microorganism	28450
+9521147	434	442	clinical	Habitat	OBT:003220
+9521147	572	580	virulent	Phenotype	OBT:000375
+9521147	696	711	B. pseudomallei	Microorganism	28450
+9521147	756	832	sera from patients with different clinical spectra and with other infections	Habitat	OBT:000524
+9521147	766	832	patients with different clinical spectra and with other infections	Habitat	OBT:003269
+9521147	1108	1121	gram-negative	Phenotype	OBT:000648
+9521147	1180	1184	Ara-	Microorganism	28450
+9521147	1185	1193	clinical	Habitat	OBT:003220
+9521147	1198	1202	Ara-	Microorganism	28450
+9521147	1203	1207	soil	Habitat	OBT:000427
+9521147	1212	1216	Ara+	Microorganism	95163
+9521147	1217	1221	soil	Habitat	OBT:000427
+9521147	1339	1374	sera from patients with melioidosis	Habitat	OBT:000524
+9521147	1349	1374	patients with melioidosis	Habitat	OBT:003269
+9521147	1379	1396	hyperimmune mouse	Habitat	OBT:003211
+9521147	1379	1401	hyperimmune mouse sera	Habitat	OBT:000524
+9521147	1489	1493	Ara-	Microorganism	28450
+9521147	1498	1502	Ara+	Microorganism	95163
+9521147	1520	1537	microtiter plates	Habitat	OBT:000103
+9521147	1565	1580	B. pseudomallei	Microorganism	28450
+9521147	1695	1704	virulence	Phenotype	OBT:000375
+9521147	1709	1722	pathogenicity	Phenotype	OBT:000375
+9521147	1726	1741	B. pseudomallei	Microorganism	28450
+
+9745160|t|New one-week, low-dose triple therapy for the treatment of duodenal ulcer with Helicobacter pylori infection.
+9745160|a|Antimicrobial therapy is the recommended treatment for duodenal ulcer associated with Helicobacter pylori infection. The eradication of bismuth-based triple therapy with bismuth subcitrate, metronidazole and amoxicillin is limited by low compliance, drug resistance and side-effects. Two-week proton pump inhibitor (PPI)-based triple therapy has a higher eradication rate but is costly. This study was designed to compare the efficacy, patient compliance and cost of short-term PPI-based triple therapy with those of bismuth-based triple therapy.
+9745160	59	67	duodenal	Habitat	OBT:001534
+9745160	59	73	duodenal ulcer	Habitat	OBT:001533
+9745160	79	98	Helicobacter pylori	Microorganism	210
+9745160	165	179	duodenal ulcer	Habitat	OBT:001533
+9745160	165	173	duodenal	Habitat	OBT:001534
+9745160	196	215	Helicobacter pylori	Microorganism	210
+9745160	360	375	drug resistance	Phenotype	OBT:000598
+9745160	546	553	patient	Habitat	OBT:003220
+9745160	664	730	patients with active duodenal ulcer disease and H pylori infection	Habitat	OBT:003269
+9745160	685	699	duodenal ulcer	Habitat	OBT:001533
+9745160	685	693	duodenal	Habitat	OBT:001534
+9745160	712	720	H pylori	Microorganism	210
+9745160	783	796	Campylobacter	Microorganism	194
+9745160	1271	1279	H pylori	Microorganism	210
+9745160	1419	1427	H pylori	Microorganism	210
+9745160	1436	1441	ulcer	Habitat	OBT:001533
+9745160	1488	1496	patients	Habitat	OBT:003269
+9745160	1560	1568	patients	Habitat	OBT:003269
+9745160	1627	1635	H pylori	Microorganism	210
+9745160	1651	1659	H pylori	Microorganism	210
+9745160	1776	1781	ulcer	Habitat	OBT:000933
+9745160	1883	1891	patients	Habitat	OBT:003269
+9745160	1985	2023	patients with PPI-based triple therapy	Habitat	OBT:003269
+9745160	2065	2107	patients with bismuth-based triple therapy	Habitat	OBT:003269
+9745160	2232	2240	patients	Habitat	OBT:003269
+9745160	2358	2366	H pylori	Microorganism	210
+9745160	2508	2516	duodenal	Habitat	OBT:001534
+9745160	2508	2522	duodenal ulcer	Habitat	OBT:001533
+9745160	2539	2547	H pylori	Microorganism	210
+
+9553794|t|Evaluation of the role of Carnobacterium piscicola in spoilage of vacuum- and modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C.
+9553794|a|The microflora on spoiled cold-smoked salmon often consists of a mixture of lactic acid bacteria (LAB) and Gram-negative bacteria. To elucidate the role of the different groups, a storage trial was carried out in which nisin and CO2 were used for the selective inhibition of the two bacterial groups. The shelf-life of vacuum-packed cold-smoked salmon, recorded by sensory evaluation, was four weeks at 5 degrees C and the microflora was composed of LAB (10(6)-10(7) cfu/g) with an associate Gram-negative flora in varying levels (10(5)-10(7) cfu/g). The addition of nisin and/or a CO2-atmosphere increased the shelf-life to five or six weeks and limited the level of LAB to about 10(4)-10(6), 10(3)-10(6) and 10(2)-10(4) cfu/g, respectively. CO2-atmosphere +/- nisin inhibited the growth of Gram-negative bacteria, whereas nisin had no effect on these in vacuum packages. The Gram-negative flora on vacuum-packed salmon was dominated by a Vibrio sp., resembling V. marinus, Enterobacteriaceae (Enterobacter agglomerans, Serratia liquefaciens and Rahnella aquatilis) and occasionally Aeromonas hydrophila. Irrespective of the addition of nisin and/or CO2-atmosphere, the LAB microflora was dominated by Carnobacterium piscicola, which was found to account for 87% of the 255 LAB isolates characterized. Whole-cell-protein patterns analysed by SDS-PAGE confirmed the Carnobacterium species identification. The spoilage potential of C. piscicola isolates was further studied by inoculation of approx. 10(6) cfu/g in cold-smoked salmon stored at 5 degrees C. The salmon did not spoil within 4 weeks of storage in vacuum- or CO2-atmosphere, and it is concluded that despite high levels (> 10(7) cfu/g) of C. piscicola, sensory rejection was caused by autolytic changes. This was supported by the development of soft texture and sour, rancid and bitter off-flavours at the point of spoilage, irrespective of the length of shelf-life and low or high total counts of LAB and Gram-negative bacteria.
+9553794	26	50	Carnobacterium piscicola	Microorganism	2751
+9553794	26	50	Carnobacterium piscicola	Microorganism	2751
+9553794	66	73;98	vacuum- packed cold-smoked salmon stored at 5 degrees C	Habitat	OBT:001500|OBT:002300|OBT:001774|OBT:002593
+9553794	78	145	modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C	Habitat	OBT:002140|OBT:001500|OBT:002593|OBT:001774
+9553794	151	161	microflora	Habitat	OBT:000113
+9553794	165	191	spoiled cold-smoked salmon	Habitat	OBT:000430|OBT:001774|OBT:001500|OBT:002593
+9553794	223	243	lactic acid bacteria	Phenotype	OBT:000019
+9553794	245	248	LAB	Phenotype	OBT:000019
+9553794	254	267	Gram-negative	Phenotype	OBT:000648
+9553794	466	498	vacuum-packed cold-smoked salmon	Habitat	OBT:002300|OBT:002593|OBT:001500|OBT:001774
+9553794	570	580	microflora	Habitat	OBT:000113
+9553794	570	580	microflora	Habitat	OBT:000113
+9553794	597	600	LAB	Phenotype	OBT:000019
+9553794	639	658	Gram-negative flora	Habitat	OBT:000113
+9553794	639	652	Gram-negative	Phenotype	OBT:000648
+9553794	815	818	LAB	Phenotype	OBT:000019
+9553794	939	952	Gram-negative	Phenotype	OBT:000648
+9553794	1003	1018	vacuum packages	Habitat	OBT:002300
+9553794	1024	1043	Gram-negative flora	Habitat	OBT:000113
+9553794	1024	1037	Gram-negative	Phenotype	OBT:000648
+9553794	1047	1067	vacuum-packed salmon	Habitat	OBT:002300|OBT:003021|OBT:001500|OBT:001774
+9553794	1087	1097	Vibrio sp.	Microorganism	678
+9553794	1087	1097	Vibrio sp.	Microorganism	678
+9553794	1110	1120	V. marinus	Microorganism	1182512
+9553794	1110	1120	V. marinus	Microorganism	1182512
+9553794	1122	1140	Enterobacteriaceae	Microorganism	543
+9553794	1122	1140	Enterobacteriaceae	Microorganism	543
+9553794	1142	1166	Enterobacter agglomerans	Microorganism	549
+9553794	1142	1166	Enterobacter agglomerans	Microorganism	549
+9553794	1168	1189	Serratia liquefaciens	Microorganism	614
+9553794	1168	1189	Serratia liquefaciens	Microorganism	614
+9553794	1194	1212	Rahnella aquatilis	Microorganism	34038
+9553794	1194	1212	Rahnella aquatilis	Microorganism	34038
+9553794	1231	1251	Aeromonas hydrophila	Microorganism	644
+9553794	1231	1251	Aeromonas hydrophila	Microorganism	644
+9553794	1318	1332	LAB microflora	Habitat	OBT:000113
+9553794	1318	1321	LAB	Phenotype	OBT:000019
+9553794	1350	1374	Carnobacterium piscicola	Microorganism	2751
+9553794	1350	1374	Carnobacterium piscicola	Microorganism	2751
+9553794	1422	1425	LAB	Phenotype	OBT:000019
+9553794	1513	1527	Carnobacterium	Microorganism	2751
+9553794	1513	1527	Carnobacterium	Microorganism	2751
+9553794	1578	1590	C. piscicola	Microorganism	1654720
+9553794	1578	1590	C. piscicola	Microorganism	1654720
+9553794	1661	1701	cold-smoked salmon stored at 5 degrees C	Habitat	OBT:001500|OBT:001774|OBT:002593
+9553794	1707	1713	salmon	Habitat	OBT:002593|OBT:001500|OBT:001774
+9553794	1848	1860	C. piscicola	Microorganism	1654720
+9553794	2107	2110	LAB	Phenotype	OBT:000019
+9553794	2115	2128	Gram-negative	Phenotype	OBT:000648
+
+25036636-004|t|
+25036636-004|a|From our metagenomic reads, we identified homologs of a previously characterized secreted cold-adapted lipase and protease ( de Pascale et al., 2008 and de Pascale et al., 2010) (Table S4C), which could contribute to lipolysis and proteolysis and subsequent flavor formation in cheeses. Collectively, these metagenomic insights into the potential function of Pseudoalteromonas suggest that this and other uninoculated yet abundant microbes could play key roles in cheese rind microbial communities.
+25036636-004	91	103	cold-adapted	Phenotype	OBT:002975
+25036636-004	282	289	cheeses	Habitat	OBT:001480
+25036636-004	364	381	Pseudoalteromonas	Microorganism	53246
+25036636-004	469	475	cheese	Habitat	OBT:001480
+25036636-004	469	480	cheese rind	Habitat	OBT:001481
+
+19621381|t|A general strategy for the bacterial expression of amyloidogenic peptides using BCL-XL-1/2 fusions.
+19621381|a|Biophysical studies on amyloidogenic and aggregation-prone peptides often require large quantities of material. However, solid-phase synthesis, handling, and purification of peptides often present challenges on these scales. Recombinant expression is an attractive alternative because of its low cost, the ability to isotopically label the peptides, and access to sequences exceeding approximately 50 residues. However, expression systems that seek to solubilize amyloidogenic peptides suffer from low yields, difficult optimizations, and isolation challenges. We present a general strategy for expressing and isolating amyloidogenic peptides in Escherichia coli by fusion to a polypeptide that drives the expression of attached peptides into bacterial inclusion bodies. This scheme minimizes toxicity during bacterial growth and enables the processing and handling of the peptides in denaturing solutions. Immobilized metal affinity chromatography, reverse phase HPLC, and cyanogen bromide cleavage are used to isolate the peptide, followed by further reverse phase HPLC, which yields milligram quantities of the purified peptide. We demonstrate that driving the peptides into inclusion bodies using fusion to BCL-XL-1/2 is a general strategy for their expression and isolation, as exemplified by the production of 11 peptides species.
+19621381	746	762	Escherichia coli	Microorganism	562

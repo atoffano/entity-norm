@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+41	55	psychrotrophic	Phenotype	
+56	79	Pseudomonas fluorescens	Microorganism	
+96	107	proteolytic	Phenotype	
+108	111	LAB	Phenotype	
+179	184	milks	Habitat	
+189	196	cheeses	Habitat	
+225	241	Escherichia coli	Microorganism	
+243	265	Listeria monocytogenes	Microorganism	
+271	292	Staphylococcus aureus	Microorganism	
+296	305	raw milks	Habitat	
+310	317	cheeses	Habitat	

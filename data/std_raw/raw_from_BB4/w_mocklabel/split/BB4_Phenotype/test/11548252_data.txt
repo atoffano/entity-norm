@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+59	68	virulence	Phenotype	MockLabel
+244	253	virulence	Phenotype	MockLabel
+468	477	virulence	Phenotype	MockLabel
+754	763	virulence	Phenotype	MockLabel
+1218	1227	virulence	Phenotype	MockLabel

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+0	10	Laboratory	Habitat	
+170	174	beer	Habitat	
+207	214	biofilm	Habitat	
+267	274	brewery	Habitat	
+523	527	beer	Habitat	
+824	828	wine	Habitat	

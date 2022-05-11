@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+30	42	galactosemia	Modifier	D005693
+201	216	GALT deficiency	SpecificDisease	D005693
+843	858	GALT deficiency	SpecificDisease	D005693
+1209	1229	classic galactosemia	Modifier	D005693
+1322	1334	galactosemia	Modifier	D005693
+1481	1501	classic galactosemia	Modifier	D005693

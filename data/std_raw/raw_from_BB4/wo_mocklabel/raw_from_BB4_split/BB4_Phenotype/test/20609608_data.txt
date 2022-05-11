@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+0	12	Pathogenesis	Phenotype	
+38	51	Gram-negative	Phenotype	
+151	164	Gram-negative	Phenotype	
+217	247	common opportunistic pathogens	Phenotype	
+572	585	Gram-negative	Phenotype	
+941	954	Gram-negative	Phenotype	
+1039	1052	Gram-negative	Phenotype	

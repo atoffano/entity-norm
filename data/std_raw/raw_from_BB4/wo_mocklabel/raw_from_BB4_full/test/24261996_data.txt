@@ -1,0 +1,47 @@
+start	end	mention	_class	labels
+11	31	Bordetella pertussis	Microorganism	
+32	39	vaccine	Habitat	
+57	68	respiratory	Habitat	
+57	84	respiratory syncytial virus	Microorganism	
+141	149	virulent	Phenotype	
+150	170	Bordetella pertussis	Microorganism	
+252	257	BPZE1	Microorganism	
+292	310	live nasal vaccine	Habitat	
+297	302	nasal	Habitat	
+403	419	adult volunteers	Habitat	
+439	452	human infants	Habitat	
+499	504	BPZE1	Microorganism	
+517	526	pediatric	Habitat	
+538	549	respiratory	Habitat	
+538	565	respiratory syncytial virus	Microorganism	
+567	570	RSV	Microorganism	
+597	602	BPZE1	Microorganism	
+636	639	RSV	Microorganism	
+658	663;676	adult mice	Habitat	
+667	680	neonatal mice	Habitat	
+682	690	Pathogen	Phenotype	
+718	729	immune cell	Habitat	
+781	786	BPZE1	Microorganism	
+844	855	neutrophils	Habitat	
+865	871	airway	Habitat	
+865	877	airway lumen	Habitat	
+915	937	mucosal CD4(+) T cells	Habitat	
+915	922	mucosal	Habitat	
+965	968	RSV	Microorganism	
+980	985	BPZE1	Microorganism	
+1006	1009	RSV	Microorganism	
+1072	1081	lung cell	Habitat	
+1072	1076	lung	Habitat	
+1113	1118	BPZE1	Microorganism	
+1142	1145	RSV	Microorganism	
+1248	1262	CD4(+) T cells	Habitat	
+1267	1287	natural killer cells	Habitat	
+1302	1318	regulatory cells	Habitat	
+1323	1334	neutrophils	Habitat	
+1431	1436	BPZE1	Microorganism	
+1440	1443	RSV	Microorganism	
+1475	1478	RSV	Microorganism	
+1488	1493	BPZE1	Microorganism	
+1576	1583	mucosal	Habitat	
+1610	1613	RSV	Microorganism	
+1627	1632	BPZE1	Microorganism	

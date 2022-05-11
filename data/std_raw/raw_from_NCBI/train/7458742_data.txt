@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+23	32	cataracts	SpecificDisease	D002386
+50	96	deficient in glucose-6-phosphate dehydrogenase	SpecificDisease	D005955
+98	149	Glucose-6-phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955
+210	221	cataractous	Modifier	D002386
+350	359	cataracts	SpecificDisease	D002386
+368	382	G6PD-deficient	Modifier	D005955
+407	435	cortical and total cataracts	CompositeMention	D002386
+645	660	G6PD deficiency	SpecificDisease	D005955
+710	722	galactosemic	Modifier	OMIM:230400
+734	755	riboflavin deficiency	SpecificDisease	D012257
+763	772	cataracts	SpecificDisease	D002386
+808	831	metabolic abnormalities	DiseaseClass	D008659

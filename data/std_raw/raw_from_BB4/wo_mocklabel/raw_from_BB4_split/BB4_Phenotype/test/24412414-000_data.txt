@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+18	38	lactic acid bacteria	Phenotype	
+40	43	LAB	Phenotype	
+286	305	antifungal activity	Phenotype	
+447	522	capability to produce the novel antimicrobial compound  3-phenyllactic acid	Phenotype	
+643	646	LAB	Phenotype	

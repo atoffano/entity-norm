@@ -1,0 +1,27 @@
+start	end	mention	_class	labels
+0	21	Arhodomonas aquaeolei	Microorganism	2369
+46	53	aerobic	Phenotype	OBT:000179
+55	65	halophilic	Phenotype	OBT:000656
+92	110	subterranean brine	Habitat	OBT:000156|OBT:002769
+112	133	Arhodomonas aquaeolei	Microorganism	2369
+171	180	petroleum	Habitat	OBT:001058
+171	207	petroleum reservoir production fluid	Habitat	OBT:001058
+171	190	petroleum reservoir	Habitat	OBT:001711
+249	270	obligately halophilic	Phenotype	OBT:001233
+272	279	aerobic	Phenotype	OBT:000179
+281	294	gram-negative	Phenotype	OBT:000648
+296	311	oval rod-shaped	Phenotype	OBT:000563
+340	346	motile	Phenotype	OBT:000117
+392	400;413	catalase positive	Phenotype	OBT:000222
+405	421	oxidase positive	Phenotype	OBT:000785
+677	688	Arhodomonas	Microorganism	2368
+766	780	Proteobacteria	Microorganism	1224
+851	863	A. aquaeolei	Microorganism	2369
+891	913	purple sulfur bacteria	Microorganism	1046
+926	944	Ectothiorhodospira	Microorganism	1051
+949	959	Chromatium	Microorganism	1047
+974	986	phototrophic	Phenotype	OBT:000805
+974	1000	phototrophic microorganism	Habitat	OBT:000114
+1048	1072	subterranean environment	Habitat	OBT:000156
+1261	1272	strain HA-1	Microorganism	2369
+1276	1286	ATCC 49307	Microorganism	2369

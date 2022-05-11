@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+0	39	Adult onset globoid cell leukodystrophy	SpecificDisease	D007965
+41	55	Krabbe disease	SpecificDisease	OMIM:245200
+201	240	adult onset globoid cell leukodystrophy	SpecificDisease	D007965
+242	256	Krabbe disease	SpecificDisease	OMIM:245200
+258	264	AO-GLD	SpecificDisease	D007965
+495	513	spastic paraplegia	DiseaseClass	D010264
+573	597	diminished GALC activity	DiseaseClass	C538554
+1105	1129	diminished GALC activity	DiseaseClass	C538554
+1476	1482	AO-GLD	Modifier	D007965
+1674	1680	IF-GLD	SpecificDisease	D007965
+1779	1782	GLD	SpecificDisease	D007965

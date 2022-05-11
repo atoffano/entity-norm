@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+38	51	choroideremia	Modifier	D015794
+100	113	choroideremia	Modifier	D015794
+120	123	CHM	Modifier	D015794
+170	173	CHM	SpecificDisease	D015794

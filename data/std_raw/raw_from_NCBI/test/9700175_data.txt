@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+36	61	hereditary ovarian cancer	SpecificDisease	D061325
+63	88	Hereditary Ovarian Cancer	Modifier	D061325
+211	225	ovarian cancer	SpecificDisease	D010051
+263	277	ovarian cancer	SpecificDisease	D010051
+344	378	hereditary forms of ovarian cancer	SpecificDisease	D061325
+416	441	hereditary ovarian cancer	SpecificDisease	D061325
+925	939	ovarian cancer	SpecificDisease	D010051
+1244	1258	ovarian cancer	SpecificDisease	D010051
+1528	1542	ovarian cancer	SpecificDisease	D010051

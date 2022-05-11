@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+66	69	LAB	Phenotype	OBT:000019
+242	262	lactic acid bacteria	Phenotype	OBT:000019
+264	269	NSLAB	Phenotype	OBT:000019
+361	366	NSLAB	Phenotype	OBT:000019
+495	500	NSLAB	Phenotype	OBT:000019
+555	560	NSLAB	Phenotype	OBT:000019
+686	691	NSLAB	Phenotype	OBT:000019
+741	744	LAB	Phenotype	OBT:000019

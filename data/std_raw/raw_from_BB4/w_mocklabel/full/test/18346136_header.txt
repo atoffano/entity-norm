@@ -1,0 +1,2 @@
+Detection of Salmonella enterica in food using two-step enrichment and real-time polymerase chain reaction.
+A new real-time polymerase chain reaction-based method was developed for the detection of Salmonella enterica in food.

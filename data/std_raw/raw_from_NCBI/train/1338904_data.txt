@@ -1,0 +1,25 @@
+start	end	mention	_class	labels
+25	28	APC	Modifier	D011125
+37	54	colorectal tumors	DiseaseClass	D015179
+87	90	APC	Modifier	D011125
+134	160	adenomatous polyposis coli	Modifier	D011125
+162	165	APC	Modifier	D011125
+178	195	colorectal tumors	DiseaseClass	D015179
+200	208	adenomas	DiseaseClass	D000236
+216	226	carcinomas	DiseaseClass	D009369
+241	271	familial adenomatous polyposis	Modifier	D011125
+273	276	FAP	Modifier	D011125
+351	354	APC	Modifier	D011125
+367	373	tumors	DiseaseClass	D009369
+561	567	tumors	DiseaseClass	D009369
+708	713	tumor	DiseaseClass	D009369
+833	836	APC	Modifier	D011125
+887	890	APC	Modifier	D011125
+1108	1114	tumors	DiseaseClass	D009369
+1119	1127	adenomas	DiseaseClass	D000236
+1135	1145	carcinomas	DiseaseClass	D009369
+1180	1183	APC	Modifier	D011125
+1216	1224	adenomas	DiseaseClass	D000236
+1232	1242	carcinomas	DiseaseClass	D009369
+1324	1327	APC	Modifier	D011125
+1388	1405	colorectal tumors	DiseaseClass	D015179

@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+45	73	Familial Mediterranean fever	SpecificDisease	D010505
+195	223	Familial Mediterranean fever	SpecificDisease	D010505
+225	228	FMF	SpecificDisease	D010505
+235	265	recessively inherited disorder	DiseaseClass	D030342
+462	482	serosal inflammation	SpecificDisease	D007249
+525	542	Renal amyloidosis	SpecificDisease	C538249
+604	607	FMF	SpecificDisease	D010505
+763	766	FMF	Modifier	D010505
+959	962	FMF	Modifier	D010505
+982	985	FMF	Modifier	D010505
+1263	1280	renal amyloidosis	SpecificDisease	C538249
+1285	1294	arthritis	SpecificDisease	D001168

@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+28	31	PDS	Modifier	C536648
+81	89	deafness	SpecificDisease	D003638
+93	109	Pendred syndrome	SpecificDisease	C536648
+111	127	Pendred syndrome	SpecificDisease	C536648
+133	161	recessive inherited disorder	DiseaseClass	D030342
+179	221	developmental abnormalities of the cochlea	DiseaseClass	D015834
+223	249	sensorineural hearing loss	SpecificDisease	D006319
+255	282	diffuse thyroid enlargement	SpecificDisease	D013959
+284	290	goiter	SpecificDisease	D006042
+345	364	hereditary deafness	SpecificDisease	D030342+D003638
+384	387	PDS	SpecificDisease	C536648
+536	539	PDS	Modifier	C536648
+611	619	deafness	Modifier	D003638
+687	695	deafness	SpecificDisease	D003638
+765	768	PDS	Modifier	C536648
+1162	1165	PDS	Modifier	C536648
+1221	1229	deafness	Modifier	D003638

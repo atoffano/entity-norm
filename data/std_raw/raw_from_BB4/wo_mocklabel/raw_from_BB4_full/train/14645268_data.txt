@@ -1,0 +1,23 @@
+start	end	mention	_class	labels
+57	95	Xanthomonas campestris pv. vesicatoria	Microorganism	456327
+97	110	Pathogenicity	Phenotype	OBT:000375
+118	131	gram-negative	Phenotype	OBT:000648
+132	137	plant	Habitat	OBT:000393
+132	146	plant pathogen	Phenotype	OBT:002732
+147	185	Xanthomonas campestris pv. vesicatoria	Microorganism	456327
+199	217	type III secretion	Phenotype	OBT:000019
+287	297	plant cell	Habitat	OBT:000061|OBT:000395
+287	292	plant	Habitat	OBT:000393
+376	385	virulence	Phenotype	OBT:000375
+519	530	Xanthomonas	Microorganism	456327
+675	685	plant cell	Habitat	OBT:000395|OBT:000061
+675	680	plant	Habitat	OBT:000393
+816	821	plant	Habitat	OBT:000393
+816	821;833	plant pathogenic	Phenotype	OBT:002732
+826	832	animal	Habitat	OBT:000193
+826	843	animal pathogenic	Phenotype	OBT:002669
+1034	1047	pathogenicity	Phenotype	OBT:000375
+1170	1181	Xanthomonas	Microorganism	338
+1385	1420	Pseudomonas syringae pv. maculicola	Microorganism	59511
+1478	1507	X. campestris pv. vesicatoria	Microorganism	456327
+1604	1632	function as transglycosylase	Phenotype	OBT:000019

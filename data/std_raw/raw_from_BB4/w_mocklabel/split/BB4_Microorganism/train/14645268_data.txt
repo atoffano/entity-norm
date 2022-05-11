@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+57	95	Xanthomonas campestris pv. vesicatoria	Microorganism	456327
+147	185	Xanthomonas campestris pv. vesicatoria	Microorganism	456327
+519	530	Xanthomonas	Microorganism	456327
+1170	1181	Xanthomonas	Microorganism	338
+1385	1420	Pseudomonas syringae pv. maculicola	Microorganism	59511
+1478	1507	X. campestris pv. vesicatoria	Microorganism	456327

@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+19	37	Lactococcus lactis	Microorganism	1358
+291	301	lactococci	Microorganism	1357
+394	405	lactococcci	Microorganism	1357
+1153	1178	L. lactis subsp. cremoris	Microorganism	1359
+1478	1501	L. lactis subsp. lactis	Microorganism	1360
+2026	2036	lactococci	Microorganism	1357
+2371	2381	lactococci	Microorganism	1357

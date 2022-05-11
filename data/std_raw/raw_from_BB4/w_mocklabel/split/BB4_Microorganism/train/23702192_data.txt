@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+67	88	Clostridium difficile	Microorganism	1496
+100	121	Clostridium difficile	Microorganism	1496

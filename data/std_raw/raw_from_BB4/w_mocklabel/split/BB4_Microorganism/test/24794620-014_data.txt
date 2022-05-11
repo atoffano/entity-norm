@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+34	56	Alkalibacterium gilvum	Microorganism	MockLabel

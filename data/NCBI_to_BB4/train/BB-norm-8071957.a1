@@ -1,0 +1,12 @@
+T1	Title 0 124	Adenomatous polyposis coli and a cytogenetic deletion of chromosome 5 resulting from a maternal intrachromosomal insertion.
+T2	Paragraph 124 1123	We present the clinical and laboratory findings in an institutionalised adult patient originally referred for autism. A high risk of colorectal cancer was predicted when an interstitial deletion of the long arm of chromosome 5, del (5) (q15q22. 3), was detected in her lymphocytes and deletion of the MCC and APC genes confirmed by molecular analysis. Adenomatous polyposis coli and carcinoma of the rectum were subsequently diagnosed in the patient. She was profoundly mentally retarded, autistic, and had minor dysmorphic features consistent with those of previous patients with similar deletions. The deletion arose as a result of recombination within the small insertion loop formed at meiosis by the direct insertion (dir ins (5) (q22. 3q14. 2q15)) found in the patients mother. This family further confirms the cytogenetic mapping of both MCC and APC genes to 5q22 and comparison with other recent cases suggests that both genes and their closely linked markers lie within the 5q22. 1 subband
+T3	SpecificDisease 0 26	Adenomatous polyposis coli
+T4	SpecificDisease 234 240	autism
+T5	SpecificDisease 257 274	colorectal cancer
+T6	Modifier 433 436	APC
+T7	SpecificDisease 476 502	Adenomatous polyposis coli
+T8	SpecificDisease 507 530	carcinoma of the rectum
+T9	Modifier 594 611	mentally retarded
+T10	Modifier 613 621	autistic
+T11	SpecificDisease 637 656	dysmorphic features
+T12	Modifier 977 980	APC

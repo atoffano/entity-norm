@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+15	34	Helicobacter pylori	Microorganism	
+192	206	gastroduodenal	Habitat	
+192	215	gastroduodenal pathogen	Phenotype	
+216	235	Helicobacter pylori	Microorganism	
+263	273	epithelial	Habitat	
+263	278	epithelial cell	Habitat	
+442	451	H. pylori	Microorganism	
+1407	1416	H. pylori	Microorganism	
+1453	1462	H. pylori	Microorganism	
+1463	1475	pathogenesis	Phenotype	

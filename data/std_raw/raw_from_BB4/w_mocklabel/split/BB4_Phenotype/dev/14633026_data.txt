@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+22	35	mosquitocidal	Phenotype	OBT:002809
+130	152	mosquitocidal activity	Phenotype	OBT:002809
+285	298	mosquitocidal	Phenotype	OBT:002809
+372	385	mosquitocidal	Phenotype	OBT:002809
+431	450	larvicidal activity	Phenotype	OBT:002809
+486	505	haemolytic activity	Phenotype	OBT:000304
+706	719	mosquitocidal	Phenotype	OBT:002809
+813	826	mosquitocidal	Phenotype	OBT:002809

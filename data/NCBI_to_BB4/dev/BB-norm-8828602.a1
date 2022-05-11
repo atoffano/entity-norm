@@ -1,0 +1,11 @@
+T1	Title 0 34	Gene therapy for phenylketonuria.
+T2	Paragraph 34 1152	Classical phenylketonuria (PKU) is an autosomal recessive disorder caused by a deficiency of hepatic phenylalanine hydroxylase (PAH). Limitations of the current dietary treatment for PKU have led to the development of potential treatments based on somatic gene transfer. Three different vector systems have been examined. Vectors derived from a recombinant retrovirus or a DNA/protein complex can efficiently transduce the PAH cDNA into PAH-deficient hepatocytes in vitro, but the application of these vector systems is presently limited by their low transduction efficiency in vivo. In contrast, a vector derived from a recombinant adenovirus can restore 10% -80% of normal hepatic PAH activity into PAH-deficient mice, which completely normalizes serum phenylalanine levels. This treatment is transient and cannot be effectively re-administered due to the presence of neutralizing antibodies directed against the recombinant adenoviral vector. However, these findings suggest that PKU can be completely corrected by somatic gene therapy, and provide some direction for the future development of adenoviral vectors..
+T3	SpecificDisease 17 32	phenylketonuria
+T4	SpecificDisease 44 59	phenylketonuria
+T5	SpecificDisease 61 64	PKU
+T6	DiseaseClass 72 100	autosomal recessive disorder
+T7	SpecificDisease 113 160	deficiency of hepatic phenylalanine hydroxylase
+T8	SpecificDisease 217 220	PKU
+T9	Modifier 471 484	PAH-deficient
+T10	Modifier 735 748	PAH-deficient
+T11	SpecificDisease 1017 1020	PKU

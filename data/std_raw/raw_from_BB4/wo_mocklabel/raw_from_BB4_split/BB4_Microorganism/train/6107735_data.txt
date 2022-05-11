@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+214	233	Vibrio cholerae O:1	Microorganism	127906
+341	356	V. cholerae O:1	Microorganism	127906
+601	616	V. cholerae O:1	Microorganism	127906

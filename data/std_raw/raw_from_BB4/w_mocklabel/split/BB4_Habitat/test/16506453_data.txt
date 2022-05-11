@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+111	116	fleas	Habitat	MockLabel
+131	148	vectors of plague	Habitat	MockLabel
+195	211	species of fleas	Habitat	MockLabel
+244	280	potential vectors of Yersinia pestis	Habitat	MockLabel
+323	337	plague vectors	Habitat	MockLabel
+400	405	human	Habitat	MockLabel
+407	422	domestic animal	Habitat	MockLabel
+428	436	wildlife	Habitat	MockLabel
+516	530	plague vectors	Habitat	MockLabel
+852	882	flea Oropsylla montana (Baker)	Habitat	MockLabel
+1054	1068	vector species	Habitat	MockLabel
+1172	1177	fleas	Habitat	MockLabel
+1263	1267	flea	Habitat	MockLabel
+1426	1440	plague vectors	Habitat	MockLabel

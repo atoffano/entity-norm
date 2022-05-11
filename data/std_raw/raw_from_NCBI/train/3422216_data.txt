@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+123	136	choroideremia	SpecificDisease	D015794
+208	221	choroideremia	SpecificDisease	D015794
+601	614	choroideremia	Modifier	D015794

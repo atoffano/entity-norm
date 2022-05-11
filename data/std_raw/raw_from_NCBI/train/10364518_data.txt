@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+58	71	Lowe syndrome	SpecificDisease	D009800
+140	174	oculocerebrorenal syndrome of Lowe	SpecificDisease	D009800
+176	180	OCRL	SpecificDisease	D009800
+188	205	X-linked disorder	DiseaseClass	D040181
+229	279	abnormalities of eyes, nervous system, and kidneys	CompositeMention	D000015
+501	505	OCRL	SpecificDisease	D009800
+1251	1264	Lowe syndrome	Modifier	D009800

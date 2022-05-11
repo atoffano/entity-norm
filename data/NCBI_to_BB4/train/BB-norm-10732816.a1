@@ -1,0 +1,12 @@
+T1	Title 0 114	Emerin, deficiency of which causes Emery-Dreifuss muscular dystrophy, is localized at the inner nuclear membrane.
+T2	Paragraph 114 1569	X-linked recessive Emery-Dreifuss muscular dystrophy (EDMD) is an inherited muscle disorder characterized by the clinical triad of progressive wasting of humero-peroneal muscles, early contractures of the elbows, Achilles tendons and postcervical muscles, and cardiac conduction block with a high risk of sudden death. The gene for EDMD on Xq28 encodes a novel protein named emerin that localizes at the nuclear membrane of skeletal, cardiac and smooth muscles and some other non-muscle tissues. To investigate a possible physiological role for emerin, we examined the ultrastructural localization of the protein in human skeletal muscle and HeLa cells, using ultrathin cryosections. We found that the immune-labeled colloidal gold particles were localized on the nucleoplasmic surface of the inner nuclear membrane, but not on the nuclear pore. Emerin stayed on the cytoplasmic surface of the nuclear lamina, even after detergent treatment that solubilizes membrane lipids and washes out membrane proteins. These results suggest that emerin anchors at the inner nuclear membrane through the hydrophobic stretch, and protrudes from the hydrophilic region to the nucleoplasm where it interacts with the nuclear lamina. We speculate that emerin contributes to maintain the nuclear structure and stability, as well as nuclear functions, particularly in muscle tissues that have severe stress with rigorous contraction-relaxation movements and calcium flux..
+T3	SpecificDisease 0 18	Emerin, deficiency
+T4	SpecificDisease 35 68	Emery-Dreifuss muscular dystrophy
+T5	SpecificDisease 114 166	X-linked recessive Emery-Dreifuss muscular dystrophy
+T6	SpecificDisease 168 172	EDMD
+T7	DiseaseClass 180 205	inherited muscle disorder
+T8	SpecificDisease 257 291	wasting of humero-peroneal muscles
+T9	CompositeMention 299 368	contractures of the elbows, Achilles tendons and postcervical muscles
+T10	SpecificDisease 374 398	cardiac conduction block
+T11	SpecificDisease 419 431	sudden death
+T12	SpecificDisease 446 450	EDMD

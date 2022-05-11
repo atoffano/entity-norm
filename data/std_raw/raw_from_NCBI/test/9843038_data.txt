@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+65	90	hereditary coproporphyria	Modifier	D046349
+99	124	Hereditary coproporphyria	SpecificDisease	D046349
+126	129	HCP	SpecificDisease	D046349
+137	163	autosomal dominant disease	DiseaseClass	D030342
+183	223	deficiency of coproporphyrinogen oxidase	SpecificDisease	D046349
+320	323	HCP	Modifier	D046349

@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+102	105	am5	Phenotype	OBT:000118

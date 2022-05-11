@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+110	131	Prader-Willi syndrome	SpecificDisease	D011218
+242	245	PWS	SpecificDisease	D011218
+792	813	Prader-Willi syndrome	SpecificDisease	D011218
+815	818	PWS	SpecificDisease	D011218
+1018	1021	PWS	Modifier	D011218

@@ -1,0 +1,22 @@
+start	end	mention	_class	labels
+11	31	Bordetella pertussis	Microorganism	MockLabel
+57	84	respiratory syncytial virus	Microorganism	MockLabel
+150	170	Bordetella pertussis	Microorganism	MockLabel
+252	257	BPZE1	Microorganism	MockLabel
+499	504	BPZE1	Microorganism	MockLabel
+538	565	respiratory syncytial virus	Microorganism	MockLabel
+567	570	RSV	Microorganism	MockLabel
+597	602	BPZE1	Microorganism	MockLabel
+636	639	RSV	Microorganism	MockLabel
+781	786	BPZE1	Microorganism	MockLabel
+965	968	RSV	Microorganism	MockLabel
+980	985	BPZE1	Microorganism	MockLabel
+1006	1009	RSV	Microorganism	MockLabel
+1113	1118	BPZE1	Microorganism	MockLabel
+1142	1145	RSV	Microorganism	MockLabel
+1431	1436	BPZE1	Microorganism	MockLabel
+1440	1443	RSV	Microorganism	MockLabel
+1475	1478	RSV	Microorganism	MockLabel
+1488	1493	BPZE1	Microorganism	MockLabel
+1610	1613	RSV	Microorganism	MockLabel
+1627	1632	BPZE1	Microorganism	MockLabel

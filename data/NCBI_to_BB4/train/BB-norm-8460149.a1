@@ -1,0 +1,17 @@
+T1	Title 0 127	Targeted modification of the apolipoprotein B gene results in hypobetalipoproteinemia and developmental abnormalities in mice.
+T2	Paragraph 127 1273	Familial hypobetalipoproteinemia is an autosomal codominant disorder resulting in a dramatic reduction in plasma concentrations of apolipoprotein (apo) B, cholesterol, and beta-migrating lipoproteins. A benefit of hypobetalipoproteinemia is that mildly affected individuals may be protected from coronary vascular disease. We have used gene targeting to generate mice with a modified Apob allele. Mice containing this allele display all of the hallmarks of human hypobetalipoproteinemia  they produce a truncated apoB protein, apoB70, and have markedly decreased plasma concentrations of apoB, beta-lipoproteins, and total cholesterol. In addition, the mice manifest several characteristics that are occasionally observed in human hypobetalipoproteinemia, including reduced plasma triglyceride concentrations, fasting chylomicronemia, and reduced high density lipoprotein cholesterol. An unexpected finding is that the modified Apob allele is strongly associated with exencephalus and hydrocephalus. These mice should help increase our understanding of hypobetalipoproteinemia, atherogenesis, and the etiology of exencephalus and hydrocephalus..
+T3	SpecificDisease 62 85	hypobetalipoproteinemia
+T4	DiseaseClass 90 117	developmental abnormalities
+T5	SpecificDisease 127 159	Familial hypobetalipoproteinemia
+T6	DiseaseClass 166 195	autosomal codominant disorder
+T7	SpecificDisease 341 364	hypobetalipoproteinemia
+T8	DiseaseClass 423 448	coronary vascular disease
+T9	SpecificDisease 590 613	hypobetalipoproteinemia
+T10	SpecificDisease 858 881	hypobetalipoproteinemia
+T11	SpecificDisease 945 960	chylomicronemia
+T12	SpecificDisease 1095 1107	exencephalus
+T13	SpecificDisease 1112 1125	hydrocephalus
+T14	SpecificDisease 1180 1203	hypobetalipoproteinemia
+T15	DiseaseClass 1205 1218	atherogenesis
+T16	SpecificDisease 1240 1252	exencephalus
+T17	SpecificDisease 1257 1270	hydrocephalus

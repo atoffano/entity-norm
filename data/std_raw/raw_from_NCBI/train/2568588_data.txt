@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+57	71	retinoblastoma	SpecificDisease	D012175
+128	150	retinoblastoma tumours	SpecificDisease	D012175
+218	232	retinoblastoma	Modifier	D012175
+308	314	tumour	DiseaseClass	D009369
+587	601	retinoblastoma	SpecificDisease	D012175
+767	789	retinoblastoma tumours	SpecificDisease	D012175
+871	878	tumours	DiseaseClass	D009369
+961	979	unilateral tumours	DiseaseClass	D009369
+1110	1124	retinoblastoma	SpecificDisease	D012175
+1166	1178	osteosarcoma	SpecificDisease	D012516
+1193	1200	tumours	DiseaseClass	D009369

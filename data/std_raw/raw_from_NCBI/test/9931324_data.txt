@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+103	131	congenital eye malformations	DiseaseClass	D005124
+175	183	aniridia	SpecificDisease	D015783
+185	215	congenital absence of the iris	SpecificDisease	D015783
+234	257	malformation of the eye	DiseaseClass	D005124
+293	301	aniridia	Modifier	D015783
+742	750	aniridia	Modifier	D015783
+976	984	aniridia	SpecificDisease	D015783
+1083	1099	ectopia pupillae	SpecificDisease	C536185
+1101	1117	displaced pupils	SpecificDisease	C536185
+1123	1143	congenital nystagmus	SpecificDisease	D020417
+1145	1159	searching gaze	SpecificDisease	D020417
+1208	1216	aniridia	Modifier	D015783
+1549	1570	PAX6 -related disease	DiseaseClass	OMIM:106210

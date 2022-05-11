@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	18	Psychrobacter spp.	Microorganism	MockLabel
+43	58	samples of milk	Habitat	MockLabel
+63	77	cheese samples	Habitat	MockLabel
+201	207	cheese	Habitat	MockLabel
+306	312	cheese	Habitat	MockLabel
+393	405	P. aquaticus	Microorganism	MockLabel
+417	429	young cheese	Habitat	MockLabel
+417	457	young cheese rinds of ripening cellar A1	Habitat	MockLabel
+439	454	ripening cellar	Habitat	MockLabel

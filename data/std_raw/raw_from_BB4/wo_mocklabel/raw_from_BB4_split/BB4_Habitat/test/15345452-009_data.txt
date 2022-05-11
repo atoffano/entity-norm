@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+30	37	cheeses	Habitat	
+52	69	red smear  cheese	Habitat	
+136	150	cheese surface	Habitat	
+136	142	cheese	Habitat	

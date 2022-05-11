@@ -1,0 +1,12 @@
+T1	Title 0 53	Two frequent missense mutations in Pendred syndrome.
+T2	Paragraph 53 1207	Pendred syndrome is an autosomal recessive disorder characterized by early childhood deafness and goiter. A century after its recognition as a syndrome by Vaughan Pendred, the disease gene (PDS) was mapped to chromosome 7q22-q31. 1 and, recently, found to encode a putative sulfate transporter. We performed mutation analysis of the PDS gene in patients from 14 Pendred families originating from seven countries and identified all mutations. The mutations include three single base deletions, one splice site mutation and 10 missense mutations. One missense mutation (L236P) was found in a homozygous state in two consanguineous families and in a heterozygous state in five additional non-consanguineous families. Another missense mutation (T416P) was found in a homozygous state in one family and in a heterozygous state in four families. Pendred patients in three non-consanguineous families were shown to be compound heterozygotes for L236P and T416P. In total, one or both of these mutations were found in nine of the 14 families analyzed. The identification of two frequent PDS mutations will facilitate the molecular diagnosis of Pendred syndrome.
+T3	SpecificDisease 35 51	Pendred syndrome
+T4	SpecificDisease 53 69	Pendred syndrome
+T5	DiseaseClass 76 104	autosomal recessive disorder
+T6	SpecificDisease 138 146	deafness
+T7	SpecificDisease 151 157	goiter
+T8	Modifier 386 389	PDS
+T9	Modifier 415 422	Pendred
+T10	Modifier 893 900	Pendred
+T11	Modifier 1132 1135	PDS
+T12	SpecificDisease 1189 1205	Pendred syndrome

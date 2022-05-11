@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+47	62	prostate cancer	SpecificDisease	D011471
+64	91	Sporadic prostate carcinoma	SpecificDisease	D011471
+111	122	male cancer	DiseaseClass	D005834
+230	236	cancer	DiseaseClass	D009369
+378	402	sporadic prostate cancer	SpecificDisease	D011471
+526	531	tumor	Modifier	D009369
+667	682	prostate cancer	Modifier	D011471
+710	725	prostate tumors	SpecificDisease	D011471
+1065	1071	tumors	DiseaseClass	D009369
+1140	1164	sporadic prostate cancer	SpecificDisease	D011471

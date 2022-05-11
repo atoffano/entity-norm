@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+48	67	Helicobacter pylori	Microorganism	
+93	106	peptic ulcers	Habitat	
+233	252	Helicobacter pylori	Microorganism	
+351	371;400	patients with active peptic ulcer disease and H. pylori infection	Habitat	
+351	364;424	patients with ulcer-like dyspepsia and H. pylori infection	Habitat	
+351	364;384	patients with healed peptic ulcer disease and H. pylori infection	Habitat	
+400	412	peptic ulcer	Habitat	
+424	429	ulcer	Habitat	
+458	467	H. pylori	Microorganism	
+636	645	H. pylori	Microorganism	
+730	738	patients	Habitat	
+770	778	patients	Habitat	
+780	789	H. pylori	Microorganism	
+908	942	patients with active peptic ulcers	Habitat	
+922	942	active peptic ulcers	Habitat	
+1238	1247	H. pylori	Microorganism	
+1277	1290	peptic ulcers	Habitat	

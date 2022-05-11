@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+21	47	hereditary prostate cancer	Modifier	C537243
+85	111	hereditary prostate cancer	Modifier	C537243
+159	174	Prostate Cancer	Modifier	D011471
+234	249	prostate cancer	Modifier	D011471
+478	504	hereditary prostate cancer	Modifier	C537243
+655	681	hereditary prostate cancer	SpecificDisease	C537243
+749	764	Prostate Cancer	Modifier	D011471
+2109	2124	prostate cancer	Modifier	D011471
+2194	2209	prostate cancer	Modifier	D011471
+2299	2325	hereditary prostate cancer	SpecificDisease	C537243

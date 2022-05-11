@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+146	216	Glucose-6-phosphate dehydrogenase (G6PD; E. C. 1. 1. 1. 49) deficiency	SpecificDisease	D005955
+242	253	enzymopathy	DiseaseClass	D008661
+388	403	G6PD deficiency	SpecificDisease	D005955

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+171	206	insulin-dependent diabetes mellitus	Modifier	D003922
+208	212	IDDM	Modifier	D003922
+340	348	diabetes	DiseaseClass	D003920

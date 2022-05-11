@@ -1,0 +1,2 @@
+Genotyping by restriction endonuclease analysis compared to phenotyping by antibiogram for typing methicillin-resistant Staphylococcus aureus strains colonizing patients in a nursing home.
+To assist in defining patterns of methicillin-resistant Staphylococcus aureus (MRSA) colonization in a skilled nursing facility (SNF), we compared genotyping by field-inversion gel electrophoresis (FIGE) restriction endonuclease digestion analysis (REA) with phenotyping by antibiogram for defining strain relatedness among MRSA isolates from SNF patients.

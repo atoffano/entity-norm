@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+83	97	cyanobacterium	Microorganism	1117
+98	122	Anabaena sp. strain L-31	Microorganism	29412
+136	152	Escherichia coli	Microorganism	562
+179	193	cyanobacterium	Microorganism	1117
+194	218	Anabaena sp. strain L-31	Microorganism	29412
+457	481	Anabaena sp. strain L-31	Microorganism	29412
+661	668	E. coli	Microorganism	562
+791	799	Anabaena	Microorganism	29412
+820	824	L-31	Microorganism	29412
+961	968	E. coli	Microorganism	562

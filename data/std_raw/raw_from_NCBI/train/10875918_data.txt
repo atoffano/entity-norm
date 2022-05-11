@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+242	281	autoimmune lymphoproliferative syndrome	SpecificDisease	D056735

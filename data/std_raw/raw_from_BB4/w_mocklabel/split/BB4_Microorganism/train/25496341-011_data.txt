@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+54	71	Pseudoalteromonas	Microorganism	53246
+73	82	Halomonas	Microorganism	2745
+84	90	Vibrio	Microorganism	662
+92	111	Marinilactibacillus	Microorganism	191769
+116	129	Psychrobacter	Microorganism	497

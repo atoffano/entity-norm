@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+4	9	tumor	Modifier	D009369
+150	155	tumor	Modifier	D009369
+254	272	pancreatic cancers	SpecificDisease	D010190
+475	493	Growth retardation	DiseaseClass	D005317
+681	700	gastrulation defect	SpecificDisease	D004194
+820	839	gastrulation defect	SpecificDisease	D004194

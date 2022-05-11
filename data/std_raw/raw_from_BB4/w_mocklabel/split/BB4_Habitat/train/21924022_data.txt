@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+77	85	children	Habitat	OBT:003188
+228	236	children	Habitat	OBT:003188
+238	278	Biopsy specimens obtained by gastroscopy	Habitat	OBT:000110|OBT:000642
+288	327	children with digestive system symptoms	Habitat	OBT:003220|OBT:003188
+302	318	digestive system	Habitat	OBT:000641
+490	521	Serum samples of these patients	Habitat	OBT:000524
+513	521	patients	Habitat	OBT:003220|OBT:003188
+815	823	children	Habitat	OBT:003188|OBT:003269

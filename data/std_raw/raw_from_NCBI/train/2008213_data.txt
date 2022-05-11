@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	31	Glucose/galactose malabsorption	SpecificDisease	OMIM:606824
+85	116	Glucose/galactose malabsorption	SpecificDisease	OMIM:606824
+118	121	GGM	SpecificDisease	OMIM:606824
+129	156	autosomal recessive disease	DiseaseClass	D030342
+323	332	diarrhoea	SpecificDisease	D003967
+337	348	dehydration	SpecificDisease	D003681
+440	443	GGM	Modifier	OMIM:606824
+1150	1153	GGM	SpecificDisease	OMIM:606824
+1309	1312	GGM	Modifier	OMIM:606824

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+0	69	Mutations in the promoter regions of the malEFG and malK-lamB operons	Phenotype	
+73	93	Escherichia coli K12	Microorganism	
+114	130	Escherichia coli	Microorganism	
+490	528	unable to use lactose as carbon source	Phenotype	
+572	600	Mutations in the malB region	Phenotype	
+756	780	malEp promoter mutations	Phenotype	

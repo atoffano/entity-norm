@@ -1,0 +1,14 @@
+T1	Title 0 98	Increased incidence of cataracts in male subjects deficient in glucose-6-phosphate dehydrogenase.
+T2	Paragraph 98 845	Glucose-6-phosphate dehydrogenase (G6PD) deficiency in RBCs was found significantly more frequently in 210 male cataractous patients than in 672 control subjects of Sardinian origin. The frequency of the deficiency was increasingly higher in presenile cataracts. In the G6PD-deficient group, the incidence of cortical and total cataracts was also increased. It is suggested that decrease of the G6PD activity in the lens, which accompanies its deficiency in the erythrocyte, might play a role in the cataracto-genesis of these patients. Moreover, G6PD deficiency should be added to other conditions, such as the galactosemic states and riboflavin deficiency, where cataracts represent a sensitive indicator of metabolic abnormalities of the RBC..
+T3	SpecificDisease 23 32	cataracts
+T4	SpecificDisease 50 96	deficient in glucose-6-phosphate dehydrogenase
+T5	SpecificDisease 98 149	Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+T6	Modifier 210 221	cataractous
+T7	SpecificDisease 350 359	cataracts
+T8	Modifier 368 382	G6PD-deficient
+T9	CompositeMention 407 435	cortical and total cataracts
+T10	SpecificDisease 645 660	G6PD deficiency
+T11	Modifier 710 722	galactosemic
+T12	SpecificDisease 734 755	riboflavin deficiency
+T13	SpecificDisease 763 772	cataracts
+T14	DiseaseClass 808 831	metabolic abnormalities

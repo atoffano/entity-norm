@@ -1,0 +1,31 @@
+T1	Title 0 99	Clustering of missense mutations in the ataxia-telangiectasia gene in a sporadic T-cell leukaemia.
+T2	Paragraph 99 1784	Ataxia-telangiectasia (A-T) is a recessive multi-system disorder caused by mutations in the ATM gene at 11q22-q23 (ref. 3). The risk of cancer, especially lymphoid neoplasias, is substantially elevated in A-T patients and has long been associated with chromosomal instability. By analysing tumour DNA from patients with sporadic T-cell prolymphocytic leukaemia (T-PLL), a rare clonal malignancy with similarities to a mature T-cell leukaemia seen in A-T, we demonstrate a high frequency of ATM mutations in T-PLL. In marked contrast to the ATM mutation pattern in A-T, the most frequent nucleotide changes in this leukaemia were missense mutations. These clustered in the region corresponding to the kinase domain, which is highly conserved in ATM-related proteins in mouse, yeast and Drosophila. The resulting amino-acid substitutions are predicted to interfere with ATP binding or substrate recognition. Two of seventeen mutated T-PLL samples had a previously reported A-T allele. In contrast, no mutations were detected in the p53 gene, suggesting that this tumour suppressor is not frequently altered in this leukaemia. Occasional missense mutations in ATM were also found in tumour DNA from patients with B-cell non-Hodgkins lymphomas (B-NHL) and a B-NHL cell line. The evidence of a significant proportion of loss-of-function mutations and a complete absence of the normal copy of ATM in the majority of mutated tumours establishes somatic inactivation of this gene in the pathogenesis of sporadic T-PLL and suggests that ATM acts as a tumour suppressor. As constitutional DNA was not available, a putative hereditary predisposition to T-PLL will require further investigation..
+T3	Modifier 40 61	ataxia-telangiectasia
+T4	SpecificDisease 72 97	sporadic T-cell leukaemia
+T5	SpecificDisease 99 120	Ataxia-telangiectasia
+T6	SpecificDisease 122 125	A-T
+T7	DiseaseClass 132 163	recessive multi-system disorder
+T8	DiseaseClass 235 241	cancer
+T9	DiseaseClass 254 273	lymphoid neoplasias
+T10	Modifier 304 307	A-T
+T11	Modifier 389 395	tumour
+T12	SpecificDisease 419 459	sporadic T-cell prolymphocytic leukaemia
+T13	SpecificDisease 461 466	T-PLL
+T14	DiseaseClass 476 493	clonal malignancy
+T15	SpecificDisease 517 540	mature T-cell leukaemia
+T16	SpecificDisease 549 552	A-T
+T17	SpecificDisease 606 611	T-PLL
+T18	SpecificDisease 663 666	A-T
+T19	DiseaseClass 713 722	leukaemia
+T20	SpecificDisease 1030 1035	T-PLL
+T21	Modifier 1070 1073	A-T
+T22	Modifier 1160 1166	tumour
+T23	DiseaseClass 1212 1221	leukaemia
+T24	Modifier 1279 1285	tumour
+T25	SpecificDisease 1309 1338	B-cell non-Hodgkins lymphomas
+T26	SpecificDisease 1340 1345	B-NHL
+T27	Modifier 1353 1358	B-NHL
+T28	DiseaseClass 1517 1524	tumours
+T29	SpecificDisease 1594 1608	sporadic T-PLL
+T30	Modifier 1641 1647	tumour
+T31	SpecificDisease 1741 1746	T-PLL

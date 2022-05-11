@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+0	13	Choroideremia	SpecificDisease	D015794
+210	227	X-linked disorder	DiseaseClass	D040181
+229	242	choroideremia	SpecificDisease	D015794
+255	258	TCD	SpecificDisease	C531652
+263	301	Progressive Tapeto-Choroidal Dystrophy	SpecificDisease	C531652
+476	479	TCD	SpecificDisease	C531652
+900	903	TCD	SpecificDisease	C531652
+985	988	TCD	SpecificDisease	C531652
+1065	1068	TCD	SpecificDisease	C531652
+1163	1166	TCD	Modifier	C531652

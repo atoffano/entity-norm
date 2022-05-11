@@ -1,0 +1,13 @@
+T1	Title 0 58	BRCA1 mutations in primary breast and ovarian carcinomas.
+T2	Paragraph 58 867	Loss of heterozygosity data from familial tumors suggest that BRCA1, a gene that confers susceptibility to ovarian and early-onset breast cancer, encodes a tumor suppressor. The BRCA1 region is also subject to allelic loss in sporadic breast and ovarian cancers, an indication that BRCA1 mutations may occur somatically in these tumors. The BRCA1 coding region was examined for mutations in primary breast and ovarian tumors that show allele loss at the BRCA1 locus. Mutations were detected in 3 of 32 breast and 1 of 12 ovarian carcinomas; all four mutations were germline alterations and occurred in early-onset cancers. These results suggest that mutation of BRCA1 may not be critical in the development of the majority of breast and ovarian cancers that arise in the absence of a mutant germline allele..
+T3	CompositeMention 27 56	breast and ovarian carcinomas
+T4	DiseaseClass 91 106	familial tumors
+T5	CompositeMention 165 188	ovarian and early-onset
+T6	CompositeMention 189 202	breast cancer
+T7	Modifier 214 219	tumor
+T8	SpecificDisease 284 319	sporadic breast and ovarian cancers
+T9	DiseaseClass 387 393	tumors
+T10	CompositeMention 457 482	breast and ovarian tumors
+T11	SpecificDisease 579 597	ovarian carcinomas
+T12	DiseaseClass 672 679	cancers
+T13	CompositeMention 784 810	breast and ovarian cancers

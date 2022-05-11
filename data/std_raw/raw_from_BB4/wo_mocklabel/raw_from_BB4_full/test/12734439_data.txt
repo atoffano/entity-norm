@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+38	50	mycobacteria	Microorganism	
+97	109	mycobacteria	Microorganism	
+210	222	mycobacteria	Microorganism	
+535	547	mycobacteria	Microorganism	
+564	576	mycobacteria	Microorganism	
+581	591	ubiquitous	Phenotype	
+886	898	mycobacteria	Microorganism	
+973	976	HIV	Microorganism	
+1052	1162	patients who, apart from their nontuberculous mycobacterial disease, seem to be healthy on initial examination	Habitat	
+1098	1111	mycobacterial	Microorganism	
+1244	1256	mycobacteria	Microorganism	
+1284	1305	clinical laboratories	Habitat	
+1348	1361	mycobacterial	Microorganism	
+1545	1558	mycobacterial	Microorganism	
+1545	1581	mycobacterial reference laboratories	Habitat	
+1704	1716	mycobacteria	Microorganism	
+1896	1909	mycobacterial	Microorganism	

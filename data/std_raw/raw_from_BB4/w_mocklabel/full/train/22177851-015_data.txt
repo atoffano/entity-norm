@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+0	11	D. hansenii	Microorganism	4959
+13	24	G. candidum	Microorganism	1173061
+26	39	Y. lipolytica	Microorganism	4952
+44	59	A. arilaitensis	Microorganism	256701
+82	96	cheese surface	Habitat	OBT:001341
+82	88	cheese	Habitat	OBT:001480
+168	175;188	Munster cheeses	Habitat	OBT:003512
+180	195	Livarot cheeses	Habitat	OBT:003510
+257	286	French red-smear soft cheeses	Habitat	OBT:003494
+313	328	A. arilaitensis	Microorganism	861360

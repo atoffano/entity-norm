@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+166	200	causative agent of human tularemia	Phenotype	OBT:002806
+217	262	ability to proliferate inside the human cells	Phenotype	OBT:000195

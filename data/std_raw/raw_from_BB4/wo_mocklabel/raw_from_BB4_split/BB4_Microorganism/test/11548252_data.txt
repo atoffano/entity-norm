@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+43	58	Vibrio cholerae	Microorganism	
+114	125	V. cholerae	Microorganism	
+1040	1056	V. cholerae O139	Microorganism	
+1061	1072;1080	V. cholerae non-O1 (non-O139)	Microorganism	
+1061	1075	V. cholerae O1	Microorganism	
+1206	1217	V. cholerae	Microorganism	

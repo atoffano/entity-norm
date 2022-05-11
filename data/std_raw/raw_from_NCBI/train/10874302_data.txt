@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+253	270	Mendelian disease	DiseaseClass	D030342
+301	324	multifactorial diseases	DiseaseClass	D004194
+651	663	hemophilia B	Modifier	D002836

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+80	103	bacterial pathogenicity	Phenotype	
+459	468	wild-type	Phenotype	
+469	483	CNF1-producing	Phenotype	
+509	529	isogenic cnf1 mutant	Phenotype	
+683	693	pathogenic	Phenotype	
+1645	1658	nonpathogenic	Phenotype	
+2189	2203	CNF1-producing	Phenotype	
+2221	2231	pathogenic	Phenotype	
+2403	2416	pathogenicity	Phenotype	
+2472	2492	isogenic cnf1 mutant	Phenotype	

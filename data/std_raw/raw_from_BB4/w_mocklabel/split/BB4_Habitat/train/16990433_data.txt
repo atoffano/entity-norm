@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+246	257	human cells	Habitat	OBT:000061
+246	251	human	Habitat	OBT:002488
+278	293	eukaryotic cell	Habitat	OBT:000061
+1063	1068	plant	Habitat	OBT:000393

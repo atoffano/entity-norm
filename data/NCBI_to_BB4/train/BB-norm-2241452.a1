@@ -1,0 +1,19 @@
+T1	Title 0 135	Recurrent meningitis in a patient with congenital deficiency of the C9 component of complement. First case of C9 deficiency in Europe.
+T2	Paragraph 135 1294	We describe the first cases, to our knowledge, of C9 deficiency in Europe that were detected in a Swiss family, of which two members--one with a complete deficiency and the other with approximately half-normal C9 levels--experienced bacterial meningitis. The index patient, a 56-year-old white man with a history of purulent meningitis at the age of 23 years, presented with an acute meningococcal meningitis. No impairment of cellular immunity or immunoglobulin deficiency could be found. Complement assays showed a complete deficiency of the C9 component, while the other individual component levels were normal and the hemolytic activity (measured using the CH50 assay) was only slightly reduced. A family study revealed complete C9 deficiency in the patients healthy brother and half-normal C9 concentrations in his sister, his son (who also had experienced an episode of bacterial meningitis), and his niece, consistent with an inherited C9 deficiency. This first case of recurrent meningitis in a white patient with complete C9 deficiency suggests that this complement defect may also be a risk factor for bacterial, especially neisserial, infections..
+T3	SpecificDisease 10 20	meningitis
+T4	SpecificDisease 39 94	congenital deficiency of the C9 component of complement
+T5	SpecificDisease 110 123	C9 deficiency
+T6	SpecificDisease 185 198	C9 deficiency
+T7	SpecificDisease 368 388	bacterial meningitis
+T8	SpecificDisease 451 470	purulent meningitis
+T9	SpecificDisease 513 543	acute meningococcal meningitis
+T10	DiseaseClass 548 579	impairment of cellular immunity
+T11	SpecificDisease 583 608	immunoglobulin deficiency
+T12	SpecificDisease 652 691	complete deficiency of the C9 component
+T13	SpecificDisease 859 881	complete C9 deficiency
+T14	SpecificDisease 1011 1031	bacterial meningitis
+T15	SpecificDisease 1078 1091	C9 deficiency
+T16	SpecificDisease 1112 1132	recurrent meningitis
+T17	SpecificDisease 1157 1179	complete C9 deficiency
+T18	DiseaseClass 1199 1216	complement defect
+T19	DiseaseClass 1247 1291	bacterial, especially neisserial, infections

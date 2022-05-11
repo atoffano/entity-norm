@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+42	66	Escherichia coli O157:H7	Microorganism	
+67	96	Shiga toxin-encoding prophage	Microorganism	
+145	169	Escherichia coli O157:H7	Microorganism	
+218	233	E. coli O157:H7	Microorganism	
+617	638	Stx-encoding prophage	Microorganism	
+642	657	E. coli O157:H7	Microorganism	
+692	699	E. coli	Microorganism	
+737	759	Tetrahymena pyriformis	Microorganism	
+800	811	Tetrahymena	Microorganism	
+833	854	Stx-encoding prophage	Microorganism	
+892	904	E. coli K-12	Microorganism	
+937	949	E. coli O157	Microorganism	
+1031	1039	ciliates	Microorganism	
+1169	1190	Stx-encoding prophage	Microorganism	
+1194	1209	E. coli O157:H7	Microorganism	

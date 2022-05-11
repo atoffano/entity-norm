@@ -1,0 +1,22 @@
+start	end	mention	_class	labels
+11	31	Bordetella pertussis	Microorganism	
+57	84	respiratory syncytial virus	Microorganism	
+150	170	Bordetella pertussis	Microorganism	
+252	257	BPZE1	Microorganism	
+499	504	BPZE1	Microorganism	
+538	565	respiratory syncytial virus	Microorganism	
+567	570	RSV	Microorganism	
+597	602	BPZE1	Microorganism	
+636	639	RSV	Microorganism	
+781	786	BPZE1	Microorganism	
+965	968	RSV	Microorganism	
+980	985	BPZE1	Microorganism	
+1006	1009	RSV	Microorganism	
+1113	1118	BPZE1	Microorganism	
+1142	1145	RSV	Microorganism	
+1431	1436	BPZE1	Microorganism	
+1440	1443	RSV	Microorganism	
+1475	1478	RSV	Microorganism	
+1488	1493	BPZE1	Microorganism	
+1610	1613	RSV	Microorganism	
+1627	1632	BPZE1	Microorganism	

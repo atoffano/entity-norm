@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+163	186	inherited breast cancer	SpecificDisease	D061325
+285	310	breast and ovarian cancer	CompositeMention	D061325
+403	416	breast cancer	SpecificDisease	D001943
+439	453	ovarian cancer	SpecificDisease	D010051
+513	537	breast or ovarian cancer	CompositeMention	D010051|D001943
+645	651	cancer	DiseaseClass	D009369
+943	949	cancer	DiseaseClass	D009369
+1260	1288	breast and/or ovarian cancer	CompositeMention	D010051|D001943

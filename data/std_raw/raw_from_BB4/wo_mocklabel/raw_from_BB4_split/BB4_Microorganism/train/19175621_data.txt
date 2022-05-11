@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+57	76	Salmonella enterica	Microorganism	28901
+175	194	Salmonella enterica	Microorganism	28901
+271	278	Virchow	Microorganism	48409
+286	297	Livingstone	Microorganism	260680
+422	445	S. enterica Livingstone	Microorganism	260680
+553	572	S. enterica Virchow	Microorganism	48409
+666	673	Virchow	Microorganism	48409
+976	987	S. enterica	Microorganism	28901

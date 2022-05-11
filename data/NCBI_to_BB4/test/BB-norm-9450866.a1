@@ -1,0 +1,13 @@
+T1	Title 0 71	Piebaldism with deafness: molecular evidence for an expanded syndrome.
+T2	Paragraph 71 734	In a South African girl of Xhosa stock with severe piebaldism and profound congenital sensorineural deafness we identified a novel missense substitution at a highly conserved residue in the intracellular kinase domain of the KIT proto-oncogene, R796G. Though auditory anomalies have been observed in mice with dominant white spotting (W) due to KIT mutations, deafness is not typical in human piebaldism. Thus, the occurrence of sensorineural deafness in this patient extends considerably the phenotypic range of piebaldism due to KIT gene mutation in humans and tightens the clinical similarity between piebaldism and the various forms of Waardenburg syndrome..
+T3	SpecificDisease 0 10	Piebaldism
+T4	SpecificDisease 16 24	deafness
+T5	SpecificDisease 122 132	piebaldism
+T6	SpecificDisease 157 179	sensorineural deafness
+T7	DiseaseClass 330 348	auditory anomalies
+T8	SpecificDisease 431 439	deafness
+T9	SpecificDisease 464 474	piebaldism
+T10	SpecificDisease 500 522	sensorineural deafness
+T11	SpecificDisease 584 594	piebaldism
+T12	SpecificDisease 675 685	piebaldism
+T13	SpecificDisease 711 731	Waardenburg syndrome

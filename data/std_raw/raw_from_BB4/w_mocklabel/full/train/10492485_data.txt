@@ -1,0 +1,41 @@
+start	end	mention	_class	labels
+15	20	ozone	Habitat	OBT:000477
+77	82	foods	Habitat	OBT:000094
+94	99	Ozone	Habitat	OBT:000477
+101	103	O3	Habitat	OBT:000477
+181	185	food	Habitat	OBT:000094
+181	194	food industry	Habitat	OBT:001557
+296	301	ozone	Habitat	OBT:000477
+367	380	food products	Habitat	OBT:000094
+382	387	Ozone	Habitat	OBT:000477
+547	552	Ozone	Habitat	OBT:000477
+709	714	ozone	Habitat	OBT:000477
+792	801	parasites	Phenotype	OBT:000372
+862	867	ozone	Habitat	OBT:000477
+985	990	ozone	Habitat	OBT:000477
+1105	1114	additives	Habitat	OBT:000477
+1122	1127	acids	Habitat	OBT:000477
+1129	1140	surfactants	Habitat	OBT:000477
+1146	1152	sugars	Habitat	OBT:001340
+1146	1152	sugars	Habitat	OBT:001340
+1155	1160	Ozone	Habitat	OBT:000477
+1181	1194	food industry	Habitat	OBT:001557
+1181	1194	food industry	Habitat	OBT:001557
+1181	1185	food	Habitat	OBT:000094
+1236	1251	product surface	Habitat	OBT:000902
+1256	1261	water	Habitat	OBT:000468
+1273	1278	Ozone	Habitat	OBT:000477
+1326	1348	contaminant microflora	Habitat	OBT:000113
+1352	1356	meat	Habitat	OBT:001200
+1358	1365	poultry	Habitat	OBT:002199
+1367	1371	eggs	Habitat	OBT:001847
+1373	1377	fish	Habitat	OBT:001549
+1379	1385	fruits	Habitat	OBT:001122
+1387	1397	vegetables	Habitat	OBT:001126
+1403	1412	dry foods	Habitat	OBT:001526
+1518	1539	agricultural products	Habitat	OBT:000034
+1558	1563	ozone	Habitat	OBT:000477
+1617	1629	food surface	Habitat	OBT:000902
+1690	1694	food	Habitat	OBT:000094
+1803	1808	ozone	Habitat	OBT:000477
+1836	1840	food	Habitat	OBT:000094

@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+39	88	very-long-chain acyl-CoA dehydrogenase deficiency	SpecificDisease	C536353
+97	111	cardiomyopathy	SpecificDisease	D009202
+116	128	sudden death	SpecificDisease	D003645
+289	314	sudden, unexplained death	SpecificDisease	D003645
+335	357	hepatic encephalopathy	SpecificDisease	D006501
+361	374	liver failure	SpecificDisease	D017093
+376	393	skeletal myopathy	SpecificDisease	D009135
+399	413	cardiomyopathy	SpecificDisease	D009202
+806	822	VLCAD deficiency	SpecificDisease	C536353
+854	868	cardiac arrest	SpecificDisease	D006323
+873	887	cardiomyopathy	SpecificDisease	D009202
+1356	1372	VLCAD deficiency	SpecificDisease	C536353
+1463	1477	cardiomyopathy	SpecificDisease	D009202
+1482	1494	sudden death	SpecificDisease	D003645

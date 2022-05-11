@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+1125	1141	Candida albicans	Microorganism	MockLabel
+1143	1167	Porphyromonas gingivalis	Microorganism	MockLabel
+1169	1189	Tannerella forsythia	Microorganism	MockLabel
+1195	1214	Treponema denticola	Microorganism	MockLabel
+1403	1414	C. albicans	Microorganism	MockLabel
+1428	1440	P.gingivalis	Microorganism	MockLabel
+1454	1466	T. denticola	Microorganism	MockLabel
+1608	1619	C. albicans	Microorganism	MockLabel
+1621	1634	P. gingivalis	Microorganism	MockLabel
+1636	1648	T. forsythia	Microorganism	MockLabel
+1654	1666	T. denticola	Microorganism	MockLabel

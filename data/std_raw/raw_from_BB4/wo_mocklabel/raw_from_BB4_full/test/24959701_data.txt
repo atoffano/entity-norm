@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+55	73	Streptococcus suis	Microorganism	
+87	93	humans	Habitat	
+95	113	Streptococcus suis	Microorganism	
+140	144	pigs	Habitat	
+161	169	pathogen	Phenotype	
+202	208	humans	Habitat	
+468	486	streptococcus suis	Microorganism	
+507	514	S. suis	Microorganism	
+610	627	contaminated food	Habitat	
+655	697	case-patients with pig-related occupations	Habitat	
+655	673;702	case-patients with history of eating high-risk food	Habitat	
+674	677	pig	Habitat	
+720	734	high-risk food	Habitat	

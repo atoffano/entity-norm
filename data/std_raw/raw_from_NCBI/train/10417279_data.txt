@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+61	89	Pelizaeus-Merzbacher Disease	SpecificDisease	OMIM:312080
+244	272	Brain Dysmyelinating Disease	DiseaseClass	D020279
+274	302	Pelizaeus-Merzbacher Disease	SpecificDisease	OMIM:312080
+304	307	PMD	SpecificDisease	D020371
+315	359	X-linked developmental defect of myelination	DiseaseClass	D020279
+506	509	PMD	SpecificDisease	D020371

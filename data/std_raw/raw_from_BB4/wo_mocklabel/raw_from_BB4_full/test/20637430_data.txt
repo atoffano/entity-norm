@@ -1,0 +1,26 @@
+start	end	mention	_class	labels
+45	64	Helicobacter pylori	Microorganism	
+68	75	gastric	Habitat	
+68	82	gastric biopsy	Habitat	
+84	103	Helicobacter pylori	Microorganism	
+144	151	gastric	Habitat	
+144	157	gastric ulcer	Habitat	
+159	166	gastric	Habitat	
+187	221	mucosal associated lymphoid tissue	Habitat	
+206	221	lymphoid tissue	Habitat	
+260	268	H pylori	Microorganism	
+274	288	gastric biopsy	Habitat	
+274	281	gastric	Habitat	
+318	325	patient	Habitat	
+396	404	H pylori	Microorganism	
+429	441	laboratories	Habitat	
+505	513	H pylori	Microorganism	
+610	618	patients	Habitat	
+809	815	polyps	Habitat	
+856	864	H pylori	Microorganism	
+1112	1120	H pylori	Microorganism	
+1270	1277	gastric	Habitat	
+1270	1286	gastric biopsies	Habitat	
+1392	1400	H pylori	Microorganism	
+1531	1539	H pylori	Microorganism	
+1696	1723	previously treated patients	Habitat	

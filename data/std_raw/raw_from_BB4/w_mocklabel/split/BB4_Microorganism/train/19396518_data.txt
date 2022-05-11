@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+294	318	Streptococcus pneumoniae	Microorganism	1313
+320	342	Haemophilus influenzae	Microorganism	727
+348	369	Mycoplasma pneumoniae	Microorganism	2104
+414	436	Neisseria meningitidis	Microorganism	487
+438	454	Escherichia coli	Microorganism	562
+456	480	Streptococcus agalactiae	Microorganism	1311
+482	503	Staphylococcus aureus	Microorganism	1280
+509	531	Listeria monocytogenes	Microorganism	1639
+1252	1265	H. influenzae	Microorganism	727
+1307	1320	S. pneumoniae	Microorganism	1313
+1330	1343	S. agalactiae	Microorganism	1311
+1352	1359	E. coli	Microorganism	562
+1368	1384	L. monocytogenes	Microorganism	1639
+1397	1410	M. pneumoniae	Microorganism	1313

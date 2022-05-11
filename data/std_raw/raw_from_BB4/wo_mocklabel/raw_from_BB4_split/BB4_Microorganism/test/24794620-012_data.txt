@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+15	37	Staphylococcus equorum	Microorganism	
+87	100	staphylococci	Microorganism	
+219	229	S. equorum	Microorganism	
+397	410	Staphylococci	Microorganism	
+473	498	S. equorum strain WS 2733	Microorganism	
+610	626	L. monocytogenes	Microorganism	
+689	699	S. equorum	Microorganism	

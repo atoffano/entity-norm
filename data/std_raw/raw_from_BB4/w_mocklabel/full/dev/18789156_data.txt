@@ -1,0 +1,40 @@
+start	end	mention	_class	labels
+47	69	Francisella tularensis	Microorganism	263
+73	98	monocyte-like THP-1 cells	Habitat	OBT:000062|OBT:003001
+174	196	Francisella tularensis	Microorganism	263
+202	230	causative agent of tularemia	Phenotype	OBT:002806
+262	267	human	Habitat	OBT:002488
+262	287	human bacterial pathogens	Phenotype	OBT:002806
+311	323	immune cells	Habitat	OBT:000320
+333	342	monocytes	Habitat	OBT:003001
+347	358	macrophages	Habitat	OBT:002995
+640	653	F. tularensis	Microorganism	263
+708	712	cell	Habitat	OBT:000061
+759	801	Francisella tularensis Live Vaccine Strain	Microorganism	263
+803	806	LVS	Microorganism	263
+821	824	LVS	Microorganism	263
+825	832	binding	Phenotype	OBT:000029
+850	855	human	Habitat	OBT:002488
+850	881	human monocyte-like THP-1 cells	Habitat	OBT:003001|OBT:000062
+856	881	monocyte-like THP-1 cells	Habitat	OBT:003001|OBT:000062
+981	984	LVS	Microorganism	263
+985	992	binding	Phenotype	OBT:000029
+1010	1035	monocyte-like THP-1 cells	Habitat	OBT:000062|OBT:003001
+1192	1195	LVS	Microorganism	263
+1280	1286	murine	Habitat	OBT:002530
+1327	1330	LVS	Microorganism	263
+1499	1502	LVS	Microorganism	263
+1503	1510	binding	Phenotype	OBT:000029
+1514	1539	monocyte-like THP-1 cells	Habitat	OBT:000062|OBT:003001
+1781	1785	cell	Habitat	OBT:000061
+1950	1972	Francisella tularensis	Microorganism	263
+1973	1981	adhesion	Phenotype	OBT:000029
+2029	2053	invasion of host tissues	Phenotype	OBT:002806
+2041	2053	host tissues	Habitat	OBT:000196
+2117	2120	LVS	Microorganism	263
+2124	2142	infected monocytes	Habitat	OBT:003001
+2172	2177	human	Habitat	OBT:002488
+2172	2188	human pathogenic	Phenotype	OBT:002806
+2189	2217	F. tularensis ssp tularensis	Microorganism	119856
+2247	2272	monocyte-like THP-1 cells	Habitat	OBT:003001|OBT:000062
+2512	2525	F. tularensis	Microorganism	263

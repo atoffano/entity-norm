@@ -1,0 +1,21 @@
+start	end	mention	_class	labels
+10	36	Lactobacillus rhamnosus GG	Microorganism	MockLabel
+278	293	human rotavirus	Microorganism	MockLabel
+295	298	HRV	Microorganism	MockLabel
+372	375	HRV	Microorganism	MockLabel
+554	563	rotavirus	Microorganism	MockLabel
+770	773	HRV	Microorganism	MockLabel
+775	781	AttHRV	Microorganism	MockLabel
+840	849	rotavirus	Microorganism	MockLabel
+1128	1134	AttHRV	Microorganism	MockLabel
+1168	1194	Lactobacillus rhamnosus GG	Microorganism	MockLabel
+1196	1199	LGG	Microorganism	MockLabel
+1288	1291	LGG	Microorganism	MockLabel
+1364	1367	HRV	Microorganism	MockLabel
+1417	1423	AttHRV	Microorganism	MockLabel
+1444	1447	LGG	Microorganism	MockLabel
+1512	1515	LGG	Microorganism	MockLabel
+1560	1563	HRV	Microorganism	MockLabel
+1673	1679	AttHRV	Microorganism	MockLabel
+1734	1737	LGG	Microorganism	MockLabel
+1952	1961	rotavirus	Microorganism	MockLabel

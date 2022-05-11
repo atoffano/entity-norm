@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+224	243	coryneform bacteria	Microorganism	1653
+273	287	Staphylococcus	Microorganism	1279
+289	300	Micrococcus	Microorganism	1269
+302	316	Brevibacterium	Microorganism	1696
+322	334	Arthrobacter	Microorganism	1663

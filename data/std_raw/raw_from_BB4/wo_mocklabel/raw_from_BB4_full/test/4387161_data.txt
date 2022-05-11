@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+47	67	Aerobacter aerogenes	Microorganism	
+132	152	Aerobacter aerogenes	Microorganism	
+847	859	A. aerogenes	Microorganism	
+889	898	mammalian	Habitat	
+889	904	mammalian liver	Habitat	
+906	919	higher plants	Habitat	
+925	947	Cryptococcus laurentii	Microorganism	

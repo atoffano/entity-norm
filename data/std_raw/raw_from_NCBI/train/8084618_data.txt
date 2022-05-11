@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+26	48	Ewing family of tumors	DiseaseClass	D012512
+50	82	malignant melanoma of soft parts	DiseaseClass	D008545
+87	123	desmoplastic small round cell tumors	SpecificDisease	D058405
+289	301	solid tumors	DiseaseClass	D009369
+312	325	Ewing sarcoma	SpecificDisease	D012512
+345	367	neuroectodermal tumors	DiseaseClass	D017599
+369	401	malignant melanoma of soft parts	DiseaseClass	D008545
+406	442	desmoplastic small round cell tumors	DiseaseClass	D058405
+453	459	tumors	DiseaseClass	D009369
+1362	1376	Ewings sarcoma	Modifier	D012512

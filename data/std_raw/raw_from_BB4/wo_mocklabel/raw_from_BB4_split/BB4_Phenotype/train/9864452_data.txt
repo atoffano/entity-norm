@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+163	185	streptomycin-resistant	Phenotype	OBT:002858

@@ -1,0 +1,13 @@
+T1	Title 0 135	X-linked adrenoleukodystrophy (ALD): a novel mutation of the ALD gene in 6 members of a family presenting with 5 different phenotypes.
+T2	Paragraph 135 986	Fragments of the adrenoleukodystrophy (ALD) cDNA from a patient with adolescent ALD were amplified by polymerase chain reaction and subcloned. Bidirectional sequencing of the entire coding ALD gene disclosed a cytosine to guanine transversion at nucleotide 1451 in exon five, resulting in substitution of proline 484 by arginine. Five of nine siblings of the patient, comprising two cerebral ALD, one adrenomyeloneuropathy, one Addison only as well as the symptomatic mother (all accumulating very long chain fatty acids) carried this mutation, which was not found in the unaffected persons, in five unrelated ALD patients, and in twenty controls. We propose that this missense mutation generated the disease per se as well as the metabolic defect; the different phenotypes, however, must have originated by means of additional pathogenetic factors..
+T3	SpecificDisease 0 29	X-linked adrenoleukodystrophy
+T4	SpecificDisease 31 34	ALD
+T5	Modifier 61 64	ALD
+T6	Modifier 152 172	adrenoleukodystrophy
+T7	Modifier 174 177	ALD
+T8	SpecificDisease 204 218	adolescent ALD
+T9	Modifier 324 327	ALD
+T10	SpecificDisease 518 530	cerebral ALD
+T11	SpecificDisease 536 557	adrenomyeloneuropathy
+T12	SpecificDisease 563 575	Addison only
+T13	Modifier 745 748	ALD

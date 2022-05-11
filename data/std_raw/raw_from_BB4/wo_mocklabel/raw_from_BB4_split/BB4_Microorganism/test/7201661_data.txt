@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+21	35	Staphylococcus	Microorganism	
+103	117	Staphylococcus	Microorganism	
+272	279	Cowan I	Microorganism	
+314	321	Wood 46	Microorganism	
+372	377	Smith	Microorganism	
+506	513	Cowan I	Microorganism	
+548	555	Wood 46	Microorganism	
+944	951	Cowan I	Microorganism	
+1319	1326	Cowan I	Microorganism	
+1394	1401	Wood 46	Microorganism	
+1554	1568	Staphylococcus	Microorganism	

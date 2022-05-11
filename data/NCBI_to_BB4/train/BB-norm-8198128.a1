@@ -1,0 +1,11 @@
+T1	Title 0 118	Recombinations in individuals homozygous by descent localize the Friedreich ataxia locus in a cloned 450-kb interval.
+T2	Paragraph 118 1506	The locus for Friedreich ataxia (FRDA), a severe neurodegenerative disease, is tightly linked to markers D9S5 and D9S15, and analysis of rare recombination events has suggested the order cen-FRDA-D9S5-D9S15-qter. We report here the construction of a YAC contig extending 800 kb centromeric to D9S5 and the isolation of five new microsatellite markers from this region. In order to map these markers with respect to the FRDA locus, all within a 1-cM confidence interval, we sought to increase the genetic information of available FRDA families by considering homozygosity by descent and association with founder haplotypes in isolated populations. This approach allowed us to identify one phase-known recombination and one probable historic recombination on haplotypes from Reunion Island patients, both of which place three of the five markers proximal to FRDA. This represents the first identification of close FRDA flanking markers on the centromeric side. The two other markers allowed us to narrow the breakpoint of a previously identified distal recombination that is > 180 kb from D9S5 (26P). Taken together, the results place the FRDA locus in a 450-kb interval, which is small enough for direct search of candidate genes. A detailed rare cutter restriction map and a cosmid contig covering this interval were constructed and should facilitate the search of genes in this region..
+T3	SpecificDisease 65 82	Friedreich ataxia
+T4	SpecificDisease 132 149	Friedreich ataxia
+T5	SpecificDisease 151 155	FRDA
+T6	DiseaseClass 167 192	neurodegenerative disease
+T7	Modifier 537 541	FRDA
+T8	Modifier 647 651	FRDA
+T9	SpecificDisease 974 978	FRDA
+T10	Modifier 1030 1034	FRDA
+T11	Modifier 1255 1259	FRDA

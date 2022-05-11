@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+4	35	dermatofibrosarcoma protuberans	Modifier	C538219
+201	232	Dermatofibrosarcoma protuberans	SpecificDisease	C538219
+234	238	DFSP	SpecificDisease	C538219
+1365	1371	tumors	DiseaseClass	D009369
+1416	1421	tumor	Modifier	D009369
+1527	1531	DFSP	SpecificDisease	C538219
+1547	1552	tumor	Modifier	D009369
+1742	1746	DFSP	SpecificDisease	C538219
+1751	1775	giant cell fibroblastoma	SpecificDisease	C538219

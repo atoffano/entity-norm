@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	21	Group B Streptococcus	Microorganism	
+174	198	Streptococcus agalactiae	Microorganism	
+200	221	Group B Streptococcus	Microorganism	
+223	226	GBS	Microorganism	
+481	484	GBS	Microorganism	
+641	644	GBS	Microorganism	
+781	784	GBS	Microorganism	
+1389	1392	GBS	Microorganism	
+1501	1504	GBS	Microorganism	

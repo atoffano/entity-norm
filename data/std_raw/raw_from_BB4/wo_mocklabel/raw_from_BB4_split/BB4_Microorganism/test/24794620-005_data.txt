@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+51	77	Scopulariopsis brevicaulis	Microorganism	
+114	138	Pyxidiophora arvernensis	Microorganism	
+178	199	Debaryomyces hansenii	Microorganism	

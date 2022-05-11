@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+24	35	nonvirulent	Phenotype	OBT:002668
+142	150	virulent	Phenotype	OBT:002806
+572	580	virulent	Phenotype	OBT:000375
+1108	1121	gram-negative	Phenotype	OBT:000648
+1695	1704	virulence	Phenotype	OBT:000375
+1709	1722	pathogenicity	Phenotype	OBT:000375

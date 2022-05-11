@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+93	115	faciogenital dysplasia	SpecificDisease	C535331
+117	139	Aarskog-Scott syndrome	SpecificDisease	C535331
+142	164	Aarskog-Scott Syndrome	SpecificDisease	C535331
+166	169	AAS	SpecificDisease	C535331
+177	194	X-linked disorder	DiseaseClass	D040181
+212	225	short stature	DiseaseClass	D006130
+239	277	facial, limb and genital abnormalities	CompositeMention	D019465|D017880|D014564
+319	322	AAS	Modifier	C535331
+543	546	AAS	Modifier	C535331
+681	684	AAS	SpecificDisease	C535331
+884	887	AAS	Modifier	C535331
+1291	1318	X-linked agammaglobulinemia	SpecificDisease	OMIM:300755

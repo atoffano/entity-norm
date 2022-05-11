@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+41	73	X-linked amelogenesis imperfecta	SpecificDisease	C538243
+245	268	amelogenesis imperfecta	DiseaseClass	D000567
+305	324	inherited disorders	DiseaseClass	D030342
+524	556	X-linked amelogenesis imperfecta	SpecificDisease	C538243
+558	562	AIH1	SpecificDisease	C538243
+610	614	AIH1	SpecificDisease	C538243

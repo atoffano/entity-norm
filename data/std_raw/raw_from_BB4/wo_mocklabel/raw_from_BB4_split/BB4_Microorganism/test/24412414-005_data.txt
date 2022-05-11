@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+55	75	L. plantarum  ITM21B	Microorganism	

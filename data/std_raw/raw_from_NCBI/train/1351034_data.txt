@@ -1,0 +1,20 @@
+start	end	mention	_class	labels
+29	32	APC	Modifier	D011125
+44	68	adrenocortical carcinoma	SpecificDisease	D018268
+89	119	familial adenomatous polyposis	SpecificDisease	D011125
+121	140	Endocrine neoplasms	DiseaseClass	D004701
+190	220	familial adenomatous polyposis	SpecificDisease	D011125
+222	225	FAP	SpecificDisease	D011125
+231	256	adrenocorotical carcinoma	SpecificDisease	D018268
+307	310	FAP	SpecificDisease	D011125
+368	394	adenomatous polyposis coli	Modifier	D011125
+396	399	APC	Modifier	D011125
+427	436	carcinoma	DiseaseClass	D002277
+514	517	APC	Modifier	D011125
+570	573	APC	Modifier	D011125
+583	604	adrenocortical tumors	SpecificDisease	D018268
+670	683	desmoid tumor	SpecificDisease	C535944
+748	751	APC	Modifier	D011125
+774	787	benign tumors	DiseaseClass	D009369
+851	857	tumors	DiseaseClass	D009369
+927	930	FAP	Modifier	D011125

@@ -1,0 +1,19 @@
+T1	Title 0 94	Putative X-linked adrenoleukodystrophy gene shares unexpected homology with ABC transporters.
+T2	Paragraph 94 1609	Adrenoleukodystrophy (ALD) is an X-linked disease affecting 1/20, 000 males either as cerebral ALD in childhood or as adrenomyeloneuropathy (AMN) in adults. Childhood ALD is the more severe form, with onset of neurological symptoms between 5-12 years of age. Central nervous system demyelination progresses rapidly and death occurs within a few years. AMN is a milder form of the disease with onset at 15-30 years of age and a more progressive course. Adrenal insufficiency (Addisons disease) may remain the only clinical manifestation of ALD. The principal biochemical abnormality of ALD is the accumulation of very-long-chain fatty acids (VLCFA) because of impaired beta-oxidation in peroxisomes. The normal oxidation of VLCFA-CoA in patients fibroblasts suggested that the gene coding for the VLCFA-CoA synthetase could be a candidate gene for ALD. Here we use positional cloning to identify a gene partially deleted in 6 of 85 independent patients with ALD. In familial cases, the deletions segregated with the disease. An identical deletion was detected in two brothers presenting with different clinical ALD phenotypes. Candidate exons were identified by computer analysis of genomic sequences and used to isolate complementary DNAs by exon connection and screening of cDNA libraries. The deduced protein sequence shows significant sequence identity to a peroxisomal membrane protein of M (r) 70K that is involved in peroxisome biogenesis and belongs to the ATP-binding cassette superfamily of transporters..
+T3	Modifier 9 38	X-linked adrenoleukodystrophy
+T4	SpecificDisease 94 114	Adrenoleukodystrophy
+T5	SpecificDisease 116 119	ALD
+T6	DiseaseClass 127 143	X-linked disease
+T7	SpecificDisease 180 192	cerebral ALD
+T8	SpecificDisease 212 233	adrenomyeloneuropathy
+T9	SpecificDisease 235 238	AMN
+T10	SpecificDisease 261 264	ALD
+T11	DiseaseClass 353 389	Central nervous system demyelination
+T12	SpecificDisease 446 449	AMN
+T13	DiseaseClass 546 567	Adrenal insufficiency
+T14	SpecificDisease 569 585	Addisons disease
+T15	SpecificDisease 633 636	ALD
+T16	SpecificDisease 679 682	ALD
+T17	SpecificDisease 941 944	ALD
+T18	SpecificDisease 1051 1054	ALD
+T19	Modifier 1204 1207	ALD

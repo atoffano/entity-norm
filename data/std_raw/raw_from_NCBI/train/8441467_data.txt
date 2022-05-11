@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+9	38	X-linked adrenoleukodystrophy	Modifier	D000326
+94	114	Adrenoleukodystrophy	SpecificDisease	D000326
+116	119	ALD	SpecificDisease	D000326
+127	143	X-linked disease	DiseaseClass	D040181
+180	192	cerebral ALD	SpecificDisease	D000326
+212	233	adrenomyeloneuropathy	SpecificDisease	D000326
+235	238	AMN	SpecificDisease	D000326
+261	264	ALD	SpecificDisease	D000326
+353	389	Central nervous system demyelination	DiseaseClass	D003711
+446	449	AMN	SpecificDisease	D000326
+546	567	Adrenal insufficiency	DiseaseClass	D000309
+569	585	Addisons disease	SpecificDisease	D000224
+633	636	ALD	SpecificDisease	D000326
+679	682	ALD	SpecificDisease	D000326
+941	944	ALD	SpecificDisease	D000326
+1051	1054	ALD	SpecificDisease	D000326
+1204	1207	ALD	Modifier	D000326

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+24	43	Helicobacter pylori	Microorganism	210
+109	137	human immunodeficiency virus	Microorganism	12721
+257	285	human immunodeficiency virus	Microorganism	12721
+287	290	HIV	Microorganism	12721
+526	545	Helicobacter pylori	Microorganism	210
+676	685	H. pylori	Microorganism	210
+831	840	H. pylori	Microorganism	210
+1012	1015	HIV	Microorganism	12721
+1161	1170	H. pylori	Microorganism	210
+1205	1208	HIV	Microorganism	12721

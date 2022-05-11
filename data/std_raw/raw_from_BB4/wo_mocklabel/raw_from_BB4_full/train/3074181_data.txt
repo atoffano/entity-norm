@@ -1,0 +1,26 @@
+start	end	mention	_class	labels
+262	275	Gram-positive	Phenotype	OBT:000649
+280	293	Gram-negative	Phenotype	OBT:000648
+357	378	Staphylococcus aureus	Microorganism	1280
+523	531	clinical	Habitat	OBT:003220
+555	686	clinical materials (amniotic fluid, intrauterine secretions, exudates of the pelvic dead space) of patients with various infections	Habitat	OBT:000039
+575	589	amniotic fluid	Habitat	OBT:000485
+591	603	intrauterine	Habitat	OBT:000692
+616	649	exudates of the pelvic dead space	Habitat	OBT:000215
+632	649	pelvic dead space	Habitat	OBT:000463
+654	686	patients with various infections	Habitat	OBT:003269
+903	907	body	Habitat	OBT:000214
+903	914	body fluids	Habitat	OBT:000215
+919	926	genital	Habitat	OBT:000643
+919	934	genital tissues	Habitat	OBT:000196
+990	997	tissues	Habitat	OBT:000196
+1008	1014	tissue	Habitat	OBT:000196
+1137	1146	pathogens	Phenotype	OBT:000375
+1756	1771	genital tissues	Habitat	OBT:000196
+1756	1763	genital	Habitat	OBT:000643
+1820	1833	Gram-positive	Phenotype	OBT:000649
+1834	1839	cocci	Phenotype	OBT:000850
+1841	1854	Gram-negative	Phenotype	OBT:000648
+1868	1877	anaerobes	Phenotype	OBT:000189
+1947	1976	women with genital infections	Habitat	OBT:003269|OBT:003463
+1958	1965	genital	Habitat	OBT:000643

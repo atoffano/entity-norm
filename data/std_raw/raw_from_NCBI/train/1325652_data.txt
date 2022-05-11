@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+63	85	familial polyposis APC	Modifier	D011125
+226	246	colorectal carcinoma	SpecificDisease	D015179
+252	255	APC	Modifier	D011125
+261	287	adenomatous polyposis coli	Modifier	D011125
+450	480	familial adenomatous polyposis	Modifier	D011125
+546	549	APC	Modifier	D011125
+1000	1009	polyposis	Modifier	D011125
+1108	1111	APC	Modifier	D011125
+1279	1295	colorectal tumor	Modifier	D015179

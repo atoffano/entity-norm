@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+7	23	propionibacteria	Microorganism	1743
+179	213	P. freudenreichii subsp. shermanii	Microorganism	1752
+433	449	propionibacteria	Microorganism	1743
+495	529	P. freudenreichii subsp. shermanii	Microorganism	1752
+567	572	TL 34	Microorganism	1752

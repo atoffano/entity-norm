@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+102	125	Clostridium perfringens	Microorganism	1502
+290	320	Clostridium perfringens Type A	Microorganism	37763
+1301	1315	C. perfringens	Microorganism	37763

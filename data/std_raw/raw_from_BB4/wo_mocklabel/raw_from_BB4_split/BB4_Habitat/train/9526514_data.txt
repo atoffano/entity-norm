@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+110	117	tobacco	Habitat	OBT:002870
+331	341	hairy-root	Habitat	OBT:002850
+408	413	plant	Habitat	OBT:000393
+580	585	plant	Habitat	OBT:000393
+639	643	root	Habitat	OBT:002850
+657	669	tobacco leaf	Habitat	OBT:001174
+657	664	tobacco	Habitat	OBT:002870
+657	675	tobacco leaf discs	Habitat	OBT:001175
+677	730	Tobacco plants expressing a chimeric 35S::rolBTR gene	Habitat	OBT:002870
+753	780	off-shoots at the stem base	Habitat	OBT:000655
+771	775	stem	Habitat	OBT:002941
+785	831	bent and wrinkled leaves with epinastic growth	Habitat	OBT:001174

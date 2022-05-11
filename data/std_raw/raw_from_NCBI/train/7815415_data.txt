@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+45	63	myotonic dystrophy	Modifier	D009223
+144	162	myotonic dystrophy	Modifier	D009223
+164	166	DM	Modifier	D009223
+265	267	DM	SpecificDisease	D009223
+537	555	congenital disease	DiseaseClass	D030342
+1135	1146	infertility	DiseaseClass	D007246
+1211	1228	mentally retarded	DiseaseClass	D008607
+1556	1558	DM	Modifier	D009223
+1658	1660	DM	SpecificDisease	D009223

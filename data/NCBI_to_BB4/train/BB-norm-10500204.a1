@@ -1,0 +1,19 @@
+T1	Title 0 84	Deficit of in vivo mitochondrial ATP production in patients with Friedreich ataxia.
+T2	Paragraph 84 1494	Friedreich ataxia (FRDA), the most common of the inherited ataxias, is an autosomal recessive degenerative disorder, characterized clinically by onset before the age of 25 of progressive gait and limb ataxia, absence of deep tendon reflexes, extensor plantar responses, and loss of position and vibration sense in the lower limbs. FRDA is caused by a GAA triplet expansion in the first intron of the FRDA gene on chromosome 9q13 in 97% of patients. The FRDA gene encodes a widely expressed 210-aa protein, frataxin, which is located in mitochondria and is severely reduced in FRDA patients. Frataxin function is still unknown but the knockout of the yeast frataxin homologue gene (YFH1) showed a severe defect of mitochondrial respiration and loss of mtDNA associated with elevated intramitochondrial iron. Here we report in vivo evidence of impaired mitochondrial respiration in skeletal muscle of FRDA patients. Using phosphorus magnetic resonance spectroscopy we demonstrated a maximum rate of muscle mitochondrial ATP production (V (max)) below the normal range in all 12 FRDA patients and a strong negative correlation between mitochondrial V (max) and the number of GAA repeats in the smaller allele. Our results show that FRDA is a nuclear-encoded mitochondrial disorder affecting oxidative phosphorylation and give a rationale for treatments aimed to improve mitochondrial function in this condition..
+T3	SpecificDisease 65 82	Friedreich ataxia
+T4	SpecificDisease 84 101	Friedreich ataxia
+T5	SpecificDisease 103 107	FRDA
+T6	DiseaseClass 133 150	inherited ataxias
+T7	DiseaseClass 158 199	autosomal recessive degenerative disorder
+T8	CompositeMention 259 291	progressive gait and limb ataxia
+T9	DiseaseClass 293 324	absence of deep tendon reflexes
+T10	DiseaseClass 326 352	extensor plantar responses
+T11	CompositeMention 358 394	loss of position and vibration sense
+T12	SpecificDisease 415 419	FRDA
+T13	Modifier 484 488	FRDA
+T14	Modifier 537 541	FRDA
+T15	Modifier 660 664	FRDA
+T16	Modifier 983 987	FRDA
+T17	Modifier 1160 1164	FRDA
+T18	SpecificDisease 1313 1317	FRDA
+T19	DiseaseClass 1339 1361	mitochondrial disorder

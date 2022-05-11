@@ -1,0 +1,23 @@
+T1	Title 0 99	Eye movement abnormalities correlate with genotype in autosomal dominant cerebellar ataxia type I.
+T2	Paragraph 99 1292	We compared horizontal eye movements (visually guided saccades, antisaccades, and smooth pursuit) in control subjects (n = 14) and patients with three forms of autosomal dominant cerebellar ataxias type I spinocerebellar ataxias 1 and 2 (SCA1, n = 11; SCA2, n = 10) and SCA3/Machado-Joseph disease (MJD) (n = 16). In SCA1, saccade amplitude was significantly increased, resulting in hypermetria. The smooth pursuit gain was decreased. In SCA2, saccade velocity was markedly decreased. The percentage of errors in antisaccades was greatly increased and was significantly correlated with age at disease onset. In addition, a correlation between smooth pursuit gain and the number of trinucleotide repeats was found. In SCA3, gaze-evoked nystagmus was often present as was saccade hypometria and smooth pursuit gain was markedly decreased. Three major criteria, saccade amplitude, saccade velocity, and presence of gaze-evoked nystagmus, permitted the correct assignment of 90% of the SCA1, 90% of the SCA2, and 93% of the patients with SCA3 to their genetically confirmed patient group and, therefore, may help orient diagnoses of SCA1, SCA2, and SCA3 at early clinical stages of the diseases..
+T3	DiseaseClass 0 26	Eye movement abnormalities
+T4	DiseaseClass 73 97	cerebellar ataxia type I
+T5	DiseaseClass 278 303	cerebellar ataxias type I
+T6	CompositeMention 304 335	spinocerebellar ataxias 1 and 2
+T7	SpecificDisease 337 341	SCA1
+T8	SpecificDisease 351 355	SCA2
+T9	SpecificDisease 369 373	SCA3
+T10	SpecificDisease 374 396	Machado-Joseph disease
+T11	SpecificDisease 398 401	MJD
+T12	SpecificDisease 416 420	SCA1
+T13	SpecificDisease 482 493	hypermetria
+T14	SpecificDisease 537 541	SCA2
+T15	SpecificDisease 816 820	SCA3
+T16	SpecificDisease 822 843	gaze-evoked nystagmus
+T17	SpecificDisease 1011 1032	gaze-evoked nystagmus
+T18	SpecificDisease 1081 1085	SCA1
+T19	SpecificDisease 1098 1102	SCA2
+T20	SpecificDisease 1133 1137	SCA3
+T21	SpecificDisease 1228 1232	SCA1
+T22	SpecificDisease 1234 1238	SCA2
+T23	SpecificDisease 1244 1248	SCA3

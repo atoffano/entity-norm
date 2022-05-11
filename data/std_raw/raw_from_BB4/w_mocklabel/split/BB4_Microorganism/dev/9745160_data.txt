@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+79	98	Helicobacter pylori	Microorganism	210
+196	215	Helicobacter pylori	Microorganism	210
+712	720	H pylori	Microorganism	210
+783	796	Campylobacter	Microorganism	194
+1271	1279	H pylori	Microorganism	210
+1419	1427	H pylori	Microorganism	210
+1627	1635	H pylori	Microorganism	210
+1651	1659	H pylori	Microorganism	210
+2358	2366	H pylori	Microorganism	210
+2539	2547	H pylori	Microorganism	210

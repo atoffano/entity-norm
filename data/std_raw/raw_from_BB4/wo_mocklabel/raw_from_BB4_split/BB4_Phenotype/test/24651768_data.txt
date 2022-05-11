@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+195	213	cause of blindness	Phenotype	
+251	291	causes of sexually transmitted infection	Phenotype	
+817	836	bacterial pathogens	Phenotype	

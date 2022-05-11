@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+53	66	choroideremia	Modifier	D015794
+108	121	choroideremia	SpecificDisease	D015794
+123	126	TCD	SpecificDisease	D015794
+232	235	TCD	Modifier	D015794
+261	264	TCD	SpecificDisease	D015794
+476	479	TCD	Modifier	D015794
+558	561	TCD	SpecificDisease	D015794
+615	618	TCD	SpecificDisease	D015794
+749	752	TCD	SpecificDisease	D015794
+874	877	TCD	Modifier	D015794
+973	986	choroideremia	Modifier	D015794
+1082	1085	TCD	Modifier	D015794

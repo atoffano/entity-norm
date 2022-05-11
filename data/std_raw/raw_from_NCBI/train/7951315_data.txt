@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+41	61	congenital cataracts	SpecificDisease	D002386
+63	71	aniridia	SpecificDisease	D015783
+73	85	anophthalmia	SpecificDisease	D000853
+90	120	central nervous system defects	DiseaseClass	D009421
+149	157	aniridia	SpecificDisease	D015783
+171	197	haploinsufficiency of PAX6	SpecificDisease	OMIM:106210
+322	330	aniridia	SpecificDisease	D015783
+367	387	congenital cataracts	SpecificDisease	D002386
+403	420	corneal dystrophy	SpecificDisease	D003317
+693	740	craniofacial and central nervous system defects	CompositeMention	D019465|D009421
+745	752	no eyes	DiseaseClass	D000853

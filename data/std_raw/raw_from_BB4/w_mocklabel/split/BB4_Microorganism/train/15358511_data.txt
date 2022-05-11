@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+14	38	Escherichia coli O157:H7	Microorganism	83334
+301	325	Escherichia coli O157:H7	Microorganism	83334
+626	641	E. coli O157:H7	Microorganism	83334
+922	937	E. coli O157:H7	Microorganism	83334

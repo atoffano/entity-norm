@@ -1,0 +1,31 @@
+start	end	mention	_class	labels
+0	18	Haim-Munk syndrome	SpecificDisease	C537627
+23	48	Papillon-Lefevre syndrome	SpecificDisease	D010214
+99	140	palmoplantar keratoderma (PPK) conditions	DiseaseClass	D007645
+147	172	Papillon-Lefevre syndrome	SpecificDisease	D010214
+174	177	PLS	SpecificDisease	D010214
+183	201	Haim-Munk syndrome	SpecificDisease	C537627
+203	206	HMS	SpecificDisease	C537627
+277	280	PLS	SpecificDisease	D010214
+285	288	HMS	SpecificDisease	C537627
+320	323	PPK	DiseaseClass	D007645
+335	348	periodontitis	SpecificDisease	D010518
+398	401	HMS	SpecificDisease	C537627
+412	426	arachnodactyly	SpecificDisease	D054119
+428	443	acro-osteolysis	SpecificDisease	D030981
+445	474	atrophic changes of the nails	SpecificDisease	D009260
+482	519	radiographic deformity of the fingers	SpecificDisease	D006226
+527	530	PLS	Modifier	D010214
+580	583	HMS	SpecificDisease	C537627
+802	805	PLS	SpecificDisease	D010214
+971	974	HMS	SpecificDisease	C537627
+1059	1073	genetic defect	DiseaseClass	D030342
+1077	1080	PLS	SpecificDisease	D010214
+1145	1148	HMS	SpecificDisease	C537627
+1250	1253	PLS	Modifier	D010214
+1258	1261	HMS	Modifier	C537627
+1463	1466	HMS	SpecificDisease	C537627
+1817	1820	HMS	SpecificDisease	C537627
+1945	1948	PLS	SpecificDisease	D010214
+1987	1990	PLS	SpecificDisease	D010214
+1995	1998	HMS	SpecificDisease	C537627

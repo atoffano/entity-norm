@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+78	113	Prader-Willi and angelman syndromes	CompositeMention	D011218|D017204
+115	136	Prader-Willi syndrome	SpecificDisease	D011218
+138	141	PWS	SpecificDisease	D011218
+147	164	Angelman syndrome	SpecificDisease	D017204
+166	168	AS	SpecificDisease	D017204
+568	571	PWS	SpecificDisease	D011218
+576	578	AS	SpecificDisease	D017204
+815	818	PWS	Modifier	D011218
+819	821	AS	Modifier	D017204
+988	991	PWS	Modifier	D011218
+996	998	AS	Modifier	D017204
+1073	1075	AS	Modifier	D017204
+1368	1371	PWS	SpecificDisease	D011218

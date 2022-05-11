@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+202	230	causative agent of tularemia	Phenotype	OBT:002806
+262	287	human bacterial pathogens	Phenotype	OBT:002806
+825	832	binding	Phenotype	OBT:000029
+985	992	binding	Phenotype	OBT:000029
+1503	1510	binding	Phenotype	OBT:000029
+1973	1981	adhesion	Phenotype	OBT:000029
+2029	2053	invasion of host tissues	Phenotype	OBT:002806
+2172	2188	human pathogenic	Phenotype	OBT:002806

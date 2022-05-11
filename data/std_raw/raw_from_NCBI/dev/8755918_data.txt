@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+48	69	ataxia-telangiectasia	SpecificDisease	D001260
+107	128	ataxia-telangiectasia	SpecificDisease	D001260
+130	133	A-T	SpecificDisease	D001260
+261	264	A-T	Modifier	D001260
+476	479	A-T	Modifier	D001260
+824	841	cerebellar ataxia	SpecificDisease	D002524
+1004	1007	A-T	Modifier	D001260
+1095	1098	A-T	SpecificDisease	D001260

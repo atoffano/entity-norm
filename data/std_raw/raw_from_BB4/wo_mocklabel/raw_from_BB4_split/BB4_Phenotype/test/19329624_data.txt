@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+77	90	Gram-negative	Phenotype	
+92	115	facultatively anaerobic	Phenotype	
+117	138	moderately halophilic	Phenotype	
+237	248	curved rods	Phenotype	
+250	256	motile	Phenotype	
+261	282	non-endospore-forming	Phenotype	

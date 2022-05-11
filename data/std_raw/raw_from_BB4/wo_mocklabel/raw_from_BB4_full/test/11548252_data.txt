@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+43	58	Vibrio cholerae	Microorganism	
+59	68	virulence	Phenotype	
+114	125	V. cholerae	Microorganism	
+244	253	virulence	Phenotype	
+468	477	virulence	Phenotype	
+594	638	patients with diarrhea of different severity	Habitat	
+754	763	virulence	Phenotype	
+875	885	epithelial	Habitat	
+875	908	epithelial cells of the intestine	Habitat	
+899	908	intestine	Habitat	
+1040	1056	V. cholerae O139	Microorganism	
+1061	1072;1080	V. cholerae non-O1 (non-O139)	Microorganism	
+1061	1075	V. cholerae O1	Microorganism	
+1206	1217	V. cholerae	Microorganism	
+1218	1227	virulence	Phenotype	

@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+10	20	meningitis	SpecificDisease	D008581
+39	94	congenital deficiency of the C9 component of complement	SpecificDisease	OMIM:613825
+110	123	C9 deficiency	SpecificDisease	OMIM:613825
+185	198	C9 deficiency	SpecificDisease	OMIM:613825
+368	388	bacterial meningitis	SpecificDisease	D016920
+451	470	purulent meningitis	SpecificDisease	D008586
+513	543	acute meningococcal meningitis	SpecificDisease	D008585
+548	579	impairment of cellular immunity	DiseaseClass	D007153
+583	608	immunoglobulin deficiency	SpecificDisease	D004406
+652	691	complete deficiency of the C9 component	SpecificDisease	OMIM:613825
+859	881	complete C9 deficiency	SpecificDisease	OMIM:613825
+1011	1031	bacterial meningitis	SpecificDisease	D016920
+1078	1091	C9 deficiency	SpecificDisease	OMIM:613825
+1112	1132	recurrent meningitis	SpecificDisease	D008581+D012008
+1157	1179	complete C9 deficiency	SpecificDisease	OMIM:613825
+1199	1216	complement defect	DiseaseClass	D007153
+1247	1291	bacterial, especially neisserial, infections	DiseaseClass	D016870

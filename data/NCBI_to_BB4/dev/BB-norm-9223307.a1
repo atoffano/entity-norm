@@ -1,0 +1,9 @@
+T1	Title 0 98	Isolation of full-length ATM cDNA and correction of the ataxia-telangiectasia cellular phenotype.
+T2	Paragraph 98 1121	A gene mutated in the human genetic disorder ataxia-telangiectasia (A-T), ATM, was recently identified by positional cloning. ATM is a member of the phosphatidylinositol-3-kinase superfamily, some of which are protein kinases and appear to have important roles in cell cycle control and radiation signal transduction. We describe herein, to our knowledge, for the first time, the cloning of a full-length cDNA for ATM and correction of multiple aspects of the radio-sensitive phenotype of A-T cells by transfection with this cDNA. Overexpression of ATM cDNA in A-T cells enhanced the survival of these cells in response to radiation exposure, decreased radiation-induced chromosome aberrations, reduced radio-resistant DNA synthesis, and partially corrected defective cell cycle checkpoints and induction of stress-activated protein kinase. This correction of the defects in A-T cells provides further evidence of the multiplicity of effector functions of the ATM protein and suggests possible approaches to gene therapy..
+T3	Modifier 56 77	ataxia-telangiectasia
+T4	DiseaseClass 126 142	genetic disorder
+T5	SpecificDisease 143 164	ataxia-telangiectasia
+T6	SpecificDisease 166 169	A-T
+T7	Modifier 587 590	A-T
+T8	Modifier 659 662	A-T
+T9	Modifier 973 976	A-T

@@ -1,0 +1,30 @@
+start	end	mention	_class	labels
+36	70	Gram-negative bacterial microbiota	Habitat	OBT:000113
+36	49	Gram-negative	Phenotype	OBT:000648
+85	101	Proteus vulgaris	Microorganism	585
+106	126	Alcaligenes faecalis	Microorganism	511
+140	159	cheese from dairy C	Habitat	OBT:001480
+152	157	dairy	Habitat	OBT:001988
+193	204	P. vulgaris	Microorganism	585
+208	231	cheese ripening culture	Habitat	OBT:001030
+208	214	cheese	Habitat	OBT:003428
+238	249	P. vulgaris	Microorganism	585
+349	374	surface-ripening cultures	Habitat	OBT:001030
+387	398	A. faecalis	Microorganism	511
+418	422	soil	Habitat	OBT:000427
+424	429	water	Habitat	OBT:000468
+435	474	environments in association with humans	Habitat	OBT:000006
+500	514	non-pathogenic	Phenotype	OBT:000239
+555	569	Livarot cheese	Habitat	OBT:003510
+622	628	marine	Habitat	OBT:000338
+638	673	Marinilactibacillus psychrotolerans	Microorganism	191770
+678	684	cheese	Habitat	OBT:001480
+718	737	surface of cheese D	Habitat	OBT:001341
+729	735	cheese	Habitat	OBT:001480
+745	751;763	French cheeses	Habitat	OBT:001480
+756	770	German cheeses	Habitat	OBT:001480
+812	830	M. psychrotolerans	Microorganism	191770
+863	881	M. psychrotolerans	Microorganism	191770
+905	912	cheeses	Habitat	OBT:001480
+922	941	marine environments	Habitat	OBT:000338
+946	955	sea  salt	Habitat	OBT:002243

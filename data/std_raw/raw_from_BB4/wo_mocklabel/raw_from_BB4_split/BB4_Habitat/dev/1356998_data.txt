@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+0	5	Human	Habitat	OBT:002488
+10	14	tick	Habitat	OBT:001821
+198	203	ticks	Habitat	OBT:001821
+218	224	humans	Habitat	OBT:002488
+387	392	human	Habitat	OBT:003269
+421	497	patients suffering from rickettsial disease of different degrees of severity	Habitat	OBT:003269
+1191	1196	ticks	Habitat	OBT:001821
+1201	1207	humans	Habitat	OBT:003269

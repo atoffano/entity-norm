@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+81	99	myotonic dystrophy	Modifier	D009223
+128	146	myotonic dystrophy	Modifier	D009223
+148	150	DM	Modifier	D009223
+266	268	DM	Modifier	D009223
+441	443	DM	Modifier	D009223
+755	757	DM	Modifier	D009223
+1244	1262	myotonic dystrophy	Modifier	D009223

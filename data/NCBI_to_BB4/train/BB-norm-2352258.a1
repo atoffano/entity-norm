@@ -1,0 +1,24 @@
+T1	Title 0 154	Statistical analysis of the two stage mutation model in von Hippel-Lindau disease, and in sporadic cerebellar haemangioblastoma and renal cell carcinoma.
+T2	Paragraph 154 1308	Analysis of the age incidence curves for unilateral and bilateral retinoblastoma led Knudson to propose that hereditary tumours may arise by a single event and sporadic tumours by a two stage mutation process. It has been suggested recently that sporadic renal cell carcinoma may arise from a two stage mutation process. We analysed the age incidence curves for symptomatic renal cell carcinoma (n = 26) and cerebellar haemangioblastoma (n = 68) in 109 patients with von Hippel-Lindau (VHL) disease, and compared them to 104 patients with sporadic renal cell carcinoma and 43 patients with sporadic cerebellar haemangioblastoma. The age incidence curves for renal cell carcinoma and cerebellar haemangioblastoma in VHL disease were compatible with a single mutation model, whereas the age incidence curves for sporadic renal cell carcinoma and cerebellar haemangioblastoma suggested a two stage mutation process. These data are compatible with the VHL gene functioning as a recessive tumour suppressor gene. Sporadic cerebellar haemangioblastoma and some renal cell carcinoma may arise from somatic mutations inactivating both alleles at the VHL locus..
+T3	SpecificDisease 56 81	von Hippel-Lindau disease
+T4	SpecificDisease 90 127	sporadic cerebellar haemangioblastoma
+T5	SpecificDisease 132 152	renal cell carcinoma
+T6	CompositeMention 195 234	unilateral and bilateral retinoblastoma
+T7	DiseaseClass 263 281	hereditary tumours
+T8	DiseaseClass 314 330	sporadic tumours
+T9	SpecificDisease 400 429	sporadic renal cell carcinoma
+T10	SpecificDisease 528 548	renal cell carcinoma
+T11	SpecificDisease 562 590	cerebellar haemangioblastoma
+T12	SpecificDisease 621 652	von Hippel-Lindau (VHL) disease
+T13	SpecificDisease 693 722	sporadic renal cell carcinoma
+T14	SpecificDisease 744 781	sporadic cerebellar haemangioblastoma
+T15	SpecificDisease 812 832	renal cell carcinoma
+T16	SpecificDisease 837 865	cerebellar haemangioblastoma
+T17	SpecificDisease 869 880	VHL disease
+T18	SpecificDisease 964 993	sporadic renal cell carcinoma
+T19	SpecificDisease 998 1026	cerebellar haemangioblastoma
+T20	Modifier 1102 1105	VHL
+T21	Modifier 1138 1144	tumour
+T22	SpecificDisease 1162 1199	Sporadic cerebellar haemangioblastoma
+T23	SpecificDisease 1209 1229	renal cell carcinoma
+T24	Modifier 1296 1299	VHL

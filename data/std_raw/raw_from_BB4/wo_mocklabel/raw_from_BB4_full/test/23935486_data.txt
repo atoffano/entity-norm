@@ -1,0 +1,20 @@
+start	end	mention	_class	labels
+79	101	Pseudomonas aeruginosa	Microorganism	
+102	116	quorum sensing	Phenotype	
+140	161	Bacterial populations	Habitat	
+211	225	quorum sensing	Phenotype	
+227	229	QS	Phenotype	
+399	432	alkyl-quinolone (AQ)-dependent QS	Phenotype	
+436	458	Pseudomonas aeruginosa	Microorganism	
+516	527	Pseudomonas	Microorganism	
+774	789	AQ biosynthesis	Phenotype	
+819	828	virulence	Phenotype	
+859	879	bacterial population	Habitat	
+1020	1029	virulence	Phenotype	
+1479	1494	AQ biosynthesis	Phenotype	
+1496	1505	virulence	Phenotype	
+1526	1545	biofilm development	Phenotype	
+1526	1533	biofilm	Habitat	
+1683	1702	bacterial virulence	Phenotype	
+2120	2133	P. aeruginosa	Microorganism	
+2134	2143	virulence	Phenotype	

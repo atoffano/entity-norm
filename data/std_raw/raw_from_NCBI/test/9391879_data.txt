@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+55	76	breast/ovarian cancer	Modifier	D061325
+127	148	breast/ovarian cancer	Modifier	D061325
+247	260	breast cancer	Modifier	D001943
+281	302	breast-ovarian cancer	Modifier	D061325
+835	856	breast/ovarian cancer	Modifier	D061325

@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+25	54	congenital myotonic dystrophy	SpecificDisease	D009223
+104	133	congenital myotonic dystrophy	SpecificDisease	D009223
+135	137	DM	SpecificDisease	D009223
+170	187	mentally retarded	Modifier	D008607
+212	229	muscular weakness	DiseaseClass	D018908
+337	339	DM	SpecificDisease	D009223
+381	383	DM	SpecificDisease	D009223
+462	475	congenital DM	SpecificDisease	D009223
+558	571	congenital DM	SpecificDisease	D009223
+619	621	DM	SpecificDisease	D009223
+746	759	congenital DM	SpecificDisease	D009223
+946	959	congenital DM	SpecificDisease	D009223
+1003	1016	congenital DM	SpecificDisease	D009223
+1065	1067	DM	SpecificDisease	D009223

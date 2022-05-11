@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+71	93	Salmonella typhimurium	Microorganism	90371
+141	155	drug-resistant	Phenotype	OBT:000598
+166	194	Salmonella typhimurium (993)	Microorganism	90371
+256	267	wild strain	Phenotype	OBT:000169
+271	281	Salmonella	Microorganism	590
+295	298	993	Microorganism	90371
+371	391	ampicillin-resistant	Phenotype	OBT:002762
+620	634	S. typhimurium	Microorganism	90371

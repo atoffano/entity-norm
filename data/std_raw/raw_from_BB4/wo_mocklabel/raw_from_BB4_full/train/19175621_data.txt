@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+32	56	beta-lactamase-producing	Phenotype	OBT:000019
+57	76	Salmonella enterica	Microorganism	28901
+140	147	animals	Habitat	OBT:000193
+152	158	humans	Habitat	OBT:002488
+175	194	Salmonella enterica	Microorganism	28901
+220	237	Spanish hospitals	Habitat	OBT:002714
+271	278	Virchow	Microorganism	48409
+286	297	Livingstone	Microorganism	260680
+328	376	extended-spectrum beta-lactamase (ESBL) producer	Phenotype	OBT:000019
+422	445	S. enterica Livingstone	Microorganism	260680
+553	572	S. enterica Virchow	Microorganism	48409
+666	673	Virchow	Microorganism	48409
+909	916	animals	Habitat	OBT:000193
+918	933	ESBL production	Phenotype	OBT:000019
+962	972	resistance	Phenotype	OBT:000598
+976	987	S. enterica	Microorganism	28901
+1007	1016	hospitals	Habitat	OBT:002714

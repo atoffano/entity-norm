@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+45	58	L. casei 21/1	Microorganism	
+137	150	L. casei 21/1	Microorganism	
+155	174	L. rhamnosus  13075	Microorganism	
+155	174	L. rhamnosus  13075	Microorganism	

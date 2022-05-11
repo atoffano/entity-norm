@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+0	20	Ampicillin-resistant	Phenotype	OBT:002762
+135	155	Ampicillin-resistant	Phenotype	OBT:002762
+369	382	gram-negative	Phenotype	OBT:000648
+697	722	resistance to penicillins	Phenotype	OBT:002829
+855	864	resistant	Phenotype	OBT:002829
+893	903	resistance	Phenotype	OBT:002829

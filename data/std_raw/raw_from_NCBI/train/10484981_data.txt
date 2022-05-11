@@ -1,0 +1,19 @@
+start	end	mention	_class	labels
+71	91	Li-Fraumeni syndrome	Modifier	D016864
+100	120	Li-Fraumeni syndrome	SpecificDisease	D016864
+127	154	autosomal dominant disorder	DiseaseClass	D030342
+197	203	cancer	DiseaseClass	D009369
+300	307	cancers	DiseaseClass	D009369
+344	364	Li-Fraumeni syndrome	SpecificDisease	D016864
+519	525	cancer	DiseaseClass	D009369
+569	589	Li-Fraumeni syndrome	SpecificDisease	D016864
+789	794	tumor	Modifier	D009369
+825	833	seminoma	SpecificDisease	D018239
+850	865	medulloblastoma	SpecificDisease	D008527
+1049	1057	seminoma	SpecificDisease	D018239
+1127	1132	tumor	Modifier	D009369
+1371	1391	Li-Fraumeni syndrome	SpecificDisease	D016864
+1598	1606	seminoma	SpecificDisease	D018239
+1607	1622	medulloblastoma	SpecificDisease	D008527
+1675	1688	tumorogenesis	DiseaseClass	D002471
+1753	1758	tumor	Modifier	D009369

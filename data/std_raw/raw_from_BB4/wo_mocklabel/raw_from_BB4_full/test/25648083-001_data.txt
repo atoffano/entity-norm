@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+0	19	L. johnsonii FI9785	Microorganism	
+24	48	able to produce biofilms	Phenotype	
+40	48	biofilms	Habitat	
+52	63	glass tubes	Habitat	
+103	153	sterile microscope slides under aerobic conditions	Habitat	
+277	285	GI tract	Habitat	
+340	357	biofilm formation	Phenotype	
+340	347	biofilm	Habitat	
+361	395	sterile microscope  slide surfaces	Habitat	
+414	431	Biofilm formation	Phenotype	
+414	421	Biofilm	Habitat	
+450	497	polystyrene 96 well plates using crystal violet	Habitat	
+554	562	biofilms	Habitat	
+571	580	wild type	Phenotype	
+585	591	mutant	Phenotype	
+630	644	EPS production	Phenotype	
+648	665	biofilm formation	Phenotype	
+648	655	biofilm	Habitat	
+693	712	L. johnsonii FI9785	Microorganism	
+733	742	probiotic	Phenotype	
+750	766	L. rhamnosus  GG	Microorganism	
+782	799	biofilm formation	Phenotype	
+782	789	biofilm	Habitat	

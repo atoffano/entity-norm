@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+4	7	APC	Modifier	D011125
+30	60	familial adenomatous polyposis	SpecificDisease	D011125
+82	96	gastric cancer	SpecificDisease	D013274
+107	121	gastric cancer	SpecificDisease	D013274
+141	147	cancer	DiseaseClass	D009369
+240	255	gastric cancers	SpecificDisease	D013274
+338	364	adenomatous polyposis coli	Modifier	D011125
+366	369	APC	Modifier	D011125
+406	437	adenomatous polyps in the colon	SpecificDisease	D018256
+476	490	gastric cancer	SpecificDisease	D013274
+531	546	gastric cancers	SpecificDisease	D013274
+763	766	APC	Modifier	D011125
+778	784	tumors	DiseaseClass	D009369
+827	833	tumors	DiseaseClass	D009369
+1023	1026	APC	Modifier	D011125
+1104	1119	gastric cancers	SpecificDisease	D013274

@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+19	46	hypertrophic cardiomyopathy	SpecificDisease	D002312
+89	145	very-long-chain acyl-coenzyme A dehydrogenase deficiency	SpecificDisease	C536353
+147	211	Very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) deficiency	SpecificDisease	C536353
+364	380	VLCAD deficiency	SpecificDisease	C536353
+431	458	hypertrophic cardiomyopathy	SpecificDisease	D002312
+460	472	hepatomegaly	SpecificDisease	D006529
+474	488	encephalopathy	DiseaseClass	D001927
+494	503	hypotonia	SpecificDisease	D009123
+535	551	VLCAD deficiency	SpecificDisease	C536353
+1061	1077	VLCAD deficiency	SpecificDisease	C536353
+1149	1163	cardiomyopathy	DiseaseClass	D009202

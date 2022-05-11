@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+15	34	Helicobacter pylori	Microorganism	
+216	235	Helicobacter pylori	Microorganism	
+442	451	H. pylori	Microorganism	
+1407	1416	H. pylori	Microorganism	
+1453	1462	H. pylori	Microorganism	

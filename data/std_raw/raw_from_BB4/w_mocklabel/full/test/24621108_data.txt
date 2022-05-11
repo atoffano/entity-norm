@@ -1,0 +1,48 @@
+start	end	mention	_class	labels
+17	31	essential oils	Habitat	MockLabel
+53	67	pullulan films	Habitat	MockLabel
+79	88	foodborne	Habitat	MockLabel
+89	98	pathogens	Phenotype	MockLabel
+102	106;119	meat products	Habitat	MockLabel
+111	127	poultry products	Habitat	MockLabel
+150	164	essential oils	Habitat	MockLabel
+189	201	edible films	Habitat	MockLabel
+261	266	foods	Habitat	MockLabel
+327	341	pullulan films	Habitat	MockLabel
+353	367	essential oils	Habitat	MockLabel
+396	405	foodborne	Habitat	MockLabel
+406	415	pathogens	Phenotype	MockLabel
+485	506	oregano essential oil	Habitat	MockLabel
+485	492	oregano	Habitat	MockLabel
+526	547	Staphylococcus aureus	Microorganism	MockLabel
+552	574	Salmonella Typhimurium	Microorganism	MockLabel
+584	606	Listeria monocytogenes	Microorganism	MockLabel
+611	635	Escherichia coli O157:H7	Microorganism	MockLabel
+668	676	rosemary	Habitat	MockLabel
+668	690	rosemary essential oil	Habitat	MockLabel
+710	719	S. aureus	Microorganism	MockLabel
+721	737	L. monocytogenes	Microorganism	MockLabel
+739	754	E. coli O157:H7	Microorganism	MockLabel
+760	774	S. Typhimurium	Microorganism	MockLabel
+854	863	S. aureus	Microorganism	MockLabel
+865	881	L. monocytogenes	Microorganism	MockLabel
+883	898	E. coli O157:H7	Microorganism	MockLabel
+904	918	S. Typhimurium	Microorganism	MockLabel
+1024	1033	S. aureus	Microorganism	MockLabel
+1039	1055	L. monocytogenes	Microorganism	MockLabel
+1169	1183	pullulan films	Habitat	MockLabel
+1226	1235	pathogens	Phenotype	MockLabel
+1283	1297	pullulan films	Habitat	MockLabel
+1349	1358	pathogens	Phenotype	MockLabel
+1375	1395;1408	vacuum packaged meat products stored at 4 °C for up to 3 wk	Habitat	MockLabel
+1375	1390;1400	vacuum packaged poultry products stored at 4 °C for up to 3 wk	Habitat	MockLabel
+1463	1476	control films	Habitat	MockLabel
+1531	1536	films	Habitat	MockLabel
+1624	1636	edible films	Habitat	MockLabel
+1678	1692	essential oils	Habitat	MockLabel
+1736	1748;1786	refrigerated poultry products	Habitat	MockLabel
+1736	1748;1777	refrigerated meat products	Habitat	MockLabel
+1750	1755;1777	fresh meat products	Habitat	MockLabel
+1750	1755;1786	fresh poultry products	Habitat	MockLabel
+1759	1776;1786	further processed poultry products	Habitat	MockLabel
+1759	1781;1794	further processed meat products	Habitat	MockLabel

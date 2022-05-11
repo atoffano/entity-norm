@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+321	333	HOX activity	Phenotype	OBT:000371
+402	416	methylotrophic	Phenotype	OBT:000734
+512	537	hexose oxidase production	Phenotype	OBT:000371
+996	1008	alpha-mating	Phenotype	OBT:000173

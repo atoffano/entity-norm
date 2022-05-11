@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+19	26	obesity	SpecificDisease	D009765
+28	49	adrenal insufficiency	DiseaseClass	D000309
+398	413	ACTH deficiency	SpecificDisease	OMIM:201400|C535668
+702	709	obesity	SpecificDisease	D009765
+821	828	obesity	SpecificDisease	D009765
+1001	1008	obesity	SpecificDisease	D009765
+1041	1056	ACTH deficiency	SpecificDisease	OMIM:201400|C535668
+1476	1490	genetic defect	DiseaseClass	D030342
+1529	1557	monogenic endocrine disorder	DiseaseClass	D004700
+1583	1590	obesity	SpecificDisease	D009765
+1592	1613	adrenal insufficiency	DiseaseClass	D000309

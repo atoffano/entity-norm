@@ -1,0 +1,17 @@
+T1	Title 0 46	Segregation distortion in myotonic dystrophy.
+T2	Paragraph 46 1124	Myotonic dystrophy (DM) is an autosomal dominant disease which, in the typical pedigree, shows a three generation anticipation cascade. This results in infertility and congenital myotonic dystrophy (CDM) with the disappearance of DM in that pedigree. The concept of segregation distortion, where there is preferential transmission of the larger allele at the DM locus, has been put forward to explain partially the maintenance of DM in the population. In a survey of DM in Northern Ireland, 59 pedigrees were ascertained. Sibships where the status of all the members had been identified were examined to determine the transmission of the DM expansion from affected parents to their offspring. Where the transmitting parent was male, 58. 3% of the offspring were affected, and in the case of a female transmitting parent, 68. 7% were affected. Studies on meiotic drive in DM have shown increased transmission of the larger allele at the DM locus in non-DM heterozygotes for CTGn. This study provides further evidence that the DM expansion tends to be transmitted preferentially.
+T3	SpecificDisease 26 44	myotonic dystrophy
+T4	SpecificDisease 46 64	Myotonic dystrophy
+T5	SpecificDisease 66 68	DM
+T6	DiseaseClass 76 102	autosomal dominant disease
+T7	SpecificDisease 198 209	infertility
+T8	SpecificDisease 214 243	congenital myotonic dystrophy
+T9	SpecificDisease 245 248	CDM
+T10	SpecificDisease 276 278	DM
+T11	Modifier 405 407	DM
+T12	SpecificDisease 476 478	DM
+T13	SpecificDisease 513 515	DM
+T14	Modifier 684 686	DM
+T15	SpecificDisease 917 919	DM
+T16	Modifier 982 984	DM
+T17	Modifier 1071 1073	DM

@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+82	90	melanoma	SpecificDisease	D008545
+155	160	tumor	Modifier	D009369
+266	274	melanoma	SpecificDisease	D008545
+335	343	melanoma	Modifier	D008545
+650	658	melanoma	SpecificDisease	D008545
+668	677	melanomas	SpecificDisease	D008545
+745	750	tumor	Modifier	D009369
+825	830	tumor	Modifier	D009369

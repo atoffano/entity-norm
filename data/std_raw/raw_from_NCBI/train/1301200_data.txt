@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+36	57	hyperphenylalaninemia	DiseaseClass	D010661
+96	111	genetic defects	DiseaseClass	D030342
+133	148	phenylketonuria	SpecificDisease	D010661
+150	153	PKU	SpecificDisease	D010661
+159	180	hyperphenylalaninemia	DiseaseClass	D010661
+182	185	HPA	DiseaseClass	D010661
+583	586	PKU	Modifier	D010661
+587	590	HPA	Modifier	D010661
+656	659	HPA	DiseaseClass	D010661

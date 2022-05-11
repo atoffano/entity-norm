@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+126	144	Huntington disease	Modifier	D006816
+166	186	retinal degeneration	Modifier	D012162
+257	281	hereditary retinopathies	DiseaseClass	D015785
+696	714	Huntington disease	Modifier	D006816
+716	718	HD	Modifier	D006816
+818	820	HD	Modifier	D006816
+1043	1045	HD	Modifier	D006816

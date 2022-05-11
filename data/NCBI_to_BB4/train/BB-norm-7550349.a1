@@ -1,0 +1,10 @@
+T1	Title 0 113	The carrier frequency of the BRCA1 185delAG mutation is approximately 1 percent in Ashkenazi Jewish individuals.
+T2	Paragraph 113 1290	Since BRCA1, the first major gene responsible for inherited breast cancer, was cloned, more than 50 unique mutations have been detected in the germline of individuals with breast and ovarian cancer. In high-risk pedigrees, female carriers of BRCA1 mutations have an 80-90% lifetime risk of breast cancer, and a 40-50% risk of ovarian cancer. However, the mutation stats of individuals unselected for breast or ovarian cancer has not been determined, and it is not known whether mutations in such individuals confer the same risk of cancer as in individuals from the high-risk families studied so far. Following the finding of a 185delAG frameshift mutation in several Ashkenazi Jewish breast/ovarian families, we have determined the frequency of this mutation in 858 Ashkenazim seeking genetic testing for conditions unrelated to cancer, and in 815 reference individuals not selected for ethnic origin. We observed the 185delAG mutation in 0. 9% of Ashkenazim (95% confidence limit, 0. 4-1. 8%) and in none of the reference samples. Our results suggest that one in a hundred women of Ashkenazi descent may be at especially high risk of developing breast and/or ovarian cancer.
+T3	SpecificDisease 163 186	inherited breast cancer
+T4	CompositeMention 285 310	breast and ovarian cancer
+T5	SpecificDisease 403 416	breast cancer
+T6	SpecificDisease 439 453	ovarian cancer
+T7	CompositeMention 513 537	breast or ovarian cancer
+T8	DiseaseClass 645 651	cancer
+T9	DiseaseClass 943 949	cancer
+T10	CompositeMention 1260 1288	breast and/or ovarian cancer

@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+30	47	Angelman syndrome	Modifier	D017204
+58	75	Angelman syndrome	SpecificDisease	D017204
+77	79	AS	SpecificDisease	D017204
+157	175	uniparental disomy	SpecificDisease	D024182
+177	180	UPD	SpecificDisease	D024182
+402	404	AS	Modifier	D017204
+981	983	AS	Modifier	D017204
+1025	1027	AS	Modifier	D017204
+1067	1069	AS	Modifier	D017204

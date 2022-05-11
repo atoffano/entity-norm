@@ -1,0 +1,12 @@
+T1	Title 0 98	Uncoupling of hypomyelination and glial cell death by a mutation in the proteolipid protein gene.
+T2	Paragraph 98 1259	Proteolipid protein (PLP; M (r) 30, 000) is a highly conserved major polytopic membrane protein in myelin but its cellular function remains obscure. Neurological mutant mice can often provide model systems for human genetic disorders . Mutations of the X-chromosome-linked PLP gene are lethal, identified first in the jimpy mouse and subsequently in patients with Pelizaeus-Merzbacher disease. The unexplained phenotype of these mutations includes degeneration and premature cell death of oligodendrocytes with associated hypomyelination. Here we show that a new mouse mutant rumpshaker is defined by the amino-acid substitution Ile-to-Thr at residue 186 in a membrane-embedded domain of PLP. Surprisingly, rumpshaker mice, although myelin-deficient, have normal longevity and a full complement of morphologically normal oligodendrocytes. Hypomyelination can thus be genetically separated from the PLP-dependent oligodendrocyte degeneration. We suggest that PLP has a vital function in glial cell development, distinct from its later role in myelin assembly, and that this dichotomy of action may explain the clinical spectrum of Pelizaeus-Merzbacher disease..
+T3	SpecificDisease 14 29	hypomyelination
+T4	SpecificDisease 34 50	glial cell death
+T5	DiseaseClass 314 331	genetic disorders
+T6	SpecificDisease 462 490	Pelizaeus-Merzbacher disease
+T7	CompositeMention 546 603	degeneration and premature cell death of oligodendrocytes
+T8	SpecificDisease 620 635	hypomyelination
+T9	SpecificDisease 831 847	myelin-deficient
+T10	SpecificDisease 937 952	Hypomyelination
+T11	SpecificDisease 1010 1038	oligodendrocyte degeneration
+T12	SpecificDisease 1228 1256	Pelizaeus-Merzbacher disease

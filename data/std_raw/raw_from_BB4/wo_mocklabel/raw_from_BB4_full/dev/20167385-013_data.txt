@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+44	55	Pseudomonas	Microorganism	286
+67	80	Gram-negative	Phenotype	OBT:000648
+98	107	Halomonas	Microorganism	2745
+127	145	Enterobacteriaceae	Microorganism	543
+179	193	cheese surface	Habitat	OBT:001341
+179	185	cheese	Habitat	OBT:001480

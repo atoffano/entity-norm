@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+34	56	Alkalibacterium gilvum	Microorganism	
+62	72	halophilic	Phenotype	
+77	89	alkaliphilic	Phenotype	
+90	111	lactic acid bacterium	Phenotype	
+150	163;178	European soft cheeses	Habitat	
+150	158;168	European semi-hard cheeses	Habitat	

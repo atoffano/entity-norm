@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+13	28	hemochromatosis	SpecificDisease	D006432
+44	59	hemochromatosis	SpecificDisease	D006432
+90	101	early death	SpecificDisease	D003643
+452	465	iron overload	SpecificDisease	D019190
+533	542	cirrhosis	SpecificDisease	D008103
+682	697	hemochromatosis	SpecificDisease	D006432
+793	808	hemochromatosis	SpecificDisease	D006432
+904	919	hemochromatosis	SpecificDisease	D006432
+927	944	hepatic cirrhosis	SpecificDisease	D008103

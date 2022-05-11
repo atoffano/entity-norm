@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+38	59	Chlamydia trachomatis	Microorganism	813
+64	75	C. psittaci	Microorganism	83554
+258	279	Chlamydia trachomatis	Microorganism	813
+284	295	C. psittaci	Microorganism	83554
+413	427	C. trachomatis	Microorganism	813
+478	489	C. psittaci	Microorganism	83554
+526	540	C. trachomatis	Microorganism	813
+646	657	C. psittaci	Microorganism	83554
+688	702	C. trachomatis	Microorganism	813
+747	756;760	serotypes B	Microorganism	813
+747	758	serotypes A	Microorganism	813
+747	756;766	serotypes C	Microorganism	813
+904	917	serotypes D-I	Microorganism	813
+1083	1094	C. psittaci	Microorganism	83554
+1188	1198	chlamydiae	Microorganism	83554|813

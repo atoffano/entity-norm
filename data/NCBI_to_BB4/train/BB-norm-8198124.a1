@@ -1,0 +1,9 @@
+T1	Title 0 54	Four novel PEPD alleles causing prolidase deficiency.
+T2	Paragraph 54 1546	Mutations at the PEPD locus cause prolidase deficiency (McKusick 170100), a rare autosomal recessive disorder characterized by iminodipeptiduria, skin ulcers, mental retardation, and recurrent infections. Four PEPD mutations from five severely affected individuals were characterized by analysis of reverse-transcribed, PCR-amplified (RT-PCR) cDNA. We used SSCP analysis on four overlapping cDNA fragments covering the entire coding region of the PEPD gene and detected abnormal SSCP bands for the fragment spanning all or part of exons 13-15 in three of the probands. Direct sequencing of the mutant cDNAs showed a G-- > A, 1342 substitution (G448R) in two patients and a 3-bp deletion (delta E452 or delta E453) in another. In the other two probands the amplified products were of reduced size. Direct sequencing of these mutant cDNAs revealed a deletion of exon 5 in one patient and of exon 7 in the other. Intronic sequences flanking exons 5 and 7 were identified using inverse PCR followed by direct sequencing. Conventional PCR and direct sequencing then established the intron-exon borders of the mutant genomic DNA revealing two splice acceptor mutations  a G-- > C substitution at position -1 of intron 4 and an A-- > G substitution at position -2 of intron 6. Our results indicate that the severe form of prolidase deficiency is caused by multiple PEPD alleles. In this report we attempt to begin the process of describing these alleles and cataloging their phenotypic expression..
+T3	SpecificDisease 32 52	prolidase deficiency
+T4	SpecificDisease 88 108	prolidase deficiency
+T5	DiseaseClass 135 163	autosomal recessive disorder
+T6	SpecificDisease 181 198	iminodipeptiduria
+T7	SpecificDisease 200 211	skin ulcers
+T8	DiseaseClass 213 231	mental retardation
+T9	SpecificDisease 1369 1389	prolidase deficiency

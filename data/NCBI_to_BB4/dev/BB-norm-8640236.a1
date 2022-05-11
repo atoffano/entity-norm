@@ -1,0 +1,23 @@
+T1	Title 0 72	Low incidence of BRCA2 mutations in breast carcinoma and other cancers.
+T2	Paragraph 72 1513	Inherited mutant alleles of familial tumour suppressor genes predispose individuals to particular types of cancer. In addition to an involvement in inherited susceptibility to cancer, these tumour suppressor genes are targets for somatic mutations in sporadic cancers of the same type found in the familial forms. An exception is BRCA1, which contributes to a significant fraction of familial breast and ovarian cancer, but undergoes mutation at very low rates in sporadic breast and ovarian cancers. This finding suggests that other genes may be the principal targets for somatic mutation in breast carcinoma. A second, recently identified familial breast cancer gene, BRCA2 (refs 5-8), accounts for a proportion of breast cancer roughly equal to BRCA1. Like BRCA1, BRCA2 behaves as a dominantly inherited tumour suppressor gene. Individuals who inherit one mutant allele are at increased risk for breast cancer, and the tumours they develop lose the wild-type allele by heterozygous deletion. The BRCA2 coding sequence is huge, composed of 26 exons that span 10, 443 bp. Here we investigate the rate of BRCA2 mutation in sporadic breast cancers and in a set of cell lines that represent twelve other tumour types. Surprisingly, mutations in BRCA2 are infrequent in cancers including breast carcinoma. However, a probable germline mutation in a pancreatic tumour cell line suggests a role for BRCA2 in susceptibility to pancreatic cancer..
+T3	SpecificDisease 36 52	breast carcinoma
+T4	DiseaseClass 63 70	cancers
+T5	Modifier 109 115	tumour
+T6	DiseaseClass 179 185	cancer
+T7	DiseaseClass 248 254	cancer
+T8	Modifier 262 268	tumour
+T9	DiseaseClass 323 339	sporadic cancers
+T10	CompositeMention 456 490	familial breast and ovarian cancer
+T11	CompositeMention 536 571	sporadic breast and ovarian cancers
+T12	SpecificDisease 665 681	breast carcinoma
+T13	Modifier 713 735	familial breast cancer
+T14	SpecificDisease 789 802	breast cancer
+T15	Modifier 879 885	tumour
+T16	SpecificDisease 971 984	breast cancer
+T17	DiseaseClass 994 1001	tumours
+T18	SpecificDisease 1195 1218	sporadic breast cancers
+T19	Modifier 1274 1280	tumour
+T20	DiseaseClass 1339 1346	cancers
+T21	SpecificDisease 1357 1373	breast carcinoma
+T22	Modifier 1418 1435	pancreatic tumour
+T23	SpecificDisease 1493 1510	pancreatic cancer

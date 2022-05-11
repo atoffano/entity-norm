@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+207	215	P. celer	Microorganism	306572
+217	229	P. aquimaris	Microorganism	292733
+231	246	P. glacincolaus	Microorganism	56810
+248	258	S. equorum	Microorganism	246432
+264	273	M. luteus	Microorganism	415

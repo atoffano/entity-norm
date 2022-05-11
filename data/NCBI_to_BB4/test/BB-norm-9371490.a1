@@ -1,0 +1,12 @@
+T1	Title 0 64	Frequent inactivation of PTEN/MMAC1 in primary prostate cancer.
+T2	Paragraph 64 1167	Sporadic prostate carcinoma is the most common male cancer in the Western world, yet many of the major genetic events involved in the progression of this often fatal cancer remain to be elucidated. Numerous cytogenetic and allelotype studies have reported frequent loss of heterozygosity on chromosomal arm 10q in sporadic prostate cancer. Deletion mapping studies have unambiguously identified a region of chromosome 10q23 to be the minimal area of loss. A new tumor suppressor gene, PTEN/MMAC1, was isolated recently at this region of chromosome 10q23 and found to be inactivated by mutation in three prostate cancer cell lines. We screened 80 prostate tumors by microsatellite analysis and found chromosome 10q23 to be deleted in 23 cases. We then proceeded with sequence analysis of the entire PTEN/MMAC1 coding region and tested for homozygous deletion with new intragenic markers in these 23 cases with 10q23 loss of heterozygosity. The identification of the second mutational event in 10 (43%) tumors establishes PTEN/MMAC1 as a main inactivation target of 10q loss in sporadic prostate cancer..
+T3	SpecificDisease 47 62	prostate cancer
+T4	SpecificDisease 64 91	Sporadic prostate carcinoma
+T5	DiseaseClass 111 122	male cancer
+T6	DiseaseClass 230 236	cancer
+T7	SpecificDisease 378 402	sporadic prostate cancer
+T8	Modifier 526 531	tumor
+T9	Modifier 667 682	prostate cancer
+T10	SpecificDisease 710 725	prostate tumors
+T11	DiseaseClass 1065 1071	tumors
+T12	SpecificDisease 1140 1164	sporadic prostate cancer

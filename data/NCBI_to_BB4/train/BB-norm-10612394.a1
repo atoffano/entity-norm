@@ -1,0 +1,9 @@
+T1	Title 0 118	The DNA double-strand break repair gene hMRE11 is mutated in individuals with an ataxia-telangiectasia-like disorder.
+T2	Paragraph 118 930	We show that hypomorphic mutations in hMRE11, but not in ATM, are present in certain individuals with an ataxia-telangiectasia-like disorder (ATLD). The cellular features resulting from these hMRE11 mutations are similar to those seen in A-T as well as NBS and include hypersensitivity to ionizing radiation, radioresistant DNA synthesis, and abrogation of ATM-dependent events, such as the activation of Jun kinase following exposure to gamma irradiation. Although the mutant hMre11 proteins retain some ability to interact with hRad50 and Nbs1, formation of ionizing radiation-induced hMre11 and Nbs1 foci was absent in hMRE11 mutant cells. These data demonstrate that ATM and the hMre11/hRad50/Nbs1 protein complex act in the same DNA damage response pathway and link hMre11 to the complex pathology of A-T..
+T3	SpecificDisease 81 116	ataxia-telangiectasia-like disorder
+T4	SpecificDisease 223 258	ataxia-telangiectasia-like disorder
+T5	SpecificDisease 260 264	ATLD
+T6	SpecificDisease 356 359	A-T
+T7	SpecificDisease 371 374	NBS
+T8	SpecificDisease 387 425	hypersensitivity to ionizing radiation
+T9	SpecificDisease 924 927	A-T

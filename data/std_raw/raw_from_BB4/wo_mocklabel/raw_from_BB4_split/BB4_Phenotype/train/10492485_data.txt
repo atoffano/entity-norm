@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+792	801	parasites	Phenotype	OBT:000372

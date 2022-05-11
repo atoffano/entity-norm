@@ -1,0 +1,16 @@
+T1	Title 0 78	A common human skin tumour is caused by activating mutations in beta-catenin.
+T2	Paragraph 78 1762	WNT signalling orchestrates a number of developmental programs. In response to this stimulus, cytoplasmic beta-catenin (encoded by CTNNB1) is stabilized, enabling downstream transcriptional activation by members of the LEF/TCF family. One of the target genes for beta-catenin/TCF encodes c-MYC, explaining why constitutive activation of the WNT pathway can lead to cancer, particularly in the colon. Most colon cancers arise from mutations in the gene encoding adenomatous polyposis coli (APC), a protein required for ubiquitin-mediated degradation of beta-catenin, but a small percentage of colon and some other cancers harbour beta-catenin-stabilizing mutations. Recently, we discovered that transgenic mice expressing an activated beta-catenin are predisposed to developing skin tumours resembling pilomatricomas. Given that the skin of these adult mice also exhibits signs of de novo hair-follicle morphogenesis, we wondered whether human pilomatricomas might originate from hair matrix cells and whether they might possess beta-catenin-stabilizing mutations. Here, we explore the cell origin and aetiology of this common human skin tumour. We found nuclear LEF-1 in the dividing tumour cells, providing biochemical evidence that pilomatricomas are derived from hair matrix cells. At least 75% of these tumours possess mutations affecting the amino-terminal segment, normally involved in phosphorylation-dependent, ubiquitin-mediated degradation of the protein. This percentage of CTNNB1 mutations is greater than in all other human tumours examined thus far, and directly implicates beta-catenin/LEF misregulation as the major cause of hair matrix cell tumorigenesis in humans..
+T3	DiseaseClass 15 26	skin tumour
+T4	DiseaseClass 443 449	cancer
+T5	DiseaseClass 483 496	colon cancers
+T6	SpecificDisease 539 565	adenomatous polyposis coli
+T7	SpecificDisease 567 570	APC
+T8	CompositeMention 670 698	colon and some other cancers
+T9	DiseaseClass 855 867	skin tumours
+T10	SpecificDisease 879 893	pilomatricomas
+T11	SpecificDisease 1021 1035	pilomatricomas
+T12	DiseaseClass 1210 1221	skin tumour
+T13	Modifier 1262 1268	tumour
+T14	SpecificDisease 1312 1326	pilomatricomas
+T15	DiseaseClass 1385 1392	tumours
+T16	DiseaseClass 1615 1622	tumours

@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+98	122	cross-protective vaccine	Habitat	OBT:000464
+610	661	diseased Japanese flounder cultured in a local farm	Habitat	OBT:000491|OBT:003553
+651	661	local farm	Habitat	OBT:000630
+931	941	host serum	Habitat	OBT:000524
+1000	1004;1015	host tissues	Habitat	OBT:000196
+1000	1010	host blood	Habitat	OBT:000521
+1084	1101	Japanese flounder	Habitat	OBT:003553|OBT:000700
+1134	1146	live vaccine	Habitat	OBT:000464
+1194	1198	oral	Habitat	OBT:001653
+1250	1267	Japanese flounder	Habitat	OBT:000700|OBT:003553
+1560	1577	Japanese flounder	Habitat	OBT:003553|OBT:000700

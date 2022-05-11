@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+87	108	Brevibacterium linens	Microorganism	
+135	153	surface of cheeses	Habitat	
+146	153	cheeses	Habitat	
+190	215	Brevibacterium linens BL2	Microorganism	

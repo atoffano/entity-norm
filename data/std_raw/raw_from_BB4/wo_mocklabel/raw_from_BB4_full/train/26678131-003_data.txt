@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+0	7	Cheeses	Habitat	OBT:001480
+41	60	Lb. plantarum (FH3)	Microorganism	1590
+62	76	H. alvei (B16)	Microorganism	569
+78	95	Lc. lactis (D5.3)	Microorganism	1358
+118	135	dextran-producing	Phenotype	OBT:000019
+136	147	Leuconostoc	Microorganism	1243
+149	160	Lactococcus	Microorganism	1357
+162	175	Lactobacillus	Microorganism	1578
+209	220	Pseudomonas	Microorganism	286
+221	234	Gram negative	Phenotype	OBT:000648
+306	317	Pseudomonas	Microorganism	286
+320	333	Gram positive	Phenotype	OBT:000649
+334	351	catalase positive	Phenotype	OBT:000222

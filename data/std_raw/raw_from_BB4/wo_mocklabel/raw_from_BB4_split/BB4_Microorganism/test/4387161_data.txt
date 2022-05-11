@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+47	67	Aerobacter aerogenes	Microorganism	
+132	152	Aerobacter aerogenes	Microorganism	
+847	859	A. aerogenes	Microorganism	
+925	947	Cryptococcus laurentii	Microorganism	

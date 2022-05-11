@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+68	75	gastric	Habitat	
+68	82	gastric biopsy	Habitat	
+144	151	gastric	Habitat	
+144	157	gastric ulcer	Habitat	
+159	166	gastric	Habitat	
+187	221	mucosal associated lymphoid tissue	Habitat	
+206	221	lymphoid tissue	Habitat	
+274	288	gastric biopsy	Habitat	
+274	281	gastric	Habitat	
+318	325	patient	Habitat	
+429	441	laboratories	Habitat	
+610	618	patients	Habitat	
+809	815	polyps	Habitat	
+1270	1277	gastric	Habitat	
+1270	1286	gastric biopsies	Habitat	
+1696	1723	previously treated patients	Habitat	

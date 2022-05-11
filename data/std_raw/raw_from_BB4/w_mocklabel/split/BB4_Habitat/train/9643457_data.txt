@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+31	41	neutrophil	Habitat	OBT:003004
+135	141	cattle	Habitat	OBT:003532
+149	161	healthy cows	Habitat	OBT:003572
+163	173	neutrophil	Habitat	OBT:003004
+403	414	neutrophils	Habitat	OBT:003004
+519	551	neutrophils with enzyme activity	Habitat	OBT:003004
+635	639	cows	Habitat	OBT:003572
+685	717	neutrophils with enzyme activity	Habitat	OBT:003004
+1265	1275	neutrophil	Habitat	OBT:003004
+1313	1345	neutrophils with enzyme activity	Habitat	OBT:003004
+1476	1501	severely diseased animals	Habitat	OBT:003572|OBT:000491

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+223	236	Psychrobacter	Microorganism	497
+275	284	Halomonas	Microorganism	2745
+336	342	Hafnia	Microorganism	568

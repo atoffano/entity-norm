@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+25	30	tumor	Modifier	D009369
+75	101	adenomatous polyposis coli	Modifier	D011125
+127	157	familial adenomatous polyposis	SpecificDisease	D011125
+174	191	colorectal tumors	SpecificDisease	D015179
+202	205	APC	Modifier	D011125

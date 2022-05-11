@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+40	82	dihydropyrimidine dehydrogenase deficiency	SpecificDisease	D054067
+84	132	Dihydropyrimidine dehydrogenase (DPD) deficiency	SpecificDisease	D054067
+139	166	autosomal recessive disease	DiseaseClass	D030342
+356	370	DPD deficiency	SpecificDisease	D054067
+438	455	deficiency of DPD	SpecificDisease	D054067
+745	748	DPD	Modifier	D054067
+985	1005	convulsive disorders	DiseaseClass	D004829
+1007	1024	motor retardation	DiseaseClass	D019957
+1029	1047	mental retardation	DiseaseClass	D008607
+1252	1274	clinical abnormalities	DiseaseClass	D013568
+1304	1318	DPD deficiency	SpecificDisease	D054067

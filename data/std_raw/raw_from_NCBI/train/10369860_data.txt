@@ -1,0 +1,22 @@
+start	end	mention	_class	labels
+29	52	rearrangement disorders	DiseaseClass	D002869
+160	188	congenital anomaly disorders	DiseaseClass	D000013
+193	209	malignant tumors	DiseaseClass	D018198
+217	245	congenital anomaly disorders	DiseaseClass	D000013
+247	263	cat-eye syndrome	SpecificDisease	C535918|OMIM:115470
+265	280	der () syndrome	SpecificDisease	C535733
+285	312	velo-cardio-facial syndrome	SpecificDisease	D004062
+313	330	DiGeorge syndrome	SpecificDisease	D004062
+332	336	VCFS	SpecificDisease	D004062
+337	340	DGS	SpecificDisease	D004062
+438	442	VCFS	SpecificDisease	D004062
+443	446	DGS	SpecificDisease	D004062
+660	664	VCFS	Modifier	D004062
+665	668	DGS	Modifier	D004062
+719	723	VCFS	Modifier	D004062
+724	727	DGS	Modifier	D004062
+1204	1208	VCFS	Modifier	D004062
+1209	1212	DGS	Modifier	D004062
+1486	1490	VCFS	Modifier	D004062
+1491	1494	DGS	Modifier	D004062
+1675	1703	congenital anomaly disorders	DiseaseClass	D000013

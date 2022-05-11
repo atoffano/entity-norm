@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+87	93	humans	Habitat	
+140	144	pigs	Habitat	
+202	208	humans	Habitat	
+610	627	contaminated food	Habitat	
+655	697	case-patients with pig-related occupations	Habitat	
+655	673;702	case-patients with history of eating high-risk food	Habitat	
+674	677	pig	Habitat	
+720	734	high-risk food	Habitat	

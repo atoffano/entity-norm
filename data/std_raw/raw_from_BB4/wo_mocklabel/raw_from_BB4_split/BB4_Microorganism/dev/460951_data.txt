@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+9	21	mycobacteria	Microorganism	1763
+181	193	mycobacteria	Microorganism	1763
+417	446	M. fortuitum-chelonei complex	Microorganism	1766|1774
+500	510	M. marinum	Microorganism	1781
+530	541	M. ulcerans	Microorganism	1809

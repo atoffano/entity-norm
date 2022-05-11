@@ -1,0 +1,19 @@
+T1	Title 0 96	Genotype-phenotype correlations in families with deletions in the von Hippel-Lindau (VHL) gene.
+T2	Paragraph 96 1358	Von Hippel-Lindau (VHL) disease is a hereditary tumor syndrome characterized by predisposition for bilateral and multi-centric hemangioblastoma in the retina and central nervous system, pheochromocytoma, renal cell carcinoma, and cysts in the kidney, pancreas, and epididymis. We describe five families for which direct sequencing of the coding region of the VHL gene had failed to identify the family-specific mutation. Further molecular analysis revealed deletions involving the VHL gene in each of these families. In four families, partial deletions of one or more exons were detected by Southern blot analysis. In the fifth family, FISH analysis demonstrated the deletion of the entire VHL gene. Our results show that (quantitative) Southern blot analysis is a sensitive method for detecting germline deletions of the VHL gene and should be implemented in routine DNA diagnosis for VHL disease. Our data support the previously established observation that families with a germline deletion have a low risk for pheochromocytoma. Further unraveling of genotype-phenotype correlations in VHL disease has revealed that families with a full or partial deletion of the VHL gene exhibit a phenotype with a preponderance of central nervous system hemangioblastoma..
+T3	Modifier 66 83	von Hippel-Lindau
+T4	Modifier 85 88	VHL
+T5	SpecificDisease 96 127	Von Hippel-Lindau (VHL) disease
+T6	DiseaseClass 133 158	hereditary tumor syndrome
+T7	CompositeMention 195 239	bilateral and multi-centric hemangioblastoma
+T8	SpecificDisease 282 298	pheochromocytoma
+T9	SpecificDisease 300 320	renal cell carcinoma
+T10	CompositeMention 326 371	cysts in the kidney, pancreas, and epididymis
+T11	Modifier 455 458	VHL
+T12	Modifier 577 580	VHL
+T13	Modifier 786 789	VHL
+T14	Modifier 918 921	VHL
+T15	SpecificDisease 982 993	VHL disease
+T16	SpecificDisease 1110 1126	pheochromocytoma
+T17	SpecificDisease 1185 1196	VHL disease
+T18	Modifier 1263 1266	VHL
+T19	SpecificDisease 1316 1355	central nervous system hemangioblastoma

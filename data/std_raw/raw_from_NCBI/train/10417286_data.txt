@@ -1,0 +1,25 @@
+start	end	mention	_class	labels
+50	72	van der Woude syndrome	SpecificDisease	C536528
+126	138	cleft palate	SpecificDisease	D002972
+156	178	van der Woude syndrome	SpecificDisease	C536528
+180	183	VWS	SpecificDisease	C536528
+240	276	pits and/or sinuses of the lower lip	CompositeMention	D008047
+278	294	cleft lip/palate	SpecificDisease	D002971|D002972
+296	300	CL/P	SpecificDisease	D002971|D002972
+303	315	cleft palate	SpecificDisease	D002972
+317	319	CP	SpecificDisease	D002972
+322	333	bifid uvula	SpecificDisease	C531732
+339	349	hypodontia	SpecificDisease	D000848
+351	352	H	SpecificDisease	D000848
+373	376	VWS	SpecificDisease	C536528
+454	458	CL/P	SpecificDisease	D002971|D002972
+463	465	CP	SpecificDisease	D002972
+524	526	CP	SpecificDisease	D002972
+550	553	VWS	SpecificDisease	C536528
+593	599	clefts	DiseaseClass	D002971|D002972
+759	762	VWS	SpecificDisease	C536528
+809	811	CP	SpecificDisease	D002972
+881	884	VWS	SpecificDisease	C536528
+960	963	VWS	Modifier	C536528
+1009	1011	CP	SpecificDisease	D002972
+1102	1105	VWS	Modifier	C536528

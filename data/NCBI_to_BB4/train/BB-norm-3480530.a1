@@ -1,0 +1,11 @@
+T1	Title 0 125	Deletions of a DNA sequence in retinoblastomas and mesenchymal tumors: organization of the sequence and its encoded protein.
+T2	Paragraph 125 1089	Retinoblastoma is a childhood tumor that can arise because of mutant alleles acquired as somatic or germinal mutations. The mutant allele can be carried in the germ line. The mutations creating these alleles act by inactivating copies of a recessive oncogene located within band q14 of chromosome 13 and termed the RB1 locus. We have reported isolation of a cDNA fragment that recognizes chromosomal sequences possessing many of the attributes of the retinoblastoma gene associated with the RB1 locus. We now report that this segment is additionally the target of somatic mutations in mesenchymal tumors among patients having no apparent predisposition to retinoblastoma and no previous evidence of retinoblastoma. These tumors provide additional evidence that the cloned sequences are representative of a gene that is a frequent target of inactivation during tumorigenesis. Sequence analysis of this cDNA provides little insight into its normal functional role..
+T3	SpecificDisease 31 46	retinoblastomas
+T4	DiseaseClass 51 69	mesenchymal tumors
+T5	SpecificDisease 125 139	Retinoblastoma
+T6	DiseaseClass 145 160	childhood tumor
+T7	Modifier 576 590	retinoblastoma
+T8	DiseaseClass 710 728	mesenchymal tumors
+T9	SpecificDisease 781 795	retinoblastoma
+T10	SpecificDisease 824 838	retinoblastoma
+T11	DiseaseClass 846 852	tumors

@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+275	290	Pseudomonas sp.	Microorganism	MockLabel
+295	307	Serratia sp.	Microorganism	MockLabel
+646	675	Pseudomonas sp. strain Circle	Microorganism	MockLabel
+712	737	Serratia sp. strain White	Microorganism	MockLabel
+843	872	Pseudomonas sp. strain Circle	Microorganism	MockLabel

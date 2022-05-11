@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+63	81	myotonic dystrophy	Modifier	D009223
+139	157	Myotonic dystrophy	SpecificDisease	D009223
+159	161	DM	SpecificDisease	D009223
+185	216	inherited neuromuscular disease	DiseaseClass	D009468+D030342
+232	246	genetic defect	DiseaseClass	D030342
+317	335	myotonic dystrophy	Modifier	D009223
+1666	1668	DM	Modifier	D009223

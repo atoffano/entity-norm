@@ -1,0 +1,19 @@
+T1	Title 0 52	HLA B27 and the genetics of ankylosing spondylitis.
+T2	Paragraph 52 1388	One hundred and twenty-eight of 145 patients with ankylosing spondylitis (AS) were found to be HLA B27 positive. Five patients had evidence of a sero-negative peripheral arthritis resembling peripheral psoriatic arthritis and 3 of these were B27 negative. One further B27 negative patients had a sister with ankylosing spondylitis and ulcerative colitis and a mother with ulcerative colitis. There was evidence of a somewhat later age of onset of symptoms in B27 negative patients. These findings are interpreted as suggesting some degree of clinical and genetic heterogeneity in ankylosing spondylitis with genes for psoriasis and inflammatory bowel disease being important in some individuals, particularly those who are B27 negative. Twenty-five first-degree relatives with ankylosing spondylitis were all B27 positive. The only instance of disassociation of B27 and spondylitis in a family was where the proband had ulcerative colitis as well as spondylitis. Of 13 B27 positive fathers 3 could be diagnosed as having definite ankylosing spondylitis (23%). These findings are thought to provide evidence against the concept that the gene for ankylosing spondylitis is not B27 but a closely linked gene and favour the occurrence of an environmental event affecting approximately one-fifth of B27 positive males to result in disease..
+T3	SpecificDisease 28 50	ankylosing spondylitis
+T4	SpecificDisease 102 124	ankylosing spondylitis
+T5	SpecificDisease 126 128	AS
+T6	SpecificDisease 211 231	peripheral arthritis
+T7	SpecificDisease 243 273	peripheral psoriatic arthritis
+T8	SpecificDisease 360 382	ankylosing spondylitis
+T9	SpecificDisease 387 405	ulcerative colitis
+T10	SpecificDisease 424 442	ulcerative colitis
+T11	SpecificDisease 632 654	ankylosing spondylitis
+T12	SpecificDisease 670 679	psoriasis
+T13	SpecificDisease 684 710	inflammatory bowel disease
+T14	SpecificDisease 829 851	ankylosing spondylitis
+T15	SpecificDisease 922 933	spondylitis
+T16	SpecificDisease 972 990	ulcerative colitis
+T17	SpecificDisease 1002 1013	spondylitis
+T18	SpecificDisease 1082 1104	ankylosing spondylitis
+T19	SpecificDisease 1197 1219	ankylosing spondylitis

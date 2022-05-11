@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+49	72	Lactobacillus plantarum	Microorganism	
+174	202	Lactobacillus plantarum D403	Microorganism	
+216	240	fermented dairy products	Habitat	
+525	548	Ralstonia pickettii 12D	Microorganism	
+775	791	Escherichia coli	Microorganism	
+792	805	Lactobacillus	Microorganism	
+929	941	lactobacilli	Microorganism	
+952	971	Lactobacillus casei	Microorganism	
+973	996	Lactobacillus plantarum	Microorganism	
+998	1021	Lactobacillus fermentum	Microorganism	
+1027	1047	Lactobacillus brevis	Microorganism	
+1264	1295	Lactobacillus delbrueckii 11842	Microorganism	
+1385	1397	lactobacilli	Microorganism	
+1549	1561	lactobacilli	Microorganism	

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+56	70	B. aurantiacum	Microorganism	
+84	95	Leucobacter	Microorganism	
+114	125	Leucobacter	Microorganism	
+134	148	B. aurantiacum	Microorganism	
+293	305	Pusillimonas	Microorganism	
+319	330	Leucobacter	Microorganism	
+364	385	Corynebacterium casei	Microorganism	
+390	402	C. variabile	Microorganism	
+506	519	C. glutamicum	Microorganism	
+825	840	Corynebacterium	Microorganism	

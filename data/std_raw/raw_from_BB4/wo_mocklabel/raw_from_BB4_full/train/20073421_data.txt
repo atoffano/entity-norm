@@ -1,0 +1,20 @@
+start	end	mention	_class	labels
+71	97	Francisella tularensis LVS	Microorganism	263
+101	118	murine macrophage	Habitat	OBT:002995
+101	107	murine	Habitat	OBT:002530
+101	138	murine macrophage-like cell line J774	Habitat	OBT:000062
+140	162	Francisella tularensis	Microorganism	263
+166	200	causative agent of human tularemia	Phenotype	OBT:002806
+185	190	human	Habitat	OBT:002488
+217	262	ability to proliferate inside the human cells	Phenotype	OBT:000195
+251	256	human	Habitat	OBT:002488
+251	262	human cells	Habitat	OBT:000061
+300	317	F. tularensis LVS	Microorganism	263
+328	358	macrophage-like cell line J774	Habitat	OBT:000062
+328	338	macrophage	Habitat	OBT:002995
+405	412	E. coli	Microorganism	110766
+456	466	J774 cells	Habitat	OBT:002995|OBT:000062
+569	582	F. tularensis	Microorganism	263
+688	701	F. tularensis	Microorganism	263
+728	742	J774 cell line	Habitat	OBT:002995|OBT:000062
+839	852	F. tularensis	Microorganism	263

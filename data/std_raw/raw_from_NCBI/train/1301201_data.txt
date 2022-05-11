@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+179	200	hyperphenylalaninemia	DiseaseClass	D010661
+683	686	PKU	Modifier	D010661
+939	964	classical phenylketonuria	SpecificDisease	D010661

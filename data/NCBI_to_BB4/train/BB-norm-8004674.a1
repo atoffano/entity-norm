@@ -1,0 +1,9 @@
+T1	Title 0 91	Isolation of the gene for McLeod syndrome that encodes a novel membrane transport protein.
+T2	Paragraph 91 921	McLeod syndrome is an X-linked multisystem disorder characterized by abnormalities in the neuromuscular and hematopoietic systems. We have assembled a cosmid contig of 360 kb that encompasses the McLeod gene locus. A 50 kb deletion was detected by screening DNA from patients with radiolabeled whole cosmids, and two transcription units were identified within this deletion. The mRNA expression pattern of one of them, designated as XK, correlates closely to the McLeod phenotype. XK encodes a novel protein with structural characteristics of prokaryotic and eukaryotic membrane transport proteins. Nucleotide sequence analysis of XK from two unrelated McLeod patients has identified point mutations at conserved splice donor and acceptor sites. These findings provide direct evidence that XK is responsible for McLeod syndrome..
+T3	SpecificDisease 26 41	McLeod syndrome
+T4	SpecificDisease 91 106	McLeod syndrome
+T5	DiseaseClass 113 142	X-linked multisystem disorder
+T6	Modifier 287 293	McLeod
+T7	Modifier 554 560	McLeod
+T8	Modifier 744 750	McLeod
+T9	SpecificDisease 903 918	McLeod syndrome

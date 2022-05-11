@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+45	65	large yellow croaker	Habitat	OBT:003264
+67	87	Pseudosciaena crocea	Habitat	OBT:003264
+338	358	large yellow croaker	Habitat	OBT:003264
+360	380	Pseudosciaena crocea	Habitat	OBT:003264
+833	839	spleen	Habitat	OBT:000890
+874	880	muscle	Habitat	OBT:001226
+948	961	Gram-negative	Phenotype	OBT:000648
+972	995	Vibrio parahaemolyticus	Microorganism	670
+1010	1015	blood	Habitat	OBT:000521
+1017	1023	spleen	Habitat	OBT:000890
+1028	1033	liver	Habitat	OBT:002725
+1087	1093	spleen	Habitat	OBT:000890
+1205	1210	liver	Habitat	OBT:002725
+1361	1368	mammals	Habitat	OBT:001625
+1408	1428	large yellow croaker	Habitat	OBT:003264
+1445	1455	pathogenic	Phenotype	OBT:002669

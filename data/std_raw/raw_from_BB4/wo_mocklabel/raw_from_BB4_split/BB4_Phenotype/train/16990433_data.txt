@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+27	45	type III secretion	Phenotype	OBT:000019
+145	155	pathogenic	Phenotype	OBT:002806
+192	210	type III secretion	Phenotype	OBT:000019
+458	475	enterohemorrhagic	Phenotype	OBT:002806
+485	489	EHEC	Phenotype	OBT:002806
+875	879	EHEC	Phenotype	OBT:002806
+1007	1011	EHEC	Phenotype	OBT:002806
+1063	1078	plant pathogens	Phenotype	OBT:002732
+1454	1472	type III secretion	Phenotype	OBT:000019
+1566	1579	pathogenicity	Phenotype	OBT:002806

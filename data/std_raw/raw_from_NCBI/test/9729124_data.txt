@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+31	59	congenital chloride diarrhea	Modifier	C536210
+61	64	CLD	Modifier	C536210
+72	100	Congenital chloride diarrhea	SpecificDisease	C536210
+102	105	CLD	SpecificDisease	C536210
+249	252	CLD	Modifier	C536210
+643	646	CLD	Modifier	C536210
+900	903	CLD	Modifier	C536210
+971	987	Pendred syndrome	Modifier	C536648
+994	997	PDS	SpecificDisease	C536648

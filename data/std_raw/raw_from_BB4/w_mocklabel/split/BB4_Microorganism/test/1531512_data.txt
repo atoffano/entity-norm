@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+0	15	Wolinella recta	Microorganism	MockLabel
+55	70	Wolinella recta	Microorganism	MockLabel
+206	214	W. recta	Microorganism	MockLabel
+355	374	W. recta strain 372	Microorganism	MockLabel
+432	440	W. recta	Microorganism	MockLabel
+828	836	W. recta	Microorganism	MockLabel
+948	956	W. recta	Microorganism	MockLabel
+1093	1101	W. recta	Microorganism	MockLabel
+1485	1493	W. recta	Microorganism	MockLabel
+1580	1588	W. recta	Microorganism	MockLabel
+1744	1752	W. recta	Microorganism	MockLabel
+1816	1824	W. recta	Microorganism	MockLabel
+1922	1930	W. recta	Microorganism	MockLabel

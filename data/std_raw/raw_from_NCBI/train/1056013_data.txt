@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+61	82	Ataxia-telangiectasia	SpecificDisease	D001260
+93	109	genetic disorder	DiseaseClass	D030342
+126	143	immune deficiency	DiseaseClass	D007153
+145	167	chromosome instability	DiseaseClass	D043171
+193	212	lymphoid malignancy	SpecificDisease	D008223
+685	706	ataxia-telangiectasia	SpecificDisease	D001260
+934	962	chronic lymphocytic leukemia	SpecificDisease	D015451
+971	979	leukemia	DiseaseClass	D007938
+1101	1109	leukemic	Modifier	D007938
+1275	1296	lymphoid malignancies	SpecificDisease	D008223
+1392	1409	Burkitts lymphoma	SpecificDisease	D002051
+1420	1438	lymphoid neoplasms	DiseaseClass	D008223

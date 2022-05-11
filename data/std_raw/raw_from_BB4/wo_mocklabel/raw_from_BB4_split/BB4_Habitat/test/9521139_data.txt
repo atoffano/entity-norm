@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+88	102	Chilean cities	Habitat	
+133	147	nasopharyngeal	Habitat	
+212	219	mucosal	Habitat	
+293	335	patients admitted to three large hospitals	Habitat	
+320	335	large hospitals	Habitat	
+340	375	children attending day care centers	Habitat	
+359	375	day care centers	Habitat	
+383	397	Chilean cities	Habitat	
+445	451	cities	Habitat	
+577	591	nasopharyngeal	Habitat	
+701	707	cities	Habitat	
+712	740	children 0 to 2 years of age	Habitat	
+867	881	Chilean cities	Habitat	
+1117	1131	nasopharyngeal	Habitat	
+1329	1336	vaccine	Habitat	

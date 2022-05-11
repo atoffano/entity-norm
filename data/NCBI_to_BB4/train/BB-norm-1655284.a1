@@ -1,0 +1,15 @@
+T1	Title 0 132	Germline mutations in the Wilms' tumor suppressor gene are associated with abnormal urogenital development in Denys-Drash syndrome.
+T2	Paragraph 132 1066	Denys-Drash syndrome is a rare human condition in which severe urogenital aberrations result in renal failure, pseudohermaphroditism, and Wilms tumor (nephroblastoma). To investigate its possible role, we have analyzed the coding exons of the Wilms tumor suppressor gene (WT1) for germline mutations. In ten independent cases of Denys-Drash syndrome, point mutations in the zinc finger domains of one WT1 gene copy were found. Nine of these mutations are found within exon 9 (zinc finger III); the remaining mutation is in exon 8 (zinc finger II). These mutations directly affect DNA sequence recognition. In two families analyzed, the mutations were shown to arise de novo. Wilms tumors from three individuals and one juvenile granulosa cell tumor demonstrate reduction to homozygosity for the mutated WT1 allele. Our results provide evidence of a direct role for WT1 in Denys-Drash syndrome and thus urogenital system development..
+T3	Modifier 26 38	Wilms' tumor
+T4	SpecificDisease 110 130	Denys-Drash syndrome
+T5	SpecificDisease 132 152	Denys-Drash syndrome
+T6	DiseaseClass 195 217	urogenital aberrations
+T7	SpecificDisease 228 241	renal failure
+T8	SpecificDisease 243 264	pseudohermaphroditism
+T9	SpecificDisease 270 281	Wilms tumor
+T10	SpecificDisease 283 297	nephroblastoma
+T11	Modifier 375 386	Wilms tumor
+T12	SpecificDisease 461 481	Denys-Drash syndrome
+T13	SpecificDisease 807 819	Wilms tumors
+T14	DiseaseClass 875 880	tumor
+T15	SpecificDisease 1004 1024	Denys-Drash syndrome

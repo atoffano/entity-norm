@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+43	64	Staphylococcus aureus	Microorganism	1280
+93	102	Pathogens	Phenotype	OBT:000375
+163	170	mammals	Habitat	OBT:001625
+234	243	pathogens	Phenotype	OBT:000375
+355	370	human pathogens	Phenotype	OBT:002806
+355	360	human	Habitat	OBT:002488
+372	393	Staphylococcus aureus	Microorganism	1280
+723	732	S. aureus	Microorganism	1280
+866	875	pathogens	Phenotype	OBT:000375

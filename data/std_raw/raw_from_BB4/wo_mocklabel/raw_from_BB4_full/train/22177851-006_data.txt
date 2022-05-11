@@ -1,0 +1,34 @@
+start	end	mention	_class	labels
+11	15;67	S3 + Lactococcus lactis sp. lactis	Microorganism	1360
+24	41	protease-negative	Phenotype	OBT:000019
+50	53;67	S3- Lactococcus lactis sp. lactis	Microorganism	1360
+111	117	cheese	Habitat	OBT:001480
+166	181	model community	Habitat	OBT:000113
+208	231	Lactobacillus casei FH1	Microorganism	1582
+233	264	Arthrobacter arilaitensis Re117	Microorganism	861360
+266	293	Corynebacterium casei Mu120	Microorganism	160386
+295	314	C. flavescens Mu128	Microorganism	1255670
+316	334	C. variabile Mu129	Microorganism	1727
+336	363	Staphylococcus xylosus Com1	Microorganism	1288
+368	382	S. equorum Mu2	Microorganism	246432
+403	419	D. hansenii DH68	Microorganism	4959
+421	438	G. candidum GC129	Microorganism	1173061
+440	458	Y. lipolytica CI35	Microorganism	4952
+463	478	K. lactis  KL65	Microorganism	28985
+535	553	smear soft  cheese	Habitat	OBT:003494
+604	611	Munster	Habitat	OBT:003512
+624	629	Re117	Microorganism	861360
+631	640	Reblochon	Habitat	OBT:003516
+643	647	Com1	Microorganism	1288
+662	665	FH1	Microorganism	1582
+667	679	St. Nectaire	Habitat	OBT:003519
+687	700	Gram-negative	Phenotype	OBT:000648
+719	730	P. celer 91	Microorganism	306572
+735	750	H. alvei  2 920	Microorganism	569
+766	773	Livarot	Habitat	OBT:003510
+778	792	Munster cheese	Habitat	OBT:003512
+834	840	cheese	Habitat	OBT:001480
+900	929	sensitivity to 24 antibiotics	Phenotype	OBT:002675
+934	964	production of biogenic  amines	Phenotype	OBT:000019
+968	983	synthetic media	Habitat	OBT:000007
+991	1023	growth under anaerobic condition	Phenotype	OBT:000189

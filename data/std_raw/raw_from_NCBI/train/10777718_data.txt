@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+0	15	Gaucher disease	SpecificDisease	D005776
+108	123	Gaucher disease	SpecificDisease	D005776
+125	127	GD	SpecificDisease	D005776
+150	176	lysosomal storage disorder	DiseaseClass	D016464

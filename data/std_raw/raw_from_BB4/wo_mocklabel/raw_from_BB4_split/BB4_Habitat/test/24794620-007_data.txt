@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+47	60	young cheeses	Habitat	
+95	110	ripening cellar	Habitat	
+123	129	Cheese	Habitat	
+123	158	Cheese rinds from cellars A1 and A2	Habitat	
+141	148	cellars	Habitat	
+305	316	old cheeses	Habitat	
+317	343	Short-ripened cheese rinds	Habitat	
+317	337	Short-ripened cheese	Habitat	
+766	786	long-ripened cheeses	Habitat	
+893	898;907	young cheeses	Habitat	
+903	914	old cheeses	Habitat	
+925	946	Short-ripened cheeses	Habitat	
+1144	1165	short-ripened cheeses	Habitat	
+1271	1291	long-ripened cheeses	Habitat	
+1352	1373	Short-ripened cheeses	Habitat	

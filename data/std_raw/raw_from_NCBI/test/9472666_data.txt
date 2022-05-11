@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+35	69	complement component C6 deficiency	SpecificDisease	OMIM:612446
+101	135	Complement component C6 deficiency	SpecificDisease	OMIM:612446
+137	140	C6D	SpecificDisease	OMIM:612446
+200	224	meningococcal meningitis	SpecificDisease	D008585
+272	275	C6D	SpecificDisease	OMIM:612446
+300	310	meningitis	SpecificDisease	D008581
+320	340	neisserial infection	SpecificDisease	D016870
+720	723	C6D	SpecificDisease	OMIM:612446

@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+147	155	virulent	Phenotype	OBT:002669

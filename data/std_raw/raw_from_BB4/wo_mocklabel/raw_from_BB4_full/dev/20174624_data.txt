@@ -1,0 +1,60 @@
+start	end	mention	_class	labels
+0	11	Neutrophils	Habitat	OBT:003004
+29	37	Yersinia	Microorganism	629
+99	103	cell	Habitat	OBT:000061
+117	135	type III secretion	Phenotype	OBT:000019
+148	153	human	Habitat	OBT:002488
+148	174	human innate immune system	Habitat	OBT:000686
+213	224	macrophages	Habitat	OBT:002995
+229	257	polymorphonuclear leukocytes	Habitat	OBT:001134
+259	270	neutrophils	Habitat	OBT:003004
+274	278	PMNs	Habitat	OBT:001134
+300	319	bacterial pathogens	Phenotype	OBT:002806
+321	329	Yersinia	Microorganism	629
+390	396	humans	Habitat	OBT:002488
+417	425	Yersinia	Microorganism	629
+446	455	Y. pestis	Microorganism	632
+460	481	Y. pseudotuberculosis	Microorganism	633
+493	510	Y. enterocolitica	Microorganism	630
+540	558	murine macrophages	Habitat	OBT:002995
+540	546;563	murine dendritic cells	Habitat	OBT:002785
+540	546	murine	Habitat	OBT:002530
+604	612	Yersinia	Microorganism	630
+624	634	neutrophil	Habitat	OBT:003004
+692	701	wild-type	Phenotype	OBT:000169
+706	712	mutant	Phenotype	OBT:000118
+724	732	Yersinia	Microorganism	629
+804	838	human monocyte-derived macrophages	Habitat	OBT:002995
+804	809	human	Habitat	OBT:002488
+840	844	HMDM	Habitat	OBT:002995
+850	861	neutrophils	Habitat	OBT:003004
+916	921	HMDMs	Habitat	OBT:002995
+938	955	human neutrophils	Habitat	OBT:003004
+938	943	human	Habitat	OBT:002488
+961	970	virulence	Phenotype	OBT:002806
+990	998	Yersinia	Microorganism	629
+1017	1020	PMN	Habitat	OBT:001134
+1100	1103	PMN	Habitat	OBT:001134
+1142	1152	human PMNs	Habitat	OBT:001134
+1142	1147	human	Habitat	OBT:002488
+1162	1171	virulence	Phenotype	OBT:002806
+1190	1211	Y. pestis strain KIM6	Microorganism	187410
+1282	1286	cell	Habitat	OBT:000706
+1294	1297	PMN	Habitat	OBT:001134
+1358	1367	virulence	Phenotype	OBT:002806
+1458	1479	Y. pestis strain KIM6	Microorganism	187410
+1495	1498	PMN	Habitat	OBT:001134
+1575	1583	PMN cell	Habitat	OBT:001134
+1621	1630	virulence	Phenotype	OBT:002806
+1657	1671	Y. pestis KIM5	Microorganism	187410
+1698	1706	Yersinia	Microorganism	629
+1763	1780	human neutrophils	Habitat	OBT:003004
+1763	1768	human	Habitat	OBT:002488
+1802	1805	PMN	Habitat	OBT:001134
+1836	1845	virulence	Phenotype	OBT:002806
+1864	1872	Yersinia	Microorganism	629
+1903	1911	PMN cell	Habitat	OBT:001134
+1935	1943	Yersinia	Microorganism	629
+1958	1961	PMN	Habitat	OBT:001134
+2008	2013	human	Habitat	OBT:002488
+2057	2060	PMN	Habitat	OBT:001134

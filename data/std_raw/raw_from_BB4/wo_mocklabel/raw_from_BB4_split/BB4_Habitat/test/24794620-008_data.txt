@@ -1,0 +1,25 @@
+start	end	mention	_class	labels
+155	196	short-ripened cheeses from all facilities	Habitat	
+253	267	dairy products	Habitat	
+383	410	cheese producing facilities	Habitat	
+383	389	cheese	Habitat	
+519	538	marine environments	Habitat	
+554	562	sea salt	Habitat	
+554	557	sea	Habitat	
+566	572	cheese	Habitat	
+566	582	cheese  surfaces	Habitat	
+670	690	short-ripened cheese	Habitat	
+670	696	short-ripened cheese rinds	Habitat	
+756	761	brine	Habitat	
+813	828	VB cheese rinds	Habitat	
+813	822	VB cheese	Habitat	
+867	873	cheese	Habitat	
+901	913	young cheese	Habitat	
+1003	1005	VB	Habitat	
+1015	1022	cheeses	Habitat	
+1179	1185	cheese	Habitat	
+1579	1588	VB cheese	Habitat	
+1579	1594	VB cheese rinds	Habitat	
+1710	1727	red-smear cheeses	Habitat	
+1838	1853	cheese surfaces	Habitat	
+1838	1844	cheese	Habitat	

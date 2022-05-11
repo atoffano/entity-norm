@@ -1,0 +1,12 @@
+T1	Title 0 37	X linked recessive thrombocytopenia.
+T2	Paragraph 37 1117	A Saudi Arab boy presented in early childhood with thrombocytopenia, morphologically large and normal sized platelets, increased mean platelet volume, and a hypermegakaryocytic bone marrow. There was no clinical and laboratory evidence of any significant immunological abnormalities. Similar findings in two other brothers suggested strongly that they were all suffering from an X linked recessive thrombocytopenic disorder. Results of DNA analysis with the probe M27 beta are consistent with X linkage and indicate also that the locus of the relevant gene lies close to or is identical to the locus of the gene for the Wiskott-Aldrich syndrome (WAS). Because of various features which include the presence of large and normal sized platelets (rather than small platelets) and freedom from significant immune deficiencies, it is likely that the X linked recessive thrombocytopenia in this family is an isolated entity quite distinct from the classical WAS phenotype. However, a modified expression of the WAS gene producing a mild phenotypic variant cannot be excluded entirely..
+T3	SpecificDisease 0 35	X linked recessive thrombocytopenia
+T4	SpecificDisease 88 104	thrombocytopenia
+T5	DiseaseClass 292 319	immunological abnormalities
+T6	SpecificDisease 416 460	X linked recessive thrombocytopenic disorder
+T7	SpecificDisease 657 681	Wiskott-Aldrich syndrome
+T8	SpecificDisease 683 686	WAS
+T9	DiseaseClass 839 858	immune deficiencies
+T10	SpecificDisease 882 917	X linked recessive thrombocytopenia
+T11	Modifier 989 992	WAS
+T12	Modifier 1042 1045	WAS

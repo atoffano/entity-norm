@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+98	111	Gram positive	Phenotype	OBT:000649
+113	130	catalase positive	Phenotype	OBT:000222
+132	145	salt-tolerant	Phenotype	OBT:002711
+188	206	coagulase-negative	Phenotype	OBT:000235
+207	212	cocci	Phenotype	OBT:000850

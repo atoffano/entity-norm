@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+56	62	cheese	Habitat	
+56	85	cheese rinds from  facility A	Habitat	
+311	339	cheese rinds from facility B	Habitat	
+311	317	cheese	Habitat	

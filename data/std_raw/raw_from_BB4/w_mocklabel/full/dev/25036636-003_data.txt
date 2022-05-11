@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+20	26	cheese	Habitat	OBT:001480
+75	96	Brevibacterium linens	Microorganism	1703
+284	300	γ-Proteobacteria	Microorganism	1236
+304	311	cheeses	Habitat	OBT:001480
+427	449	Pseudoalteromonas spp.	Microorganism	53246
+512	519	cheeses	Habitat	OBT:001480
+529	546	Pseudoalteromonas	Microorganism	53246
+587	617	Pseudoalteromonas haloplanktis	Microorganism	228
+671	688	Pseudoalteromonas	Microorganism	53246
+711	723	cold-adapted	Phenotype	OBT:002982
+753	767	polar seawater	Habitat	OBT:003105

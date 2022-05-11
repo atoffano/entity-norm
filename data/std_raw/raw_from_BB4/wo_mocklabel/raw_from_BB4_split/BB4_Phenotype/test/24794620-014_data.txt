@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+62	72	halophilic	Phenotype	
+77	89	alkaliphilic	Phenotype	
+90	111	lactic acid bacterium	Phenotype	

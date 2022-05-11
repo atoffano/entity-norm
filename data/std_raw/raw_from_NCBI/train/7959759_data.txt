@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+28	48	adrenoleukodystrophy	Modifier	D000326
+55	75	Adrenoleukodystrophy	SpecificDisease	D000326
+77	80	ALD	SpecificDisease	D000326
+101	121	peroxisomal disorder	DiseaseClass	D018901
+135	160	neurodegenerative disease	DiseaseClass	D019636
+180	236	impairment of very long chain fatty acids beta-oxidation	DiseaseClass	OMIM:300100
+313	316	ALD	SpecificDisease	D000326
+572	575	ALD	Modifier	D000326
+684	687	ALD	Modifier	D000326
+960	963	ALD	Modifier	D000326
+1173	1194	adrenomyeloneuropathy	SpecificDisease	D000326
+1220	1223	ALD	SpecificDisease	D000326
+1251	1275	contiguous gene syndrome	DiseaseClass	D025063
+1309	1312	ALD	SpecificDisease	D000326

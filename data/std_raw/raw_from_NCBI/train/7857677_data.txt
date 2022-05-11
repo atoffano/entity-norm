@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+76	99	type II Gaucher disease	Modifier	D005776
+163	178	Gaucher disease	SpecificDisease	D005776
+180	182	GD	SpecificDisease	D005776
+200	237	deficiency of beta-glucocerebrosidase	SpecificDisease	D005776
+276	285	type I GD	SpecificDisease	D005776
+342	352	type II GD	SpecificDisease	D005776
+434	445	type III GD	SpecificDisease	D005776
+575	585	type GD II	SpecificDisease	D005776
+1290	1300	GD type II	Modifier	D005776
+1445	1454	stillborn	DiseaseClass	D005313
+1492	1502	type II GD	SpecificDisease	D005776

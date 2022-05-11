@@ -1,0 +1,26 @@
+start	end	mention	_class	labels
+4	7	APC	Modifier	D011125
+55	72	colorectal tumors	DiseaseClass	D015179
+122	152	familial adenomatous polyposis	SpecificDisease	D011125
+154	157	FAP	SpecificDisease	D011125
+180	206	autosomal dominant disease	DiseaseClass	D030342
+252	285	colorectal adenomas and carcinoma	CompositeMention	D018256|D015179
+336	339	APC	Modifier	D011125
+359	362	FAP	SpecificDisease	D011125
+366	403	attenuated adenomatous polyposis coli	SpecificDisease	C538265
+474	477	APC	Modifier	D011125
+484	521	Attenuated adenomatous polyposis coli	Modifier	C538265
+549	568	colorectal adenomas	SpecificDisease	D000236
+638	641	FAP	SpecificDisease	D011125
+683	691	adenomas	DiseaseClass	D000236
+716	719	APC	Modifier	D011125
+865	868	APC	SpecificDisease	D011125
+926	943	colorectal tumors	SpecificDisease	D015179
+964	972	adenomas	DiseaseClass	D000236
+1041	1077	colorectal adenomas and/or carcinoma	CompositeMention	D018256|D015179
+1126	1129	APC	Modifier	D011125
+1392	1428	metaplastic polyps of the colorectum	SpecificDisease	D003111
+1502	1505	APC	Modifier	D011125
+1558	1591	colorectal adenomas and carcinoma	CompositeMention	D018256|D015179
+1639	1642	FAP	SpecificDisease	D011125
+1677	1694	colorectal cancer	SpecificDisease	D015179

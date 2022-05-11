@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+37	67	urinary calculus in young rats	Habitat	
+37	44	urinary	Habitat	
+57	67	young rats	Habitat	
+219	272	spontaneous urinary calculus in young laboratory rats	Habitat	
+231	238	urinary	Habitat	
+251	272	young laboratory rats	Habitat	
+315	318	rat	Habitat	
+471	474	rat	Habitat	
+876	883	urinary	Habitat	
+898	908	young rats	Habitat	

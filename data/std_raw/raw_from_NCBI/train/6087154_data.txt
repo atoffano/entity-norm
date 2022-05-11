@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+57	68	Lesch-Nyhan	Modifier	D007926
+248	265	HPRT deficiencies	DiseaseClass	OMIM:300323
+286	301	gouty arthritis	SpecificDisease	D015210
+340	360	Lesch-Nyhan syndrome	SpecificDisease	D007926
+362	365	L-N	SpecificDisease	D007926
+368	371	L-N	Modifier	D007926
+574	586	L-N syndrome	SpecificDisease	D007926
+728	743	genetic lesions	DiseaseClass	D020022
+832	835	L-N	Modifier	D007926

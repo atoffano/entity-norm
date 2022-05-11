@@ -1,0 +1,28 @@
+start	end	mention	_class	labels
+0	22	Salinivibrio siamensis	Microorganism	
+38	52	fermented fish	Habitat	
+54	60	pla-ra	Habitat	
+77	90	Gram-negative	Phenotype	
+92	115	facultatively anaerobic	Phenotype	
+117	138	moderately halophilic	Phenotype	
+157	165	ND1-1(T)	Microorganism	
+185	199	fermented fish	Habitat	
+201	207	pla-ra	Habitat	
+237	248	curved rods	Phenotype	
+250	256	motile	Phenotype	
+261	282	non-endospore-forming	Phenotype	
+715	723	ND1-1(T)	Microorganism	
+747	769	Salinivibrio costicola	Microorganism	
+809	835	Salinivibrio proteolyticus	Microorganism	
+891	899	ND1-1(T)	Microorganism	
+946	988	S. costicola subsp. costicola JCM 15095(T)	Microorganism	
+999	1044	S. costicola subsp. alcaliphilus DSM 16359(T)	Microorganism	
+1055	1100	S. costicola subsp. vallismortis JCM 15096(T)	Microorganism	
+1115	1142	S. proteolyticus AF-2004(T)	Microorganism	
+1260	1268	ND1-1(T)	Microorganism	
+1322	1334	Salinivibrio	Microorganism	
+1354	1376	Salinivibrio siamensis	Microorganism	
+1418	1426	ND1-1(T)	Microorganism	
+1429	1441	JCM 14472(T)	Microorganism	
+1442	1452	PCU 301(T)	Microorganism	
+1453	1466	TISTR 1810(T)	Microorganism	

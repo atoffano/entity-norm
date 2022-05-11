@@ -1,0 +1,10 @@
+T1	Title 0 96	Mild and severe muscular dystrophy associated with deletions in Xp21 of the human X chromosome.
+T2	Paragraph 96 866	We have analysed over 300 patients suffering from Duchenne or Becker muscular dystrophy (DMD or BMD). Deletions have been characterised which encompass either the pERT87 (DXS164) locus only, the XJ1. 1 (DXS206) and HIP25 loci only, or all three loci. These loci have been shown to lie within the DMD region covering several hundred kilobases (kb) of DNA. One mildly affected BMD patient possesses a deletion of at least 110 kb including exons of the DMD gene. Other patients with similar exon deletions, or smaller deletions, show the more severe phenotype typical of DMD. We conclude from these studies that the severity of the clinical phenotype cannot be explained on the basis of the size of the deletion. We discuss this in the context of candidate gene sequences.
+T3	DiseaseClass 16 34	muscular dystrophy
+T4	CompositeMention 146 183	Duchenne or Becker muscular dystrophy
+T5	SpecificDisease 185 188	DMD
+T6	SpecificDisease 192 195	BMD
+T7	Modifier 392 395	DMD
+T8	Modifier 471 474	BMD
+T9	Modifier 546 549	DMD
+T10	SpecificDisease 664 667	DMD

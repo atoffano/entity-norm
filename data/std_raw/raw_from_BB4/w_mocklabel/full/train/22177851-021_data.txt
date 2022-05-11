@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+0	12	C. variabile	Microorganism	1727
+13	21	C. casei	Microorganism	160386
+46	60	Gubbeen cheese	Habitat	OBT:003505

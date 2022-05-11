@@ -1,0 +1,23 @@
+T1	Title 0 80	Maternal uniparental disomy for chromosome 14 in a boy with a normal karyotype.
+T2	Paragraph 80 1694	We report on a boy with a maternal uniparental disomy for chromosome 14 (UPD (14)). At 7 years of age he was referred to us by the paediatrician because of symptoms of Prader-Willi syndrome (PWS). He showed short stature, obesity, mild developmental delay, cryptorchidism, and some mild dysmorphic features. The history further indicated intrauterine growth retardation at the end of the pregnancy. His mother was 44 years of age at the time of his birth. After birth he showed hypotonia with poor sucking, for which gavage feeding was needed. Motor development was delayed. After 1 year he became obese despite a normal appetite. Recurrent middle ear infections, a high pain threshold, and a great skill with jigsaw puzzles were reported. There were no behavioural problems or sleep disturbance. Chromosomal analysis was normal (46, XY). DNA analysis for Prader-Willi syndrome showed no abnormalities. Two years later he was re-examined because we thought his features fitted the PWS-like phenotype associated with maternal UPD (14). At that time precocious puberty was evident. DNA analysis showed maternal heterodisomy for chromosome 14. In all the previously described 11 cases with maternal UPD (14), a Robertsonian translocation involving chromosome 14 was detected cytogenetically before DNA analysis. This is the first report of diagnosis of maternal UPD (14) based on clinical features. This finding underlines the importance of DNA analysis for maternal UPD (14) in patients with a similar PWS-like phenotype even without previous identification of a Robertsonian translocation involving chromosome 14..
+T3	SpecificDisease 0 45	Maternal uniparental disomy for chromosome 14
+T4	SpecificDisease 106 151	maternal uniparental disomy for chromosome 14
+T5	SpecificDisease 153 156	UPD
+T6	SpecificDisease 248 269	Prader-Willi syndrome
+T7	SpecificDisease 271 274	PWS
+T8	DiseaseClass 287 300	short stature
+T9	SpecificDisease 302 309	obesity
+T10	DiseaseClass 316 335	developmental delay
+T11	SpecificDisease 337 351	cryptorchidism
+T12	DiseaseClass 367 386	dysmorphic features
+T13	DiseaseClass 418 449	intrauterine growth retardation
+T14	DiseaseClass 558 567	hypotonia
+T15	Modifier 678 683	obese
+T16	SpecificDisease 721 742	middle ear infections
+T17	SpecificDisease 936 957	Prader-Willi syndrome
+T18	Modifier 1061 1064	PWS
+T19	SpecificDisease 1105 1108	UPD
+T20	DiseaseClass 1180 1201	maternal heterodisomy
+T21	SpecificDisease 1276 1279	UPD
+T22	SpecificDisease 1439 1442	UPD
+T23	Modifier 1580 1583	PWS

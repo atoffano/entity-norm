@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+82	87	stool	Habitat	
+163	168	stool	Habitat	
+650	672	clinical fecal samples	Habitat	
+650	658	clinical	Habitat	
+827	848	cytotoxigenic culture	Habitat	
+2022	2032	laboratory	Habitat	

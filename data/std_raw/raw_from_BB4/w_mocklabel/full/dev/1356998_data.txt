@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+0	5	Human	Habitat	OBT:002488
+10	14	tick	Habitat	OBT:001821
+15	34	spotted fever group	Microorganism	114277
+35	45	Rickettsia	Microorganism	780
+105	124	spotted fever group	Microorganism	114277
+125	136	rickettsiae	Microorganism	780
+198	203	ticks	Habitat	OBT:001821
+218	224	humans	Habitat	OBT:002488
+387	392	human	Habitat	OBT:003269
+421	497	patients suffering from rickettsial disease of different degrees of severity	Habitat	OBT:003269
+769	787	Rickettsia conorii	Microorganism	781
+879	907;922	R. conorii reference strains no. 7	Microorganism	781
+879	907;909	R. conorii reference strains Moroccan	Microorganism	781
+1151	1170	spotted fever group	Microorganism	114277
+1191	1196	ticks	Habitat	OBT:001821
+1201	1207	humans	Habitat	OBT:003269
+1375	1385	R. conorii	Microorganism	781

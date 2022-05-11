@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+216	227	cheese rind	Habitat	
+301	328	surfaces  of Danish cheeses	Habitat	
+314	328	Danish cheeses	Habitat	
+473	481	raw milk	Habitat	
+486	492	cheese	Habitat	
+627	634	Fontina	Habitat	
+647	663	Austrian cheeses	Habitat	
+854	860	cheese	Habitat	
+902	916	raw cow's milk	Habitat	
+906	909	cow	Habitat	

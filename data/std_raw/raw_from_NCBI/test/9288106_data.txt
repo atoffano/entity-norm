@@ -1,0 +1,30 @@
+start	end	mention	_class	labels
+40	61	ataxia-telangiectasia	Modifier	D001260
+72	97	sporadic T-cell leukaemia	SpecificDisease	D015458
+99	120	Ataxia-telangiectasia	SpecificDisease	D001260
+122	125	A-T	SpecificDisease	D001260
+132	163	recessive multi-system disorder	DiseaseClass	D030342
+235	241	cancer	DiseaseClass	D009369
+254	273	lymphoid neoplasias	DiseaseClass	D008223
+304	307	A-T	Modifier	D001260
+389	395	tumour	Modifier	D009369
+419	459	sporadic T-cell prolymphocytic leukaemia	SpecificDisease	D015461
+461	466	T-PLL	SpecificDisease	D015461
+476	493	clonal malignancy	DiseaseClass	 D007945
+517	540	mature T-cell leukaemia	SpecificDisease	D015458
+549	552	A-T	SpecificDisease	D001260
+606	611	T-PLL	SpecificDisease	D015461
+663	666	A-T	SpecificDisease	D001260
+713	722	leukaemia	DiseaseClass	D007938
+1030	1035	T-PLL	SpecificDisease	D015461
+1070	1073	A-T	Modifier	D001260
+1160	1166	tumour	Modifier	D009369
+1212	1221	leukaemia	DiseaseClass	D007938
+1279	1285	tumour	Modifier	D009369
+1309	1338	B-cell non-Hodgkins lymphomas	SpecificDisease	D016393
+1340	1345	B-NHL	SpecificDisease	D016393
+1353	1358	B-NHL	Modifier	D016393
+1517	1524	tumours	DiseaseClass	D009369
+1594	1608	sporadic T-PLL	SpecificDisease	D015461
+1641	1647	tumour	Modifier	D009369
+1741	1746	T-PLL	SpecificDisease	D015461

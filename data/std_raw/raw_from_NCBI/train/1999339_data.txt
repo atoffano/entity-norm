@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+67	118	Glucose-6-phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955
+622	637	G6PD deficiency	SpecificDisease	D005955

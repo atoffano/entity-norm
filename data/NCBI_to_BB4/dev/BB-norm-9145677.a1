@@ -1,0 +1,16 @@
+T1	Title 0 84	BRCA1 mutations in women attending clinics that evaluate the risk of breast cancer.
+T2	Paragraph 84 1885	BACKGROUND  To define the incidence of BRCA1 mutations among patients seen in clinics that evaluate the risk of breast cancer, we analyzed DNA samples from women seen in this setting and constructed probability tables to provide estimates of the likelihood of finding a BRCA1 mutation in individual families. METHODS  Clinical information, family histories, and blood for DNA analysis were obtained from 263 women with breast cancer. Conformation-sensitive gel electrophoresis and DNA sequencing were used to identify BRCA1 mutations. RESULTS  BRCA1 mutations were identified in 16 percent of women with a family history of breast cancer. Only 7 percent of women from families with a history of breast cancer but not ovarian cancer had BRCA1 mutations. The rates were higher among women from families with a history of both breast and ovarian cancer. Among family members, an average age of less than 55 years at the diagnosis of breast cancer, the presence of ovarian cancer, the presence of breast and ovarian cancer in the same woman, and Ashkenazi Jewish ancestry were all associated with an increased risk of detecting a BRCA1 mutation. No association was found between the presence of bilateral breast cancer or the number of breast cancers in a family and the detection of a BRCA1 mutation, or between the position of the mutation in the BRCA1 gene and the presence of ovarian cancer in a family. CONCLUSIONS  Among women with breast cancer and a family history of the disease, the percentage with BRCA1 coding-region mutations is less than the 45 percent predicted by genetic-linkage analysis. These results suggest that even in a referral clinic specializing in screening women from high-risk families, the majority of tests for BRCA1 mutations will be negative and therefore uninformative..
+T3	SpecificDisease 69 82	breast cancer
+T4	SpecificDisease 196 209	breast cancer
+T5	SpecificDisease 503 516	breast cancer
+T6	SpecificDisease 708 721	breast cancer
+T7	SpecificDisease 779 792	breast cancer
+T8	SpecificDisease 801 815	ovarian cancer
+T9	CompositeMention 908 933	breast and ovarian cancer
+T10	SpecificDisease 1014 1027	breast cancer
+T11	SpecificDisease 1045 1059	ovarian cancer
+T12	CompositeMention 1077 1102	breast and ovarian cancer
+T13	SpecificDisease 1285 1298	breast cancer
+T14	SpecificDisease 1316 1330	breast cancers
+T15	SpecificDisease 1460 1474	ovarian cancer
+T16	SpecificDisease 1518 1531	breast cancer

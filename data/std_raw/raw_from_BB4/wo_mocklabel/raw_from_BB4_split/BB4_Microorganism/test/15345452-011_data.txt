@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+27	45	Lactococcus lactis	Microorganism	
+47	72	Leuconostoc mesenteroides	Microorganism	
+78	101	Lactobacillus plantarum	Microorganism	
+186	212	Streptococcus thermophilus	Microorganism	
+217	256	Lactobacillus delbrueckii subsp. lactis	Microorganism	

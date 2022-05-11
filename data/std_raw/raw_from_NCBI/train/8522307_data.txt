@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+8	25	von Hippel-Lindau	Modifier	D006623
+49	88	papillary cystadenoma of the epididymis	SpecificDisease	D018292
+90	129	Papillary cystadenoma of the epididymis	SpecificDisease	D018292
+212	243	von Hippel-Lindau (VHL) disease	SpecificDisease	D006623
+319	322	VHL	Modifier	D006623
+420	459	papillary cystadenoma of the epididymis	SpecificDisease	D018292
+504	535	metastatic renal cell carcinoma	SpecificDisease	C538445
+782	803	papillary cystadenoma	SpecificDisease	D018292
+818	838	renal cell carcinoma	SpecificDisease	D002292
+899	924	von Hippel-Lindau disease	Modifier	D006623
+1003	1006	VHL	Modifier	D006623
+1023	1026	VHL	Modifier	D006623
+1072	1078	tumors	DiseaseClass	D009369
+1356	1359	VHL	Modifier	D006623
+1394	1399	tumor	Modifier	D009369
+1417	1420	VHL	Modifier	D006623
+1499	1529	cystadenomas of the epididymis	SpecificDisease	D003537

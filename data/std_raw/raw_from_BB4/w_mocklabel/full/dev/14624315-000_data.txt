@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+3	20	semi-hard cheeses	Habitat	OBT:003458
+27	32	Gouda	Habitat	OBT:003474
+36	43	Cheddar	Habitat	OBT:003469
+130	145	Lactococcus sp.	Microorganism	44273
+153	170	Lactobacillus sp.	Microorganism	1591
+326	340	dairy products	Habitat	OBT:001208
+345	362	Propionibacterium	Microorganism	1743
+370	380	Maasdammer	Habitat	OBT:003458
+385	403	Swiss-type cheeses	Habitat	OBT:003428
+429	446	Streptococcus sp.	Microorganism	1306
+448	467	Lb. bulgaricus spp.	Microorganism	1585
+472	491	Bifidobacterium sp.	Microorganism	41200
+514	522	yoghurts	Habitat	OBT:003241
+594	606	Arthrobacter	Microorganism	1663
+608	622	Brevibacterium	Microorganism	1696
+627	646	Corynebacterium sp.	Microorganism	1720
+650	673	surface-ripened cheeses	Habitat	OBT:003428

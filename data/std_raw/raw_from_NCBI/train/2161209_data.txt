@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+34	54	adrenoleukodystrophy	SpecificDisease	D000326
+59	80	adrenomyeloneuropathy	SpecificDisease	D000326
+176	196	adrenoleukodystrophy	SpecificDisease	D000326
+198	201	ALD	SpecificDisease	D000326
+206	227	adrenomyeloneuropathy	SpecificDisease	D000326
+229	232	AMN	SpecificDisease	D000326
+326	329	ALD	SpecificDisease	D000326
+330	333	AMN	SpecificDisease	D000326
+399	402	ALD	SpecificDisease	D000326
+407	410	AMN	SpecificDisease	D000326
+472	475	ALD	SpecificDisease	D000326
+480	483	AMN	SpecificDisease	D000326
+595	598	ALD	SpecificDisease	D000326
+603	606	AMN	SpecificDisease	D000326
+758	761	ALD	Modifier	D000326
+762	765	AMN	Modifier	D000326

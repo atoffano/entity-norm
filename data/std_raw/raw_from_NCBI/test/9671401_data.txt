@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+45	59	retinoblastoma	Modifier	D012175
+105	110	tumor	Modifier	D009369
+282	296	retinoblastoma	Modifier	D012175
+354	371	unilateral tumors	DiseaseClass	D009369
+800	806	tumors	DiseaseClass	D009369

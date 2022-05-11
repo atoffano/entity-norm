@@ -1,0 +1,13 @@
+T1	Title 0 131	An error in dystrophin mRNA processing in golden retriever muscular dystrophy, an animal homologue of Duchenne muscular dystrophy.
+T2	Paragraph 131 940	Golden retriever muscular dystrophy (GRMD) is a spontaneous, X-linked, progressively fatal disease of dogs and is also a homologue of Duchenne muscular dystrophy (DMD). Two-thirds of DMD patients carry detectable deletions in their dystrophin gene. The defect underlying the remaining one-third of DMD patients is undetermined. Analysis of the canine dystrophin gene in normal and GRMD dogs has failed to demonstrate any detectable loss of exons. Here, we have demonstrated a RNA processing error in GRMD that results from a single base change in the 3 consensus splice site of intron 6. The seventh exon is then skipped, which predicts a termination of the dystrophin reading frame within its N-terminal domain in exon 8. This is the first example of dystrophin deficiency caused by a splice-site mutation..
+T3	SpecificDisease 42 77	golden retriever muscular dystrophy
+T4	SpecificDisease 102 129	Duchenne muscular dystrophy
+T5	SpecificDisease 131 166	Golden retriever muscular dystrophy
+T6	SpecificDisease 168 172	GRMD
+T7	SpecificDisease 265 292	Duchenne muscular dystrophy
+T8	SpecificDisease 294 297	DMD
+T9	Modifier 314 317	DMD
+T10	Modifier 429 432	DMD
+T11	Modifier 512 516	GRMD
+T12	SpecificDisease 631 635	GRMD
+T13	SpecificDisease 883 904	dystrophin deficiency

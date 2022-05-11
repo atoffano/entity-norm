@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	28	Ln. pseudomesenteroides (M7)	Microorganism	33968
+30	46	Ln. citreum (M2)	Microorganism	33964
+48	67	Lb. plantarum (FH3)	Microorganism	1590
+69	90	M. caseolyticus (RP8)	Microorganism	69966
+130	152	Listeria monocytogenes	Microorganism	1639
+225	233	H. alvei	Microorganism	569
+251	263	STEC O26:H11	Microorganism	244319
+251	255	STEC	Phenotype	OBT:000019
+270	299	uncooked pressed model cheese	Habitat	OBT:001480

@@ -1,0 +1,21 @@
+start	end	mention	_class	labels
+26	29	APC	Modifier	D011125
+96	99	FAP	SpecificDisease	D011125
+129	132	APC	Modifier	D011125
+155	172	colorectal cancer	Modifier	D015179
+225	242	colorectal cancer	SpecificDisease	D015179
+298	328	familial adenomatous polyposis	SpecificDisease	D011125
+330	333	FAP	SpecificDisease	D011125
+380	406	adenomatous polyposis coli	Modifier	D011125
+408	411	APC	Modifier	D011125
+476	479	APC	Modifier	D011125
+617	620	APC	Modifier	D011125
+642	659	colorectal cancer	SpecificDisease	D015179
+674	677	APC	Modifier	D011125
+713	716	FAP	Modifier	D011125
+732	749	colorectal cancer	Modifier	D015179
+943	946	FAP	Modifier	D011125
+1069	1086	colorectal cancer	Modifier	D015179
+1220	1223	FAP	Modifier	D011125
+1642	1645	FAP	Modifier	D011125
+1658	1675	colorectal cancer	Modifier	D015179

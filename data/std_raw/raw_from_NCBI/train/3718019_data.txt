@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+0	26	Heterozygous C2 deficiency	SpecificDisease	OMIM:217000
+43	53	angioedema	SpecificDisease	D000799
+55	72	myasthenia gravis	SpecificDisease	D009157
+78	106	systemic lupus erythematosus	SpecificDisease	D008180
+135	152	myasthenia gravis	SpecificDisease	D009157
+154	182	systemic lupus erythematosus	SpecificDisease	D008180
+188	198	angioedema	SpecificDisease	D000799
+228	263	complement factor 2 (C2) deficiency	SpecificDisease	OMIM:217000
+346	359	C2 deficiency	SpecificDisease	OMIM:217000
+511	524	C2 deficiency	SpecificDisease	OMIM:217000
+565	585	autoimmune disorders	DiseaseClass	D001327

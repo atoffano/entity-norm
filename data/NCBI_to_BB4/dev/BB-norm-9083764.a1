@@ -1,0 +1,25 @@
+T1	Title 0 61	Heterogeneity in Schwartz-Jampel chondrodystrophic myotonia.
+T2	Paragraph 61 1873	The Schwartz-Jampel syndrome (SJS; chondrodystrophic myotonia; McK 255, 800) is a recessively inherited condition defined by myotonia, short stature, and bone dysplasia. Genetic linkage between SJS and chromosomal region 1q36-34 has been observed in several families, but the gene has not yet been identified. We studied the clinical and radiological features in 81 patients from the literature and 5 own patients trying to identify distinct subgroups. In addition, we tested genetic linkage to the SJS locus on chromosome 1 in one family with two affected sibs. We found that a group of patients have mild skeletal changes which may be secondary consequences of myotonia, while another group of patients appear to have primary bone dysplasia with myotonia. Within this latter group, there are differences in age of manifestation, clinical course and pattern of bone changes. We tentatively isolate three different types of SJS  type 1A, usually recognized in childhood, with moderate bone dysplasia, corresponding to the original descriptions of Schwartz, Jampel and Aberfeld; type 1B, similar to type 1A but recognizable at birth, with more pronounced bone dysplasia resembling Kniest dysplasia; and type 2, manifest at birth, with increased mortality and bone dysplasia resembling Pyle disease. Genetic analysis of the family with two sibs affected by SJS type 2 showed evidence against linkage to chromosome 1p36-34. CONCLUSIONS  SJS is clinically and radiologically heterogeneous. The causes of heterogeneity are not known yet but are likely to include both different mutations at the SJS locus on chromosome 1 and the presence of a second SJS locus. A tentative clinico-radiological classification can be useful for the characterization of patients and the development of genotype-phenotype correlations..
+T3	SpecificDisease 17 59	Schwartz-Jampel chondrodystrophic myotonia
+T4	SpecificDisease 65 89	Schwartz-Jampel syndrome
+T5	SpecificDisease 91 94	SJS
+T6	SpecificDisease 96 122	chondrodystrophic myotonia
+T7	DiseaseClass 143 174	recessively inherited condition
+T8	DiseaseClass 186 194	myotonia
+T9	DiseaseClass 196 209	short stature
+T10	DiseaseClass 215 229	bone dysplasia
+T11	SpecificDisease 255 258	SJS
+T12	Modifier 560 563	SJS
+T13	DiseaseClass 724 732	myotonia
+T14	DiseaseClass 789 803	bone dysplasia
+T15	DiseaseClass 809 817	myotonia
+T16	SpecificDisease 985 997	SJS  type 1A
+T17	DiseaseClass 1046 1060	bone dysplasia
+T18	DiseaseClass 1215 1229	bone dysplasia
+T19	SpecificDisease 1241 1257	Kniest dysplasia
+T20	DiseaseClass 1319 1333	bone dysplasia
+T21	SpecificDisease 1345 1357	Pyle disease
+T22	SpecificDisease 1416 1426	SJS type 2
+T23	SpecificDisease 1495 1498	SJS
+T24	Modifier 1651 1654	SJS
+T25	Modifier 1706 1709	SJS

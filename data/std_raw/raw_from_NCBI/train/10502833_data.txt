@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+112	123	argininemia	SpecificDisease	D020162
+125	136	Argininemia	SpecificDisease	D020162
+147	176	autossomal recessive disorder	DiseaseClass	D030342
+187	241	deficiency in the cytosolic liver-type arginase enzyme	DiseaseClass	D020162
+337	348	argininemia	SpecificDisease	D020162

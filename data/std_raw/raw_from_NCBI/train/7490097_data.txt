@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+38	52	Wilson disease	Modifier	D006527
+108	122	Wilson disease	Modifier	D006527
+124	126	WD	Modifier	D006527
+911	913	WD	SpecificDisease	D006527

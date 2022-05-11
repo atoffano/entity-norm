@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+7	19	cheese model	Habitat	OBT:001480
+177	183	cheese	Habitat	OBT:001480
+225	238;252	high capacity to produce VSC	Phenotype	OBT:000019
+242	250	H. alvei	Microorganism	569
+297	366	high capacity to convert  methionine or cysteine into aroma compounds	Phenotype	OBT:000019
+493	501	H. alvei	Microorganism	569
+515	526	beef models	Habitat	OBT:000007|OBT:001899

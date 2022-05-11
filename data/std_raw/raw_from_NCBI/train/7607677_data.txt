@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+0	30	Mucopolysaccharidosis type IVA	SpecificDisease	OMIM:253000
+110	135	Mucopolysaccharidosis IVA	SpecificDisease	OMIM:253000
+137	144	MPS IVA	SpecificDisease	OMIM:253000
+152	180	autosomal recessive disorder	DiseaseClass	D030342
+193	240	deficiency in N-acetylgalactosamine-6-sulfatase	SpecificDisease	D009085

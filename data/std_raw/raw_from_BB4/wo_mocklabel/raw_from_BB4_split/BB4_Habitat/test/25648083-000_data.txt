@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+132	139	poultry	Habitat	
+282	290	GI tract	Habitat	
+680	688	biofilms	Habitat	

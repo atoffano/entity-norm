@@ -1,0 +1,20 @@
+start	end	mention	_class	labels
+61	80	periodontal disease	SpecificDisease	D010510
+85	107	palmoplantar keratosis	DiseaseClass	D007645
+109	134	Papillon-Lefevre syndrome	SpecificDisease	D010214
+139	163	keratosis palmoplantaris	DiseaseClass	D007645
+169	185	periodontopathia	SpecificDisease	D010510
+187	190	PLS	SpecificDisease	D010214
+211	239	autosomal recessive disorder	DiseaseClass	D030342
+301	314	periodontitis	SpecificDisease	D010518
+420	430	tooth loss	SpecificDisease	D016388
+432	454	Palmoplantar keratosis	DiseaseClass	D007645
+507	521	hyperkeratosis	SpecificDisease	D017488
+580	589	Keratosis	SpecificDisease	D007642
+646	649	PLS	Modifier	D010214
+672	685	periodontitis	SpecificDisease	D010518
+690	704	hyperkeratosis	SpecificDisease	D017488
+730	752	palmoplantar keratosis	DiseaseClass	D007645
+756	769	periodontitis	SpecificDisease	D010518
+799	812	periodontitis	SpecificDisease	D010518
+1386	1389	PLS	Modifier	D010214

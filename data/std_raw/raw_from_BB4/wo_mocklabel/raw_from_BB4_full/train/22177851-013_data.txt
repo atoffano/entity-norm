@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+0	17	Psychrobacter sp.	Microorganism	56811
+22	32	Hafnia sp.	Microorganism	1873498
+60	64	milk	Habitat	OBT:001645
+68	81	smear cheeses	Habitat	OBT:003494

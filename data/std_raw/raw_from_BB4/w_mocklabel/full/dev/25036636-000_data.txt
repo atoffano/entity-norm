@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+79	88	community	Habitat	OBT:000113
+113	119	cheese	Habitat	OBT:001480
+193	201	Yaniella	Microorganism	225447
+206	218	Nocardiopsis	Microorganism	2013
+253	257	food	Habitat	OBT:000094
+298	310	halotolerant	Phenotype	OBT:002711
+311	327	γ-Proteobacteria	Microorganism	1236
+336	342	Vibrio	Microorganism	662
+344	353	Halomonas	Microorganism	2745
+359	376	Pseudoalteromonas	Microorganism	53246
+412	431	marine environments	Habitat	OBT:000338
+506	512	cheese	Habitat	OBT:001480
+506	524	cheese communities	Habitat	OBT:000113

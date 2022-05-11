@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+101	118	murine macrophage	Habitat	OBT:002995
+101	107	murine	Habitat	OBT:002530
+101	138	murine macrophage-like cell line J774	Habitat	OBT:000062
+185	190	human	Habitat	OBT:002488
+251	256	human	Habitat	OBT:002488
+251	262	human cells	Habitat	OBT:000061
+328	358	macrophage-like cell line J774	Habitat	OBT:000062
+328	338	macrophage	Habitat	OBT:002995
+456	466	J774 cells	Habitat	OBT:002995|OBT:000062
+728	742	J774 cell line	Habitat	OBT:002995|OBT:000062

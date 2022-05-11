@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+26	29	APC	Modifier	D011125
+45	75	familial adenomatous polyposis	Modifier	D011125
+186	216	familial adenomatous polyposis	SpecificDisease	D011125
+218	221	FAP	SpecificDisease	D011125
+254	280	adenomatous polyposis coli	Modifier	D011125
+282	285	APC	Modifier	D011125
+779	782	FAP	Modifier	D011125
+980	983	APC	Modifier	D011125
+1015	1018	FAP	Modifier	D011125
+1410	1413	APC	Modifier	D011125
+1422	1425	FAP	Modifier	D011125

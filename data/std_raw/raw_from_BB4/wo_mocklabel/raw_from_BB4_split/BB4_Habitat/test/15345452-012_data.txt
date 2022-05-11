@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+217	231	Morbier cheese	Habitat	
+426	440	dairy industry	Habitat	
+520	536	Leerdamer cheese	Habitat	
+608	625	artificial medium	Habitat	
+804	819	Epoisses cheese	Habitat	
+915	929	dairy products	Habitat	

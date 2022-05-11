@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+986	1002	VLCAD deficiency	SpecificDisease	C536353
+1145	1161	VLCAD deficiency	SpecificDisease	C536353
+1172	1187	cardiac disease	DiseaseClass	D006331
+1226	1253	hypertrophic cardiomyopathy	SpecificDisease	D002312
+1422	1437	cardiac disease	DiseaseClass	D006331

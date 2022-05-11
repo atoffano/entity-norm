@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+9	19	coryneform	Microorganism	
+65	86	Brevibacterium linens	Microorganism	
+113	128	orange colonies	Phenotype	
+132	138	plates	Habitat	

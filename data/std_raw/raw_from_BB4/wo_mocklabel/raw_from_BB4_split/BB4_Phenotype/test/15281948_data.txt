@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	7;19	Mineral usage	Phenotype	
+12	24	carbon usage	Phenotype	
+32	62	synthetic pyrethroid degrading	Phenotype	
+102	122	biodegrading ability	Phenotype	
+127	163	cometabolism of synthetic pyrethroid	Phenotype	
+262	274	SP-degrading	Phenotype	
+790	828	degradation of both SP-based compounds	Phenotype	
+1026	1040	biodegradation	Phenotype	
+1127	1148	biodegradation of SPs	Phenotype	

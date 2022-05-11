@@ -1,0 +1,18 @@
+T1	Title 0 98	The APC gene, responsible for familial adenomatous polyposis, is mutated in human gastric cancer.
+T2	Paragraph 98 1122	Although gastric cancer is the most common cancer in the world, genetic changes during its carcinogenesis are not well understood. Since some gastric cancers are considered to originate from the intestinal metaplasia, it is likely that the adenomatous polyposis coli (APC) gene, the mutation of which causes adenomatous polyps in the colon, is associated with carcinogenesis of gastric cancer. Based on this idea, DNAs isolated from gastric cancers were examined by means of a RNase protection analysis coupled with polymerase chain reaction followed by sequencing of the polymerase chain reaction products. By screening nearly one-half of the coding region of the APC gene in 44 tumors, somatic mutations were detected in three tumors  a missense mutation, a nonsense mutation, and a 5-base pair deletion resulting in a frame shift which causes truncation of the gene product. These results suggest that the mutation of the APC gene also plays an important role during the carcinogenesis of at least some gastric cancers..
+T3	Modifier 4 7	APC
+T4	SpecificDisease 30 60	familial adenomatous polyposis
+T5	SpecificDisease 82 96	gastric cancer
+T6	SpecificDisease 107 121	gastric cancer
+T7	DiseaseClass 141 147	cancer
+T8	SpecificDisease 240 255	gastric cancers
+T9	Modifier 338 364	adenomatous polyposis coli
+T10	Modifier 366 369	APC
+T11	SpecificDisease 406 437	adenomatous polyps in the colon
+T12	SpecificDisease 476 490	gastric cancer
+T13	SpecificDisease 531 546	gastric cancers
+T14	Modifier 763 766	APC
+T15	DiseaseClass 778 784	tumors
+T16	DiseaseClass 827 833	tumors
+T17	Modifier 1023 1026	APC
+T18	SpecificDisease 1104 1119	gastric cancers

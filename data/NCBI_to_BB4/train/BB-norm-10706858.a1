@@ -1,0 +1,19 @@
+T1	Title 0 124	Genetic analysis, phenotypic diagnosis, and risk of venous thrombosis in families with inherited deficiencies of protein S.
+T2	Paragraph 124 1734	Protein S deficiency is a recognized risk factor for venous thrombosis. Of all the inherited thrombophilic conditions, it remains the most difficult to diagnose because of phenotypic variability, which can lead to inconclusive results. We have overcome this problem by studying a cohort of patients from a single center where the diagnosis was confirmed at the genetic level. Twenty-eight index patients with protein S deficiency and a PROS1 gene defect were studied, together with 109 first-degree relatives. To avoid selection bias, we confined analysis of total and free protein S levels and thrombotic risk to the patients relatives. In this group of relatives, a low free protein S level was the most reliable predictor of a PROS1 gene defect (sensitivity 97. 7%, specificity 100%). First-degree relatives with a PROS1 gene defect had a 5. 0-fold higher risk of thrombosis (95% confidence interval, 1. 5-16. 8) than those with a normal PROS1 gene and no other recognized thrombophilic defect. Although pregnancy/puerperium and immobility/trauma were important precipitating factors for thrombosis, almost half of the events were spontaneous. Relatives with splice-site or major structural defects in the PROS1 gene were more likely to have had a thrombotic event and had significantly lower total and free protein S levels than those relatives having missense mutations. We conclude that persons with PROS1 gene defects and protein S deficiency are at increased risk of thrombosis and that free protein S estimation offers the most reliable way of diagnosing the deficiency. (Blood. 2000; 95  1935-1941).
+T3	SpecificDisease 52 69	venous thrombosis
+T4	SpecificDisease 97 122	deficiencies of protein S
+T5	SpecificDisease 124 144	Protein S deficiency
+T6	SpecificDisease 177 194	venous thrombosis
+T7	DiseaseClass 217 241	thrombophilic conditions
+T8	SpecificDisease 533 553	protein S deficiency
+T9	SpecificDisease 560 577	PROS1 gene defect
+T10	SpecificDisease 854 871	PROS1 gene defect
+T11	SpecificDisease 942 959	PROS1 gene defect
+T12	SpecificDisease 991 1001	thrombosis
+T13	SpecificDisease 1100 1120	thrombophilic defect
+T14	SpecificDisease 1167 1173	trauma
+T15	SpecificDisease 1215 1225	thrombosis
+T16	SpecificDisease 1318 1343	defects in the PROS1 gene
+T17	SpecificDisease 1530 1548	PROS1 gene defects
+T18	SpecificDisease 1553 1573	protein S deficiency
+T19	SpecificDisease 1599 1609	thrombosis

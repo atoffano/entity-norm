@@ -1,0 +1,27 @@
+start	end	mention	_class	labels
+14	33	Helicobacter pylori	Microorganism	
+126	145	Helicobacter pylori	Microorganism	
+244	253	H. pylori	Microorganism	
+263	271	duodenal	Habitat	
+263	277	duodenal ulcer	Habitat	
+387	401	duodenal ulcer	Habitat	
+387	395	duodenal	Habitat	
+414	423	H. pylori	Microorganism	
+556	564	duodenal	Habitat	
+556	570	duodenal ulcer	Habitat	
+583	592	H. pylori	Microorganism	
+680	685	ulcer	Habitat	
+710	719	H. pylori	Microorganism	
+816	830	duodenal ulcer	Habitat	
+816	824	duodenal	Habitat	
+843	852	H. pylori	Microorganism	
+994	1002	duodenal	Habitat	
+994	1008	duodenal ulcer	Habitat	
+1055	1064	H. pylori	Microorganism	
+1151	1159	duodenal	Habitat	
+1151	1165	duodenal ulcer	Habitat	
+1178	1187	H. pylori	Microorganism	
+1410	1419	H. pylori	Microorganism	
+1423	1451	patients with duodenal ulcer	Habitat	
+1437	1445	duodenal	Habitat	
+1437	1451	duodenal ulcer	Habitat	

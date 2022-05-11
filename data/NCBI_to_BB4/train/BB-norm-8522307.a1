@@ -1,0 +1,19 @@
+T1	Title 0 90	Somatic von Hippel-Lindau mutation in clear cell papillary cystadenoma of the epididymis.
+T2	Paragraph 90 1531	Papillary cystadenoma of the epididymis is an uncommon benign lesion that may occur sporadically or as a manifestation of von Hippel-Lindau (VHL) disease. Neither immunohistochemical studies nor molecular genetic analyses of the VHL gene have been reported previously for this lesion. The authors describe two cases of clear cell papillary cystadenoma of the epididymis, both of which were initially confused with metastatic renal cell carcinoma. Both lesions showed positive immunohistochemical staining for low and intermediate molecular weight keratins (Cam 5. 2 and AE1/AE3), EMA, vimentin, alpha 1-antitrypsin, and alpha 1-antichymotrypsin. Each was negative for CEA. Because clear cell papillary cystadenoma is similar to renal cell carcinoma histologically, and because both occur as components of the von Hippel-Lindau disease complex, the authors analyzed both cases for the presence of mutations in the VHL gene. A somatic VHL gene mutation was detected in one of the two tumors by polymerase chain reaction followed by single-strand conformation polymorphism analysis. Direct sequencing revealed a cytosine to thymine transition at nucleotide 694, resulting in the replacement of an arginine with a stop codon after the sixth amino acid of exon 3. As the VHL gene is believed to function as a tumor suppressor gene, VHL gene mutations may play a role in the initiation of tumorigenesis in sporadic cystadenomas of the epididymis.
+T3	Modifier 8 25	von Hippel-Lindau
+T4	SpecificDisease 49 88	papillary cystadenoma of the epididymis
+T5	SpecificDisease 90 129	Papillary cystadenoma of the epididymis
+T6	SpecificDisease 212 243	von Hippel-Lindau (VHL) disease
+T7	Modifier 319 322	VHL
+T8	SpecificDisease 420 459	papillary cystadenoma of the epididymis
+T9	SpecificDisease 504 535	metastatic renal cell carcinoma
+T10	SpecificDisease 782 803	papillary cystadenoma
+T11	SpecificDisease 818 838	renal cell carcinoma
+T12	Modifier 899 924	von Hippel-Lindau disease
+T13	Modifier 1003 1006	VHL
+T14	Modifier 1023 1026	VHL
+T15	DiseaseClass 1072 1078	tumors
+T16	Modifier 1356 1359	VHL
+T17	Modifier 1394 1399	tumor
+T18	Modifier 1417 1420	VHL
+T19	SpecificDisease 1499 1529	cystadenomas of the epididymis

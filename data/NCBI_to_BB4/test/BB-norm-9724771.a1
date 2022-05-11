@@ -1,0 +1,27 @@
+T1	Title 0 112	The APC variants I1307K and E1317Q are associated with colorectal tumors, but not always with a family history.
+T2	Paragraph 112 1728	Classical familial adenomatous polyposis (FAP) is a high-penetrance autosomal dominant disease that predisposes to hundreds or thousands of colorectal adenomas and carcinoma and that results from truncating mutations in the APC gene. A variant of FAP is attenuated adenomatous polyposis coli, which results from germ-line mutations in the 5 and 3 regions of the APC gene. Attenuated adenomatous polyposis coli patients have " multiple " colorectal adenomas (typically fewer than 100) without the florid phenotype of classical FAP. Another group of patients with multiple adenomas has no mutations in the APC gene, and their phenotype probably results from variation at a locus, or loci, elsewhere in the genome. Recently, however, a missense variant of APC (I1307K) was described that confers an increased risk of colorectal tumors, including multiple adenomas, in Ashkenazim. We have studied a set of 164 patients with multiple colorectal adenomas and/or carcinoma and analyzed codons 1263-1377 (exon 15G) of the APC gene for germ-line variants. Three patients with the I1307K allele were detected, each of Ashkenazi descent. Four patients had a germ-line E1317Q missense variant of APC that was not present in controls; one of these individuals had an unusually large number of metaplastic polyps of the colorectum. There is increasing evidence that there exist germ-line variants of the APC gene that predispose to the development of multiple colorectal adenomas and carcinoma, but without the florid phenotype of classical FAP, and possibly with importance for colorectal cancer risk in the general population..
+T3	Modifier 4 7	APC
+T4	DiseaseClass 55 72	colorectal tumors
+T5	SpecificDisease 122 152	familial adenomatous polyposis
+T6	SpecificDisease 154 157	FAP
+T7	DiseaseClass 180 206	autosomal dominant disease
+T8	CompositeMention 252 285	colorectal adenomas and carcinoma
+T9	Modifier 336 339	APC
+T10	SpecificDisease 359 362	FAP
+T11	SpecificDisease 366 403	attenuated adenomatous polyposis coli
+T12	Modifier 474 477	APC
+T13	Modifier 484 521	Attenuated adenomatous polyposis coli
+T14	SpecificDisease 549 568	colorectal adenomas
+T15	SpecificDisease 638 641	FAP
+T16	DiseaseClass 683 691	adenomas
+T17	Modifier 716 719	APC
+T18	SpecificDisease 865 868	APC
+T19	SpecificDisease 926 943	colorectal tumors
+T20	DiseaseClass 964 972	adenomas
+T21	CompositeMention 1041 1077	colorectal adenomas and/or carcinoma
+T22	Modifier 1126 1129	APC
+T23	SpecificDisease 1392 1428	metaplastic polyps of the colorectum
+T24	Modifier 1502 1505	APC
+T25	CompositeMention 1558 1591	colorectal adenomas and carcinoma
+T26	SpecificDisease 1639 1642	FAP
+T27	SpecificDisease 1677 1694	colorectal cancer

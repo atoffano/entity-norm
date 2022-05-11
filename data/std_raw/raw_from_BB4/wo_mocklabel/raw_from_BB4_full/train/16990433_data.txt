@@ -1,0 +1,26 @@
+start	end	mention	_class	labels
+27	45	type III secretion	Phenotype	OBT:000019
+59	80	Escherichia coli O157	Microorganism	1045010
+97	112	lambdoid phages	Microorganism	186765
+145	155	pathogenic	Phenotype	OBT:002806
+167	183	Escherichia coli	Microorganism	562
+192	210	type III secretion	Phenotype	OBT:000019
+246	257	human cells	Habitat	OBT:000061
+246	251	human	Habitat	OBT:002488
+278	293	eukaryotic cell	Habitat	OBT:000061
+442	447	Sakai	Microorganism	386585
+458	475	enterohemorrhagic	Phenotype	OBT:002806
+476	498	E. coli (EHEC) O157:H7	Microorganism	83334
+485	489	EHEC	Phenotype	OBT:002806
+875	879	EHEC	Phenotype	OBT:002806
+875	879	EHEC	Microorganism	386585
+987	992	Sakai	Microorganism	386585
+1007	1011	EHEC	Phenotype	OBT:002806
+1007	1011	EHEC	Microorganism	562
+1063	1078	plant pathogens	Phenotype	OBT:002732
+1063	1068	plant	Habitat	OBT:000393
+1110	1118	Shigella	Microorganism	620
+1428	1446	lambdoid prophages	Microorganism	186765
+1454	1472	type III secretion	Phenotype	OBT:000019
+1476	1483	E. coli	Microorganism	562
+1566	1579	pathogenicity	Phenotype	OBT:002806

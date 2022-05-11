@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+56	77	ataxia-telangiectasia	Modifier	D001260
+126	142	genetic disorder	DiseaseClass	D030342
+143	164	ataxia-telangiectasia	SpecificDisease	D001260
+166	169	A-T	SpecificDisease	D001260
+587	590	A-T	Modifier	D001260
+659	662	A-T	Modifier	D001260
+973	976	A-T	Modifier	D001260

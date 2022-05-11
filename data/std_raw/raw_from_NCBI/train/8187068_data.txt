@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+74	99	advanced prostate cancers	SpecificDisease	D011471
+183	209	metastatic prostate cancer	SpecificDisease	D011471
+558	584	metastatic prostate cancer	Modifier	D011471
+954	978	advanced prostate cancer	SpecificDisease	D011471
+1096	1120	advanced prostate cancer	SpecificDisease	D011471

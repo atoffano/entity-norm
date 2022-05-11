@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+16	33	Coxiella burnetii	Microorganism	777
+60	102	Purified preparations of Coxiella burnetii	Habitat	OBT:000007
+85	102	Coxiella burnetii	Microorganism	777
+313	333	C. burnetii extracts	Habitat	OBT:000007
+313	324	C. burnetii	Microorganism	777
+347	358	C. burnetii	Microorganism	777
+373	389	normal yolk sacs	Habitat	OBT:001387
+604	610;624	normal yolk sacs	Habitat	OBT:001387
+615	633	infected yolk sacs	Habitat	OBT:001387
+764	770;784	normal yolk sacs	Habitat	OBT:001387
+775	793	infected yolk sacs	Habitat	OBT:001387
+850	869	C. burnetii extract	Habitat	OBT:000007
+850	861	C. burnetii	Microorganism	777

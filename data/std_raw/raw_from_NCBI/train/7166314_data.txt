@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+78	105	congenital hemolytic anemia	SpecificDisease	D000745
+178	217	chronic nonspherocytic hemolytic anemia	SpecificDisease	D000746
+293	309	hemolytic anemia	SpecificDisease	D000743
+347	362	G6PD deficiency	SpecificDisease	D005955
+408	424	hemolytic crisis	DiseaseClass	D006461
+445	472	upper respiratory infection	SpecificDisease	D012141
+900	909	hemolysis	SpecificDisease	D006461
+914	938	chronic hemolytic anemia	SpecificDisease	D000745

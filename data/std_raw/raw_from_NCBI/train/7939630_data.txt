@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+27	56	breast and ovarian carcinomas	CompositeMention	D001943|D010051
+91	106	familial tumors	DiseaseClass	D009386
+165	188	ovarian and early-onset	CompositeMention	D010051
+189	202	breast cancer	CompositeMention	D001943
+214	219	tumor	Modifier	D009369
+284	319	sporadic breast and ovarian cancers	SpecificDisease	D001943|D010051
+387	393	tumors	DiseaseClass	D009369
+457	482	breast and ovarian tumors	CompositeMention	D001943|D010051
+579	597	ovarian carcinomas	SpecificDisease	D010051
+672	679	cancers	DiseaseClass	D009369
+784	810	breast and ovarian cancers	CompositeMention	D001943|D010051

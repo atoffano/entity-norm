@@ -1,0 +1,11 @@
+T1	Title 0 86	Glucose 6-phosphate dehydrogenase deficiency and incidence of hematologic malignancy.
+T2	Paragraph 86 742	We have evaluated the hypothesis of a negative association between glucose 6-phosphate dehydrogenase (G6PD) deficiency and cancer in a cohort of 481 Sardinian males with hematological malignancies. The frequency of G6PD deficiency in the patients was not different from the incidence in a group of 16, 219 controls. The same conclusion resulted from the comparison of the frequency of expression of the GdB gene in 23 heterozygous women having a clonal hematologic disease and a control group of 37 healthy heterozygotes. Therefore at present there is no evidence that G6PD deficiency has a protective effect against development of hematologic neoplasms..
+T3	SpecificDisease 0 44	Glucose 6-phosphate dehydrogenase deficiency
+T4	DiseaseClass 62 84	hematologic malignancy
+T5	SpecificDisease 153 204	glucose 6-phosphate dehydrogenase (G6PD) deficiency
+T6	DiseaseClass 209 215	cancer
+T7	DiseaseClass 256 282	hematological malignancies
+T8	SpecificDisease 301 316	G6PD deficiency
+T9	DiseaseClass 539 558	hematologic disease
+T10	SpecificDisease 655 670	G6PD deficiency
+T11	DiseaseClass 718 739	hematologic neoplasms

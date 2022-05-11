@@ -1,0 +1,20 @@
+start	end	mention	_class	labels
+7	21	H. boliviensis	Microorganism	
+185	194	B. linens	Microorganism	
+240	250	S. equorum	Microorganism	
+263	281	Brevibacterium sp.	Microorganism	
+430	444	H. boliviensis	Microorganism	
+446	460	B. aurantiacum	Microorganism	
+462	477	A. kashmirensis	Microorganism	
+479	491	P. aquaticus	Microorganism	
+615	625	S. equorum	Microorganism	
+627	653	Brevibacterium pityocampae	Microorganism	
+655	684	Brachybacterium conglomeratum	Microorganism	
+686	701	Y. halotolerans	Microorganism	
+1008	1032	Pyxidiophora arvernensis	Microorganism	
+1034	1055	Debaryomyces hansenii	Microorganism	
+1097	1116	Nectria mariannaeae	Microorganism	
+1184	1210	Scopulariopsis brevicaulis	Microorganism	
+1215	1237	Arachnomyces glareosus	Microorganism	
+1392	1406	Actinobacteria	Microorganism	
+1410	1424	Proteobacteria	Microorganism	

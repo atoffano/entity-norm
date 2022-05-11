@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+100	109	M. luteus	Microorganism	415
+114	129	P. glacincolaus	Microorganism	56810
+150	162	S. vitulinus	Microorganism	71237
+287	297	S. equorum	Microorganism	246432
+299	308	B. linens	Microorganism	1703
+313	321	B. casei	Microorganism	33889

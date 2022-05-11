@@ -1,0 +1,16 @@
+T1	Title 0 116	Hereditary deficiency of the fifth component of complement in man. I. Clinical, immunochemical, and family studies.
+T2	Paragraph 116 2055	The first recognized human kindred with hereditary deficiency of the fifth component of complement (C5) is described. The proband, a 20-year-old black female with systemic lupus erythematosus since age 11, lacked serum hemolytic complement activity, even during remission. C5 was undetectable in her serum by both immunodiffusion and hemolytic assays. Other complement components were normal during remission of lupus, but C1, C4, C2, and C3 levels fell during exacerbations. A younger half-sister, who had no underlying disease, was also found to lack immunochemically detectable C5. By hemolytic assay, she exhibited 1-2% of the normal serum C5 level and normal concentrations of other complement components. C5 levels of other family members were either normal or approximately half-normal, consistent with autosomal codominant inheritance of the gene determining C5 deficiency. Normal hemolytic titers were restored to both homozygous C5-deficient (C5D) sera by addition of highly purified human C5. In specific C5 titrations, however, it was noted that when limited amounts of C5 were assayed in the presence of low dilutions of either C5D serum, curving rather than linear dose-response plots were consistently obtained, suggesting some inhibitory effect. Further studies suggested that low dilutions of C5D serum contain a factor (or factors) interfering at some step in the hemolytic assay of C5, rather than a true C5 inhibitor or inactivator. Of clinical interest are (a) the documentation of membranous glomerulonephritis, vasculitis, and arthritis in an individual lacking C5 (and its biologic functions), and (b) a remarkable propensity to bacterial infections in the proband, even during periods of low-dose or alternate-day corticosteroid therapy. Other observations indicate that the C5D state is compatible with normal coagulation function and the capacity to mount a neutrophilic leukocytosis during pyogenic infection..
+T3	SpecificDisease 0 58	Hereditary deficiency of the fifth component of complement
+T4	SpecificDisease 156 214	hereditary deficiency of the fifth component of complement
+T5	SpecificDisease 279 307	systemic lupus erythematosus
+T6	SpecificDisease 983 996	C5 deficiency
+T7	Modifier 1055 1067	C5-deficient
+T8	Modifier 1069 1072	C5D
+T9	Modifier 1257 1260	C5D
+T10	Modifier 1426 1429	C5D
+T11	SpecificDisease 1630 1648	glomerulonephritis
+T12	SpecificDisease 1650 1660	vasculitis
+T13	DiseaseClass 1666 1675	arthritis
+T14	DiseaseClass 1769 1789	bacterial infections
+T15	Modifier 1916 1919	C5D
+T16	DiseaseClass 2034 2052	pyogenic infection

@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+13	36	Vibrio parahaemolyticus	Microorganism	670
+42	50	clinical	Habitat	OBT:003220
+173	195	Vibro parahaemolyticus	Microorganism	670
+210	218	clinical	Habitat	OBT:003220
+373	397	gastroenteritis patients	Habitat	OBT:003269
+411	427	healthy carriers	Habitat	OBT:002712
+480	485	water	Habitat	OBT:000468
+490	502	fish samples	Habitat	OBT:002793

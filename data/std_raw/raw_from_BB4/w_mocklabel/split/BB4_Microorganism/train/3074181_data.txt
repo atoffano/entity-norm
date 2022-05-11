@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+357	378	Staphylococcus aureus	Microorganism	1280

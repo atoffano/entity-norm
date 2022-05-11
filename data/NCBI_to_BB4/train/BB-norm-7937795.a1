@@ -1,0 +1,13 @@
+T1	Title 0 56	Genetic instability in human ovarian cancer cell lines.
+T2	Paragraph 56 1566	We have analyzed the stability of microsatellites in cell lines derived from human ovarian cancers and found that 5 out of 10 of the ovarian tumor cell lines are genetically unstable at the majority of the loci analyzed. In clones and subclones derived serially from one of these cell lines (2774; serous cystadenocarcinoma), a very high proportion of microsatellites distributed in many different regions of the genome change their size in a mercurial fashion. We conclude that genomic instability in ovarian tumors is a dynamic and ongoing process whose high frequency may have been previously underestimated by PCR-based allelotyping of bulk tumor tissue. We have identified the source of the genetic instability in one ovarian tumor as a point mutation (R524P) in the human mismatch-repair gene MSH2 (Salmonella MutS homologue), which has recently been shown to be involved in hereditary nonpolyposis colorectal cancer. Patient 2774 was a 38-year-old heterozygote, and her normal tissue carried both mutant and wild-type alleles of the human MSH2 gene. However the wild-type allele was lost at some point early during tumorigenesis so that DNA isolated either from the patients ovarian tumor or from the 2774 cell line carries only the mutant allele of the human MSH2 gene. The genetic instability observed in the tumor and cell line DNA, together with the germ-line mutation in a mismatch-repair gene, suggest that the MSH2 gene is involved in the onset and/or progression in a subset of ovarian cancer..
+T3	Modifier 29 43	ovarian cancer
+T4	SpecificDisease 139 154	ovarian cancers
+T5	Modifier 189 202	ovarian tumor
+T6	SpecificDisease 354 379	serous cystadenocarcinoma
+T7	SpecificDisease 558 572	ovarian tumors
+T8	Modifier 701 706	tumor
+T9	SpecificDisease 779 792	ovarian tumor
+T10	SpecificDisease 937 978	hereditary nonpolyposis colorectal cancer
+T11	SpecificDisease 1238 1251	ovarian tumor
+T12	DiseaseClass 1374 1379	tumor
+T13	SpecificDisease 1549 1563	ovarian cancer

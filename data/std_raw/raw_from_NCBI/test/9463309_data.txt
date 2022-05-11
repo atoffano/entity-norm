@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+46	63	anhaptoglobinemia	SpecificDisease	D000740
+152	169	anhaptoglobinemia	SpecificDisease	D000740
+456	473	anhaptoglobinemia	SpecificDisease	D000740
+678	697	hypohaptoglobinemia	SpecificDisease	D000740
+879	898	hypohaptoglobinemic	Modifier	D000740
+986	1005	hypohaptoglobinemic	Modifier	D000740
+1746	1763	anhaptoglobinemia	SpecificDisease	D000740
+1871	1890	hypohaptoglobinemia	SpecificDisease	D000740

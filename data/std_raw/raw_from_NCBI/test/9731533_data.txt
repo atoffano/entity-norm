@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+25	31	cancer	Modifier	D009369
+132	162	familial adenomatous polyposis	SpecificDisease	D011125
+164	167	FAP	SpecificDisease	D011125
+189	216	autosomal dominant disorder	DiseaseClass	D030342
+254	260	polyps	DiseaseClass	D011127
+316	333	colorectal cancer	SpecificDisease	D015179
+335	338	CRC	SpecificDisease	D015179
+341	344	APC	SpecificDisease	D011125
+401	408	tumours	DiseaseClass	D009369
+741	744	CRC	SpecificDisease	D015179
+789	795	cancer	DiseaseClass	D009369
+880	916	colorectal, breast and other cancers	CompositeMention	D001943|D015179|D009369

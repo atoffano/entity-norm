@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+0	63	Haploinsufficiency of the transcription factors FOXC1 and FOXC2	CompositeMention	OMIM:602482|OMIM:153400
+104	144	Anterior segment developmental disorders	DiseaseClass	C537775
+156	179	Axenfeld-Rieger anomaly	SpecificDisease	C535679
+181	184	ARA	SpecificDisease	C535679
+271	279	glaucoma	SpecificDisease	D005901
+370	378	glaucoma	Modifier	D005901
+642	666	anterior segment defects	DiseaseClass	C537775
+671	679	glaucoma	SpecificDisease	D005901
+736	766	anterior segment abnormalities	DiseaseClass	C537775
+914	929	iris hypoplasia	SpecificDisease	D007499
+1617	1620	ARA	Modifier	C535679
+1883	1891	glaucoma	SpecificDisease	D005901

@@ -1,0 +1,23 @@
+start	end	mention	_class	labels
+33	57	Flavobacterium columnare	Microorganism	MockLabel
+61	68	channel	Habitat	MockLabel
+61	76	channel catfish	Habitat	MockLabel
+77	96	Ictalurus punctatus	Habitat	MockLabel
+241	265	Flavobacterium columnare	Microorganism	MockLabel
+351	366	channel catfish	Habitat	MockLabel
+351	358	channel	Habitat	MockLabel
+368	387	Ictalurus punctatus	Habitat	MockLabel
+508	516	pathogen	Phenotype	MockLabel
+942	955	Fl. columnare	Microorganism	MockLabel
+1159	1172	Fl. columnare	Microorganism	MockLabel
+1199	1238	experimentally infected channel catfish	Habitat	MockLabel
+1223	1230	channel	Habitat	MockLabel
+1259	1272	Fl. columnare	Microorganism	MockLabel
+1286	1301	channel catfish	Habitat	MockLabel
+1286	1293	channel	Habitat	MockLabel
+1407	1420	Fl. columnare	Microorganism	MockLabel
+1434	1441	channel	Habitat	MockLabel
+1434	1449	channel catfish	Habitat	MockLabel
+1487	1500	Fl. columnare	Microorganism	MockLabel
+1504	1519	fish hatcheries	Habitat	MockLabel
+1504	1508	fish	Habitat	MockLabel

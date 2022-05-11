@@ -1,0 +1,12 @@
+T1	Title 0 117	X-linked spastic paraplegia and Pelizaeus-Merzbacher disease are allelic disorders at the proteolipid protein locus.
+T2	Paragraph 117 956	Three forms of X-linked spastic paraplegia (SPG) have been defined. One locus (SPG 1) maps to Xq28 while two clinically distinct forms map to Xq22 (SPG2). A rare X-linked dysmyelinating disorder of the central nervous system, Pelizaeus-Merzbacher disease (PMD), has also been mapped to Xq21-q22, and is caused by mutations in the proteolipid protein gene (PLP) which encodes two myelin proteins, PLP and DM20. While narrowing the genetic interval containing SPG2 in a large pedigree, we found that PLP was the closest marker to the disease locus, implicating PLP as a possible candidate gene. We have found that a point mutation (His139Tyr) in exon 3B of an affected male produces a mutant PLP but a normal DM20, and segregates with the disease (Zmax = 6. 63, theta = 0. 00). It appears, therefore, that SPG2 and PMD are allelic disorders
+T3	SpecificDisease 0 27	X-linked spastic paraplegia
+T4	SpecificDisease 32 60	Pelizaeus-Merzbacher disease
+T5	DiseaseClass 65 82	allelic disorders
+T6	SpecificDisease 132 159	X-linked spastic paraplegia
+T7	SpecificDisease 161 164	SPG
+T8	DiseaseClass 279 311	X-linked dysmyelinating disorder
+T9	SpecificDisease 343 371	Pelizaeus-Merzbacher disease
+T10	SpecificDisease 373 376	PMD
+T11	SpecificDisease 930 933	PMD
+T12	DiseaseClass 938 955	allelic disorders

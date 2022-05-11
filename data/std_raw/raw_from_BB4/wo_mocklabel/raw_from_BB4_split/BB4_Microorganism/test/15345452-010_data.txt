@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+387	405	Lactococcus lactis	Microorganism	
+407	430	Lactobacillus plantarum	Microorganism	
+432	457	Leuconostoc mesenteroides	Microorganism	
+463	489	Streptococcus thermophilus	Microorganism	
+546	559	staphylococci	Microorganism	
+588	603	Moraxella bovis	Microorganism	
+608	623	Pseudomonas sp.	Microorganism	

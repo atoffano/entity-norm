@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+53	80	Duchenne muscular dystrophy	SpecificDisease	D020388
+120	138	muscular dystrophy	DiseaseClass	D009136
+232	259	Duchenne muscular dystrophy	SpecificDisease	D020388
+261	264	DMD	SpecificDisease	D020388
+323	353	limb-girdle muscular dystrophy	SpecificDisease	D049288
+379	382	DMD	Modifier	D020388
+1096	1099	DMD	Modifier	D020388
+1110	1118	myopathy	DiseaseClass	D009135
+1281	1284	DMD	Modifier	D020388
+1439	1457	uniparental disomy	SpecificDisease	D024182
+1477	1480	DMD	Modifier	D020388

@@ -1,0 +1,22 @@
+start	end	mention	_class	labels
+0	8	Gingival	Habitat	
+124	132	gingival	Habitat	
+203	211	gingival	Habitat	
+277	285;306	pregnant women without periodontitis	Habitat	
+293	333	non-pregnant women without periodontitis	Habitat	
+353	367	pregnant women	Habitat	
+463	481	non-pregnant women	Habitat	
+554	560	plaque	Habitat	
+577	585	gingival	Habitat	
+609	617	salivary	Habitat	
+662	687	gingival crevicular fluid	Habitat	
+662	670	gingival	Habitat	
+798	827	periodontal pathogens culture	Habitat	
+798	809	periodontal	Habitat	
+798	819	periodontal pathogens	Phenotype	
+1206	1230	Porphyromonas gingivalis	Microorganism	
+1277	1285	gingival	Habitat	
+1323	1341	non-pregnant group	Habitat	
+1486	1502	gingival tissues	Habitat	
+1560	1573	P. gingivalis	Microorganism	
+1606	1614	gingival	Habitat	

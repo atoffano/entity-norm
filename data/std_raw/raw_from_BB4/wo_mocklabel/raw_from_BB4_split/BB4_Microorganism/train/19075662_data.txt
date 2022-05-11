@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+28	42	Staphylococcus	Microorganism	1279
+53	67	Staphylococcus	Microorganism	1279
+220	246	Staphylococcus epidermidis	Microorganism	1282
+251	272	Staphylococcus aureus	Microorganism	1280
+494	503	S. aureus	Microorganism	1280
+508	522	S. epidermidis	Microorganism	1282

@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+47	53	rabbit	Habitat	
+47	61	rabbit tissues	Habitat	
+129	143	rabbit tissues	Habitat	
+129	135	rabbit	Habitat	
+343	353	peritoneum	Habitat	
+442	448	rabbit	Habitat	
+442	459	rabbit peritoneum	Habitat	
+660	670	peritoneum	Habitat	
+683	700	mesentery samples	Habitat	
+884	894	epithelium	Habitat	
+907	930	fibers of the mesentery	Habitat	
+1064	1070	rabbit	Habitat	
+1064	1078	rabbit tissues	Habitat	
+1170	1180	peritoneum	Habitat	
+1342	1352	peritoneum	Habitat	
+1360	1369	mesentery	Habitat	

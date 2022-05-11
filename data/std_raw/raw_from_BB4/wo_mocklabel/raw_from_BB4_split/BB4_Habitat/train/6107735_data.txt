@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+14	23	Pelecypod	Habitat	OBT:001651
+89	95	people	Habitat	OBT:003269
+251	260	household	Habitat	OBT:000315
+251	285	household contacts of the patients	Habitat	OBT:002488
+277	285	patients	Habitat	OBT:003269
+329	366	people with V. cholerae O:1 infection	Habitat	OBT:003269
+407	422	marine bivalves	Habitat	OBT:001651
+407	413	marine	Habitat	OBT:000338
+440	447	arselle	Habitat	OBT:001651
+449	459	pelecypods	Habitat	OBT:001651
+592	599	arselle	Habitat	OBT:001651
+652	657	water	Habitat	OBT:000468
+662	670	bivalves	Habitat	OBT:001215|OBT:001651
+687	734	lagoon on the outskirts of the city of Cagliari	Habitat	OBT:003213
+701	734	outskirts of the city of Cagliari	Habitat	OBT:000232
+736	743	Arselle	Habitat	OBT:001651

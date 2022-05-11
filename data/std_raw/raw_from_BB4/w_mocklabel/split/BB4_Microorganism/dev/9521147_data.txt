@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+36	66	Ara+ Burkholderia pseudomallei	Microorganism	95163
+151	155	Ara-	Microorganism	28450
+258	297	Burkholderia (Pseudomonas) pseudomallei	Microorganism	28450
+696	711	B. pseudomallei	Microorganism	28450
+1180	1184	Ara-	Microorganism	28450
+1198	1202	Ara-	Microorganism	28450
+1212	1216	Ara+	Microorganism	95163
+1489	1493	Ara-	Microorganism	28450
+1498	1502	Ara+	Microorganism	95163
+1565	1580	B. pseudomallei	Microorganism	28450
+1726	1741	B. pseudomallei	Microorganism	28450

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+0	36	Human complement factor H deficiency	SpecificDisease	OMIM:609814
+53	78	hemolytic uremic syndrome	SpecificDisease	D006463
+115	177	deficiency in the human complement regulatory protein Factor H	SpecificDisease	OMIM:609814
+204	223	acute renal disease	SpecificDisease	D007674
+296	321	hemolytic uremic syndrome	SpecificDisease	D006463
+323	326	HUS	SpecificDisease	D006463
+891	910	Factor H deficiency	SpecificDisease	OMIM:609814
+923	944	complement deficiency	DiseaseClass	D007153
+961	964	HUS	SpecificDisease	D006463
+1061	1064	HUS	SpecificDisease	D006463

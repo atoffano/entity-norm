@@ -1,0 +1,11 @@
+T1	Title 0 61	The human gene for alkaptonuria (AKU) maps to chromosome 3q.
+T2	Paragraph 61 731	Alkaptonuria (AKU; McKusick no. 203500) is a rare autosomal recessive disorder caused by the lack of homogentisic acid oxidase activity. Patients excrete large amounts of homogentisic acid in their urine and a black ochronotic pigment is deposited in their cartilage and collagenous tissues. Ochronosis is the predominant clinical complication of the disease leading to ochronotic arthropathy, dark urine, pigment changes of the skin, and other clinical features. A mutation causing alkaptonuria in the mouse has mapped to chromosome 16. Considering conserved synteny, we were able to map the human gene to chromosome 3q in six alkaptonuria pedigrees of Slovak origin..
+T3	SpecificDisease 19 31	alkaptonuria
+T4	SpecificDisease 33 36	AKU
+T5	SpecificDisease 61 73	Alkaptonuria
+T6	SpecificDisease 75 78	AKU
+T7	DiseaseClass 111 139	autosomal recessive disorder
+T8	SpecificDisease 353 363	Ochronosis
+T9	SpecificDisease 431 453	ochronotic arthropathy
+T10	SpecificDisease 544 556	alkaptonuria
+T11	Modifier 689 701	alkaptonuria

@@ -1,0 +1,2 @@
+Clinical factors associated with development of severe-complicated Clostridium difficile infection.
+Clostridium difficile infection (CDI) can cause life-threatening complications. Severe-complicated CDI is characterized by hypotension, shock, sepsis, ileus, megacolon, and colon perforation. We created a model to identify clinical factors associated with severe-complicated CDI.

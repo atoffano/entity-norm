@@ -1,0 +1,20 @@
+start	end	mention	_class	labels
+0	20	Adrenoleukodystrophy	SpecificDisease	D000326
+25	46	adrenomyeloneuropathy	SpecificDisease	D000326
+71	92	adrenal insufficiency	DiseaseClass	D000309
+142	162	adrenoleukodystrophy	SpecificDisease	D000326
+164	167	ALD	SpecificDisease	D000326
+185	206	adrenomyeloneuropathy	SpecificDisease	D000326
+208	211	AMN	SpecificDisease	D000326
+283	286	AMN	SpecificDisease	D000326
+312	315	ALD	SpecificDisease	D000326
+461	464	ALD	SpecificDisease	D000326
+465	468	AMN	SpecificDisease	D000326
+473	502	pituitary-adrenal abnormality	DiseaseClass	D010900+D000307
+647	650	ALD	SpecificDisease	D000326
+655	658	AMN	SpecificDisease	D000326
+712	733	adrenal insufficiency	DiseaseClass	D000309
+979	982	ALD	SpecificDisease	D000326
+987	990	AMN	SpecificDisease	D000326
+1020	1048	adrenocrotical insufficiency	DiseaseClass	D000224
+1059	1085	endocrinologic dysfunction	DiseaseClass	D004700

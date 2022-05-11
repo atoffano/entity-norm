@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+47	76	Haemophilus influenzae type b	Microorganism	
+196	225	Haemophilus influenzae type b	Microorganism	

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+105	130	Alveolar rhabdomyosarcoma	SpecificDisease	D018232
+148	183	pediatric cancer of striated muscle	SpecificDisease	D019042
+1254	1279	alveolar rhabdomyosarcoma	Modifier	D018232

@@ -1,0 +1,21 @@
+T1	Title 0 128	Adrenoleukodystrophy and adrenomyeloneuropathy associated with partial adrenal insufficiency in three generations of a kindred.
+T2	Paragraph 128 1103	Four cases of adrenoleukodystrophy (ALD) and one case of adrenomyeloneuropathy (AMN) have developed in a kindred over three generations demonstrating that AMN is a clinical variant of ALD. Pituitary-adrenal function studies were performed in 10 family members, including two affected males and four females identified as carriers of ALD/AMN. No pituitary-adrenal abnormality was found in the carriers. However, basal morning plasma adrenocorticotropic hormone (ACTH) levels were markedly elevated in the two males with ALD and AMN, despite the fact that they had no clinical signs of adrenal insufficiency and that morning plasma cortisol levels and their response to maximal exogenous ACTH stimulation appeared to be normal. In addition, the integrated 24-hour response to the administration were also subnormal in these two cases. Thus, people with ALD and AMN may have subclinical partial adrenocrotical insufficiency. No other endocrinologic dysfunction was identified..
+T3	SpecificDisease 0 20	Adrenoleukodystrophy
+T4	SpecificDisease 25 46	adrenomyeloneuropathy
+T5	DiseaseClass 71 92	adrenal insufficiency
+T6	SpecificDisease 142 162	adrenoleukodystrophy
+T7	SpecificDisease 164 167	ALD
+T8	SpecificDisease 185 206	adrenomyeloneuropathy
+T9	SpecificDisease 208 211	AMN
+T10	SpecificDisease 283 286	AMN
+T11	SpecificDisease 312 315	ALD
+T12	SpecificDisease 461 464	ALD
+T13	SpecificDisease 465 468	AMN
+T14	DiseaseClass 473 502	pituitary-adrenal abnormality
+T15	SpecificDisease 647 650	ALD
+T16	SpecificDisease 655 658	AMN
+T17	DiseaseClass 712 733	adrenal insufficiency
+T18	SpecificDisease 979 982	ALD
+T19	SpecificDisease 987 990	AMN
+T20	DiseaseClass 1020 1048	adrenocrotical insufficiency
+T21	DiseaseClass 1059 1085	endocrinologic dysfunction

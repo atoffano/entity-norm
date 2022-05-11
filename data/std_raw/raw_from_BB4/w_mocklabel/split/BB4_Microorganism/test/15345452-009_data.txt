@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+85	106	Brevibacterium linens	Microorganism	MockLabel

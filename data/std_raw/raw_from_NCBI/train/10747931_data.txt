@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+138	145	lipomas	DiseaseClass	D008067
+183	190	lipomas	DiseaseClass	D008067
+421	428	lipomas	DiseaseClass	D008067
+721	748	adipose tissue inflammation	SpecificDisease	D007249
+791	798	lipomas	DiseaseClass	D008067
+972	979	lipomas	DiseaseClass	D008067
+1165	1178	benign tumors	DiseaseClass	D009369

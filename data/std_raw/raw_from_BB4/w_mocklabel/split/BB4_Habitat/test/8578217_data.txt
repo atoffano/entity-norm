@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+263	271	duodenal	Habitat	MockLabel
+263	277	duodenal ulcer	Habitat	MockLabel
+387	401	duodenal ulcer	Habitat	MockLabel
+387	395	duodenal	Habitat	MockLabel
+556	564	duodenal	Habitat	MockLabel
+556	570	duodenal ulcer	Habitat	MockLabel
+680	685	ulcer	Habitat	MockLabel
+816	830	duodenal ulcer	Habitat	MockLabel
+816	824	duodenal	Habitat	MockLabel
+994	1002	duodenal	Habitat	MockLabel
+994	1008	duodenal ulcer	Habitat	MockLabel
+1151	1159	duodenal	Habitat	MockLabel
+1151	1165	duodenal ulcer	Habitat	MockLabel
+1423	1451	patients with duodenal ulcer	Habitat	MockLabel
+1437	1445	duodenal	Habitat	MockLabel
+1437	1451	duodenal ulcer	Habitat	MockLabel
