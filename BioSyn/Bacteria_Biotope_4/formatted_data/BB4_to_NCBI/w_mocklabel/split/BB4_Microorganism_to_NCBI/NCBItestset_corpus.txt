@@ -1,0 +1,926 @@
+
+20637430|t|The role of routine immunohistochemistry for Helicobacter pylori in gastric biopsy.
+20637430|a|Helicobacter pylori infection is associated with gastritis, gastric ulcer, gastric adenocarcinoma, and mucosal associated lymphoid tissue lymphoma. Documenting the presence of H pylori in a gastric biopsy is essential for appropriate patient care. Several special stains and immunohistochemistry (IHC) stain for H pylori are available, and many laboratories are routinely using one of them. We introduced routine IHC for H pylori about a year ago, and this study aims to investigate the value of this protocol. A total of 224 patients qualified for the study criteria during this period. The diagnoses were chronic active gastritis (68), chronic gastritis (76), no pathologic abnormality (50), reactive gastropathy (24), and polyps (6). Fifty-four cases were positive for H pylori on IHC, including 50 chronic active gastritis and 4 chronic gastritis. The IHC positive rate was 73.5% (50/68) in chronic active gastritis, 5.3% (4/76) in chronic gastritis, and 0% (0/80) in other diagnoses. The sensitivity/specificity of finding H pylori by blindly reviewing hematoxylin and eosin slides was 100%/100%, 100%/100%, 95%/100%, and 100%/100% from the 4 authors. Our results showed that many gastric biopsies (35.7%, 80/224) had no pathologic abnormality or reactive gastropathy and did not need a routine IHC for H pylori. Hematoxylin and eosin slide review had a very good sensitivity and specificity with all levels of observers. In summary, IHC for H pylori should not be routinely used, especially during these economically challenging times. Immunohistochemistry should be reserved for unexplained gastritis and previously treated patients with likely low organism density.
+20637430	45	64	Helicobacter pylori	Microorganism	MockLabel
+20637430	84	103	Helicobacter pylori	Microorganism	MockLabel
+20637430	260	268	H pylori	Microorganism	MockLabel
+20637430	396	404	H pylori	Microorganism	MockLabel
+20637430	505	513	H pylori	Microorganism	MockLabel
+20637430	856	864	H pylori	Microorganism	MockLabel
+20637430	1112	1120	H pylori	Microorganism	MockLabel
+20637430	1392	1400	H pylori	Microorganism	MockLabel
+20637430	1531	1539	H pylori	Microorganism	MockLabel
+
+20147048|t|Transformation of the plant Kalanchoë daigremontiana using Agrobacterium tumefaciens.
+20147048|a|Kalanchoë daigremontiana can be stably transformed using the Agrobacterium tumefaciens-mediated T-DNA transfer method, as described here. Sterilized plant tissue is cocultivated with an A. tumefaciens suspension, transformants are selected and the shoots are grown in rooting medium and then in soil. Plant phenotypes can be examined approximately 3 mo after transfer of plants to soil.
+20147048	59	84	Agrobacterium tumefaciens	Microorganism	MockLabel
+20147048	147	172	Agrobacterium tumefaciens	Microorganism	MockLabel
+20147048	272	286	A. tumefaciens	Microorganism	MockLabel
+
+18346136|t|Detection of Salmonella enterica in food using two-step enrichment and real-time polymerase chain reaction.
+18346136|a|A new real-time polymerase chain reaction-based method was developed for the detection of Salmonella enterica in food.
+18346136	13	32	Salmonella enterica	Microorganism	MockLabel
+18346136	198	217	Salmonella enterica	Microorganism	MockLabel
+18346136	421	431	Salmonella	Microorganism	MockLabel
+18346136	586	597	S. enterica	Microorganism	MockLabel
+18346136	1425	1436	S. enterica	Microorganism	MockLabel
+
+24794620-002|t|
+24794620-002|a|Bacterial OTUs belonged to four different phyla. Most OTUs were affiliated to genera often found in cheese, including high numbers of coryneforms. The most abundant OTU from 16S rRNA gene libraries showed highest similarity to Halomonas. Young cheese rinds were dominated by Actinobacteria or Proteobacteria, particularly by Halomonas and Brevibacterium aurantiacum, while Staphyloccocus equorum was most abundant in old cheeses. The most abundant 18S rRNA OTU had highest similarity to the filamentous fungus Scopulariopsis brevicaulis. Pairwise correlation analyses revealed putative co-occurrences between a number of OTUs.
+24794620-002	136	147	coryneforms	Microorganism	MockLabel
+24794620-002	230	239	Halomonas	Microorganism	MockLabel
+24794620-002	278	292	Actinobacteria	Microorganism	MockLabel
+24794620-002	296	310	Proteobacteria	Microorganism	MockLabel
+24794620-002	328	337	Halomonas	Microorganism	MockLabel
+24794620-002	342	368	Brevibacterium aurantiacum	Microorganism	MockLabel
+24794620-002	376	398	Staphyloccocus equorum	Microorganism	MockLabel
+24794620-002	513	539	Scopulariopsis brevicaulis	Microorganism	MockLabel
+
+11548252|t|[Analysis of toxin genetic determinants of Vibrio cholerae virulence cassette and neuraminidase with DNA probes].
+11548252|a|V. cholerae strains of different origin have been studied for the presence of cholera toxin genes (vct), the proximal part of the virulence cassette including genes zot, ace and orfU, as well as neuraminidase genes (neu), in their genomes with the use of molecular DNA probes. The possibility, in principle, for some strains to lose only a part of their virulence cassette (gene vct), while retaining its proximal part has been shown. In most cases such strains are isolated from patients with diarrhea of different severity and may probably play some etiological role, provided that the expression of the genes of additional toxins of the virulence cassette occurs. The gene expressing neuraminidase which facilitates the penetration of cholera toxin into the epithelial cells of the intestine is always present in vct+ strains and may be absent in vct- strains. The absence of genetic relationship between neuraminidases in V. cholerae O139 and V. cholerae O1 and non-O1 (non-O139) has been confirmed. The problems in connection with the integration and deletion of genetic determinants of V. cholerae virulence factors are discussed.
+11548252	43	58	Vibrio cholerae	Microorganism	MockLabel
+11548252	114	125	V. cholerae	Microorganism	MockLabel
+11548252	1040	1056	V. cholerae O139	Microorganism	MockLabel
+11548252	1061	1072;1080	V. cholerae non-O1 (non-O139)	Microorganism	MockLabel
+11548252	1061	1075	V. cholerae O1	Microorganism	MockLabel
+11548252	1206	1217	V. cholerae	Microorganism	MockLabel
+
+24794620-003|t|
+24794620-003|a|At the beginning of the ripening process lactate, produced by lactic acid bacteria, is metabolized by yeasts, primarily Debaryomyces hansenii and Geotrichum candidum, resulting in an increase in the pH of the cheese surface ( Bockelmann et al., 2005, Irlinger and Mounier, 2009 and Montel et al., 2014). These processes and the metabolism of yeast growth factors facilitate the growth of coagulase-negative staphylococci such as Staphylococcus equorum and salt-tolerant bacterial communities – mainly coryneforms – such as Corynebacterium spp., Arthrobacter spp., Micrococcus spp., Brevibacterium spp. and Brachybacterium spp. Finally, bacteria and yeasts cover the entire surface of the cheeses. Coryneform bacteria are particularly abundant in cheese rinds ( Delbes et al., 2007, Gori et al., 2013, Maoz et al., 2003 and Rea et al., 2007). In addition, Gram-negative bacteria such as Halomonas spp., Vibrio spp., and Hafnia alvei have been detected on cheese surfaces ( Brennan et al., 2002, Coton et al., 2012, Feurer et al., 2004a, Gori et al., 2013, Irlinger and Mounier, 2009, Ishikawa et al., 2007, Maoz et al., 2003, Mounier et al., 2005 and Rea et al., 2007).
+24794620-003	122	143	Debaryomyces hansenii	Microorganism	MockLabel
+24794620-003	148	167	Geotrichum candidum	Microorganism	MockLabel
+24794620-003	409	422	staphylococci	Microorganism	MockLabel
+24794620-003	431	453	Staphylococcus equorum	Microorganism	MockLabel
+24794620-003	503	514	coryneforms	Microorganism	MockLabel
+24794620-003	525	545	Corynebacterium spp.	Microorganism	MockLabel
+24794620-003	547	564	Arthrobacter spp.	Microorganism	MockLabel
+24794620-003	566	582	Micrococcus spp.	Microorganism	MockLabel
+24794620-003	584	603	Brevibacterium spp.	Microorganism	MockLabel
+24794620-003	608	629	Brachybacterium  spp.	Microorganism	MockLabel
+24794620-003	701	720	Coryneform bacteria	Microorganism	MockLabel
+24794620-003	891	905	Halomonas spp.	Microorganism	MockLabel
+24794620-003	907	918	Vibrio spp.	Microorganism	MockLabel
+24794620-003	924	936	Hafnia alvei	Microorganism	MockLabel
+
+24794620-012|t|
+24794620-012|a|he presence of Staphylococcus equorum and several other species of coagulase-negative staphylococci on the surfaces of long-ripened cheeses has been reported previously ( Gori et al., 2013 and Irlinger et al., 1997). S. equorum may contribute to the aromatic characteristics and the orange pigments of cheeses as a result of the production of extracellular proteolytic and lipolytic enzymes. Staphylococci have been reported to produce antibacterial substances, e.g. S. equorum strain WS 2733 produces a peptide antibiotic (macrococcin P1) on the surface of Raclette cheese, which inhibits the growth of L. monocytogenes ( Carnio et al., 2000). We detected a significant increase of S. equorum (OTU 3) in long-ripened cheese rinds of all facilities as well as in younger cheeses of ripening cellar A1.
+24794620-012	15	37	Staphylococcus equorum	Microorganism	MockLabel
+24794620-012	87	100	staphylococci	Microorganism	MockLabel
+24794620-012	219	229	S. equorum	Microorganism	MockLabel
+24794620-012	397	410	Staphylococci	Microorganism	MockLabel
+24794620-012	473	498	S. equorum strain WS 2733	Microorganism	MockLabel
+24794620-012	610	626	L. monocytogenes	Microorganism	MockLabel
+24794620-012	689	699	S. equorum	Microorganism	MockLabel
+
+15345452-004|t|
+15345452-004|a|The Morbier cheese profile includes nine bands, seven of which were assigned by using the species database (Fig. ​(Fig.3A,3A, lane 2). Two bands were directly (unambiguously) assigned to Lactococcus lactis (band f) and Streptococcus thermophilus (band h). The presence of these two species was confirmed by cloning and sequencing of the two corresponding bands (Table ​(Table3).3). The other bands were assigned to several possible comigrating species, and we therefore performed further analyses using specific species primers to identify them (Table ​(Table4).4). For example, the presence of Lactobacillus delbrueckii subsp. lactis in the Morbier cheese (Fig. ​(Fig.3A,3A, lane 2, band e) was confirmed by specific PCR, whereas the comigrating species Staphylococcus saprophyticus was not found (Table ​(Table4).4). Using combination of different specific PCR tests (Table ​(Table4),4), the bands a, b, and d (Fig. ​(Fig.3A,3A, lane 2) were presumably identified as Staphylococcus lentus, Staphylococcus equorum, and Lactobacillus acidophilus. The unassigned band g (Fig. ​(Fig.3A,3A, lane 2) was excised from the gel, cloned, sequenced, and identified as Lactobacillus buchneri (Table ​(Table3);3); its migration profile was confirmed by running two pure strains on TTGE, and then it was added to the reference database. We were unable to identify band c in the data shown in Fig. ​Fig.3A.3A. The strong intensity of the band corresponding to Lactococcus lactis indicates that it is the dominant species in Morbier cheese. Note that band intensities seem to reflect the relative proportion of each species in the total bacterial population (35).TABLE 3.Identification by cloning sequencing of V3 fragments excised from TTGE and DGGE patterns of total microbial community cheesesThe Munster cheese (Fig. ​(Fig.3A,3A, lane 3) sample was characterized by three intense bands, identified as Enterococcus faecalis (band c), Lactococcus lactis (band d), and Streptococcus thermophilus (band e), and two bands of lower intensity, respectively, assigned to Lactobacillus plantarum (band a) and Lactobacillus acidophilus group (band b).
+15345452-004	187	205	Lactococcus lactis	Microorganism	MockLabel
+15345452-004	219	245	Streptococcus thermophilus	Microorganism	MockLabel
+15345452-004	598	637	Lactobacillus delbrueckii subsp. lactis	Microorganism	MockLabel
+15345452-004	758	786	Staphylococcus saprophyticus	Microorganism	MockLabel
+15345452-004	972	993	Staphylococcus lentus	Microorganism	MockLabel
+15345452-004	995	1017	Staphylococcus equorum	Microorganism	MockLabel
+15345452-004	1023	1048	Lactobacillus acidophilus	Microorganism	MockLabel
+15345452-004	1162	1184	Lactobacillus buchneri	Microorganism	MockLabel
+15345452-004	1453	1471	Lactococcus lactis	Microorganism	MockLabel
+15345452-004	1900	1921	Enterococcus faecalis	Microorganism	MockLabel
+15345452-004	1932	1950	Lactococcus lactis	Microorganism	MockLabel
+15345452-004	1965	1991	Streptococcus thermophilus	Microorganism	MockLabel
+15345452-004	2062	2085	Lactobacillus plantarum	Microorganism	MockLabel
+15345452-004	2099	2124	Lactobacillus acidophilus	Microorganism	MockLabel
+
+12443829|t|Subtyping of Shiga toxin 2 variants in human-derived Shiga toxin-producing Escherichia coli strains isolated in Japan.
+12443829|a|Shiga toxin 2 (Stx2) variants have been found to exhibit not only antigenic divergence, but also differences in toxicity for tissue culture cells and animals. To clarify whether all or just a subset of Stx2 variants are important for the virulence of Shiga toxin-producing Escherichia coli, we designed PCR primers to detect and type all reported variants. We classified them into four groups according to the nucleotide sequences of the Stx2 family; for example, group 1 (G1) contains VT2vha and group 2 (G2) contains VT2d-Ount. The 120 strains of Shiga toxin-producing E. coli used in this study were isolated from humans in Japan between 1986 and 1999. Among the four variant groups, the G1 gene only was detected in 23 of the 120 clinical strains (19.2%) and all belonged to the O157 serotype. G1 is considered the most important Stx2 variant group in terms of human pathogenicity. A multiplex PCR that can detect the stx1, stx2, and G1 genes was developed as a means of rapid and easy typing to better understand the roles of the different types of Stx.
+12443829	75	91	Escherichia coli	Microorganism	MockLabel
+12443829	392	408	Escherichia coli	Microorganism	MockLabel
+12443829	690	697	E. coli	Microorganism	MockLabel
+12443829	902	906	O157	Microorganism	MockLabel
+
+19526548|t|Insight into the core and variant exoproteomes of Listeria monocytogenes species by comparative subproteomic analysis.
+19526548|a|While Listeria monocytogenes is responsible for listeriosis, it is also a saprophytic species with exceptional survival aptitudes. Secreted proteins are one of the main tools used by bacteria to interact with their environment. In order to take into account the biodiversity of L. monocytogenes species, exoproteomic analysis was carried out on 12 representative strains. Following 2-DE and MALDI-TOF MS, a total of 151 spots were identified and corresponded to 60 non-orthologous proteins. To categorize and analyze these proteomic data, a rational bioinformatic approach predicting final subcellular localization was carried out. Fifty-two out of the 60 proteins identified (86.7%) were indeed predicted as localized in the extracellular milieu (gene ontology (GO): 0005576). Most of them (65.4%) were actually predicted as secreted via the Sec translocon. Comparative analysis allowed for proteins found in all or only in a subset of L. monocytogenes strains to be defined. While the core exoproteome included most proteins related to bacterial virulence, cell wall biogenesis, as well as proteins secreted by unknown pathways, a slight variation in the protein members of these categories were observed and constituted the variant exoproteome. This investigation resulted in the first definition of the core and variant exoproteomes of L. monocytogenes where corollaries on bacterial physiology are further discussed.
+19526548	50	72	Listeria monocytogenes	Microorganism	MockLabel
+19526548	125	147	Listeria monocytogenes	Microorganism	MockLabel
+19526548	397	413	L. monocytogenes	Microorganism	MockLabel
+19526548	1056	1072	L. monocytogenes	Microorganism	MockLabel
+19526548	1459	1475	L. monocytogenes	Microorganism	MockLabel
+
+11395453|t|Signaling system in Porphyromonas gingivalis based on a LuxS protein.
+11395453|a|The luxS gene of quorum-sensing Vibrio harveyi is required for type 2 autoinducer production. We identified a Porphyromonas gingivalis open reading frame encoding a predicted peptide of 161 aa that shares 29% identity with the amino acid sequence of the LuxS protein of V. harveyi. Conditioned medium from a late-log-phase P. gingivalis culture induced the luciferase operon of V. harveyi, but that from a luxS insertional mutant did not. In P. gingivalis, the expression of luxS mRNA was environmentally controlled and varied according to the cell density and the osmolarity of the culture medium. In addition, differential display PCR showed that the inactivation of P. gingivalis luxS resulted in up-regulation of a hemin acquisition protein and an arginine-specific protease and reduced expression of a hemin-regulated protein, a TonB homologue, and an excinuclease. The data suggest that the luxS gene in P. gingivalis may function to control the expression of genes involved in the acquisition of hemin.
+11395453	20	44	Porphyromonas gingivalis	Microorganism	MockLabel
+11395453	102	116	Vibrio harveyi	Microorganism	MockLabel
+11395453	180	204	Porphyromonas gingivalis	Microorganism	MockLabel
+11395453	340	350	V. harveyi	Microorganism	MockLabel
+11395453	393	406	P. gingivalis	Microorganism	MockLabel
+11395453	448	458	V. harveyi	Microorganism	MockLabel
+11395453	512	525	P. gingivalis	Microorganism	MockLabel
+11395453	739	752	P. gingivalis	Microorganism	MockLabel
+11395453	980	993	P. gingivalis	Microorganism	MockLabel
+
+24794620-005|t|
+24794620-005|a|The most abundant OTUs had highest similarity to: Scopulariopsis brevicaulis (OTU 1, relative abundance: 39.4%), Pyxidiophora arvernensis (OTU 2, relative abundance: 25.8%) and Debaryomyces hansenii (OTU 3, relative abundance: 18.3%) (Supplementary Table S4). The phylogeny of all OTUs and their relative abundance in the ripening cellars are shown in  Fig. 2.
+24794620-005	51	77	Scopulariopsis brevicaulis	Microorganism	MockLabel
+24794620-005	114	138	Pyxidiophora arvernensis	Microorganism	MockLabel
+24794620-005	178	199	Debaryomyces hansenii	Microorganism	MockLabel
+
+15345452-007|t|
+15345452-007|a|The DGGE pattern of Leerdamer (Fig. ​(Fig.3B,3B, lane 4) cheese was very simple and was confined to one main band (Propionibacterium freudenreichii).
+15345452-007	115	147	Propionibacterium freudenreichii	Microorganism	MockLabel
+
+24794620-006|t|
+24794620-006|a|The examination of 16S rRNA gene libraries showed that cheese rinds from facility A harbored significantly increased ratios of OTU 2 (B. aurantiacum) and OTU 9 (Psychrobacter aquaticus), while the 18S rRNA showed OTU 3 (D. hansenii) significantly increased (1.5, 13.5, and 7.5 fold changes, respectively). In cheese rinds from facility B, OTU 1 (H. boliviensis) and OTU 7 (B. conglomeratum) were significantly increased compared to the other facilities (1.5 and 2.7 fold change), whereas the 18S rRNA OTU 1 (Scopulariopsis brevicaulis) decreased significantly by 2.8 fold and OTU 2 (Pyxidiophora arvernensis) increased significantly (3.3 fold change). 16S rRNA gene libraries showed OTU 5 (A. kashmirensis) and 18S rRNA gene libraries showed OTU 4 (Nectria mariannaeae) to have increased significantly in facility C (10.4 and 6.5 fold change) ( Fig. 4, Supplementary Table S5 and S6).
+24794620-006	136	150	B. aurantiacum	Microorganism	MockLabel
+24794620-006	163	186	Psychrobacter aquaticus	Microorganism	MockLabel
+24794620-006	222	233	D. hansenii	Microorganism	MockLabel
+24794620-006	348	362	H. boliviensis	Microorganism	MockLabel
+24794620-006	375	391	B. conglomeratum	Microorganism	MockLabel
+24794620-006	510	536	Scopulariopsis brevicaulis	Microorganism	MockLabel
+24794620-006	585	609	Pyxidiophora arvernensis	Microorganism	MockLabel
+24794620-006	692	707	A. kashmirensis	Microorganism	MockLabel
+24794620-006	751	770	Nectria mariannaeae	Microorganism	MockLabel
+
+24412414-004|t|
+24412414-004|a|An example of PLA identification produced by L. casei 21/1 is provided in  Fig. 4. PLA concentration ranged from 0.021 to 0.275 mM, with L. casei 21/1 and L. rhamnosus 13075 yielding the highest values (0.275 ± 0.065 and 0.242 ± 0.054 mM, respectively). In addition, PLA production levels were significantly different between strains of the same species (p < 0.05), which is in agreement with previous studies ( Valerio et al., 2004 and Broberg et al., 2007).Table 2.        Production of 3-phenyllactic acid (PLA) by lactic acid bacteria (LAB) in MRS broth (72 h, 37 °C).
+24412414-004	45	58	L. casei 21/1	Microorganism	MockLabel
+24412414-004	137	150	L. casei 21/1	Microorganism	MockLabel
+24412414-004	155	174	L. rhamnosus  13075	Microorganism	MockLabel
+24412414-004	155	174	L. rhamnosus  13075	Microorganism	MockLabel
+
+9521139|t|Capsular serotype and antibiotic resistance of Streptococcus pneumoniae isolates in two Chilean cities.
+9521139|a|We compared the incidence of nasopharyngeal colonization by Streptococcus pneumoniae, the serotypes causing mucosal and invasive diseases, and the antibiotic resistance of these strains in patients admitted to three large hospitals and children attending day care centers in two Chilean cities (Santiago and Temuco). The populations in both cities were similar in ethnic background, socioeconomic status, family size, and access to medical care. Significant differences in nasopharyngeal colonization rates, in serotypes causing infections, and in antibiotic resistance were found between the two cities. In children 0 to 2 years of age, 42% were colonized with S. pneumoniae in Santiago compared to 14% in Temuco. A total of 41 serotypes were identified in both Chilean cities studied. Six serotypes were found only in Santiago; 14 serotypes were found only in Temuco. Antibiotic-resistant serotypes 6A, 6B, 14, 19F, and 23F were detected only in Santiago. We show that important differences in the incidence of nasopharyngeal carriage, infection, and S. pneumoniae serotypes can exist in similar populations in different areas of the same country. Our findings are relevant for prevention strategies, antibiotic usage, and vaccine design.
+9521139	47	71	Streptococcus pneumoniae	Microorganism	MockLabel
+9521139	164	188	Streptococcus pneumoniae	Microorganism	MockLabel
+9521139	766	779	S. pneumoniae	Microorganism	MockLabel
+9521139	1005	1007	6A	Microorganism	MockLabel
+9521139	1009	1011	6B	Microorganism	MockLabel
+9521139	1013	1015	14	Microorganism	MockLabel
+9521139	1017	1020	19F	Microorganism	MockLabel
+9521139	1026	1029	23F	Microorganism	MockLabel
+9521139	1157	1170	S. pneumoniae	Microorganism	MockLabel
+
+24794620-008|t|
+24794620-008|a|Similarly to previous studies (Maoz et al., 2003, Mounier et al., 2009 and Quigley et al., 2013), we found Halomonas (OTU1) to be the most frequent OTU in short-ripened cheeses from all facilities (A, B, C). For some time the occurrence of Halomonas in dairy products was a matter for controversial discussion. Halomonas was suggested to be an indicator for hygienic deficiencies in cheese producing facilities ( Maoz et al., 2003), while it has also been suggested that these bacteria, which originally originate in marine environments, are added via sea salt to cheese surfaces during washing and dry salting (Ishikawa et al., 2007). The dominance of Halomonas in short-ripened cheese rinds is most likely due to more frequent washing with a higher brine concentration. The high abundance of Halomonas in VB cheese rinds suggests an important function during cheese ripening, particularly of young cheese. However, it is still unknown whether Halomonas contributes to the flavor or texture of VB or other cheeses.Coryneform bacteria including Brevibacterium spp., Corynebacterium spp., Arthrobacter spp., Microbacterium spp. and Brachybacterium spp. are important for cheese ripening due to their proteolytic activity and because they produce volatile sulfur compounds or ammonia ( Eliskases-Lechner and Ginzinger, 1995). Similarly to other studies ( Dolci et al., 2009, Feurer et al., 2004b, Gori et al., 2013, Maoz et al., 2003, Mounier et al., 2005 and Rea et al., 2007), we found a high diversity and abundance of coryneforms (13 OTUs, 149 out of 408 clones) in VB cheese rinds.B. linens is an important flavor producer and responsible for the development of the typical red pigmentation of red-smear cheeses, which result from the production of a red carotenoid. It has been described as the most common organism on cheese surfaces ( Eliskases-Lechner and Ginzinger, 1995 and Rattray and Fox, 1999).
+24794620-008	107	116	Halomonas	Microorganism	MockLabel
+24794620-008	240	249	Halomonas	Microorganism	MockLabel
+24794620-008	311	320	Halomonas	Microorganism	MockLabel
+24794620-008	656	665	Halomonas	Microorganism	MockLabel
+24794620-008	799	808	Halomonas	Microorganism	MockLabel
+24794620-008	953	962	Halomonas	Microorganism	MockLabel
+24794620-008	1023	1042	Coryneform bacteria	Microorganism	MockLabel
+24794620-008	1053	1072	Brevibacterium spp.	Microorganism	MockLabel
+24794620-008	1074	1094	Corynebacterium spp.	Microorganism	MockLabel
+24794620-008	1096	1113	Arthrobacter spp.	Microorganism	MockLabel
+24794620-008	1115	1134	Microbacterium spp.	Microorganism	MockLabel
+24794620-008	1139	1160	Brachybacterium  spp.	Microorganism	MockLabel
+24794620-008	1531	1542	coryneforms	Microorganism	MockLabel
+24794620-008	1595	1604	B. linens	Microorganism	MockLabel
+
+12563490|t|Acute inflammatory response in the stomach of BALB/c mice challenged with coccoidal Helicobacter pylori.
+12563490|a|An experimental murine model was used to verify the viability and pathogenicity of coccoid Helicobacter pylori. For this purpose, 27 BALB/c mice were inoculated intragastrically with 1 ml broth culture (10(8)organisms/ml) of a coccoid H. pylori clinical isolate. The animals were divided into two groups. Nine were infected on a one-time basis (GA1) and 18 were infected on two consecutive days (GA2). Other 27 mice were inoculated with Brucella broth and divided in the same way; they composed the control group. Mice were killed at 2, 3, 7, 14 and 21 days post inoculation (pi). Fragments of stomach and duodenum were collected, fixed with 12% formalin and stained by hematoxilin-eosin and Giemsa for histopathological examination. Until the 14th()day, only reinfected mice had mild-to-moderate inflammatory infiltrate in the stomach. The infiltration was predominantly lymphomonocytic, although plasma cells and eosinophils could be seen. However, at 21st day, severe eosinophilic infiltration was present in the lamina propria and submucosa of gastric corpus. In subgroup GA1, animals presented lymphomonocytic infiltration in the stomach from 14th()day pi. Our results showed that coccoid H. pylori was able to induce an acute inflammatory response in stomach of reinfected mice since the initial periods of infection.
+12563490	84	103	Helicobacter pylori	Microorganism	MockLabel
+12563490	196	215	Helicobacter pylori	Microorganism	MockLabel
+12563490	340	349	H. pylori	Microorganism	MockLabel
+12563490	542	550	Brucella	Microorganism	MockLabel
+12563490	1299	1308	H. pylori	Microorganism	MockLabel
+
+16506453|t|Analysis of Genetic Algorithm for Rule-Set Production (GARP) modeling approach for predicting distributions of fleas implicated as vectors of plague, Yersinia pestis, in California.
+16506453|a|More than 20 species of fleas in California are implicated as potential vectors of Yersinia pestis. Extremely limited spatial data exist for plague vectors-a key component to understanding where the greatest risks for human, domestic animal, and wildlife health exist. This study increases the spatial data available for 13 potential plague vectors by using the ecological niche modeling system Genetic Algorithm for Rule-Set Production (GARP) to predict their respective distributions. Because the available sample sizes in our data set varied greatly from one species to another, we also performed an analysis of the robustness of GARP by using the data available for flea Oropsylla montana (Baker) to quantify the effects that sample size and the chosen explanatory variables have on the final species distribution map. GARP effectively modeled the distributions of 13 vector species. Furthermore, our analyses show that all of these modeled ranges are robust, with a sample size of six fleas or greater not significantly impacting the percentage of the in-state area where the flea was predicted to be found, or the testing accuracy of the model. The results of this study will help guide the sampling efforts of future studies focusing on plague vectors.
+16506453	150	165	Yersinia pestis	Microorganism	MockLabel
+16506453	265	280	Yersinia pestis	Microorganism	MockLabel
+
+15345452-005|t|
+15345452-005|a|The Epoisses cheese profile (Fig. ​(Fig.3A,3A, lane 4) includes two intense bands, a and e (Lactobacillus plantarum and Lactococcus lactis), and three bands, b, c, and d, of lower intensity (Leuconostoc mesenteroides, Lactococcus raffinolactis-Staphylococcus equorum, and Pseudomonas fluorescens-Enterococcus faecium group-“Alcaligenes tolerans”).
+15345452-005	92	115	Lactobacillus plantarum	Microorganism	MockLabel
+15345452-005	120	138	Lactococcus lactis	Microorganism	MockLabel
+15345452-005	191	216	Leuconostoc mesenteroides	Microorganism	MockLabel
+15345452-005	218	243	Lactococcus raffinolactis	Microorganism	MockLabel
+15345452-005	244	266	Staphylococcus equorum	Microorganism	MockLabel
+15345452-005	272	295	Pseudomonas fluorescens	Microorganism	MockLabel
+15345452-005	296	316	Enterococcus faecium	Microorganism	MockLabel
+15345452-005	324	344	Alcaligenes tolerans	Microorganism	MockLabel
+
+15345452-013|t|
+15345452-013|a|Some of these analyses are labor intensive, which means that only small numbers of isolates can be analyzed. Using the DGGE method, we identified numerous coryneform species in cheese samples, including Corynebacterium variabile, Corynebacterium mastitidis, Corynebacterium casei, Arthrobacter species, and Brevibacterium linens.
+15345452-013	157	167	coryneform	Microorganism	MockLabel
+15345452-013	205	230	Corynebacterium variabile	Microorganism	MockLabel
+15345452-013	232	258	Corynebacterium mastitidis	Microorganism	MockLabel
+15345452-013	260	281	Corynebacterium casei	Microorganism	MockLabel
+15345452-013	283	295	Arthrobacter	Microorganism	MockLabel
+15345452-013	309	330	Brevibacterium linens	Microorganism	MockLabel
+
+17535798|t|Grazing protozoa and the evolution of the Escherichia coli O157:H7 Shiga toxin-encoding prophage.
+17535798|a|Humans play little role in the epidemiology of Escherichia coli O157:H7, a commensal bacterium of cattle. Why then does E. coli O157:H7 code for virulence determinants, like the Shiga toxins (Stxs), responsible for the morbidity and mortality of colonized humans? One possibility is that the virulence of these bacteria to humans is coincidental and these virulence factors evolved for and are maintained for other roles they play in the ecology of these bacteria. Here, we test the hypothesis that the carriage of the Stx-encoding prophage of E. coli O157:H7 increases the rate of survival of E. coli in the presence of grazing protozoa, Tetrahymena pyriformis. In the presence but not the absence of Tetrahymena, the carriage of the Stx-encoding prophage considerably augments the fitness of E. coli K-12 as well as clinical isolates of E. coli O157 by increasing the rate of survival of the bacteria in the food vacuoles of these ciliates. Grazing protozoa in the environment or natural host are likely to play a significant role in the ecology and maintenance of the Stx-encoding prophage of E. coli O157:H7 and may well contribute to the evolution of the virulence of these bacteria to colonize humans.
+17535798	42	66	Escherichia coli O157:H7	Microorganism	MockLabel
+17535798	67	96	Shiga toxin-encoding prophage	Microorganism	MockLabel
+17535798	145	169	Escherichia coli O157:H7	Microorganism	MockLabel
+17535798	218	233	E. coli O157:H7	Microorganism	MockLabel
+17535798	617	638	Stx-encoding prophage	Microorganism	MockLabel
+17535798	642	657	E. coli O157:H7	Microorganism	MockLabel
+17535798	692	699	E. coli	Microorganism	MockLabel
+17535798	737	759	Tetrahymena pyriformis	Microorganism	MockLabel
+17535798	800	811	Tetrahymena	Microorganism	MockLabel
+17535798	833	854	Stx-encoding prophage	Microorganism	MockLabel
+17535798	892	904	E. coli K-12	Microorganism	MockLabel
+17535798	937	949	E. coli O157	Microorganism	MockLabel
+17535798	1031	1039	ciliates	Microorganism	MockLabel
+17535798	1169	1190	Stx-encoding prophage	Microorganism	MockLabel
+17535798	1194	1209	E. coli O157:H7	Microorganism	MockLabel
+
+7548409|t|Assignment of the bacterial agent of urinary calculus in young rats by the comparative sequence analysis of the 16S rRNA genes of corynebacteria.
+7548409|a|Comparative 16S rRNA gene sequencing was used to assign four isolates of spontaneous urinary calculus in young laboratory rats. The phylogenetic relationships among the rat isolates and selected species of corynebacteria were also inferred. Based on the homology and evolutionary distance analysis, the 16S rRNA genes of the rat isolates were almost identical with that of Corynebacterium renale ATCC 19412. Also the results of the phylogenetic analysis showed a close relationship among the isolates and C. renale, but they were clearly different from C. pilosum, C. cystitidis, C. kutscheri and Rhodococcus equi. The results of the present study and previously published biochemical data demonstrate that the organism involving urinary infections in young rats is identified to be C. renale.
+7548409	130	144	corynebacteria	Microorganism	MockLabel
+7548409	352	366	corynebacteria	Microorganism	MockLabel
+7548409	519	552	Corynebacterium renale ATCC 19412	Microorganism	MockLabel
+7548409	651	660	C. renale	Microorganism	MockLabel
+7548409	699	709	C. pilosum	Microorganism	MockLabel
+7548409	711	724	C. cystitidis	Microorganism	MockLabel
+7548409	726	738	C. kutscheri	Microorganism	MockLabel
+7548409	743	759	Rhodococcus equi	Microorganism	MockLabel
+7548409	929	938	C. renale	Microorganism	MockLabel
+
+7201661|t|In vitro adhesion of Staphylococcus strains to rabbit tissues.
+7201661|a|Differences in the in vitro adhesion of Staphylococcus strains on rabbit tissues were evaluated by viable unit counts and radio-labeling. Among coagulase-positive strains, two freshly isolated strains and the Cowan I strain adhered much more than the Wood 46 strain especially to peritoneum. In addition, the Smith strain, which is coagulase-positive and encapsulated, showed on rabbit peritoneum a degree of adhesion smaller than that of the Cowan I strain and similar to that of the Wood 46 strain. These quantitative results were corroborated by examination of the bacteria on thin sections of peritoneum or on whole mesentery samples with fluorescence microscopy. With fluorochroming either with acridine orange or fluorescent homologous antibodies, we could detect a preferential localization of the bacteria on the epithelium and also on fibers of the mesentery. Even if the Cowan I strain produces Protein A, this substance does not seem to have been involved in the adhesion of this strain to rabbit tissues, since IgG did not affect the degree of its adhesion. Treatment by Na metaperiodate of the peritoneum had an inhibitory effect of about 50% on the degree of adhesion; several other known inhibitors had no effect. The higher affinity of the Cowan I strain for the peritoneum or the mesentery, when compared with the Wood 46 strain, is an observation which could contribute to the study and understanding of adhesion, presumably an element of the experimental pathogenicity of Staphylococcus.
+7201661	21	35	Staphylococcus	Microorganism	MockLabel
+7201661	103	117	Staphylococcus	Microorganism	MockLabel
+7201661	272	279	Cowan I	Microorganism	MockLabel
+7201661	314	321	Wood 46	Microorganism	MockLabel
+7201661	372	377	Smith	Microorganism	MockLabel
+7201661	506	513	Cowan I	Microorganism	MockLabel
+7201661	548	555	Wood 46	Microorganism	MockLabel
+7201661	944	951	Cowan I	Microorganism	MockLabel
+7201661	1319	1326	Cowan I	Microorganism	MockLabel
+7201661	1394	1401	Wood 46	Microorganism	MockLabel
+7201661	1554	1568	Staphylococcus	Microorganism	MockLabel
+
+23339910|t|Mosquito larvicidal and pupicidal activity of Euphorbia hirta Linn. (Family: Euphorbiaceae) and Bacillus sphaericus against Anopheles stephensi Liston. (Diptera: Culicidae).
+23339910|a|To explore the larvicidal and pupicidal activity of Euphorbia hirta (E. hirta) leaf extract and Bacillus sphaericus (B. sphaericus) against the malarial vector, Anopheles stephensi (An. stephensi).
+23339910	96	115	Bacillus sphaericus	Microorganism	MockLabel
+23339910	270	289	Bacillus sphaericus	Microorganism	MockLabel
+23339910	291	304	B. sphaericus	Microorganism	MockLabel
+23339910	908	921	B. sphaericus	Microorganism	MockLabel
+23339910	1258	1271	B. sphaericus	Microorganism	MockLabel
+
+24794620-013|t|
+24794620-013|a|We found Advenella kashmirensis in VB cheese rinds (OTU 5). This species has also been found in Munster cheese ( Coton et al., 2012). Facility C had a high level of A. kashmirensis especially in the short-ripened cheeses of ripening cellar C2.
+24794620-013	9	31	Advenella kashmirensis	Microorganism	MockLabel
+24794620-013	165	180	A. kashmirensis	Microorganism	MockLabel
+
+25648083-001|t|
+25648083-001|a|L. johnsonii FI9785 was able to produce biofilms on glass tubes (Additional file 1: Figure S1A) and on sterile microscope slides under aerobic conditions (Additional file 1: Figure S1B). We also tested microaerobic and anaerobic conditions, which would be encountered in the GI tract, and found that oxygen limitation did not affect the biofilm formation on sterile microscope slide surfaces (data not shown). Biofilm formation was also seen in polystyrene 96 well plates using crystal violet, and this method was selected to measure variations in biofilms between wild type and mutant strains to investigate the effect of EPS production on biofilm formation (Figure 2). Comparison of L. johnsonii FI9785 with the well-known probiotic strain L. rhamnosus GG indicated that biofilm formation of these two strains was quite similar.
+25648083-001	0	19	L. johnsonii FI9785	Microorganism	MockLabel
+25648083-001	693	712	L. johnsonii FI9785	Microorganism	MockLabel
+25648083-001	750	766	L. rhamnosus  GG	Microorganism	MockLabel
+
+6417341|t|Mutations in the promoter regions of the malEFG and malK-lamB operons of Escherichia coli K12.
+6417341|a|The malB region of Escherichia coli is composed of two operons, malEFG and malK-lamB, transcribed divergently from a control region located between the malE and malK genes. Expression of the malB operons is under the positive control of the malT gene product (MalT) and maltose and of the crp gene product (CRP) and cyclic AMP. Strains in which the lac genes have been fused to malE or malK are unable to use lactose as carbon source if they have been deleted for malT or crp. Mutations in the malB region allowing such fusion strains to grow on lactose have been isolated. These and previously isolated mutations were genetically characterized. As regards the malEp promoter mutations, malEp9, malEp1 and malEp6 create new promoters that are MalT and CRP independent. malEp9 and malEp1 change residues -1 and -2, respectively, of malEp without altering its activity. malEp6 duplicates six base-pairs between residues -22 and -23. malEp3 improves the -10 region hexamer. malEp5 deletes residues -29 to -62. It creates a new promoter that is MalT independent, CRP dependent, likely by fusing together functional regions of malEp that are normally apart. malEp5 also reduces the expression of malK-lamB, suggesting the existence of a link between the malEp and malKp promoters. As regards the malKp mutations, malKp6 changes residue -81 of malKp without altering its activity. It creates a new promoter, which is MalT independent, CRP dependent, likely by using a pre-existing cyclic AMP/CRP binding site. malKp102 changes residue -36, two bases upstream of the -35 region hexamer. It decreases the activity of malKp by at least four orders of magnitude and likely alters the MalT binding site. These results are discussed in terms of regulatory interactions within the malB control region.
+6417341	73	93	Escherichia coli K12	Microorganism	MockLabel
+6417341	114	130	Escherichia coli	Microorganism	MockLabel
+
+8578217|t|Sucralfate in Helicobacter pylori eradication strategies.
+8578217|a|Sucralfate monotherapy has been shown to suppress but not eradicate Helicobacter pylori. The combination of sucralfate with antibiotic(s) has been evaluated recently in the treatment of H. pylori-positive duodenal ulcer. The aim of this article is to review the efficacy of sucralfate-containing duotherapy and triple therapy in duodenal ulcer healing and H. pylori eradication rates.
+8578217	14	33	Helicobacter pylori	Microorganism	MockLabel
+8578217	126	145	Helicobacter pylori	Microorganism	MockLabel
+8578217	244	253	H. pylori	Microorganism	MockLabel
+8578217	414	423	H. pylori	Microorganism	MockLabel
+8578217	583	592	H. pylori	Microorganism	MockLabel
+8578217	710	719	H. pylori	Microorganism	MockLabel
+8578217	843	852	H. pylori	Microorganism	MockLabel
+8578217	1055	1064	H. pylori	Microorganism	MockLabel
+8578217	1178	1187	H. pylori	Microorganism	MockLabel
+8578217	1410	1419	H. pylori	Microorganism	MockLabel
+
+24794620-011|t|
+24794620-011|a|We found a strongly negative correlation between OTU 2 (B. aurantiacum) and OTU 15 (Leucobacter), suggesting that Leucobacter replace B. aurantiacum in the rinds of old VB cheeses, particularly in cellars B2 and C1. In addition, weaker (r > 0.6) negative correlations of OTU 2 with OTU 16 (Pusillimonas) and OTU 20 (Leucobacter) were found in cellars C2 and C1.Corynebacterium casei and C. variabile have been shown to be dominant on Danish surface-ripened cheeses ( Gori et al., 2013). The presence of C. glutamicum on Fontina cheese rinds has been confirmed and the species has been suggested to be among the most important ripening bacteria, increasing in abundance towards the end of ripening ( Dolci et al., 2009 and Dolci et al., 2013). Brine, personnel, and equipment have been suggested as possible sources for Corynebacterium ( Brennan et al., 2002).
+24794620-011	56	70	B. aurantiacum	Microorganism	MockLabel
+24794620-011	84	95	Leucobacter	Microorganism	MockLabel
+24794620-011	114	125	Leucobacter	Microorganism	MockLabel
+24794620-011	134	148	B. aurantiacum	Microorganism	MockLabel
+24794620-011	293	305	Pusillimonas	Microorganism	MockLabel
+24794620-011	319	330	Leucobacter	Microorganism	MockLabel
+24794620-011	364	385	Corynebacterium casei	Microorganism	MockLabel
+24794620-011	390	402	C. variabile	Microorganism	MockLabel
+24794620-011	506	519	C. glutamicum	Microorganism	MockLabel
+24794620-011	825	840	Corynebacterium	Microorganism	MockLabel
+
+16629992|t|Sensitive and rapid detection of Flavobacterium columnare in channel catfish Ictalurus punctatus by a loop-mediated isothermal amplification method.
+16629992|a|To evaluate the loop-mediated isothermal amplification method (LAMP) for rapid detection of Flavobacterium columnare and determine the suitability of LAMP for rapid diagnosis of columnaris infection in channel catfish, Ictalurus punctatus.
+16629992	33	57	Flavobacterium columnare	Microorganism	MockLabel
+16629992	241	265	Flavobacterium columnare	Microorganism	MockLabel
+16629992	942	955	Fl. columnare	Microorganism	MockLabel
+16629992	1159	1172	Fl. columnare	Microorganism	MockLabel
+16629992	1259	1272	Fl. columnare	Microorganism	MockLabel
+16629992	1407	1420	Fl. columnare	Microorganism	MockLabel
+16629992	1487	1500	Fl. columnare	Microorganism	MockLabel
+
+24412414-000|t|
+24412414-000|a|In this study, 13 lactic acid bacteria (LAB) strains (including 5 Lactobacillus casei, 2 Lactobacillus rhamnosus, 2 Lactobacillus fermentum, 1 Lactobacillus acidophilus, 1 Lactobacillus plantarum, 1 Lactobacillus sakei, and 1 Lactobacillus reuteri species) were assessed for both their antifungal activity against four food spoilage molds (Colletotrichum gloeosporioides, Botrytis cinerea, Penicillium expansum, and Aspergillus flavus) and their capability to produce the novel antimicrobial compound 3-phenyllactic acid (PLA). Results demonstrated that all molds were sensitive to varying degrees to the cell-free supernatants (CFS) from LAB fermentations (p < 0.05), with growth inhibitions ranging from 2.65% to 66.82%.
+24412414-000	66	85	Lactobacillus casei	Microorganism	MockLabel
+24412414-000	89	112	Lactobacillus rhamnosus	Microorganism	MockLabel
+24412414-000	116	139	Lactobacillus fermentum	Microorganism	MockLabel
+24412414-000	143	168	Lactobacillus acidophilus	Microorganism	MockLabel
+24412414-000	172	195	Lactobacillus plantarum	Microorganism	MockLabel
+24412414-000	199	218	Lactobacillus sakei	Microorganism	MockLabel
+24412414-000	226	247	Lactobacillus reuteri	Microorganism	MockLabel
+24412414-000	340	370	Colletotrichum gloeosporioides	Microorganism	MockLabel
+24412414-000	372	388	Botrytis cinerea	Microorganism	MockLabel
+24412414-000	390	410	Penicillium expansum	Microorganism	MockLabel
+24412414-000	416	434	Aspergillus flavus	Microorganism	MockLabel
+
+1531512|t|Wolinella recta in adult gingivitis and periodontitis.
+1531512|a|Wolinella recta has been associated with adult periodontitis, but its role in the disease remains uncertain. This report clarifies the distribution of W. recta in periodontally healthy and diseased subjects, and treated patients with recurrent disease. A specific polyclonal rabbit antiserum against W. recta strain 372 was used for indirect immunofluorescence localization of W. recta in dental plaque from untreated and treated patients. Supragingival plaque was collected from 15 periodontally healthy individuals (H), 10 adults with mild gingivitis (G1), 8 with severe gingivitis (G2) and 15 with periodontitis (AP). Subgingival samples from 23 diseased sites (G2 and AP) were examined as well. There was a significant difference (p = 0.000) between the proportions of W. recta in subgingival (4.4%) vs. supragingival (0.3%) plaque samples from AP. A significant difference (p = 0.000) in W. recta proportions was also detected between subgingival plaque samples of AP (4.4%) vs. G2 (1.2%). No significant difference in the mean % of W. recta was found between supragingival plaque of AP (0.3%) and G2 (0%), and samples of G1 (0.01%) and H (0.1%). In a separate study, 85 adults previously treated for moderate to severe adult periodontitis were monitored over a 12-month period for evidence of disease recurrence. Recurrent disease was detected at 32 sites in 18 subjects. Of these, 20 sites in 13 subjects were positive for W. recta. With subjects as the experimental unit, a significant increase in the proportions of W. recta was found at sites with recurrent disease (3.12%) as compared to stable, paired control sites (0.24%), but only when sites with breakdown and positive for W. recta were compared with their controls. These results indicate that W. recta is associated with some, but not all sites with advanced adult periodontitis. The association of W. recta with gingivitis was not statistically significant.
+1531512	0	15	Wolinella recta	Microorganism	MockLabel
+1531512	55	70	Wolinella recta	Microorganism	MockLabel
+1531512	206	214	W. recta	Microorganism	MockLabel
+1531512	355	374	W. recta strain 372	Microorganism	MockLabel
+1531512	432	440	W. recta	Microorganism	MockLabel
+1531512	828	836	W. recta	Microorganism	MockLabel
+1531512	948	956	W. recta	Microorganism	MockLabel
+1531512	1093	1101	W. recta	Microorganism	MockLabel
+1531512	1485	1493	W. recta	Microorganism	MockLabel
+1531512	1580	1588	W. recta	Microorganism	MockLabel
+1531512	1744	1752	W. recta	Microorganism	MockLabel
+1531512	1816	1824	W. recta	Microorganism	MockLabel
+1531512	1922	1930	W. recta	Microorganism	MockLabel
+
+19329624|t|Salinivibrio siamensis sp. nov., from fermented fish (pla-ra) in Thailand.
+19329624|a|A Gram-negative, facultatively anaerobic, moderately halophilic bacterium, strain ND1-1(T), was isolated from fermented fish (pla-ra) in Thailand. The cells were curved rods, motile and non-endospore-forming. The novel strain grew optimally at 37 degrees C, at pH 8 and in the presence of 9-10 % (w/v) NaCl. The predominant respiratory lipoquinone was Q-8. The major cellular fatty acids were C(16 : 0) and C(12 : 0). Polar lipid analysis revealed the presence of phosphatidylethanolamine, phosphatidylglycerol and diphosphatidylglycerol. The DNA G+C content was 49.0 mol%. Comparative 16S rRNA gene sequence analyses indicated that strain ND1-1(T) was closely related to Salinivibrio costicola, which comprises three subspecies, and Salinivibrio proteolyticus with gene sequence similarities of 98.3-98.6 %. Strain ND1-1(T) showed low levels of DNA-DNA relatedness with S. costicola subsp. costicola JCM 15095(T) (33.2 %), S. costicola subsp. alcaliphilus DSM 16359(T) (38.4 %), S. costicola subsp. vallismortis JCM 15096(T) (59.7 %), and S. proteolyticus AF-2004(T) (42.1 %). On the basis of the physiological and biochemical characteristics and the molecular data presented, strain ND1-1(T) should be classified as a novel species of the genus Salinivibrio for which the name Salinivibrio siamensis sp. nov. is proposed. The type strain is ND1-1(T) (=JCM 14472(T)=PCU 301(T)=TISTR 1810(T)).
+19329624	0	22	Salinivibrio siamensis	Microorganism	MockLabel
+19329624	157	165	ND1-1(T)	Microorganism	MockLabel
+19329624	715	723	ND1-1(T)	Microorganism	MockLabel
+19329624	747	769	Salinivibrio costicola	Microorganism	MockLabel
+19329624	809	835	Salinivibrio proteolyticus	Microorganism	MockLabel
+19329624	891	899	ND1-1(T)	Microorganism	MockLabel
+19329624	946	988	S. costicola subsp. costicola JCM 15095(T)	Microorganism	MockLabel
+19329624	999	1044	S. costicola subsp. alcaliphilus DSM 16359(T)	Microorganism	MockLabel
+19329624	1055	1100	S. costicola subsp. vallismortis JCM 15096(T)	Microorganism	MockLabel
+19329624	1115	1142	S. proteolyticus AF-2004(T)	Microorganism	MockLabel
+19329624	1260	1268	ND1-1(T)	Microorganism	MockLabel
+19329624	1322	1334	Salinivibrio	Microorganism	MockLabel
+19329624	1354	1376	Salinivibrio siamensis	Microorganism	MockLabel
+19329624	1418	1426	ND1-1(T)	Microorganism	MockLabel
+19329624	1429	1441	JCM 14472(T)	Microorganism	MockLabel
+19329624	1442	1452	PCU 301(T)	Microorganism	MockLabel
+19329624	1453	1466	TISTR 1810(T)	Microorganism	MockLabel
+
+8211027|t|[Cervical lymphadenitis due to Mycobacterium malmoense in a child: case report and differential diagnosis of cervical lymphadenitis and lymphadenopathies].
+8211027|a|Cervical lymphadenitis and lymphadenopathy are common in children and may be caused by local or systemic infection. There are a large number of possible etiologies. We report the case of a five-year-old boy with unilateral cervical lymphadenitis who was in good health and showed neither clinical nor laboratory signs of systemic infection. Despite repetitive empirical antimicrobial treatment, the lymph nodes increased in size. After surgical excision Mycobacterium malmoense grew from the lymph node culture. Based on a literature search (Embase and Medline 1980-1992), the most frequent infectious etiologies of pediatric cervical lymphadenitis and lymphadenopathies are summarized. Nontuberculous mycobacterial lymphadenitis is most frequent in children between one and five years of age, and is more common in girls than boys. The treatment of choice is surgical excision. In immunocompetent children treatment with antimycobacterial drugs is not needed even if relapse occurs.
+8211027	31	54	Mycobacterium malmoense	Microorganism	MockLabel
+8211027	610	633	Mycobacterium malmoense	Microorganism	MockLabel
+8211027	858	871	mycobacterial	Microorganism	MockLabel
+
+24794620-009|t|
+24794620-009|a|We found B. aurantiacum (OTU 2) to be dominant especially on short-ripened cheese rinds of ripening cellars A1 and A2 but also – albeit to a lesser extent – in the long-ripened cheeses of ripening cellar A3.
+24794620-009	9	23	B. aurantiacum	Microorganism	MockLabel
+
+15345452-011|t|
+15345452-011|a|For example, we identified Lactococcus lactis, Leuconostoc mesenteroides, and Lactobacillus plantarum as major components of the red smear cheeses (Langres and Epoisses cheese cores) or Streptococcus thermophilus and Lactobacillus delbrueckii subsp. lactis in Swiss-type cheeses (Comté and Beaufort cheese cores).
+15345452-011	27	45	Lactococcus lactis	Microorganism	MockLabel
+15345452-011	47	72	Leuconostoc mesenteroides	Microorganism	MockLabel
+15345452-011	78	101	Lactobacillus plantarum	Microorganism	MockLabel
+15345452-011	186	212	Streptococcus thermophilus	Microorganism	MockLabel
+15345452-011	217	256	Lactobacillus delbrueckii subsp. lactis	Microorganism	MockLabel
+
+15345452-006|t|
+15345452-006|a|In pasteurized Leerdamer cheese (Fig. ​(Fig.3A,3A, lane 1), the TTGE analysis revealed the presence of only two species: Leuconostoc mesenteroides (band a), confirmed using specific primer tests (Table ​(Table4),4), and Lactococcus lactis (band b).
+15345452-006	121	146	Leuconostoc mesenteroides	Microorganism	MockLabel
+15345452-006	220	238	Lactococcus lactis	Microorganism	MockLabel
+
+7771426|t|Low dose, short-term triple therapy for cure of Helicobacter pylori infection and healing of peptic ulcers.
+7771426|a|The aim of this study was to confirm the efficacy and tolerability of a new, low dose, short-term triple therapy for cure of Helicobacter pylori infection, as suggested by Bazzoli, in a larger population.
+7771426	48	67	Helicobacter pylori	Microorganism	MockLabel
+7771426	233	252	Helicobacter pylori	Microorganism	MockLabel
+7771426	458	467	H. pylori	Microorganism	MockLabel
+7771426	636	645	H. pylori	Microorganism	MockLabel
+7771426	780	789	H. pylori	Microorganism	MockLabel
+7771426	1238	1247	H. pylori	Microorganism	MockLabel
+
+23935486|t|Structural basis for native agonist and synthetic inhibitor recognition by the Pseudomonas aeruginosa quorum sensing regulator PqsR (MvfR).
+23935486|a|Bacterial populations co-ordinate gene expression collectively through quorum sensing (QS), a cell-to-cell communication mechanism employing diffusible signal molecules. The LysR-type transcriptional regulator (LTTR) protein PqsR (MvfR) is a key component of alkyl-quinolone (AQ)-dependent QS in Pseudomonas aeruginosa. PqsR is activated by 2-alkyl-4-quinolones including the Pseudomonas quinolone signal (PQS; 2-heptyl-3-hydroxy-4(1H)-quinolone), its precursor 2-heptyl-4-hydroxyquinoline (HHQ) and their C9 congeners, 2-nonyl-3-hydroxy-4(1H)-quinolone (C9-PQS) and 2-nonyl-4-hydroxyquinoline (NHQ). These drive the autoinduction of AQ biosynthesis and the up-regulation of key virulence determinants as a function of bacterial population density. Consequently, PqsR constitutes a potential target for novel antibacterial agents which attenuate infection through the blockade of virulence. Here we present the crystal structures of the PqsR co-inducer binding domain (CBD) and a complex with the native agonist NHQ. We show that the structure of the PqsR CBD has an unusually large ligand-binding pocket in which a native AQ agonist is stabilized entirely by hydrophobic interactions. Through a ligand-based design strategy we synthesized and evaluated a series of 50 AQ and novel quinazolinone (QZN) analogues and measured the impact on AQ biosynthesis, virulence gene expression and biofilm development. The simple exchange of two isosteres (OH for NH₂) switches a QZN agonist to an antagonist with a concomitant impact on the induction of bacterial virulence factor production. We also determined the complex crystal structure of a QZN antagonist bound to PqsR revealing a similar orientation in the ligand binding pocket to the native agonist NHQ. This structure represents the first description of an LTTR-antagonist complex. Overall these studies present novel insights into LTTR ligand binding and ligand-based drug design and provide a chemical scaffold for further anti-P. aeruginosa virulence drug development by targeting the AQ receptor PqsR.
+23935486	79	101	Pseudomonas aeruginosa	Microorganism	MockLabel
+23935486	436	458	Pseudomonas aeruginosa	Microorganism	MockLabel
+23935486	516	527	Pseudomonas	Microorganism	MockLabel
+23935486	2120	2133	P. aeruginosa	Microorganism	MockLabel
+
+23895665|t|Comparison of laboratory costs of rapid molecular tests and conventional diagnostics for detection of tuberculosis and drug-resistant tuberculosis in South Africa.
+23895665|a|The World Health Organization has endorsed the use of molecular methods for the detection of TB and drug-resistant TB as a rapid alternative to culture-based systems. In South Africa, the Xpert MTB/Rif assay and the GenoType MTBDRplus have been implemented into reference laboratories for diagnosis of TB and drug-resistance, but their costs have not been fully elucidated.
+23895665	358	361	MTB	Microorganism	MockLabel
+23895665	911	914	MTB	Microorganism	MockLabel
+23895665	1212	1215	MTB	Microorganism	MockLabel
+
+20609608|t|Pathogenesis of the hyperlipidemia of Gram-negative bacterial sepsis may involve pathomorphological changes in liver sinusoidal endothelial cells.
+20609608|a|The Gram-negative bacterium Pseudomonas aeruginosa is one of the most common opportunistic pathogens, especially after liver transplantation. Pathophysiological alterations of liver sinusoidal endothelial cells (LSECs) have far-reaching repercussions on the liver and on metabolism. LSECs are perforated with fenestrations, pores that facilitate the transfer of lipoproteins and macromolecules between blood and hepatocytes. Gram-negative bacterial endotoxin (lipopolysaccharide, LPS) and the P. aeruginosa toxin, pyocyanin, have marked effects on LSECs. Initial loss of LSEC porosity (defenestration) induced by P. aeruginosa pyocyanin and LPS may confer subsequent immune tolerance to circulating bacterial antigens and toxins. This review collates the known immune responses of the liver to Gram-negative bacterial toxins, with a focus on LSECs. Hyperlipidemia is an important response to Gram-negative bacterial sepsis. The mechanisms proposed for sepsis-associated hyperlipidemia include tissue lipoprotein lipase inhibition and upregulated hepatic triglyceride production. In this review, we propose defenestration of the LSECs by bacterial toxins as an additional mechanism for the hyperlipidemia of sepsis. Given the role of LSECs in hyperlipidemia and liver allograft rejection, LSEC changes induced by P. aeruginosa toxins including LPS and pyocyanin may have significant clinical implications.
+20609608	175	197	Pseudomonas aeruginosa	Microorganism	MockLabel
+20609608	640	653	P. aeruginosa	Microorganism	MockLabel
+20609608	760	773	P. aeruginosa	Microorganism	MockLabel
+20609608	1459	1472	P. aeruginosa	Microorganism	MockLabel
+
+15345452-012|t|
+15345452-012|a|This microbial diversity reflected the dominant bacterial species of the ecosystem (39).The molecular approach allowed us to identify some species that are of particular interest: Lactobacillus buchneri, present in Morbier cheese, is a heterofermentative lactobacillus responsible for off-flavor defects caused by biogenic amine production (24, 54, 55). Specific detection of this microorganism could be of interest to the dairy industry. We also note that Propionibacterium freudenreichii was rapidly identified in Leerdamer cheese by DGGE; this microorganism is particularly difficult to cultivate on artificial medium and requires an incubation time of at least 7 days. Unexpectedly, we identified Pseudoalteromonas species and Halomonas species by sequencing two unassigned bands found in the Epoisses cheese profiles. This is the first time that these two salt-tolerant bacterial species are found in dairy products; their identification was enabled by molecular methods.
+15345452-012	181	203	Lactobacillus buchneri	Microorganism	MockLabel
+15345452-012	257	270	lactobacillus	Microorganism	MockLabel
+15345452-012	460	492	Propionibacterium freudenreichii	Microorganism	MockLabel
+15345452-012	707	724	Pseudoalteromonas	Microorganism	MockLabel
+15345452-012	737	746	Halomonas	Microorganism	MockLabel
+
+24302732|t|Structural basis of biological NO generation by octaheme oxidoreductases.
+24302732|a|Nitric oxide is an important molecule in all domains of life with significant biological functions in both pro- and eukaryotes. Anaerobic ammonium-oxidizing (anammox) bacteria that contribute substantially to the release of fixed nitrogen into the atmosphere use the oxidizing power of NO to activate inert ammonium into hydrazine (N2H4). Here, we describe an enzyme from the anammox bacterium Kuenenia stuttgartiensis that uses a novel pathway to make NO from hydroxylamine. This new enzyme is related to octaheme hydroxylamine oxidoreductase, a key protein in aerobic ammonium-oxidizing bacteria. By a multiphasic approach including the determination of the crystal structure of the K. stuttgartiensis enzyme at 1.8 Å resolution and refinement and reassessment of the hydroxylamine oxidoreductase structure from Nitrosomonas europaea, both in the presence and absence of their substrates, we propose a model for NO formation by the K. stuttgartiensis enzyme. Our results expand the understanding of the functions that the widespread family of octaheme proteins have. 
+24302732	468	492	Kuenenia stuttgartiensis	Microorganism	MockLabel
+24302732	759	777	K. stuttgartiensis	Microorganism	MockLabel
+24302732	888	909	Nitrosomonas europaea	Microorganism	MockLabel
+24302732	1008	1026	K. stuttgartiensis	Microorganism	MockLabel
+
+15345452-002|t|
+15345452-002|a|Strains of Pseudomonas fluorescens isolated from dairy products showed the same migration distance, whereas strain CIP69.13T, which originated from a water tank, and strain CIP6347, isolated from soil, migrated at a different position.
+15345452-002	11	34	Pseudomonas fluorescens	Microorganism	MockLabel
+15345452-002	115	124	CIP69.13T	Microorganism	MockLabel
+15345452-002	174	181	CIP6347	Microorganism	MockLabel
+
+17339250|t|Re: long term follow up of patients treated for Helicobacter pylori infection.
+17339250|a|
+17339250	48	67	Helicobacter pylori	Microorganism	MockLabel
+
+7766090|t|Mitomycin C stimulates thermally induced recombinant gene expression in Escherichia coli MC strains.
+7766090|a|The effects of mitomycin C on C1857-controlled recombinant gene expression have been explored in E. coli cultures when the drug was added simultaneously to the thermal induction. A significantly improved yield of homologous, heterologous and chimeric fusion proteins was observed in E. coli MC1061 and GE864 (a MC4100 derivative) thermoinduced cells. This feature was not detected in other E. coli strains and does not involve a gene dosage mechanism but a strain-dependent stimulation of gene expression unrelated to the RecA protease activity.
+7766090	72	91	Escherichia coli MC	Microorganism	MockLabel
+7766090	198	205	E. coli	Microorganism	MockLabel
+7766090	384	398	E. coli MC1061	Microorganism	MockLabel
+7766090	403	408	GE864	Microorganism	MockLabel
+7766090	412	418	MC4100	Microorganism	MockLabel
+7766090	491	498	E. coli	Microorganism	MockLabel
+
+24794620-004|t|
+24794620-004|a|The most abundant OTU in the 16S rRNA gene clones was OTU 1 (Halomonas boliviensis; relative abundance: 18.9%), followed by OTU 2 (Brevibacterium aurantiacum; relative abundance: 16.4%) and OTU 3 (Staphylococcus equorum; relative abundance: 13.5%). 
+24794620-004	61	82	Halomonas boliviensis	Microorganism	MockLabel
+24794620-004	131	157	Brevibacterium aurantiacum	Microorganism	MockLabel
+24794620-004	197	219	Staphylococcus equorum	Microorganism	MockLabel
+
+20077035|t|Characterization of a cryptic plasmid pD403 from Lactobacillus plantarum and construction of shuttle vectors based on its replicon.
+20077035|a|A cryptic plasmid pD403 was isolated from Lactobacillus plantarum D403 derived from fermented dairy products. It was 2,791 bp in size with a G+C content of 37%. Nucleotide sequence analysis revealed two open reading frames, orf1 and orf2. ORF1 (318 amino acids) was identified as a replication protein (RepA). ORF2 (137 amino acids) shared 31% similarity with the transcriptional regulator of Ralstonia pickettii 12D. Functional investigation indicated that ORF2 (Tra) had the ability of improving the transformation efficiency. The origin of replication was predicted, suggesting that pD403 was a rolling-circle-replication (RCR) plasmid. An Escherichia coli/Lactobacillus shuttle vector pCD4032 was constructed based on the pD403 replicon, and proved to be successfully transformed into various lactobacilli including Lactobacillus casei, Lactobacillus plantarum, Lactobacillus fermentum, and Lactobacillus brevis. The transformation efficiencies were ranged from 1.3 x 10(2) to 7 x 10(4) transformants per microgram DNA. Furthermore, an expression vector pCD4033 was developed with the promoter of the lactate dehydrogenase from Lactobacillus delbrueckii 11842. The green fluorescent protein (gfp) as a reporter was expressed successfully in various lactobacilli tested, suggesting that the expression vector pCD4033 had the potential to be used as a molecular tool for heterologous gene cloning and expression in lactobacilli.
+20077035	49	72	Lactobacillus plantarum	Microorganism	MockLabel
+20077035	174	202	Lactobacillus plantarum D403	Microorganism	MockLabel
+20077035	525	548	Ralstonia pickettii 12D	Microorganism	MockLabel
+20077035	775	791	Escherichia coli	Microorganism	MockLabel
+20077035	792	805	Lactobacillus	Microorganism	MockLabel
+20077035	929	941	lactobacilli	Microorganism	MockLabel
+20077035	952	971	Lactobacillus casei	Microorganism	MockLabel
+20077035	973	996	Lactobacillus plantarum	Microorganism	MockLabel
+20077035	998	1021	Lactobacillus fermentum	Microorganism	MockLabel
+20077035	1027	1047	Lactobacillus brevis	Microorganism	MockLabel
+20077035	1264	1295	Lactobacillus delbrueckii 11842	Microorganism	MockLabel
+20077035	1385	1397	lactobacilli	Microorganism	MockLabel
+20077035	1549	1561	lactobacilli	Microorganism	MockLabel
+
+22662140|t|Genome-wide study of the defective sucrose fermenter strain of Vibrio cholerae from the Latin American cholera epidemic.
+22662140|a|The 7th cholera pandemic reached Latin America in 1991, spreading from Peru to virtually all Latin American countries. During the late epidemic period, a strain that failed to ferment sucrose dominated cholera outbreaks in the Northern Brazilian Amazon region. In order to understand the genomic characteristics and the determinants of this altered sucrose fermenting phenotype, the genome of the strain IEC224 was sequenced. This paper reports a broad genomic study of this strain, showing its correlation with the major epidemic lineage. The potentially mobile genomic regions are shown to possess GC content deviation, and harbor the main V. cholera virulence genes. A novel bioinformatic approach was applied in order to identify the putative functions of hypothetical proteins, and was compared with the automatic annotation by RAST. The genome of a large bacteriophage was found to be integrated to the IEC224's alanine aminopeptidase gene. The presence of this phage is shown to be a common characteristic of the El Tor strains from the Latin American epidemic, as well as its putative ancestor from Angola. The defective sucrose fermenting phenotype is shown to be due to a single nucleotide insertion in the V. cholerae sucrose-specific transportation gene. This frame-shift mutation truncated a membrane protein, altering its structural pore-like conformation. Further, the identification of a common bacteriophage reinforces both the monophyletic and African-Origin hypotheses for the main causative agent of the 1991 Latin America cholera epidemics.
+22662140	63	78	Vibrio cholerae	Microorganism	MockLabel
+22662140	525	531	IEC224	Microorganism	MockLabel
+22662140	763	773	V. cholera	Microorganism	MockLabel
+22662140	1030	1036	IEC224	Microorganism	MockLabel
+22662140	1141	1147	El Tor	Microorganism	MockLabel
+22662140	1338	1349	V. cholerae	Microorganism	MockLabel
+
+15345452-014|t|
+15345452-014|a|Our results are in agreement with those of Brennan et al. (6), who also reported that Brevibacterium linens is not recovered from the surface of cheeses that were deliberately smeared with Brevibacterium linens BL2.
+15345452-014	87	108	Brevibacterium linens	Microorganism	MockLabel
+15345452-014	190	215	Brevibacterium linens BL2	Microorganism	MockLabel
+
+24794620-016|t|
+24794620-016|a|We found the filamentous fungus Scopulariopsis brevicaulis (OTU 1) and the yeasts Pyxidiophora arvernensis (OTU 2), Debaryomyces hansenii (OTU 3) and Nectria mariannaeae (OTU 4) to be the most abundant fungi in the cheese rind samples analyzed. This finding is consistent with recent results on the surfaces of Danish cheeses, where Debaryomyces hansenii and Scopulariopsis brevicaulis were found to be abundant ( Gori et al., 2013). The occurrence of S. brevicaulis in raw milk and cheese has been confirmed by other recent studies ( Lavoie et al., 2012 and Ropars et al., 2012) and Debaryomyces hansenii has been found on Fontina and various Austrian cheeses ( Dolci et al., 2009, Dolci et al., 2013, Lopandic et al., 2006 and Prillinger et al., 1999). We also observed Pyxidiophora- and Nectria-like OTUs that have not been previously described in cheese, although Nectria has been isolated from raw cow's milk ( Lavoie et al., 2012).
+24794620-016	32	58	Scopulariopsis brevicaulis	Microorganism	MockLabel
+24794620-016	82	106	Pyxidiophora arvernensis	Microorganism	MockLabel
+24794620-016	116	137	Debaryomyces hansenii	Microorganism	MockLabel
+24794620-016	150	169	Nectria mariannaeae	Microorganism	MockLabel
+24794620-016	336	357	Debaryomyces hansenii	Microorganism	MockLabel
+24794620-016	362	388	Scopulariopsis brevicaulis	Microorganism	MockLabel
+24794620-016	455	469	S. brevicaulis	Microorganism	MockLabel
+24794620-016	587	608	Debaryomyces hansenii	Microorganism	MockLabel
+24794620-016	775	787	Pyxidiophora	Microorganism	MockLabel
+24794620-016	793	800	Nectria	Microorganism	MockLabel
+24794620-016	871	878	Nectria	Microorganism	MockLabel
+
+3492570|t|Dexamethasone in the treatment of experimental Haemophilus influenzae type b meningitis.
+3492570|a|A model of experimental lapin meningitis was used to assess the effect of meningeal inflammation caused by Haemophilus influenzae type b on development of brain edema, increase in intracranial pressure, and production of brain lactate. Four treatments were assessed: dexamethasone alone, dexamethasone plus ceftriaxone, ceftriaxone alone, and no treatment. The brain water content in untreated rabbits with meningitis was 419 +/- 10 g of H2O/100g of dry weight after 29 hr of infection (vs. 405 +/- 14 in uninfected rabbits; P less than .05). In rabbits treated with dexamethasone, dexamethasone plus ceftriaxone, or ceftriaxone alone, these values were 404 +/- 12, 406 +/- 12, and 411 +/- 14 g, respectively (P greater than .05). The cerebrospinal fluid (CSF) pressure and lactate levels were significantly increased in all animals during the 24 hr of meningeal inflammation (P less than .005), and these levels were comparably reduced after 9 hr of treatment. Although the values for brain water content, CSF pressure, and lactate concentrations in infected animals treated with ceftriaxone plus dexamethasone were not significantly different from those in animals treated with ceftriaxone alone, the values were consistently lower in the former group.
+3492570	47	76	Haemophilus influenzae type b	Microorganism	MockLabel
+3492570	196	225	Haemophilus influenzae type b	Microorganism	MockLabel
+
+18809652|t|Alterations in Helicobacter pylori outer membrane and outer membrane vesicle-associated lipopolysaccharides under iron-limiting growth conditions.
+18809652|a|Outer membrane vesicles (OMVs) shed from the gastroduodenal pathogen Helicobacter pylori have measurable effects on epithelial cell responses. The aim of this study was to determine the effect of iron availability, and its basis, on the extent and nature of lipopolysaccharide (LPS) produced on H. pylori OMVs and their parental bacterial cells. Electrophoretic, immunoblotting and structural analyses revealed that LPSs of bacterial cells grown under iron-limited conditions were notably shorter than those of bacteria and OMVs obtained from iron-replete conditions. Structural analysis and serological probing showed that LPSs of iron-replete cells and OMVs expressed O-chains of Lewis(x) with a terminal Lewis(y) unit, whereas Lewis(y) expression was notably reduced on bacteria and OMVs from iron-limiting conditions. Unlike the O-chain, the core oligosaccharide and lipid A moieties of iron-replete and iron-limited bacteria and their OMVs were similar. Quantitatively, shed OMVs from iron-replete bacteria were found to be LPSenriched, whereas shed OMVs from iron-limited bacteria had a significantly reduced content of LPS. These differences were linked to bacterial ATP levels. Since iron availability affects the extent and nature of LPS expressed by H. pylori, host iron status may contribute to H. pylori pathogenesis.
+18809652	15	34	Helicobacter pylori	Microorganism	MockLabel
+18809652	216	235	Helicobacter pylori	Microorganism	MockLabel
+18809652	442	451	H. pylori	Microorganism	MockLabel
+18809652	1407	1416	H. pylori	Microorganism	MockLabel
+18809652	1453	1462	H. pylori	Microorganism	MockLabel
+
+24412414-003|t|
+24412414-003|a|De Muynck et al. (2004) studied the antifungal activity of filtered broth from 20 LAB strains by using the agar-diffusion method, reporting that L. acidophilus LMG 9433, L. amylovorus DSM 20532, L. brevis LMG 6906, L. coryniformis subsp. coryniformis LMG 9196, and L. plantarum LMG 6907 were the strains with the highest activity against A. flavus MUCL 19945, Endomyces fibuliger MUCL 11443, and Eurotium repens MUCL 15977.  Schillinger and Villareal (2010) screened 69 LAB to assess their capacity to inhibit the growth of P. nordicum (an ochratoxin producing Penicillium species) in malt extract agar. These authors reported that 37 strains, including L. rhamnosus LGG and L. plantarum 299v, were effective against P. nordicum and that both acetic and lactic acids among other LAB metabolism products contributed to the observed inhibition. Recently, the antifungal activity of L. plantarum IMAU10014 against B. cinerea, Glomerella cingulate, Phytophthora drechsleri, Penicillium citrinum, P. digitatum, and Fusarium oxysporum has been reported ( Wang et al., 2012).
+24412414-003	145	168	L. acidophilus LMG 9433	Microorganism	MockLabel
+24412414-003	170	193	L. amylovorus DSM 20532	Microorganism	MockLabel
+24412414-003	195	213	L. brevis LMG 6906	Microorganism	MockLabel
+24412414-003	215	259	L. coryniformis subsp. coryniformis LMG 9196	Microorganism	MockLabel
+24412414-003	265	286	L. plantarum LMG 6907	Microorganism	MockLabel
+24412414-003	338	358	A. flavus MUCL 19945	Microorganism	MockLabel
+24412414-003	360	390	Endomyces fibuliger MUCL 11443	Microorganism	MockLabel
+24412414-003	396	422	Eurotium repens MUCL 15977	Microorganism	MockLabel
+24412414-003	524	535	P. nordicum	Microorganism	MockLabel
+24412414-003	561	572	Penicillium	Microorganism	MockLabel
+24412414-003	654	670	L. rhamnosus LGG	Microorganism	MockLabel
+24412414-003	675	692	L. plantarum 299v	Microorganism	MockLabel
+24412414-003	717	728	P. nordicum	Microorganism	MockLabel
+24412414-003	883	905	L. plantarum IMAU10014	Microorganism	MockLabel
+24412414-003	914	924	B. cinerea	Microorganism	MockLabel
+24412414-003	926	946	Glomerella cingulate	Microorganism	MockLabel
+24412414-003	948	971	Phytophthora drechsleri	Microorganism	MockLabel
+24412414-003	973	993	Penicillium citrinum	Microorganism	MockLabel
+24412414-003	995	1007	P. digitatum	Microorganism	MockLabel
+24412414-003	1013	1031	Fusarium oxysporum	Microorganism	MockLabel
+
+9804019|t|Aurioscope earpieces--a potential vector of infection?
+9804019|a|to determine whether non disposable aurioscope earpieces used in community paediatric clinics harbored pathogenic micro-organisms, and to explore primary pediatrician perception of the possibility of cross infection from contaminated aurioscope earpieces and of how their aurioscope earpieced are cleaned.
+9804019	1186	1199	Staphylococci	Microorganism	MockLabel
+9804019	1261	1281	Staphylococci aureus	Microorganism	MockLabel
+9804019	1336	1345	S. aureus	Microorganism	MockLabel
+9804019	1347	1351	MRSA	Microorganism	MockLabel
+9804019	1432	1436	MRSA	Microorganism	MockLabel
+
+9467391|t|Ribosomal RNA (rrn) operons in Streptococcus mutans and nucleotide sequence of tRNA(Pro) gene associated with rrnB.
+9467391|a|Using a cloned 0.5-kb probe containing an internal fragment of 23S ribosomal RNA from the rrnB operon of Streptococcus mutans, we analyzed various endonuclease digests of the chromosomal DNA isolated from human-derived strains of mutans streptococci. Thus far, the examined S. mutans strains exhibited five ribosomal operons. Here, we describe a ribotyping technique for S. mutans based on restriction and Southern blot analyses with the biotin-labeled homologous probe and chemiluminescence detection. We cloned and sequenced a unique gene encoding tRNA(Pro) downstream from 23S rRNA gene at the 3' end of the operon. Primers designed to the 3' end of the rrnB operon PCR-amplified a 2.3-kb DNA fragment in all tested strains. Restriction fragment length polymorphism analysis of the amplicon revealed a diversity of the single locus among S. mutans isolates, thus establishing a potential use of the technique for the molecular epidemiology of mutans streptococci.
+9467391	31	51	Streptococcus mutans	Microorganism	MockLabel
+9467391	221	241	Streptococcus mutans	Microorganism	MockLabel
+9467391	346	365	mutans streptococci	Microorganism	MockLabel
+9467391	390	399	S. mutans	Microorganism	MockLabel
+9467391	487	496	S. mutans	Microorganism	MockLabel
+9467391	957	966	S. mutans	Microorganism	MockLabel
+9467391	1062	1081	mutans streptococci	Microorganism	MockLabel
+
+10941782|t|Microbial symbionts of marine invertebrates: opportunities for microbial biotechnology.
+10941782|a|Marine invertebrates are sources of a diverse array of bioactive metabolites with great potential for development as drugs and research tools. In many cases, microorganisms are known or suspected to be the biosynthetic source of marine invertebrate natural products. The application of molecular microbiology to the study of these relationships will contribute to basic biological knowledge and facilitate biotechnological development of these valuable resources. The bryostatin-producing bryozoan B. neritina and its specific symbiont "Candidatus Endobugula sertula" constitute one promising model system. Another fertile subject for investigation is the listhistid sponges that contain numerous bioactive metabolites, some of which originate from bacterial symbionts.
+10941782	625	654	Candidatus Endobugula sertula	Microorganism	MockLabel
+
+21211789|t|Identification of periodontal pathogens and severity of periodontitis in patients with and without chronic kidney disease.
+21211789|a|In this study of patients with chronic periodontitis (CP), the severity of the disease and the main periodontal pathogens identified in patients with chronic kidney disease (CKD) were compared with those detected in individuals without systemic disease.
+21211789	1125	1141	Candida albicans	Microorganism	MockLabel
+21211789	1143	1167	Porphyromonas gingivalis	Microorganism	MockLabel
+21211789	1169	1189	Tannerella forsythia	Microorganism	MockLabel
+21211789	1195	1214	Treponema denticola	Microorganism	MockLabel
+21211789	1403	1414	C. albicans	Microorganism	MockLabel
+21211789	1428	1440	P.gingivalis	Microorganism	MockLabel
+21211789	1454	1466	T. denticola	Microorganism	MockLabel
+21211789	1608	1619	C. albicans	Microorganism	MockLabel
+21211789	1621	1634	P. gingivalis	Microorganism	MockLabel
+21211789	1636	1648	T. forsythia	Microorganism	MockLabel
+21211789	1654	1666	T. denticola	Microorganism	MockLabel
+
+24416173|t|A low complexity rapid molecular method for detection of Clostridium difficile in stool.
+24416173|a|Here we describe a method for the detection of Clostridium difficile from stool using a novel low-complexity and rapid extraction process called Heat Elution (HE). The HE method is two-step and takes just 10 minutes, no specialist instruments are required and there is minimal hands-on time. A test method using HE was developed in conjunction with Loop-mediated Isothermal Amplification (LAMP) combined with the real-time bioluminescent reporter system known as BART targeting the toxin B gene (tcdB). The HE-LAMP-BART method was evaluated in a pilot study on clinical fecal samples (tcdB(+), n = 111; tcdB(-), n= 107). The HE-LAMP-BART method showed 95.5% sensitivity and 100% specificity against a gold standard reference method using cytotoxigenic culture and also a silica-based robotic extraction followed by tcdB PCR to control for storage. From sample to result, the HE-LAMP-BART method typically took 50 minutes, whereas the PCR method took >2.5 hours. In a further study (tcdB(+), n = 47; tcdB(-), n= 28) HE-LAMP-BART was compared to an alternative commercially available LAMP-based method, Illumigene (Meridian Bioscience, OH), and yielded 87.2% sensitivity and 100% specificity for the HE-LAMP-BART method compared to 76.6% and 100%, respectively, for Illumigene against the reference method. A subset of 27 samples (tcdB(+), n = 25; tcdB(-), n= 2) were further compared between HE-LAMP-BART, Illumigene, GeneXpert (Cepheid, Sunnyvale, CA) and RIDA®QUICK C. difficile Toxin A/B lateral flow rapid test (R-Biopharm, Darmstadt, Germany) resulting in sensitivities of HE-LAMP-BART 92%, Illumigene 72% GeneXpert 96% and RIDAQuick 76% against the reference method. The HE-LAMP-BART method offers the advantages of molecular based approaches without the cost and complexity usually associated with molecular tests. Further, the rapid time-to-result and simple protocol means the method can be applied away from the centralized laboratory settings.
+24416173	57	78	Clostridium difficile	Microorganism	MockLabel
+24416173	136	157	Clostridium difficile	Microorganism	MockLabel
+24416173	1556	1568	C. difficile	Microorganism	MockLabel
+
+12734439|t|Molecular diagnosis of nontuberculous mycobacteria.
+12734439|a|Diagnosis of infection due to nontuberculous mycobacteria is not easy, as it must be distinguished from colonization or contamination by other nontuberculous mycobacteria. Molecular methods offer many advantages over conventional methods of identification. The results are obtained rapidly, are reliable and reproducible, and even mixed or contaminated cultures can be examined. This review highlights the recent advances in molecular techniques for identification of nontuberculous mycobacteria.
+12734439	38	50	mycobacteria	Microorganism	MockLabel
+12734439	97	109	mycobacteria	Microorganism	MockLabel
+12734439	210	222	mycobacteria	Microorganism	MockLabel
+12734439	535	547	mycobacteria	Microorganism	MockLabel
+12734439	564	576	mycobacteria	Microorganism	MockLabel
+12734439	886	898	mycobacteria	Microorganism	MockLabel
+12734439	973	976	HIV	Microorganism	MockLabel
+12734439	1098	1111	mycobacterial	Microorganism	MockLabel
+12734439	1244	1256	mycobacteria	Microorganism	MockLabel
+12734439	1348	1361	mycobacterial	Microorganism	MockLabel
+12734439	1545	1558	mycobacterial	Microorganism	MockLabel
+12734439	1704	1716	mycobacteria	Microorganism	MockLabel
+12734439	1896	1909	mycobacterial	Microorganism	MockLabel
+
+24794620-000|t|
+24794620-000|a|Pairwise correlation analyses revealed putative co-occurring taxa.•Halomonas was most abundant in cheese rinds.
+24794620-000	67	76	Halomonas	Microorganism	MockLabel
+
+15345452-008|t|
+15345452-008|a|With the Munster cheese (Fig. ​(Fig.3B,3B, lane 2), we detected five bands; three bands, a, b, and c, were respectively assigned to Kluyvera cryocrescens, Streptococcus thermophilus, and the Arthrobacter sulfureus group; two bands, d and e, were assigned to Brevibacterium linens. However, we did not confirm the presence of Brevibacterium linens in the Munster cheese with specific primers designed by S. Furlan et al. (unpublished data) (Table ​(Table44).With Morbier cheese, the DGGE method revealed 9 bands. The species database allowed us to identify six of them (Fig. ​(Fig.3B,3B, lane 3) as corresponding to Lactobacillus buchneri (band a), Streptococcus thermophilus (band b), Lactobacillus reuteri-Enterobacter sakazakii (band d), Lactobacillus casei (band f), the Micrococcus luteus group (band h), and Brevibacterium linens (band i). The presence of Brevibacterium linens in the Morbier cheese was confirmed by specific PCR testing (Table ​(Table4).4). However, a very faint band (not visible on the gel photograph) was assigned to E. coli. Three of the unassigned bands were cloned and sequenced; sequence comparison against the GenBank database allowed us to identify them as Corynebacterium variabile (band c), Arthrobacter species (band e), and Corynebacterium casei (band g). We also identified the Corynebacterium mastitidis species bacteria by sequencing a clone originating from band h (Fig. ​(Fig.3B,3B, lane 3). Each new species fingerprint was added to the database after validation with pure strains.We detected seven bands in the DGGE pattern of the Epoisses cheese (Fig. ​(Fig.3B,3B, lane 1); four bands were assigned to Kluyvera cryocrescens (band b), Buttiauxella agrestis-Enterobacter intermedius (band c), Brevibacterium linens (band d), and the Arthrobacter sulfureus group (band g). The presence of Brevibacterium linens was confirmed by a specific PCR test (Table ​(Table4).4). Sequencing of the unassigned bands a and f (Fig. ​(Fig.3B,3B, lane 1) revealed the presence of Pseudoalteromonas and Halomonas, although the habitat of these two genera is generally salt water (57). We did not succeed in sequencing the unknown band e (Fig. ​(Fig.3B,3B, lane 1).
+15345452-008	132	153	Kluyvera cryocrescens	Microorganism	MockLabel
+15345452-008	155	181	Streptococcus thermophilus	Microorganism	MockLabel
+15345452-008	191	213	Arthrobacter sulfureus	Microorganism	MockLabel
+15345452-008	258	279	Brevibacterium linens	Microorganism	MockLabel
+15345452-008	325	346	Brevibacterium linens	Microorganism	MockLabel
+15345452-008	615	637	Lactobacillus buchneri	Microorganism	MockLabel
+15345452-008	648	674	Streptococcus thermophilus	Microorganism	MockLabel
+15345452-008	685	706	Lactobacillus reuteri	Microorganism	MockLabel
+15345452-008	707	729	Enterobacter sakazakii	Microorganism	MockLabel
+15345452-008	740	759	Lactobacillus casei	Microorganism	MockLabel
+15345452-008	774	792	Micrococcus luteus	Microorganism	MockLabel
+15345452-008	813	834	Brevibacterium linens	Microorganism	MockLabel
+15345452-008	861	882	Brevibacterium linens	Microorganism	MockLabel
+15345452-008	1043	1050	E. coli	Microorganism	MockLabel
+15345452-008	1191	1216	Corynebacterium variabile	Microorganism	MockLabel
+15345452-008	1227	1239	Arthrobacter	Microorganism	MockLabel
+15345452-008	1262	1283	Corynebacterium casei	Microorganism	MockLabel
+15345452-008	1317	1343	Corynebacterium mastitidis	Microorganism	MockLabel
+15345452-008	1648	1669	Kluyvera cryocrescens	Microorganism	MockLabel
+15345452-008	1680	1701	Buttiauxella agrestis	Microorganism	MockLabel
+15345452-008	1702	1726	Enterobacter intermedius	Microorganism	MockLabel
+15345452-008	1737	1758	Brevibacterium linens	Microorganism	MockLabel
+15345452-008	1777	1799	Arthrobacter sulfureus	Microorganism	MockLabel
+15345452-008	1832	1853	Brevibacterium linens	Microorganism	MockLabel
+15345452-008	2007	2024	Pseudoalteromonas	Microorganism	MockLabel
+15345452-008	2029	2038	Halomonas	Microorganism	MockLabel
+
+132046|t|[Chromosomal structures of Pseudomonas testosteroni. I. Isolation and characterization of the chromosomal complexes. (author's transl)].
+132046|a|After lysis of Pseydomonas testosteroni with lysozyme and non-ionic detergents different DNA-protein complexes can be separated in 5-25% (w/v) neutral sucrose gradient. The protein to DNA ratio of these complexes varies between 0.5-4.5 to 1, whereby the faster sedimenting forms contain more protein than the slower sedimenting ones. Different initial rates of DNase digestion may indicate various degrees of DNA packing in these complexes. The chromosomal complexes of Pseudomonas testosteroni are relatively stable towards pronase. Treatment with RNase or sodium dodecylsulphate is accompanied by a dramatic increase in viscosity and decrease in relative density. It suggests that DNA in these complexes is maintained in its supercoiled form by RNA molecule(s) in a similar way as in isolated chromosome of E. coli.
+132046	27	51	Pseudomonas testosteroni	Microorganism	MockLabel
+132046	152	176	Pseydomonas testosteroni	Microorganism	MockLabel
+132046	607	631	Pseudomonas testosteroni	Microorganism	MockLabel
+132046	946	953	E. coli	Microorganism	MockLabel
+
+24959701|t|Epidemiology, clinical manifestations, and outcomes of Streptococcus suis infection in humans.
+24959701|a|Streptococcus suis, a bacterium that affects pigs, is a neglected pathogen that causes systemic disease in humans. We conducted a systematic review and meta-analysis to summarize global estimates of the epidemiology, clinical characteristics, and outcomes of this zoonosis. We searched main literature databases for all studies through December 2012 using the search term "streptococcus suis." The prevalence of S. suis infection is highest in Asia; the primary risk factors are occupational exposure and eating of contaminated food. The pooled proportions of case-patients with pig-related occupations and history of eating high-risk food were 38.1% and 37.3%, respectively. The main clinical syndrome was meningitis (pooled rate 68.0%), followed by sepsis, arthritis, endocarditis, and endophthalmitis. The pooled case-fatality rate was 12.8%. Sequelae included hearing loss (39.1%) and vestibular dysfunction (22.7%). Our analysis identified gaps in the literature, particularly in assessing risk factors and sequelae of this infection. 
+24959701	55	73	Streptococcus suis	Microorganism	MockLabel
+24959701	95	113	Streptococcus suis	Microorganism	MockLabel
+24959701	468	486	streptococcus suis	Microorganism	MockLabel
+24959701	507	514	S. suis	Microorganism	MockLabel
+
+24261996|t|Attenuated Bordetella pertussis vaccine protects against respiratory syncytial virus disease via an IL-17-dependent mechanism.
+24261996|a|We attenuated virulent Bordetella pertussis by genetically eliminating or detoxifying three major toxins. This strain, named BPZE1, is being developed as a possible live nasal vaccine for the prevention of whooping cough. It is immunogenic and safe when given intranasally in adult volunteers.
+24261996	11	31	Bordetella pertussis	Microorganism	MockLabel
+24261996	57	84	respiratory syncytial virus	Microorganism	MockLabel
+24261996	150	170	Bordetella pertussis	Microorganism	MockLabel
+24261996	252	257	BPZE1	Microorganism	MockLabel
+24261996	499	504	BPZE1	Microorganism	MockLabel
+24261996	538	565	respiratory syncytial virus	Microorganism	MockLabel
+24261996	567	570	RSV	Microorganism	MockLabel
+24261996	597	602	BPZE1	Microorganism	MockLabel
+24261996	636	639	RSV	Microorganism	MockLabel
+24261996	781	786	BPZE1	Microorganism	MockLabel
+24261996	965	968	RSV	Microorganism	MockLabel
+24261996	980	985	BPZE1	Microorganism	MockLabel
+24261996	1006	1009	RSV	Microorganism	MockLabel
+24261996	1113	1118	BPZE1	Microorganism	MockLabel
+24261996	1142	1145	RSV	Microorganism	MockLabel
+24261996	1431	1436	BPZE1	Microorganism	MockLabel
+24261996	1440	1443	RSV	Microorganism	MockLabel
+24261996	1475	1478	RSV	Microorganism	MockLabel
+24261996	1488	1493	BPZE1	Microorganism	MockLabel
+24261996	1610	1613	RSV	Microorganism	MockLabel
+24261996	1627	1632	BPZE1	Microorganism	MockLabel
+
+24722168|t|Probiotic Lactobacillus rhamnosus GG enhanced Th1 cellular immunity but did not affect antibody responses in a human gut microbiota transplanted neonatal gnotobiotic pig model.
+24722168|a|This study aims to establish a human gut microbiota (HGM) transplanted gnotobiotic (Gn) pig model of human rotavirus (HRV) infection and diarrhea, and to verify the dose-effects of probiotics on HRV vaccine-induced immune responses. Our previous studies using the Gn pig model found that probiotics dose-dependently regulated both T cell and B cell immune responses induced by rotavirus vaccines. We generated the HGM transplanted neonatal Gn pigs through daily feeding of neonatal human fecal suspension to germ-free pigs for 3 days starting at 12 hours after birth. We found that attenuated HRV (AttHRV) vaccination conferred similar overall protection against rotavirus diarrhea and virus shedding in Gn pigs and HGM transplanted Gn pigs. HGM promoted the development of the neonatal immune system, as evidenced by the significantly enhanced IFN-γ producing T cell responses and reduction of regulatory T cells and their cytokine production in the AttHRV-vaccinated pigs. The higher dose Lactobacillus rhamnosus GG (LGG) feeding (14 doses, up to 109 colony-forming-unit [CFU]/dose) effectively increased the LGG counts in the HGM Gn pig intestinal contents and significantly enhanced HRV-specific IFN-γ producing T cell responses to the AttHRV vaccine. Lower dose LGG (9 doses, up to 106 CFU/dose) was ineffective. Neither doses of LGG significantly improved the protection rate, HRV-specific IgA and IgG antibody titers in serum, or IgA antibody titers in intestinal contents compared to the AttHRV vaccine alone, suggesting that an even higher dose of LGG is needed to overcome the influence of the microbiota to achieve the immunostimulatory effect in the HGM pigs. This study demonstrated that HGM Gn pig is an applicable animal model for studying immune responses to rotavirus vaccines and can be used for studying interventions (i.e., probiotics and prebiotics) that may enhance the immunogenicity and protective efficacy of vaccines through improving the gut microbiota. 
+24722168	10	36	Lactobacillus rhamnosus GG	Microorganism	MockLabel
+24722168	278	293	human rotavirus	Microorganism	MockLabel
+24722168	295	298	HRV	Microorganism	MockLabel
+24722168	372	375	HRV	Microorganism	MockLabel
+24722168	554	563	rotavirus	Microorganism	MockLabel
+24722168	770	773	HRV	Microorganism	MockLabel
+24722168	775	781	AttHRV	Microorganism	MockLabel
+24722168	840	849	rotavirus	Microorganism	MockLabel
+24722168	1128	1134	AttHRV	Microorganism	MockLabel
+24722168	1168	1194	Lactobacillus rhamnosus GG	Microorganism	MockLabel
+24722168	1196	1199	LGG	Microorganism	MockLabel
+24722168	1288	1291	LGG	Microorganism	MockLabel
+24722168	1364	1367	HRV	Microorganism	MockLabel
+24722168	1417	1423	AttHRV	Microorganism	MockLabel
+24722168	1444	1447	LGG	Microorganism	MockLabel
+24722168	1512	1515	LGG	Microorganism	MockLabel
+24722168	1560	1563	HRV	Microorganism	MockLabel
+24722168	1673	1679	AttHRV	Microorganism	MockLabel
+24722168	1734	1737	LGG	Microorganism	MockLabel
+24722168	1952	1961	rotavirus	Microorganism	MockLabel
+
+4387161|t|Uridine diphosphate D-glucose dehydrogenase of Aerobacter aerogenes.
+4387161|a|Uridine diphosphate d-glucose dehydrogenase (EC 1.1.1.22) from Aerobacter aerogenes has been partially purified and its properties have been investigated. The molecular weight of the enzyme is between 70,000 and 100,000. Uridine diphosphate d-glucose is a substrate; the diphosphoglucose derivatives of adenosine, cytidine, guanosine, and thymidine are not substrates. Nicotinamide adenine dinucleotide (NAD), but not nicotinamide adenine dinucleotide phosphate, is active as hydrogen acceptor. The pH optimum is between 9.4 and 9.7; the K(m) is 0.6 mm for uridine diphosphate d-glucose and 0.06 mm for NAD. Inhibition of the enzyme by uridine diphosphate d-xylose is noncooperative and of mixed type; the K(i) is 0.08 mm. Thus, uridine diphosphate d-glucose dehydrogenase from A. aerogenes differs from the enzyme from mammalian liver, higher plants, and Cryptococcus laurentii, in which uridine diphosphate d-xylose functions as a cooperative, allosteric feedback inhibitor.
+4387161	47	67	Aerobacter aerogenes	Microorganism	MockLabel
+4387161	132	152	Aerobacter aerogenes	Microorganism	MockLabel
+4387161	847	859	A. aerogenes	Microorganism	MockLabel
+4387161	925	947	Cryptococcus laurentii	Microorganism	MockLabel
+
+21557059|t|Adhesion by pathogenic corynebacteria.
+21557059|a|Pathogenic members of the genus Corynebacterium cause a wide range of serious infections in humans including diphtheria. Adhesion to host cells is a crucial step during infection. In Corynebacterium diphtheriae, adhesion is mediated primarily by filamentous structures called pili or fimbriae that are covalently attached to the bacterial cell wall. C. diphtheriae produces three distinct pilus structures, SpaA-, SpaD- and SpaH-type pili. Similar to other types, the prototype SpaA pilus consists of SpaA forming the pilus shaft and two minor pilins SpaB and SpaC located at the base and at the tip, respectively. The minor pilins SpaB/SpaC are critical for bacterial binding to human pharyngeal cells, and thus represent the major adhesins of corynebacteria. Like pili of many other gram-positive microbes, the assembly of corynebacterial pili occurs by a two-step mechanism, whereby pilins are covalently polymerized by a transpeptidase enzyme named pilin-specific sortase and the generated pilus polymer is subsequently anchored to the cell wall peptidoglycan via the base pilin by the housekeeping sortase or a non-polymerizing sortase. This chapter reviews the current knowledge of corynebacterial adhesion, with a specific focus on pilus structures, their assembly, and the mechanism of adhesion mediated by pili.
+21557059	23	37	corynebacteria	Microorganism	MockLabel
+21557059	71	86	Corynebacterium	Microorganism	MockLabel
+21557059	222	249	Corynebacterium diphtheriae	Microorganism	MockLabel
+21557059	389	403	C. diphtheriae	Microorganism	MockLabel
+21557059	784	798	corynebacteria	Microorganism	MockLabel
+21557059	864	879	corynebacterial	Microorganism	MockLabel
+21557059	1227	1242	corynebacterial	Microorganism	MockLabel
+
+24651768|t|Conjunctival scarring in trachoma is associated with the HLA-C ligand of KIR and is exacerbated by heterozygosity at KIR2DL2/KIR2DL3.
+24651768|a|Chlamydia trachomatis is globally the predominant infectious cause of blindness and one of the most common bacterial causes of sexually transmitted infection. Infections of the conjunctiva cause the blinding disease trachoma, an immuno-pathological disease that is characterised by chronic conjunctival inflammation and fibrosis. The polymorphic Killer-cell Immunoglobulin-like Receptors (KIR) are found on Natural Killer cells and have co-evolved with the Human Leucocyte Antigen (HLA) class I system. Certain genetic constellations of KIR and HLA class I polymorphisms are associated with a number of diseases in which modulation of the innate responses to viral and intracellular bacterial pathogens is central.
+24651768	134	155	Chlamydia trachomatis	Microorganism	MockLabel
+24651768	1575	1585	chlamydial	Microorganism	MockLabel
+
+15345452-001|t|
+15345452-001|a|Nondesirable microorganisms, such as the psychrotrophic Pseudomonas fluorescens (52) or certain proteolytic LAB, may cause flavor defects (e.g., bitterness and putrid flavors) in milks and cheeses (7, 8, 51). The presence of Escherichia coli, Listeria monocytogenes, and Staphylococcus aureus in raw milks and cheeses constitutes a health risk (3, 10, 12, 33, 41, 49).
+15345452-001	56	79	Pseudomonas fluorescens	Microorganism	MockLabel
+15345452-001	225	241	Escherichia coli	Microorganism	MockLabel
+15345452-001	243	265	Listeria monocytogenes	Microorganism	MockLabel
+15345452-001	271	292	Staphylococcus aureus	Microorganism	MockLabel
+
+7424745|t|A survey of Moraxella corneal ulcers in a derelict population.
+7424745|a|Infection with diplobacilli of the Moraxella group was the most common cause of bacterial corneal ulcer in a population of derelict alcoholics living in the Bowery district in New York City from 1965 through 1968. No distinction could be made between Moraxella subspecies on the basis of severity of ulcer or antibiotic sensitivities. Of 100 Bowery inhabitants examined, 35 harbored Moraxella in their noses. After 1968 and coinciding with an improvement in nutrition and sanitation, but with no apparent change in the incidence of alcoholism in this population, we noted a marked decline in the incidence of corneal ulcers caused by Moraxella species.
+7424745	12	21	Moraxella	Microorganism	MockLabel
+7424745	98	107	Moraxella	Microorganism	MockLabel
+7424745	314	323	Moraxella	Microorganism	MockLabel
+7424745	446	455	Moraxella	Microorganism	MockLabel
+7424745	697	706	Moraxella	Microorganism	MockLabel
+
+15281948|t|Mineral and carbon usage of two synthetic pyrethroid degrading bacterial isolates.
+15281948|a|To investigate the biodegrading ability and cometabolism of synthetic pyrethroid (SP) utilizing bacteria in cultures with various minerals and carbon sources.
+15281948	275	290	Pseudomonas sp.	Microorganism	MockLabel
+15281948	295	307	Serratia sp.	Microorganism	MockLabel
+15281948	646	675	Pseudomonas sp. strain Circle	Microorganism	MockLabel
+15281948	712	737	Serratia sp. strain White	Microorganism	MockLabel
+15281948	843	872	Pseudomonas sp. strain Circle	Microorganism	MockLabel
+
+24794620-007|t|
+24794620-007|a|OTU 1 (H. boliviensis) was highly abundant in young cheeses and was most frequently found in ripening cellar B1 (61.0%). Cheese rinds from cellars A1 and A2 were dominated by OTU 2 (B. linens, relative abundance: 35.0 and 34.5%). OTU 3 (S. equorum) and OTU 4 (Brevibacterium sp.) were most abundant in old cheeses.Short-ripened cheese rinds harbored a significantly increased (p < 0.05) ratio of OTU 1, OTU 2, OTU 5 and OTU 9 (H. boliviensis, B. aurantiacum, A. kashmirensis, P. aquaticus; 5.7, 2.1, 2.9 and 10.1 fold changes, respectively) and a significantly decreased ratio of OTU 3, OTU 4, OTU 7 and OTU 11 (S. equorum, Brevibacterium pityocampae, Brachybacterium conglomeratum, Y. halotolerans; 3.6, 5.8, 3.7 and 10.4 fold changes, respectively) compared to long-ripened cheeses ( Fig. 4, Supplementary Table S5).Five out of seven 18S rRNA OTUs (87% of all clones) were shared between young and old cheeses (Fig. 4). Short-ripened cheeses harbored a significantly increased ratio of OTU 2 and OTU 3 (Pyxidiophora arvernensis, Debaryomyces hansenii; 1.1 and 3.4 fold changes), while OTU 4 (Nectria mariannaeae) could only be detected in short-ripened cheeses. OTU 1 and OTU 5 (Scopulariopsis brevicaulis and Arachnomyces glareosus) were significantly increased in long-ripened cheeses (2.8 and 8.8 fold change) ( Fig. 4, Supplementary Table S6).Short-ripened cheeses were dominated by Actinobacteria or Proteobacteria.
+24794620-007	7	21	H. boliviensis	Microorganism	MockLabel
+24794620-007	185	194	B. linens	Microorganism	MockLabel
+24794620-007	240	250	S. equorum	Microorganism	MockLabel
+24794620-007	263	281	Brevibacterium sp.	Microorganism	MockLabel
+24794620-007	430	444	H. boliviensis	Microorganism	MockLabel
+24794620-007	446	460	B. aurantiacum	Microorganism	MockLabel
+24794620-007	462	477	A. kashmirensis	Microorganism	MockLabel
+24794620-007	479	491	P. aquaticus	Microorganism	MockLabel
+24794620-007	615	625	S. equorum	Microorganism	MockLabel
+24794620-007	627	653	Brevibacterium pityocampae	Microorganism	MockLabel
+24794620-007	655	684	Brachybacterium conglomeratum	Microorganism	MockLabel
+24794620-007	686	701	Y. halotolerans	Microorganism	MockLabel
+24794620-007	1008	1032	Pyxidiophora arvernensis	Microorganism	MockLabel
+24794620-007	1034	1055	Debaryomyces hansenii	Microorganism	MockLabel
+24794620-007	1097	1116	Nectria mariannaeae	Microorganism	MockLabel
+24794620-007	1184	1210	Scopulariopsis brevicaulis	Microorganism	MockLabel
+24794620-007	1215	1237	Arachnomyces glareosus	Microorganism	MockLabel
+24794620-007	1392	1406	Actinobacteria	Microorganism	MockLabel
+24794620-007	1410	1424	Proteobacteria	Microorganism	MockLabel
+
+20518637|t|Variation in the type and frequency of postoperative invasive Staphylococcus aureus infections according to type of surgical procedure.
+20518637|a|To determine the epidemiological characteristics of postoperative invasive Staphylococcus aureus infection following 4 types of major surgical procedures.design. Retrospective cohort study.
+20518637	62	83	Staphylococcus aureus	Microorganism	MockLabel
+20518637	211	232	Staphylococcus aureus	Microorganism	MockLabel
+20518637	744	753	S. aureus	Microorganism	MockLabel
+20518637	1156	1165	S. aureus	Microorganism	MockLabel
+20518637	1298	1306	S.aureus	Microorganism	MockLabel
+20518637	1317	1326	S. aureus	Microorganism	MockLabel
+20518637	1737	1746	S. aureus	Microorganism	MockLabel
+20518637	1982	1991	S. aureus	Microorganism	MockLabel
+20518637	2258	2266	S.aureus	Microorganism	MockLabel
+20518637	2351	2360	S. aureus	Microorganism	MockLabel
+
+25880122-000|t|
+25880122-000|a|Pediococcus damnosus LMG 28219 is a lactic acid bacterium dominating the maturation phase of Flemish acid beer productions. It proved to be capable of growing in beer, thereby resisting this environment, which is unfavorable for microbial growth. The molecular mechanisms underlying its metabolic capabilities and niche adaptations were unknown up to now. In the present study, whole-genome sequencing and comparative genome analysis were used to investigate this strain’s mechanisms to reside in the beer niche, with special focus on not only stress and hop resistances but also folate biosynthesis and exopolysaccharide (EPS) production.
+25880122-000	0	31	Pediococcus damnosus  LMG 28219	Microorganism	MockLabel
+
+24412414-002|t|
+24412414-002|a|Several studies have reported the ability of many LAB to produce PLA, including species such as Leuconostoc mesenteroides, Lactobacillus plantarum, Lactobacillus rhamnosus, Lactobacillus sanfranciscensis, Lactobacillus acidophilus, Lactobacillus alimentarius, Lactobacillus amylovorus, Lactobacillus casei, Lactobacillus lactis, Lactobacillus paracasei, Lactobacillus reuteri, and Pediococcus acidilactici, although its production has been found to be species- and strain- dependent ( Lavermicocca et al., 2000, Valerio et al., 2004, Li et al., 2007, Gerez et al., 2009, Gerez et al., 2010, Gerez et al., 2013, Valerio et al., 2009, Prema et al., 2010, Ryan et al., 2011 and Mu et al., 2012a). Additionally, PLA production has been reported for Geotrichum candidum ( Dieuleveux et al., 1998) and some propionibacteria (Lind et al., 2007).
+24412414-002	96	121	Leuconostoc mesenteroides	Microorganism	MockLabel
+24412414-002	123	146	Lactobacillus plantarum	Microorganism	MockLabel
+24412414-002	148	171	Lactobacillus rhamnosus	Microorganism	MockLabel
+24412414-002	173	203	Lactobacillus sanfranciscensis	Microorganism	MockLabel
+24412414-002	205	230	Lactobacillus acidophilus	Microorganism	MockLabel
+24412414-002	232	258	Lactobacillus alimentarius	Microorganism	MockLabel
+24412414-002	260	284	Lactobacillus amylovorus	Microorganism	MockLabel
+24412414-002	286	305	Lactobacillus casei	Microorganism	MockLabel
+24412414-002	307	327	Lactobacillus lactis	Microorganism	MockLabel
+24412414-002	329	352	Lactobacillus paracasei	Microorganism	MockLabel
+24412414-002	354	375	Lactobacillus reuteri	Microorganism	MockLabel
+24412414-002	381	405	Pediococcus acidilactici	Microorganism	MockLabel
+24412414-002	745	764	Geotrichum candidum	Microorganism	MockLabel
+24412414-002	801	817	propionibacteria	Microorganism	MockLabel
+
+15345452-015|t|
+15345452-015|a|In fact, coryneform strains were often classified as part of the Brevibacterium linens group because they formed orange colonies on plates.
+15345452-015	9	19	coryneform	Microorganism	MockLabel
+15345452-015	65	86	Brevibacterium linens	Microorganism	MockLabel
+
+24621108|t|Incorporation of essential oils and nanoparticles in pullulan films to control foodborne pathogens on meat and poultry products.
+24621108|a|The incorporation of essential oils and nanotechnology into edible films has the potential to improve the microbiological safety of foods. The aim of this study was to evaluate the effectiveness of pullulan films containing essential oils and nanoparticles against 4 foodborne pathogens. Initial experiments using plate overlay assays demonstrated that 2% oregano essential oil was active against Staphylococcus aureus and Salmonella Typhimurium, whereas Listeria monocytogenes and Escherichia coli O157:H7 were not inhibited. Two percent rosemary essential oil was active against S. aureus, L. monocytogenes, E. coli O157:H7, and S. Typhimurium, when compared with 1%. Zinc oxide nanoparticles at 110 nm were active against S. aureus, L. monocytogenes, E. coli O157:H7, and S. Typhimurium, when compared with 100 or 130 nm. Conversely, 100 nm silver (Ag) nanoparticles were more active against S. aureus than L. monocytogenes. Using the results from these experiments, the compounds exhibiting the greatest activity were incorporated into pullulan films and found to inhibit all or some of the 4 pathogens in plate overlay assays. In challenge studies, pullulan films containing the compounds effectively inhibited the pathogens associated with vacuum packaged meat and poultry products stored at 4 °C for up to 3 wk, as compared to control films. Additionally, the structure and cross-section of the films were evaluated using electron microscopy. The results from this study demonstrate that edible films made from pullulan and incorporated with essential oils or nanoparticles may improve the safety of refrigerated, fresh or further processed meat and poultry products. 
+24621108	526	547	Staphylococcus aureus	Microorganism	MockLabel
+24621108	552	574	Salmonella Typhimurium	Microorganism	MockLabel
+24621108	584	606	Listeria monocytogenes	Microorganism	MockLabel
+24621108	611	635	Escherichia coli O157:H7	Microorganism	MockLabel
+24621108	710	719	S. aureus	Microorganism	MockLabel
+24621108	721	737	L. monocytogenes	Microorganism	MockLabel
+24621108	739	754	E. coli O157:H7	Microorganism	MockLabel
+24621108	760	774	S. Typhimurium	Microorganism	MockLabel
+24621108	854	863	S. aureus	Microorganism	MockLabel
+24621108	865	881	L. monocytogenes	Microorganism	MockLabel
+24621108	883	898	E. coli O157:H7	Microorganism	MockLabel
+24621108	904	918	S. Typhimurium	Microorganism	MockLabel
+24621108	1024	1033	S. aureus	Microorganism	MockLabel
+24621108	1039	1055	L. monocytogenes	Microorganism	MockLabel
+
+24474814|t|Group B Streptococcus β-hemolysin/cytolysin breaches maternal-fetal barriers to cause preterm birth and intrauterine fetal demise in vivo.
+24474814|a|Maternal vaginal colonization with Streptococcus agalactiae (Group B Streptococcus [GBS]) is a precursor to chorioamnionitis, fetal infection, and neonatal sepsis, but the understanding of specific factors in the pathogenesis of ascending infection remains limited.
+24474814	0	21	Group B Streptococcus	Microorganism	MockLabel
+24474814	174	198	Streptococcus agalactiae	Microorganism	MockLabel
+24474814	200	221	Group B Streptococcus	Microorganism	MockLabel
+24474814	223	226	GBS	Microorganism	MockLabel
+24474814	481	484	GBS	Microorganism	MockLabel
+24474814	641	644	GBS	Microorganism	MockLabel
+24474814	781	784	GBS	Microorganism	MockLabel
+24474814	1389	1392	GBS	Microorganism	MockLabel
+24474814	1501	1504	GBS	Microorganism	MockLabel
+
+15345452-003|t|
+15345452-003|a|However, Brevibacterium linens strains exhibited significant variability in V3 sequence migration (Fig. ​(Fig.2),2), although all strains used were isolated from dairy products.
+15345452-003	9	30	Brevibacterium linens	Microorganism	MockLabel
+
+24794620-015|t|
+24794620-015|a|Psychrobacter spp. are frequently found in samples of milk and cheese samples ( Deetae et al., 2009, Gori et al., 2013, Irlinger et al., 2012 and Mounier et al., 2009) and contribute significantly to cheese ripening, being responsible for the production of aroma compounds and the sensory quality of the cheese ( Deetae et al., 2009 and Irlinger et al., 2012). We found a high abundance of P. aquaticus (OTU 9) in young cheese rinds of ripening cellar A1.
+24794620-015	0	18	Psychrobacter spp.	Microorganism	MockLabel
+24794620-015	393	405	P. aquaticus	Microorganism	MockLabel
+
+24794620-010|t|
+24794620-010|a|Particularly OTU 4 (B. pityocampae) increased significantly in old cheeses, suggesting an important function during ripening of old cheeses.
+24794620-010	20	34	B. pityocampae	Microorganism	MockLabel
+
+15345452-010|t|
+15345452-010|a|TTGE profiles of core Beaufort cheeses (data not shown) are nearly identical to those of core Comté cheeses. No differences were seen in TTGE patterns between samples originating from the same part of the cheese. However, TTGE patterns revealed differences in bacterial composition between the cheese core and cheese surface. The cheese core was generally inhabited by various LAB (Lactococcus lactis, Lactobacillus plantarum, Leuconostoc mesenteroides, and Streptococcus thermophilus), whereas the cheese surface was generally inhabited by staphylococci and gram-negative bacteria (Moraxella bovis and Pseudomonas sp.).
+15345452-010	387	405	Lactococcus lactis	Microorganism	MockLabel
+15345452-010	407	430	Lactobacillus plantarum	Microorganism	MockLabel
+15345452-010	432	457	Leuconostoc mesenteroides	Microorganism	MockLabel
+15345452-010	463	489	Streptococcus thermophilus	Microorganism	MockLabel
+15345452-010	546	559	staphylococci	Microorganism	MockLabel
+15345452-010	588	603	Moraxella bovis	Microorganism	MockLabel
+15345452-010	608	623	Pseudomonas sp.	Microorganism	MockLabel
+
+19126546|t|Structural and functional analysis of the C-terminal DNA binding domain of the Salmonella typhimurium SPI-2 response regulator SsrB.
+19126546|a|In bacterial pathogenesis, virulence gene regulation is controlled by two-component regulatory systems. In Escherichia coli, the EnvZ/OmpR two-component system is best understood as regulating expression of outer membrane proteins, but in Salmonella enterica, OmpR activates transcription of the SsrA/B two-component system located on Salmonella pathogenicity island 2 (SPI-2). The response regulator SsrB controls expression of a type III secretory system in which effectors modify the vacuolar membrane and prevent its degradation via the endocytic pathway. Vacuolar modification enables Salmonella to survive and replicate in the macrophage phagosome and disseminate to the liver and spleen to cause systemic infection. The signals that activate EnvZ and SsrA are unknown but are related to the acidic pH encountered in the vacuole. Our previous work established that SsrB binds to regions of DNA that are AT-rich, with poor sequence conservation. Although SsrB is a major virulence regulator in Salmonella, very little is known regarding how it binds DNA and activates transcription. In the present work, we solved the structure of the C-terminal DNA binding domain of SsrB (SsrB(C)) by NMR and analyzed the effect of amino acid substitutions on function. We identified residues in the DNA recognition helix (Lys(179), Met(186)) and the dimerization interface (Val(197), Leu(201)) that are important for SsrB transcriptional activation and DNA binding. An essential cysteine residue in the N-terminal receiver domain was also identified (Cys(45)), and the effect of Cys(203) on dimerization was evaluated. Our results suggest that although disulfide bond formation is not required for dimerization, dimerization occurs upon DNA binding and is required for subsequent activation of transcription. Disruption of the dimer interface by a C203E substitution reduces SsrB activity. Modification of Cys(203) or Cys(45) may be an important mode of SsrB inactivation inside the host.
+19126546	79	101	Salmonella typhimurium	Microorganism	MockLabel
+19126546	240	256	Escherichia coli	Microorganism	MockLabel
+19126546	372	391	Salmonella enterica	Microorganism	MockLabel
+19126546	468	478	Salmonella	Microorganism	MockLabel
+19126546	723	733	Salmonella	Microorganism	MockLabel
+19126546	1132	1142	Salmonella	Microorganism	MockLabel
+
+22092526|t|Gingival changes during pregnancy: III. Impact of clinical, microbiological, immunological and socio-demographic factors on gingival inflammation.
+22092526|a|To identify predictor variables involved in exacerbated gingival inflammation associated with pregnancy.
+22092526	1206	1230	Porphyromonas gingivalis	Microorganism	MockLabel
+22092526	1560	1573	P. gingivalis	Microorganism	MockLabel
+
+24412414-005|t|
+24412414-005|a|Valerio et al. (2004) studied the production of PLA in L. plantarum ITM21B and found identifiable acid levels in synthetic media after 6 h with a maximum production of 0.165 mM after 72 h.
+24412414-005	55	75	L. plantarum  ITM21B	Microorganism	MockLabel
+
+24794620-014|t|
+24794620-014|a|OTU 8 shared high similarity with Alkalibacterium gilvum — a halophilic and alkaliphilic lactic acid bacterium recently described and isolated from European soft and semi-hard cheeses ( Ishikawa et al., 2013).
+24794620-014	34	56	Alkalibacterium gilvum	Microorganism	MockLabel
+
+25648083-000|t|
+25648083-000|a|Lactobacillus johnsonii FI9785 is a potential competitive exclusion agent to control Clostridium perfringens and other pathogens in poultry [4]. However, the mode of action related to this protective effect is as yet undefined. The adherence capacity of probiotic bacteria to the GI tract is a contributing factor for pathogen exclusion [5] and the cell surface characteristics of probiotic bacteria have been related to these adhesion properties [6-9]. Several members of the genus Lactobacillus are capable of producing exopolysaccharides (EPS) which can play an essential role in determining the cell surface characteristics [7]. EPS are also involved in the formation of biofilms [10,11], which may improve colonisation and aid survival [12-14].
+25648083-000	0	30	Lactobacillus johnsonii FI9785	Microorganism	MockLabel
+25648083-000	85	108	Clostridium perfringens	Microorganism	MockLabel
+25648083-000	486	499	Lactobacillus	Microorganism	MockLabel
+
+15345452-009|t|
+15345452-009|a|This was unexpected, as these cheeses belong to the red smear cheese type, in which Brevibacterium linens is a common colonizer of the cheese surface and produces red pigment.
+15345452-009	85	106	Brevibacterium linens	Microorganism	MockLabel
+
+20950772|t|Outcomes of emergency colectomy for fulminant Clostridium difficile colitis.
+20950772|a|Clostridium difficile has become increasingly a common cause of nosocomial infection with increasing antibiotic usage. Recently there has been an increase in the incidence of patients undergoing colectomy for fulminant C. difficile colitis (FCDC). Early surgical consultation is necessary to avoid delay in diagnosis. We present a retrospective review of the outcomes of colectomies for FCDC at our large district general hospital.
+20950772	46	67	Clostridium difficile	Microorganism	MockLabel
+20950772	77	98	Clostridium difficile	Microorganism	MockLabel
+20950772	296	308	C. difficile	Microorganism	MockLabel
+20950772	891	903	C. difficile	Microorganism	MockLabel
+
+24837294|t|Modification of Streptococcus mutans Cnm by PgfS contributes to adhesion, endothelial cell invasion, and virulence.
+24837294|a|Expression of the surface protein Cnm has been directly implicated in the ability of certain strains of Streptococcus mutans to bind to collagen and to invade human coronary artery endothelial cells (HCAEC) and in the killing of Galleria mellonella. Sequencing analysis of Cnm(+) strains revealed that cnm is located between the core genes SMU.2067 and SMU.2069. Reverse transcription-PCR (RT-PCR) analysis showed that cnm is cotranscribed with SMU.2067, encoding a putative glycosyltransferase referred to here as PgfS (protein glycosyltransferase of streptococci). Notably, Cnm contains a threonine-rich domain predicted to undergo O-linked glycosylation. The previously shown abnormal migration pattern of Cnm, the presence of the threonine-rich domain, and the molecular linkage of cnm with pgfS lead us to hypothesize that PgfS modifies Cnm. A ΔpgfS strain showed defects in several traits associated with Cnm expression, including collagen binding, HCAEC invasion, and killing of G. mellonella. Western blot analysis revealed that Cnm from the ΔpgfS mutant migrated at a lower molecular weight than that from the parent strain. In addition, Cnm produced by ΔpgfS was highly susceptible to proteinase K degradation, in contrast to the high-molecular-weight Cnm version found in the parent strain. Lectin-binding analyses confirmed the glycosylated nature of Cnm and strongly suggested the presence of N-acetylglucosamine residues attached to Cnm. Based on these findings, the phenotypes observed in ΔpgfS are most likely associated with defects in Cnm glycosylation that affects protein function, stability, or both. In conclusion, this study demonstrates that Cnm is a glycoprotein and that posttranslational modification mediated by PgfS contributes to the virulence-associated phenotypes linked to Cnm. 
+24837294	16	36	Streptococcus mutans	Microorganism	MockLabel
+24837294	220	240	Streptococcus mutans	Microorganism	MockLabel
+24837294	668	680	streptococci	Microorganism	MockLabel
+24837294	965	970	ΔpgfS	Microorganism	MockLabel
+24837294	1166	1171	ΔpgfS	Microorganism	MockLabel
+24837294	1279	1284	ΔpgfS	Microorganism	MockLabel
+24837294	1620	1625	ΔpgfS	Microorganism	MockLabel
+
+10639454|t|Lack of a role of cytotoxic necrotizing factor 1 toxin from Escherichia coli in bacterial pathogenicity and host cytokine response in infected germfree piglets.
+10639454|a|Some Escherichia coli strains isolated from intestinal or extraintestinal infections in pigs produce cytotoxic necrotizing factor 1 (CNF1). In order to analyze the role of CNF1 in the pathogenesis of porcine colibacillosis, newborn colostrum-deprived germfree piglets were orally inoculated with a wild-type CNF1-producing strain (M623) or with an isogenic cnf1 mutant (M623DeltaCNF1). The two isogenic strains induced a high mortality with similar lung and serosal inflammatory lesions, indicating that both strains were pathogenic in these piglets. Bacterial counts in various organs of inoculated piglets revealed an intestinal predisposition of M623 and M623DeltaCNF1 strains for the cecum and colon. Extraintestinal organs (lungs, liver, spleen, and kidney) were also colonized by both strains. Similar colonization of intestinal and extraintestinal tissues in animals inoculated with either strain was observed, except in the ileum, where M623 showed a higher colonization than M623DeltaCNF1. Intestinal (ileum and colon), extraintestinal (lung and kidney), and immune (mesenteric lymph nodes and spleen) tissues were sampled at 1 day postinoculation and analyzed for cytokine expression by a reverse transcriptase PCR technique. Inoculation with E. coli M623 induced an enhanced expression of inflammatory cytokines (interleukin-1alpha [IL-1alpha], tumor necrosis factor alpha, and IL-12p40) in the intestinal organs compared to uninoculated piglets or piglets inoculated with nonpathogenic intestinal E. coli 862B, which is also able to colonize the intestinal tract. There was little difference in cytokine transcript levels in the intestinal and extraintestinal organs in piglets inoculated with E. coli strains M623 or M623DeltaCNF1, except in the ileum, where IL-1alpha and IL-8 mRNA levels correlated with bacterial colonization. Expression of regulatory cytokines (gamma interferon and IL-4) was weak in immune tissues from piglets inoculated with M623 or M623DeltaCNF1. Taken together, our data indicate that the CNF1-producing strain, M623, is pathogenic and induces inflammatory cytokine expression in germfree, colostrum-deprived piglets. Nevertheless, in this model, the CNF1 toxin does not appear to be a major factor for pathogenicity or cytokine response, as demonstrated by the use of an isogenic cnf1 mutant.
+10639454	60	76	Escherichia coli	Microorganism	MockLabel
+10639454	166	182	Escherichia coli	Microorganism	MockLabel
+10639454	492	496	M623	Microorganism	MockLabel
+10639454	531	544	M623DeltaCNF1	Microorganism	MockLabel
+10639454	810	814	M623	Microorganism	MockLabel
+10639454	819	832	M623DeltaCNF1	Microorganism	MockLabel
+10639454	1106	1110	M623	Microorganism	MockLabel
+10639454	1145	1158	M623DeltaCNF1	Microorganism	MockLabel
+10639454	1414	1426	E. coli M623	Microorganism	MockLabel
+10639454	1670	1682	E. coli 862B	Microorganism	MockLabel
+10639454	1867	1887	E. coli strains M623	Microorganism	MockLabel
+10639454	1867	1882;1891	E. coli strains M623DeltaCNF1	Microorganism	MockLabel
+10639454	2123	2127	M623	Microorganism	MockLabel
+10639454	2131	2144	M623DeltaCNF1	Microorganism	MockLabel
+10639454	2212	2216	M623	Microorganism	MockLabel
+
+25880122-001|t|
+25880122-001|a|Laboratory experiments indicated that P. damnosus LMG 28219 produces EPS. The ability of a strain to produce EPS is not directly correlated to its ability to reside in beer but probably has importance in biofilm formation [12], thereby enabling persistence in the brewery environment. The EPS produced by P. claussenii ATCC BAA-344T is a high-molecular-mass β-glucan produced by the action of a transmembrane glycosyl transferase (gtf) gene. This gene is located on plasmid pPECL-7, which is not essential for growth in beer [21]. The fibrillar polymer consists of a trisaccharide repeating unit with a β-1,3-linked glucose backbone and branches made up of single β-1,2-linked D-glucopyranosyl residues. Walling and colleagues [33] reported a glucosyl transferase gene (dps) in P. damnosus IOEB8801, originating from wine, that produces a linear backbone of 3-β-D-glucose-1 moieties.
+25880122-001	38	60	P. damnosus  LMG 28219	Microorganism	MockLabel
+25880122-001	308	335	P. claussenii ATCC BAA-344T	Microorganism	MockLabel
+25880122-001	784	805	P. damnosus  IOEB8801	Microorganism	MockLabel
+
+15345452-000|t|
+15345452-000|a|Bacteria in the unknown ecosystems were assigned an identity by comparison with a comprehensive bacterial reference database of ∼150 species that included useful dairy microorganisms (lactic acid bacteria), spoilage bacteria (e.g., Pseudomonas and Enterobacteriaceae), and pathogenic bacteria (e.g., Listeria monocytogenes and Staphylococcus aureus). Our analyses provide a high resolution of bacteria comprising the ecosystems of different commercial cheeses and identify species that could not be discerned by conventional methods; at least two species, belonging to the Halomonas and Pseudoalteromonas genera, are identified for the first time in a dairy ecosystem.
+15345452-000	235	246	Pseudomonas	Microorganism	MockLabel
+15345452-000	251	269	Enterobacteriaceae	Microorganism	MockLabel
+15345452-000	303	325	Listeria monocytogenes	Microorganism	MockLabel
+15345452-000	330	351	Staphylococcus aureus	Microorganism	MockLabel
+15345452-000	580	589	Halomonas	Microorganism	MockLabel
+15345452-000	594	611	Pseudoalteromonas	Microorganism	MockLabel
