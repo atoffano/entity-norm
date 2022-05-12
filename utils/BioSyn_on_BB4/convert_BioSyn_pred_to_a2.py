@@ -70,6 +70,9 @@ def convert(args):
 def get_a1_matching_lines(args, key):
     '''
     Matches .a1 line with its corresponding prediction.
+
+            Parameters:
+                key (str): corresponding .a1 file identifier (pmid).
     '''
     a1_lines = []
     if "-" in key:
