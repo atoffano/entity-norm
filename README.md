@@ -19,9 +19,9 @@ Contains multiple file format handlers, allowing to convert datasets/files to in
 
 **loader.py** : Allows conversion of datasets between different formats. Each dataset will be converted both to a standardized format and the desired output.
 Handles the following file formats and associated denominators:
-*NCBI Disease Corpus - 'NCBI'
-*Bacteria Biotope 4 - 'BB4'
-*Standardized format - 'STD'
+*NCBI Disease Corpus - 'NCBI'  
+*Bacteria Biotope 4 - 'BB4'  
+*Standardized format - 'STD'  
 
 __Usage:__
 ```
@@ -32,13 +32,13 @@ python loader.py \
     --to XXX \ # Dataset type denominator
 ```
 
-**generate_dictionnary_BioSyn.py** : Handles BioSyn dictionnary creation from the Bacteria Biotope 4 dataset.
+**generate_dictionnary_BioSyn.py** : Handles BioSyn dictionnary creation from the Bacteria Biotope 4 dataset.  
 
-**bb4_exclude.py** : Allows blacklisting of specific entity types in the Bacteria Biotope 4 dataset.
-Handles the following entities: \n
-*Phenotype \n
-*Habitat \n
-*Microorganism \n
+**bb4_exclude.py** : Allows blacklisting of specific entity types in the Bacteria Biotope 4 dataset.  
+Handles the following entities:   
+*Phenotype  
+*Habitat  
+*Microorganism  
 __Usage:__
 ```
 python bb4_exclude.py \
@@ -47,8 +47,8 @@ python bb4_exclude.py \
     --exclude ENTITY \ # Exclude specified entities. Can handle multiple arguments.
 ```
 
-**convert_BioSyn_pred_to_a2** : Formats BioSyn predictions in a .a2 file format which can be evaluated by the Bacteria biotope 4 online evaluation software. \n 
-*Some BioSyn files needs to be replaced for this to work properly* \n
+**convert_BioSyn_pred_to_a2** : Formats BioSyn predictions in a .a2 file format which can be evaluated by the Bacteria biotope 4 online evaluation software.  
+*Some BioSyn files needs to be replaced for this to work properly*  
 __Usage:__
 ```
 python convert_BioSyn_pred_to_a2.py \
