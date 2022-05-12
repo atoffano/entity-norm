@@ -31,7 +31,12 @@ def main():
     args = vars(parser.parse_args())
     convert(args)
 
+
 def convert(args):
+    '''
+    Parses prediction output of BioSyn (predictions_eval.json), extracting relevant informations including cui and file pmid.
+    Then matches predictions with corresponding .a1 file before building .a2 file.
+    '''
     if not os.path.exists(f"{args['output']}/converted_pred"):
         os.makedirs(f"{args['output']}/converted_pred")
     with open(args['input'], 'r') as f:
@@ -63,6 +68,9 @@ def convert(args):
                     n+=1
 
 def get_a1_matching_lines(args, key):
+    '''
+    Matches .a1 line with its corresponding prediction.
+    '''
     a1_lines = []
     if "-" in key:
         ftype = True
