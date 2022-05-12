@@ -20,11 +20,14 @@ def main():
     parser.add_argument("-o", "--output", default=os.getcwd(),
     help="Output directory")
     parser.add_argument("-e", "--exclude", required=True, nargs='+',
-    help="Type of entities to exclude. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.")
+    help="Type of entities to exclude from dataset. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.")
     args = vars(parser.parse_args())
     exclude(args)
 
 def exclude(args):
+    '''
+    Iters over each line in each file contained in directory input. For each line, only saves those that refers to entities not blacklisted.
+    '''
     for entity in args['exclude']:
         if entity not in ['Microorganism', 'Phenotype', 'Habitat']:
             raise Exception("Entity to exclude not recognized. Check spelling.")
