@@ -1,4 +1,5 @@
 # Entity-Norm
+***
 
 Comparative analysis of neural methods for entity normalization in the biological field.
 
@@ -9,11 +10,11 @@ Results sheet can be found here : https://docs.google.com/spreadsheets/d/1dDVcLo
 File format handlers can be found in the utils directory.
 
 # Scripts
-
+***
 Directory containing all scripts used for preprocessing datasets, training and evaluating models. 
 
 # Utils
-
+***
 Contains multiple file format handlers, allowing to convert datasets/files to input formats of different entity normalization methods.
 
 **loader.py** : Allows conversion of datasets between different formats. Each dataset will be converted both to a standardized format and the desired output.
@@ -34,10 +35,10 @@ python loader.py \
 **generate_dictionnary_BioSyn.py** : Handles BioSyn dictionnary creation from the Bacteria Biotope 4 dataset.
 
 **bb4_exclude.py** : Allows blacklisting of specific entity types in the Bacteria Biotope 4 dataset.
-Handles the following entities:
-*Phenotype
-*Habitat
-*Microorganism
+Handles the following entities: \n
+*Phenotype \n
+*Habitat \n
+*Microorganism \n
 __Usage:__
 ```
 python bb4_exclude.py \
@@ -46,8 +47,8 @@ python bb4_exclude.py \
     --exclude ENTITY \ # Exclude specified entities. Can handle multiple arguments.
 ```
 
-**convert_BioSyn_pred_to_a2** : Formats BioSyn predictions in a .a2 file format which can be evaluated by the Bacteria biotope 4 online evaluation software.
-*Some BioSyn files needs to be replaced for this to work properly*
+**convert_BioSyn_pred_to_a2** : Formats BioSyn predictions in a .a2 file format which can be evaluated by the Bacteria biotope 4 online evaluation software. \n 
+*Some BioSyn files needs to be replaced for this to work properly* \n
 __Usage:__
 ```
 python convert_BioSyn_pred_to_a2.py \
