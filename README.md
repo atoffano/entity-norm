@@ -1,5 +1,4 @@
 # Entity-Norm
-***
 
 Comparative analysis of neural methods for entity normalization in the biological field.
 

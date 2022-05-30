@@ -12,18 +12,18 @@ def main():
     synonym = []
     for line in lines:
         if line.startswith('id'):
-            label = line.strip().split(': ')[1]
+            cui = line.strip().split(': ')[1]
         elif line.startswith('name'):
-            mention = line.strip().split(': ')[1]
+            label = line.strip().split(': ')[1]
         elif line.startswith('synonym'):
             synonym.append(line.split('"')[1])
-        elif line.startswith('is_a') and label != False:
+        elif line.startswith('is_a') and cui != False:
             if synonym != []:
-                mention = mention + "|" + "|".join(synonym)
+                mention = mention + "" + "".join(synonym)
             with open("/home/atoffano/Downloads/bb4_dictionnary/bb4_dict.txt", 'a') as f:
-                f.write(f"{label}||{mention}\n")
+                f.write(f"{cui}{mention}\n")
             synonym = []
-            label = False
+            cui = False
 
 
 if __name__ == "__main__":

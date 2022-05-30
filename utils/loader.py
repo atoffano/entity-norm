@@ -222,7 +222,7 @@ def extract(filename):
             Returns:
                 pmid (str): Id of file. Usually a pmid but depending on file format before standardization can be something else.
                 title (str): Title of the article
-                abstrat (str) : Abstract of the article
+                abstract (str) : Abstract of the article
                 data (list) : list of lists containing each mention, its location, its class and labels.
     '''
     data = []
