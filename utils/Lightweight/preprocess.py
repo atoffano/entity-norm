@@ -1,12 +1,9 @@
 import argparse, os
-from email.mime import base
-from gettext import find
-from compileall import compile_path
 import glob
 import nltk
 import re
-
-import Abbr_resolver
+import hashlib
+from abbr_resolver import *
 
 
 def main():
@@ -31,31 +28,30 @@ def main():
     help="Dataset input format. Supported formats: Bacteria Biotope 4 as [bb4] | NCBI Disease Corpus as [ncbi]")
     parser.add_argument("-k", "--kb", required=True,
     help="Path to raw knowledge base file from which to build entity_kb.txt.")
+    parser.add_argument("-m", "--merge", default=True,
+    help="Whether to merge train and dev sets as a unique set. Defaults to True if left unspecified.")
     args = vars(parser.parse_args())
 
     nltk.download('punkt')
-    global number_dict, abbr_resolver, base_abb_dict
-    number_dict = load_number_mapping()
+    global number_dict, numeral_dict, abbr_resolver, base_abb_dict, script_dir
+    script_dir = os.path.dirname(__file__)
+    number_dict, numeral_dict = load_number_mapping()
     base_abb_dict = load_base_abb_dict()
     abbr_resolver = Abbr_resolver(
-    ab3p_path = "../input/Ab3p/WordData/"
+    ab3p_path = os.path.join(script_dir, 'Ab3P/identify_abbr')
     )
 
     generate(args)
-
-def load_base_abb_dict():
-    base_abb_dict = {}
-    with open("../input/abbreviation.dict", 'r') as f:
-        lines = f.readlines()
-    for line in lines:
-        base_abb_dict[line[0]] = line[1]
-    return base_abb_dict
+    remove_duplicates_kb(args)
+    mention_entity_prior(args)
 
 def load_number_mapping():
     number_dict = {}
-    for line in open('../input/number_mapping.txt', encoding='utf8'):
+    numeral_dict = {}
+    for line in open(os.path.join(script_dir, 'number_mapping.txt'), encoding='utf8'):
         row = line.strip('\n').split('@')
         cardinal = row[0]
+        numeral_dict[row[1].split('|')[0]] = row[0]
         number_dict[cardinal] = []
         number_dict[cardinal].append(cardinal)
         for diff_type_nums in row[1].split('|'):
@@ -63,7 +59,7 @@ def load_number_mapping():
             for num in diff_type_nums:
                 num = str.lower(num)
                 number_dict[cardinal].append(num)
-    return number_dict
+    return number_dict, numeral_dict
     
 def generate(args):
     if args['dataset']=='bb4':
@@ -82,12 +78,9 @@ def gen_data_and_mention_context(args):
             mentions = []
             for line in data:
                 mentions.append(line[2])
-            mentions = resolve_abbr(mentions, base_abb_dict)
-            for mention in mentions:
-                del mention[0]
-            dynamic_abbr_dict = abbr_resolver.resolve(text)
-            mentions = resolve_abbr(mentions, dynamic_abbr_dict)
-
+            mentions = resolve_base_abbr(mentions, base_abb_dict)
+            dynamic_abbr_dict = abbr_resolver.resolve(file)
+            mentions = resolve_dynamic_abbr(mentions, dynamic_abbr_dict)
             for line, resolved_mention in zip(data, mentions):
                 start, end, mention, _class, cui = line
                 cui = cui.strip()
@@ -102,13 +95,35 @@ def gen_data_and_mention_context(args):
                         break
                 
                 # rm punctuation, resolve numerals & lowercase
-                mention, resolved_mention, context = list(map(basic_processing, (mention, resolved_mention, context)))
+                resolved_mention, context = (basic_processing(x) for x in [resolved_mention, context])
 
-                with open(f"{args['output']}/{dataset}_data.txt", 'a') as dt:
-                    dt.write(f"{pmid}\t{mention}\t{cui}\t{resolved_mention}\n")
-                    
-                with open(f"{args['output']}/{dataset}_mention_context.txt", 'a') as dt:
-                    dt.write(f"{pmid}\t{mention}\t{context}\n")
+                if args['merge'] and dataset in ['train', 'dev']:
+                    with open(f"{args['output']}/train_data.txt", 'a') as dt:
+                        dt.write(f"{pmid}\t{mention.lower()}\t{cui}\t{resolved_mention}\n")
+                        
+                    with open(f"{args['output']}/train_mention_context.txt", 'a') as dt:
+                        dt.write(f"{pmid}\t{resolved_mention.lower()}\t{context}\n")
+
+                else:
+                    with open(f"{args['output']}/{dataset}_data.txt", 'a') as dt:
+                        dt.write(f"{pmid}\t{mention.lower()}\t{cui}\t{resolved_mention}\n")
+                        
+                    with open(f"{args['output']}/{dataset}_mention_context.txt", 'a') as dt:
+                        dt.write(f"{pmid}\t{resolved_mention.lower()}\t{context}\n")
+
+                # kb augmentation
+                if dataset in ['train', 'dev']:
+                    with open(f"{args['output']}/entity_kb.txt", 'a') as dt:
+                        if '|' in cui:
+                            cuis = cui.split('|')
+                            dt.write(f"{str(cuis.pop(0))}\t{resolved_mention.lower()}\t{'|'.join(cuis)}\n")                         
+                        elif '+' in cui:
+                            cuis = cui.split('+')
+                            dt.write(f"{str(cuis.pop(0))}\t{resolved_mention.lower()}\t{'|'.join(cuis)}\n")
+                        else:
+                            dt.write(f"{cui}\t{resolved_mention.lower()}\t\n")
+
+
 
 def gen_kb_from_bb4_dict(args):
     '''
@@ -143,7 +158,8 @@ def gen_kb_from_ncbi_dict(args):
             cuis = str(cuis)
             labels = str(labels)
             
-            for label in labels.split('|'):
+            labels = resolve_base_abbr(labels.split('|'), base_abb_dict)
+            for label in labels:
                 label = basic_processing(label)
                 if len(cuis.split('|')) > 1:
                     list_cuis = cuis.split('|')
@@ -152,6 +168,44 @@ def gen_kb_from_ncbi_dict(args):
                     tmp = f"{cuis}\t{label}\t\n"
                 with open(f"{args['output']}/entity_kb.txt", "a") as kb:
                     kb.write(tmp)
+
+def remove_duplicates_kb(args):
+    with open(f"{args['output']}/entity_kb.txt", "r") as kb:
+        lines = kb.readlines()
+    os.remove(f"{args['output']}/entity_kb.txt")
+    seen_lines_hash = set()
+    with open(f"{args['output']}/entity_kb.txt", "a") as kb:
+        for line in lines:
+            hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
+            if hashValue not in seen_lines_hash:
+                kb.write(line)
+                seen_lines_hash.add(hashValue)
+
+def mention_entity_prior(args):
+    mep = {}
+    with open(f"{args['output']}/train_data.txt", 'r') as fh:
+        lines = fh.readlines()
+
+    for line in lines:
+        cui = line.split('\t')[2]
+        mention = line.split('\t')[3].strip('\n')
+        if '|' in cui:
+            cuis = cui.split('|')
+        else:
+            cuis = cui.split('+')
+        for cui in cuis:
+            if cui not in mep:
+                mep[str(cui)] = {mention : 1}
+            elif mention not in mep[str(cui)]:
+                mep[str(cui)][mention] = 1
+            else:
+                mep[str(cui)][mention] += 1
+
+    with open(f"{args['output']}/mention_entity_prior.txt", 'a') as f:
+        for cui, mentions in mep.items():
+            for mention, cnt in mentions.items():
+                f.write(f"{mention}\t{cui}\t{cnt}\n")
+
 
 def extract(filename):
     '''
@@ -181,54 +235,25 @@ def extract(filename):
         data.append(line)
     return pmid, title, abstract, data
 
-def resolve_abbr(mentions, abbr_dict):
-    result = []
-    for mention in mentions:
-        prev_mention = mention
-        while True:
-            mention_tokens = prev_mention.split()
-            result_tokens = []
-            for token in mention_tokens:
-                token = token.strip()
-
-                if '/' in token:
-                    _slash_result = []
-                    for t in token.split('/'):
-                        t = t.strip()
-                        t = abbr_dict.get(t, t)
-                        _slash_result.append(t)
-                    token = '/'.join(_slash_result)
-
-                if token.endswith(','):
-                    token = token.replace(',', '')
-                    abbr_dict : dict
-                    token = abbr_dict.get(token, token)
-                    token += ','
-                else:
-                    token = abbr_dict.get(token, token)
-                result_tokens.append(token)
-            result_mention = ' '.join(result_tokens)
-            if result_mention == prev_mention:
-                break
-            else:
-                prev_mention = result_mention
-        result.append([mention, result_mention])
-    return result
-
 def basic_processing(sentence):
     # remove punctuation
     remove_chars = '[’!"#$%&\'()*+,-./:;<=>?@，。?★、…【】《》？“”‘’！[\\]^_`{|}~]+'
-    result = re.sub(remove_chars, ' ', sentence)
+    result = re.sub(remove_chars, ' ', str(sentence))
     result = ' '.join(result.split())
-
+    
     #resolve numerals & lowercase
     ret = []
     for token in result.split():
-        if token in number_dict:
-            token = number_dict.get(token)
+        for key, values in number_dict.items():
+            if token.lower() in values:
+                token = key
+        for num in numeral_dict.keys():
+            if num in token:
+                token = re.sub(num, f" {numeral_dict[num]} ", token)
         ret.append(token)
-    return " ".join(ret).lower()
-
-
+    ret = " ".join(ret).lower()
+    ret = re.sub("  ", " ", ret)
+    return ret.strip()
+    
 if __name__ == "__main__":
     main()

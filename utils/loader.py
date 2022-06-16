@@ -156,7 +156,10 @@ def from_BB4(args, dir):
                 header = ["", abstract]
                 standardize(args, dataset, pmid, header=header)
             else:
-                header = [lines[0].strip("\n"), lines[1].strip("\n")]
+                title = lines[0].strip("\n")
+                corpus = [line.strip("\n") for line in lines[1:]]
+                corpus = "".join(corpus)
+                header = [title, corpus]
                 standardize(args, dataset, pmid, header=header)
         with open(f"{file.split('.')[0]}.a1", 'r') as a1:
             lines = a1.readlines()
