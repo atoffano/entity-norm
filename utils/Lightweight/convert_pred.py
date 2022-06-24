@@ -9,7 +9,6 @@ def main():
                     -i / --input (str) : Path containing input files. Handles folder containing multiple datasets.
                     -o / --output (str): Output path for both standardized and converted formats. Defaults to current working directory.
                     -d / --dataset (str): Dataset input format. Supported formats: Bacteria Biotope 4 as [bb4] | NCBI Disease Corpus as [ncbi].
-                    -k / --kb (str) : Path to raw knowledge base file from which to build entity_kb.txt.
     '''
     # Construct the argument parser
     parser = argparse.ArgumentParser()
