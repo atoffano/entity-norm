@@ -1,0 +1,43 @@
+start	end	mention	_class	labels
+54	75	Debaryomyces hansenii	Microorganism	4959
+80	97	semi-soft cheeses	Habitat	OBT:003458
+115	134	Geotrichum candidum	Microorganism	1173061
+139	151	soft cheeses	Habitat	OBT:003459
+157	175	coagulase-negative	Phenotype	OBT:000235
+176	189	staphylococci	Microorganism	1279
+191	213	Staphylococcus equorum	Microorganism	246432
+251	262	D. hansenii	Microorganism	4959
+268	281	staphylococci	Microorganism	1279
+285	291	cheese	Habitat	OBT:001480
+285	299	cheese surface	Habitat	OBT:001341
+335	347	cheese brine	Habitat	OBT:001944
+335	341	cheese	Habitat	OBT:001480
+445	456	D. hansenii	Microorganism	4959
+506	517	D. hansenii	Microorganism	4959
+529	561	cheeses of the Danish Danbo type	Habitat	OBT:003458
+596	612	ripening culture	Habitat	OBT:001030
+627	648	dairy housemicrobiota	Habitat	OBT:000113
+665	678	ripening room	Habitat	OBT:003301
+680	691	D. hansenii	Microorganism	4959
+713	719	cheese	Habitat	OBT:001480
+835	849	cheese surface	Habitat	OBT:001341
+835	841	cheese	Habitat	OBT:001480
+897	931	acid tolerant bacterial microbiota	Habitat	OBT:000113
+897	910	acid tolerant	Phenotype	OBT:002883
+943	956	Gram-positive	Phenotype	OBT:000649
+957	968	coryneforms	Microorganism	1653
+970	989	Brevibacterium spp.	Microorganism	1696
+991	1011	Corynebacterium spp.	Microorganism	1716
+1016	1035	Microbacterium spp.	Microorganism	33882
+1090	1103	Gram-positive	Phenotype	OBT:000649
+1104	1128	Marinilactibacillus spp.	Microorganism	191769
+1133	1146	Gram-negative	Phenotype	OBT:000648
+1147	1161	Halomonas spp.	Microorganism	2745
+1163	1174	Vibrio spp.	Microorganism	662
+1179	1191	Proteus spp.	Microorganism	583
+1213	1231	Enterobacteriaceae	Microorganism	543
+1270	1276	cheese	Habitat	OBT:001480
+1270	1285	cheese surfaces	Habitat	OBT:001341
+1333	1346	Gram-negative	Phenotype	OBT:000648
+1488	1494	cheese	Habitat	OBT:001480
+1558	1564	cheese	Habitat	OBT:001480

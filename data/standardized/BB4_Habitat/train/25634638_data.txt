@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+480	488	clinical	Habitat	OBT:003220
+501	517	patients with CF	Habitat	OBT:003220
+584	589;598	lungs of CF patients	Habitat	OBT:000716
+590	612	airways of CF patients	Habitat	OBT:000408
+601	612	CF patients	Habitat	OBT:003220

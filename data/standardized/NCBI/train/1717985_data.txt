@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+83	93	piebaldism	SpecificDisease	D016116
+95	105	Piebaldism	SpecificDisease	D016116
+112	147	autosomal dominant genetic disorder	DiseaseClass	D030342
+495	505	piebaldism	SpecificDisease	D016116
+697	704	piebald	Modifier	D016116
+739	749	Piebaldism	SpecificDisease	D016116

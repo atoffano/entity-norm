@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+162	189	Duchenne muscular dystrophy	SpecificDisease	D020388
+191	194	DMD	SpecificDisease	D020388
+273	276	DMD	SpecificDisease	D020388
+374	377	DMD	SpecificDisease	D020388
+449	452	DMD	SpecificDisease	D020388
+1128	1131	DMD	SpecificDisease	D020388
+1512	1515	DMD	SpecificDisease	D020388

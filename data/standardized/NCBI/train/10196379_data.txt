@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+59	73	ovarian cancer	Modifier	D010051
+161	174	breast cancer	Modifier	D001943
+233	247	ovarian cancer	Modifier	D010051
+371	385	ovarian cancer	Modifier	D010051
+428	442	ovarian cancer	Modifier	D010051
+564	578	ovarian cancer	Modifier	D010051
+796	820	breast or ovarian cancer	CompositeMention	D001943|D010051
+969	975	cancer	DiseaseClass	D009369
+1063	1069	cancer	Modifier	D009369
+1257	1271	ovarian cancer	SpecificDisease	D010051
+1321	1335	ovarian cancer	Modifier	D010051
+1459	1473	ovarian cancer	Modifier	D010051

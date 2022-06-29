@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+104	121	Angelman syndrome	SpecificDisease	D017204
+126	147	Prader-Willi syndrome	SpecificDisease	D011218
+213	230	Angelman syndrome	SpecificDisease	D017204
+232	234	AS	SpecificDisease	D017204
+240	261	Prader-Willi syndrome	SpecificDisease	D011218
+263	266	PWS	SpecificDisease	D011218
+446	448	AS	SpecificDisease	D017204
+453	456	PWS	SpecificDisease	D011218
+539	541	AS	SpecificDisease	D017204
+546	549	PWS	SpecificDisease	D011218

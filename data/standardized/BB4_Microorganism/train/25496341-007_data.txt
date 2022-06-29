@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+29	38	Halomonas	Microorganism	2745
+166	171	1 M45	Microorganism	1255591
+366	393	Providencia heimbachae  GR4	Microorganism	1255655

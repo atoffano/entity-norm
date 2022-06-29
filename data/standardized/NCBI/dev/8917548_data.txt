@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+23	44	ataxia-telangiectasia	Modifier	D001260
+105	126	ataxia-telangiectasia	SpecificDisease	D001260
+351	359	thymomas	SpecificDisease	D013945
+638	659	ataxia-telangiectasia	Modifier	D001260

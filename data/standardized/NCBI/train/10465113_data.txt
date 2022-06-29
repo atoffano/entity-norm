@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+22	51	multiple epiphyseal dysplasia	SpecificDisease	D010009
+73	82	club foot	SpecificDisease	D003025
+88	110	double layered patella	DiseaseClass	C535504
+191	212	diastrophic dysplasia	Modifier	C536170
+271	290	recessive disorders	DiseaseClass	D030342
+291	309	achondrogenesis 1B	SpecificDisease	C536016
+311	329	atelosteogenesis 2	SpecificDisease	C535395
+335	356	diastrophic dysplasia	SpecificDisease	C536170
+699	728	multiple epiphyseal dysplasia	SpecificDisease	D010009
+749	758	club foot	SpecificDisease	D003025
+763	776	hip dysplasia	SpecificDisease	D006618
+820	849	multiple epiphyseal dysplasia	SpecificDisease	D010009
+882	904	double layered patella	DiseaseClass	C535504
+940	952	Cleft palate	SpecificDisease	D002972
+954	979	swelling of the ear pinna	DiseaseClass	D004427
+985	1002	hitch hiker thumb	DiseaseClass	C536903
+1189	1204	DTDST disorders	SpecificDisease	D030342
+1234	1252	recessive disorder	DiseaseClass	D030342
+1323	1352	Multiple epiphyseal dysplasia	SpecificDisease	D010009
+1414	1418	EDM1	SpecificDisease	OMIM:132400
+1455	1459	EDM2	SpecificDisease	OMIM:600204
+1624	1627	MED	SpecificDisease	D010009
+1629	1633	EDM4	SpecificDisease	OMIM:226900

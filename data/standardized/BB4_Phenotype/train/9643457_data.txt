@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+353	366	Gram-negative	Phenotype	OBT:000648

@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+19	49	L. lactis subsp. cremoris B697	Microorganism	1359
+67	107	high hydroxy acid dehydrogenase activity	Phenotype	OBT:000019
+124	145	transaminase activity	Phenotype	OBT:000019
+230	268	L. lactis subsp. cremoris strain B1157	Microorganism	1359
+361	373;405	transaminase activities	Phenotype	OBT:000019
+378	415	hydroxy acid dehydrogenase activities	Phenotype	OBT:000019
+458	462	B697	Microorganism	1359

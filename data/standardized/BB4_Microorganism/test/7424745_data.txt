@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+12	21	Moraxella	Microorganism	MockLabel
+98	107	Moraxella	Microorganism	MockLabel
+314	323	Moraxella	Microorganism	MockLabel
+446	455	Moraxella	Microorganism	MockLabel
+697	706	Moraxella	Microorganism	MockLabel

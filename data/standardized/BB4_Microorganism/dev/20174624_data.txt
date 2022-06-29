@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+29	37	Yersinia	Microorganism	629
+321	329	Yersinia	Microorganism	629
+417	425	Yersinia	Microorganism	629
+446	455	Y. pestis	Microorganism	632
+460	481	Y. pseudotuberculosis	Microorganism	633
+493	510	Y. enterocolitica	Microorganism	630
+604	612	Yersinia	Microorganism	630
+724	732	Yersinia	Microorganism	629
+990	998	Yersinia	Microorganism	629
+1190	1211	Y. pestis strain KIM6	Microorganism	187410
+1458	1479	Y. pestis strain KIM6	Microorganism	187410
+1657	1671	Y. pestis KIM5	Microorganism	187410
+1698	1706	Yersinia	Microorganism	629
+1864	1872	Yersinia	Microorganism	629
+1935	1943	Yersinia	Microorganism	629

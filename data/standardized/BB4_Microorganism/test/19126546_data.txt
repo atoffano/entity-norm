@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+79	101	Salmonella typhimurium	Microorganism	MockLabel
+240	256	Escherichia coli	Microorganism	MockLabel
+372	391	Salmonella enterica	Microorganism	MockLabel
+468	478	Salmonella	Microorganism	MockLabel
+723	733	Salmonella	Microorganism	MockLabel
+1132	1142	Salmonella	Microorganism	MockLabel

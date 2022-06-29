@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+73	93	Escherichia coli K12	Microorganism	MockLabel
+114	130	Escherichia coli	Microorganism	MockLabel

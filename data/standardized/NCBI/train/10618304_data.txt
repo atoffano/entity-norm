@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+37	53	Brugada syndrome	SpecificDisease	D053840
+224	251	congenital long-QT syndrome	SpecificDisease	D008133
+253	257	LQT3	SpecificDisease	C537034
+263	298	idiopathic ventricular fibrillation	SpecificDisease	C537182
+300	303	IVF	SpecificDisease	C537182
+806	809	IVF	SpecificDisease	C537182
+933	937	LQT3	Modifier	C537034
+1689	1692	IVF	SpecificDisease	C537182

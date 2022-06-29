@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	16	Gardner syndrome	SpecificDisease	D005736
+122	138	Gardner syndrome	SpecificDisease	D005736
+140	142	GS	SpecificDisease	D005736
+145	163	mental retardation	DiseaseClass	D008607
+169	195	craniofacial abnormalities	DiseaseClass	D019465
+406	432	adenomatous polyposis coli	SpecificDisease	D011125
+471	473	GS	SpecificDisease	D005736
+477	500	familial polyposis coli	SpecificDisease	D011125
+502	505	FPC	SpecificDisease	D011125

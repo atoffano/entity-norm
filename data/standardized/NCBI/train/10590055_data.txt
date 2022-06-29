@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+248	284	neonatal alloimmune thrombocytopenia	SpecificDisease	D054098

@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+0	10	Trisomy 15	SpecificDisease	C538037
+54	75	Prader-Willi syndrome	SpecificDisease	D011218
+83	98	maternal disomy	SpecificDisease	D024182
+100	118	Uniparental disomy	SpecificDisease	D024182
+184	205	Prader-Willi syndrome	SpecificDisease	D011218
+207	210	PWS	SpecificDisease	D011218
+323	341	uniparental disomy	SpecificDisease	D024182
+406	424	uniparental disomy	SpecificDisease	D024182
+508	518	trisomy 15	SpecificDisease	C538037
+691	700	hypotonic	SpecificDisease	D009123
+837	840	PWS	SpecificDisease	D011218
+873	876	PWS	SpecificDisease	D011218
+1142	1160	uniparental disomy	SpecificDisease	D024182
+1177	1180	PWS	SpecificDisease	D011218

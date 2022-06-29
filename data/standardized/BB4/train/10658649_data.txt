@@ -1,0 +1,19 @@
+start	end	mention	_class	labels
+26	55	glycoprotein-binding activity	Phenotype	OBT:000019
+59	81	Streptococcus pyogenes	Microorganism	1314
+133	155	Streptococcus pyogenes	Microorganism	1314
+164	173	host cell	Habitat	OBT:000061
+236	255	adhesion mechanisms	Phenotype	OBT:000029
+280	289	host cell	Habitat	OBT:000061
+332	340	vaccines	Habitat	OBT:000464
+382	413	glycoprotein-binding activities	Phenotype	OBT:000019
+420	433	streptococcal	Microorganism	1314
+463	482;498	activity binding to fetuin	Phenotype	OBT:000019
+463	482;506	activity binding to asialofetuin	Phenotype	OBT:000019
+463	496	activity binding to thyroglobulin	Phenotype	OBT:000019
+463	482;523	activity binding to mucin	Phenotype	OBT:000019
+610	621	S. pyogenes	Microorganism	1314
+758	787	glycoprotein-binding activity	Phenotype	OBT:000019
+886	895	adherence	Phenotype	OBT:000029
+1118	1129	S. pyogenes	Microorganism	1314
+1130	1139	virulence	Phenotype	OBT:000375

@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+54	72	Lactococcus lactis	Microorganism	1358
+198	219	Debaryomyces hansenii	Microorganism	4959
+221	240	Geotrichum candidum	Microorganism	1173061
+242	259	Kluyveromyces sp.	Microorganism	4910
+264	283	Yarrowia lipolytica	Microorganism	4952
+630	656	Brevibacterium aurantiacum	Microorganism	273384
+658	673	Corynebacterium	Microorganism	1716
+675	687	Arthrobacter	Microorganism	1663
+692	711	Staphylococcus spp.	Microorganism	29387

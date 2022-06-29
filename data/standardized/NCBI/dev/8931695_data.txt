@@ -1,0 +1,23 @@
+start	end	mention	_class	labels
+41	64	atelosteogenesis type 2	SpecificDisease	C535395
+69	90	diastrophic dysplasia	SpecificDisease	C536170
+109	130	diastrophic dysplasia	Modifier	C536170
+200	217	chondrodysplasias	DiseaseClass	D010009
+267	288	diastrophic dysplasia	SpecificDisease	C536170
+290	293	DTD	SpecificDisease	C536170
+296	319	atelosteogenesis type 2	SpecificDisease	C535395
+321	324	AO2	SpecificDisease	C535395
+331	354	achondrogenesis type 1B	SpecificDisease	C536016
+356	361	ACG1B	SpecificDisease	C536016
+407	430	DTDST chondrodysplasias	SpecificDisease	OMIM:222600
+537	541	AO-2	SpecificDisease	C535395
+552	555	DTD	SpecificDisease	C536170
+597	600	AO2	SpecificDisease	C535395
+601	604	DTD	SpecificDisease	C536170
+864	867	DTD	SpecificDisease	C536170
+872	875	AO2	SpecificDisease	C535395
+876	879	DTD	SpecificDisease	C536170
+1283	1286	AO2	SpecificDisease	C535395
+1661	1664	AO2	SpecificDisease	C535395
+1668	1671	DTD	SpecificDisease	C536170
+1775	1780	ACG1B	Modifier	C536016

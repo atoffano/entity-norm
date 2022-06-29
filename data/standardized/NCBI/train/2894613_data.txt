@@ -1,0 +1,23 @@
+start	end	mention	_class	labels
+0	25	Von Hippel-Lindau disease	SpecificDisease	D006623
+77	97	renal cell carcinoma	SpecificDisease	D002292
+99	124	Von Hippel-Lindau disease	SpecificDisease	D006623
+126	129	VHL	SpecificDisease	D006623
+137	164	autosomal dominant disorder	DiseaseClass	D030342
+215	221	cancer	DiseaseClass	D009369
+233	250	hemangioblastomas	SpecificDisease	D018325
+282	300	phaeochromocytomas	SpecificDisease	D010673
+302	325	pancreatic malignancies	SpecificDisease	OMIM:260350
+331	352	renal cell carcinomas	SpecificDisease	D002292
+354	375	Renal cell carcinomas	SpecificDisease	D002292
+457	489	bilateral and multifocal tumours	CompositeMention	D009369
+569	575	tumour	Modifier	D009369
+606	609	VHL	Modifier	D006623
+750	753	VHL	Modifier	D006623
+804	807	VHL	Modifier	D006623
+917	923	tumour	Modifier	D009369
+972	978	tumour	Modifier	D009369
+1028	1070	inherited and sporadic forms of the cancer	CompositeMention	D009369
+1072	1102	Sporadic renal cell carcinomas	SpecificDisease	D002292
+1241	1261	renal cell carcinoma	SpecificDisease	D002292
+1334	1340	tumour	Modifier	D009369

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+68	102	brain, breast, and prostate cancer	CompositeMention	D001932|D001943|D011471
+202	207	tumor	Modifier	D009369
+293	300	cancers	DiseaseClass	D009369
+376	388	glioblastoma	Modifier	D005909
+430	445	prostate cancer	Modifier	D011471
+471	484	breast cancer	Modifier	D001943
+530	551	primary glioblastomas	SpecificDisease	D005909
+770	775	tumor	Modifier	D009369
+846	851	tumor	Modifier	D009369
+870	880	metastasis	DiseaseClass	D009362

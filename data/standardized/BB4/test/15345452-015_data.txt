@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+9	19	coryneform	Microorganism	MockLabel
+65	86	Brevibacterium linens	Microorganism	MockLabel
+113	128	orange colonies	Phenotype	MockLabel
+132	138	plates	Habitat	MockLabel

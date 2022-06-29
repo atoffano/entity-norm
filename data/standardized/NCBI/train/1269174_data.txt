@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+0	13	Analbuminemia	SpecificDisease	OMIM:103600
+42	55	Analbuminemia	SpecificDisease	OMIM:103600
+138	155	atopic dermatitis	SpecificDisease	D003876
+162	178	bronchial asthma	SpecificDisease	D001249
+187	203	seizure disorder	SpecificDisease	D004827
+209	229	hyperlipoproteinemia	SpecificDisease	D006951
+237	250	corneal arcus	SpecificDisease	D001112
+482	495	analbuminemia	SpecificDisease	OMIM:103600
+764	777	analbuminemia	SpecificDisease	OMIM:103600
+854	867	analbuminemia	SpecificDisease	OMIM:103600
+912	923	thalassemia	Modifier	D013789

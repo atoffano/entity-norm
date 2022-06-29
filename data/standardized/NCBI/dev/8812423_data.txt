@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+51	58	lipomas	DiseaseClass	D008067
+142	149	lipomas	DiseaseClass	D008067
+708	714	lipoma	Modifier	D008067
+793	799	lipoma	Modifier	D008067
+1835	1841	lipoma	Modifier	D008067
+1857	1872	primary lipomas	DiseaseClass	D008067

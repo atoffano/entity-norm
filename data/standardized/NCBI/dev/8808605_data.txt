@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+154	171	enzyme deficiency	DiseaseClass	 D008661
+376	427	glucose-6-phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955
+572	611	chronic nonspherocytic hemolytic anemia	SpecificDisease	D000746
+677	692	G6PD deficiency	SpecificDisease	D005955
+1368	1383	G6PD deficiency	SpecificDisease	D005955

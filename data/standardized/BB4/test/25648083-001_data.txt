@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+0	19	L. johnsonii FI9785	Microorganism	MockLabel
+24	48	able to produce biofilms	Phenotype	MockLabel
+40	48	biofilms	Habitat	MockLabel
+52	63	glass tubes	Habitat	MockLabel
+103	153	sterile microscope slides under aerobic conditions	Habitat	MockLabel
+277	285	GI tract	Habitat	MockLabel
+340	357	biofilm formation	Phenotype	MockLabel
+340	347	biofilm	Habitat	MockLabel
+361	395	sterile microscope  slide surfaces	Habitat	MockLabel
+414	431	Biofilm formation	Phenotype	MockLabel
+414	421	Biofilm	Habitat	MockLabel
+450	497	polystyrene 96 well plates using crystal violet	Habitat	MockLabel
+554	562	biofilms	Habitat	MockLabel
+571	580	wild type	Phenotype	MockLabel
+585	591	mutant	Phenotype	MockLabel
+630	644	EPS production	Phenotype	MockLabel
+648	665	biofilm formation	Phenotype	MockLabel
+648	655	biofilm	Habitat	MockLabel
+693	712	L. johnsonii FI9785	Microorganism	MockLabel
+733	742	probiotic	Phenotype	MockLabel
+750	766	L. rhamnosus  GG	Microorganism	MockLabel
+782	799	biofilm formation	Phenotype	MockLabel
+782	789	biofilm	Habitat	MockLabel

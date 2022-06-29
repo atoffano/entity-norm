@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+26	41	McLeod syndrome	SpecificDisease	OMIM:300842
+91	106	McLeod syndrome	SpecificDisease	OMIM:300842
+113	142	X-linked multisystem disorder	DiseaseClass	D040181
+287	293	McLeod	Modifier	OMIM:300842
+554	560	McLeod	Modifier	OMIM:300842
+744	750	McLeod	Modifier	OMIM:300842
+903	918	McLeod syndrome	SpecificDisease	OMIM:300842

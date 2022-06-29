@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+69	82	breast cancer	SpecificDisease	D001943
+196	209	breast cancer	SpecificDisease	D001943
+503	516	breast cancer	SpecificDisease	D001943
+708	721	breast cancer	SpecificDisease	D001943
+779	792	breast cancer	SpecificDisease	D001943
+801	815	ovarian cancer	SpecificDisease	D010051
+908	933	breast and ovarian cancer	CompositeMention	D001943|D010051
+1014	1027	breast cancer	SpecificDisease	D001943
+1045	1059	ovarian cancer	SpecificDisease	D010051
+1077	1102	breast and ovarian cancer	CompositeMention	D001943|D010051
+1285	1298	breast cancer	SpecificDisease	D001943
+1316	1330	breast cancers	SpecificDisease	D001943
+1460	1474	ovarian cancer	SpecificDisease	D010051
+1518	1531	breast cancer	SpecificDisease	D001943

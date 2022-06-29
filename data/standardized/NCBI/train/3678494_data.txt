@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+32	59	Duchenne muscular dystrophy	SpecificDisease	D020388
+237	264	Duchenne muscular dystrophy	SpecificDisease	D020388
+266	269	DMD	SpecificDisease	D020388
+497	500	DMD	Modifier	D020388
+589	592	DMD	SpecificDisease	D020388

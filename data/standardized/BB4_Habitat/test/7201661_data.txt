@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+47	53	rabbit	Habitat	MockLabel
+47	61	rabbit tissues	Habitat	MockLabel
+129	143	rabbit tissues	Habitat	MockLabel
+129	135	rabbit	Habitat	MockLabel
+343	353	peritoneum	Habitat	MockLabel
+442	448	rabbit	Habitat	MockLabel
+442	459	rabbit peritoneum	Habitat	MockLabel
+660	670	peritoneum	Habitat	MockLabel
+683	700	mesentery samples	Habitat	MockLabel
+884	894	epithelium	Habitat	MockLabel
+907	930	fibers of the mesentery	Habitat	MockLabel
+1064	1070	rabbit	Habitat	MockLabel
+1064	1078	rabbit tissues	Habitat	MockLabel
+1170	1180	peritoneum	Habitat	MockLabel
+1342	1352	peritoneum	Habitat	MockLabel
+1360	1369	mesentery	Habitat	MockLabel

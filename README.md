@@ -8,8 +8,18 @@ Results sheet can be found here : https://docs.google.com/spreadsheets/d/1dDVcLo
 
 File format handlers can be found in the utils directory.
 
-# Scripts
-Directory containing all scripts used for preprocessing datasets, training and evaluating models. 
+# Requirements
+With the goal to make reproducing results as easy as possible, conda environements for both methods are directly available for installation through a .yaml configuration file.
+```
+conda env create -f lightweight_env.yaml
+conda env create -f biosyn_env.yaml
+```
+An installation using pip is also available for both environnements. Please use a virtual environnement per method if you plan to use both, as package conflicts may emerge.
+```
+pip install biosyn_requirements.txt
+pip install lightweight_requirements.txt
+
+```
 
 # Utils
 Contains multiple file format handlers, allowing to convert datasets/files to input formats of different entity normalization methods.

@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+0	21	Complement deficiency	SpecificDisease	D007153
+26	35	nephritis	SpecificDisease	D009393
+120	136	deficiency of C3	SpecificDisease	OMIM:613779
+254	267	C3 deficiency	SpecificDisease	OMIM:613779
+308	326	glomerulonephritis	SpecificDisease	D005921
+328	339	proteinuria	SpecificDisease	D011507
+361	371	haematuria	SpecificDisease	D006417
+408	420	C3-deficient	Modifier	OMIM:613779
+476	489	C3 deficiency	SpecificDisease	OMIM:613779
+637	650	renal disease	DiseaseClass	D007674
+717	730	C3 deficiency	SpecificDisease	OMIM:613779
+746	755	nephritis	SpecificDisease	D009393

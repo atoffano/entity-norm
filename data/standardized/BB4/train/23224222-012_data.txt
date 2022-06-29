@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+13	24	filamentous	Phenotype	OBT:000629
+32	58	Scopulariopsis brevicaulis	Microorganism	561152
+89	95	cheese	Habitat	OBT:001480
+99	113	S. brevicaulis	Microorganism	561152
+143	156	Danish cheese	Habitat	OBT:001480
+200	207	cheeses	Habitat	OBT:001480
+219	245	high proteolytic  activity	Phenotype	OBT:000019
+259	277	ammonia production	Phenotype	OBT:000019
+286	320	production of  arsenical compounds	Phenotype	OBT:000019

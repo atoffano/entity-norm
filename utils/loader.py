@@ -98,7 +98,8 @@ def from_NCBI(args, file):
     else:
         raise NotImplementedError
     with open(f"{args['input']}/{file}", 'r') as fh:
-        lines = fh.readlines()    
+        lines = fh.readlines() 
+    entries = []   
     lines = lines + ['\n']
     for line in lines:
         line = line.strip()
@@ -107,7 +108,6 @@ def from_NCBI(args, file):
         elif '|a|' in line:
             abstract = line.split("|a|")[1]
             header = [title, abstract]
-            standardize(args, dataset, pmid, header=header)
         elif '\t' in line:
             line = line.split("\t")
             _class = line[4]
@@ -115,8 +115,10 @@ def from_NCBI(args, file):
             end = line[2]
             mention = line[3]
             labels = line [5]
-            line  = start, end, mention, _class, labels
-            standardize(args, dataset, pmid, line=line)
+            entries.append([start, end, mention, _class, labels])
+        elif line == '' and entries != []:
+            standardize(args, dataset, pmid, header, entries)
+            entries = []
 
 def is_ftype(filepath):
     '''Verifies whether a BB4 triplet (.txt, .a1, .a2) comes from a splitted or full article. Returns a boolean.'''
@@ -154,15 +156,14 @@ def from_BB4(args, dir):
             if ftype:
                 abstract = "".join(line.strip("\n") for line in lines)
                 header = ["", abstract]
-                standardize(args, dataset, pmid, header=header)
             else:
                 title = lines[0].strip("\n")
                 corpus = [line.strip("\n") for line in lines[1:]]
                 corpus = "".join(corpus)
                 header = [title, corpus]
-                standardize(args, dataset, pmid, header=header)
         with open(f"{file.split('.')[0]}.a1", 'r') as a1:
             lines = a1.readlines()
+            entries = []
             for line in lines:
                 line = line.split("\t")
                 if line[1].split(" ")[0] in ["Title", "Paragraph"]:
@@ -183,10 +184,10 @@ def from_BB4(args, dir):
                         if a2line.split(" ")[1].split("Annotation:T")[1] == str(index):
                             labels.append(a2line.split("Referent:")[1].strip("\n"))
                     labels = "|".join(labels)
-                line = start, end, mention, _class, labels
-                standardize(args, dataset, pmid, line=line)
+                entries.append([start, end, mention, _class, labels])
+        standardize(args, dataset, pmid, header, entries)
 
-def standardize(args, dataset, pmid, header=None, line=None):
+def standardize(args, dataset, pmid, header, entries):
     '''
     Takes in the content of a file and outputs it in a standardized format.
 
@@ -202,20 +203,30 @@ def standardize(args, dataset, pmid, header=None, line=None):
     if not os.path.exists(filepath):
         os.makedirs(filepath)
     if not os.path.exists(f"{filepath}{pmid}_header.txt"):
-        with open(f"{filepath}{pmid}_header.txt", 'a') as f:
-            f.write("title\tabstract\n")
-        with open(f"{filepath}{pmid}_data.txt", 'a') as f:
-            f.write("start\tend\tmention\t_class\tlabels\n")
-    if header:
-        title = header[0]
-        abstract = header[1]
-        with open(f"{filepath}{pmid}_header.txt", 'w') as f:
-                    f.write(f"{title}\n{abstract}\n")
-    if line:
-        start, end, mention, _class, labels = line
-        with open(f"{filepath}{pmid}_data.txt", 'a') as f:
-                    f.write(f"{start}\t{end}\t{mention}\t{_class}\t{labels}\n")
-  
+        init_file(filepath, pmid)
+    elif os.path.exists(f"{filepath}{pmid}_header.txt"):
+        temp = pmid.split("_")
+        if len(temp) == 1:
+            pmid = f"{pmid}_2"
+        else:
+            pmid = f"{temp[0]}_{int(temp[1]) + 1}"
+            init_file(filepath, pmid)
+
+    title = header[0]
+    abstract = header[1]
+    with open(f"{filepath}{pmid}_header.txt", 'w') as f:
+                f.write(f"{title}\n{abstract}\n")
+    with open(f"{filepath}{pmid}_data.txt", 'a') as f:
+        for entry in entries:
+            start, end, mention, _class, labels = entry
+            f.write(f"{start}\t{end}\t{mention}\t{_class}\t{labels}\n")
+
+def init_file(filepath, pmid):
+    with open(f"{filepath}{pmid}_header.txt", 'a') as f:
+        f.write("title\tabstract\n")
+    with open(f"{filepath}{pmid}_data.txt", 'a') as f:
+        f.write("start\tend\tmention\t_class\tlabels\n")
+        
 def extract(filename):
     '''
     Extracts the content of a standardized file.
@@ -228,7 +239,7 @@ def extract(filename):
                 abstract (str) : Abstract of the article
                 data (list) : list of lists containing each mention, its location, its class and labels.
     '''
-    data = []
+    entries = []
     pmid = filename.split("/")[-1].split("_header.txt")[0]
     with open(f"{filename}", 'r') as fh:
         lines = fh.readlines()
@@ -238,8 +249,8 @@ def extract(filename):
         del lines[0]
     for line in lines:
         line = line.split("\t")
-        data.append(line)
-    return pmid, title, abstract, data
+        entries.append(line)
+    return pmid, title, abstract, entries
     
 
 def to_NCBI(args, dataset):

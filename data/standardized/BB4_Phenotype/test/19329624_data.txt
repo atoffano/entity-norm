@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+77	90	Gram-negative	Phenotype	MockLabel
+92	115	facultatively anaerobic	Phenotype	MockLabel
+117	138	moderately halophilic	Phenotype	MockLabel
+237	248	curved rods	Phenotype	MockLabel
+250	256	motile	Phenotype	MockLabel
+261	282	non-endospore-forming	Phenotype	MockLabel

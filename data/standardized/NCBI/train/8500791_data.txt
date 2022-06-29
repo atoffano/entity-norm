@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+36	48	hemophilia A	SpecificDisease	D006467
+58	72	von Willebrand	Modifier	D014842
+124	150	genetic bleeding disorders	DiseaseClass	D025861
+152	164	hemophilia A	SpecificDisease	D006467
+169	191	von Willebrand disease	SpecificDisease	D014842
+287	301	von Willebrand	Modifier	D014842
+369	381	hemophilia A	Modifier	D006467
+1336	1346	hemophilia	Modifier	D006467|D002836
+1502	1512	hemophilia	SpecificDisease	D006467|D002836
+1582	1592	hemophilia	SpecificDisease	D006467|D002836

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+69	90	Prader-Willi syndrome	SpecificDisease	D011218
+329	350	Prader-Willi syndrome	SpecificDisease	D011218
+352	355	PWS	SpecificDisease	D011218
+392	395	PWS	SpecificDisease	D011218
+673	676	PWS	Modifier	D011218
+742	745	PWS	Modifier	D011218

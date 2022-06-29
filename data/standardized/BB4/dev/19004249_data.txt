@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+204	219	human pathogens	Phenotype	OBT:002806
+204	209	human	Habitat	OBT:002488
+221	242	Staphylococcus aureus	Microorganism	1280
+247	263	Escherichia coli	Microorganism	562
+308	317	S. aureus	Microorganism	1280

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+337	381	Deficiency of terminal complement components	SpecificDisease	D007153
+421	441	neisseria infections	SpecificDisease	D016870
+495	518	inherited C9 deficiency	SpecificDisease	OMIM:613825
+553	566	C9 deficiency	SpecificDisease	OMIM:613825
+658	671	C9 deficiency	SpecificDisease	OMIM:613825
+989	1002	C9 deficiency	SpecificDisease	OMIM:613825

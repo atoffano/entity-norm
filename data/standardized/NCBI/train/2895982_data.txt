@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+40	71	Lowe oculocerebrorenal syndrome	SpecificDisease	D009800
+117	148	Lowe oculocerebrorenal syndrome	SpecificDisease	D009800
+150	154	OCRL	SpecificDisease	D009800
+187	195	cataract	SpecificDisease	D002386
+197	215	mental retardation	DiseaseClass	D008607
+221	253	defective renal tubular function	DiseaseClass	D015499
+275	279	OCRL	SpecificDisease	D009800
+639	643	OCRL	Modifier	D009800
+821	834	Lowe syndrome	SpecificDisease	D009800
+1284	1288	OCRL	SpecificDisease	D009800
+1441	1445	OCRL	Modifier	D009800

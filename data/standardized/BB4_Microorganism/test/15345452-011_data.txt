@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+27	45	Lactococcus lactis	Microorganism	MockLabel
+47	72	Leuconostoc mesenteroides	Microorganism	MockLabel
+78	101	Lactobacillus plantarum	Microorganism	MockLabel
+186	212	Streptococcus thermophilus	Microorganism	MockLabel
+217	256	Lactobacillus delbrueckii subsp. lactis	Microorganism	MockLabel

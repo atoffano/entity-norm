@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+61	75	hepatoblastoma	SpecificDisease	D018197
+77	91	Hepatoblastoma	SpecificDisease	D018197
+102	130	malignant tumor of the liver	DiseaseClass	D008113+D018198
+254	259	tumor	Modifier	D009369
+289	315	adenomatous polyposis coli	SpecificDisease	D011125
+415	424	APC tumor	Modifier	D011125
+455	469	hepatoblastoma	Modifier	D018197
+697	702	tumor	Modifier	D009369
+734	760	adenomatous polyposis coli	SpecificDisease	D011125
+861	876	hepatoblastomas	SpecificDisease	D018197
+979	984	tumor	Modifier	D009369
+1100	1114	hepatoblastoma	SpecificDisease	D018197
+1220	1225	tumor	Modifier	D009369

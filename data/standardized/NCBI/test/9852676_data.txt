@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+57	75	myotonic dystrophy	SpecificDisease	D009223
+144	162	myotonic dystrophy	Modifier	D009223
+164	166	DM	Modifier	D009223
+306	308	DM	Modifier	D009223
+370	372	DM	Modifier	D009223
+524	526	DM	Modifier	D009223
+718	720	DM	Modifier	D009223
+917	919	DM	Modifier	D009223
+1258	1260	DM	SpecificDisease	D009223
+1265	1283	Friedreichs ataxia	SpecificDisease	D005621

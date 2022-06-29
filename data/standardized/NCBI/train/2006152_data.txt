@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+30	45	phenylketonuria	Modifier	D010661
+334	349	phenylketonuria	SpecificDisease	D010661
+351	354	PKU	SpecificDisease	D010661
+647	650	PKU	Modifier	D010661
+948	951	PKU	Modifier	D010661
+1456	1459	PKU	Modifier	D010661

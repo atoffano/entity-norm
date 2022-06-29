@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+0	24	Sjogren-Larsson syndrome	SpecificDisease	D016111
+254	272	inherited disorder	DiseaseClass	D030342
+274	298	Sjogren-Larsson syndrome	SpecificDisease	D016111
+300	303	SLS	SpecificDisease	D016111
+313	316	SLS	Modifier	D016111
+548	551	SLS	Modifier	D016111
+778	781	SLS	Modifier	D016111
+859	862	SLS	Modifier	D016111
+1029	1032	SLS	Modifier	D016111
+1069	1072	SLS	Modifier	D016111
+1219	1222	SLS	Modifier	D016111
+1328	1331	SLS	SpecificDisease	D016111
+1382	1385	SLS	SpecificDisease	D016111
+1389	1438	deficiency of fatty alcohol  NAD + oxidoreductase	SpecificDisease	D016111
+1440	1443	SLS	SpecificDisease	D016111
+1465	1483	inherited disorder	DiseaseClass	D030342
+1519	1558	abnormality in fatty alcohol metabolism	DiseaseClass	D005235

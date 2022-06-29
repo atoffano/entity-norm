@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+0	26	Non-syndromic hearing loss	SpecificDisease	C537845
+43	71	enlarged vestibular aqueduct	SpecificDisease	OMIM:600791
+85	88	PDS	Modifier	C536648
+100	128	Enlarged vestibular aqueduct	SpecificDisease	OMIM:600791
+130	133	EVA	SpecificDisease	OMIM:600791
+169	190	inner ear abnormality	DiseaseClass	D007759
+312	352	non-syndromic sensorineural hearing loss	SpecificDisease	C537845
+358	361	EVA	SpecificDisease	OMIM:600791
+423	439	Pendred syndrome	Modifier	C536648
+492	495	PDS	Modifier	C536648
+533	549	Pendred syndrome	SpecificDisease	C536648
+582	622	non-syndromic sensorineural hearing loss	SpecificDisease	C537845
+628	631	EVA	SpecificDisease	OMIM:600791
+843	883	syndromic and non-syndromic hearing loss	CompositeMention	D034381|C537845

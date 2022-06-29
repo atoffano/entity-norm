@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+0	20	Adrenoleukodystrophy	SpecificDisease	D000326
+178	198	adrenoleukodystrophy	Modifier	D000326
+200	203	ALD	Modifier	D000326
+218	221	ALD	Modifier	D000326
+251	254	ALD	Modifier	D000326
+575	578	ALD	Modifier	D000326

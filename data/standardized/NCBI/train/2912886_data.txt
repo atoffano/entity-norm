@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+0	39	Chronic nonspherocytic hemolytic anemia	SpecificDisease	D000746
+41	46	CNSHA	SpecificDisease	D000746
+52	103	glucose 6 phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955
+122	157	familial amyloidotic polyneuropathy	SpecificDisease	D028227
+159	162	FAP	SpecificDisease	D028227
+312	340	erythrocytic G6PD deficiency	SpecificDisease	D005955
+402	441	chronic nonspherocytic hemolytic anemia	SpecificDisease	D000746
+443	448	CNSHA	SpecificDisease	D000746
+454	489	familial amyloidotic polyneuropathy	SpecificDisease	D028227
+491	494	FAP	SpecificDisease	D028227
+497	514	Chronic hemolysis	SpecificDisease	D006461

@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+55	83	metachromatic leukodystrophy	Modifier	D007966
+85	88	MLD	Modifier	D007966
+179	207	metachromatic leukodystrophy	SpecificDisease	D007966
+209	212	MLD	SpecificDisease	D007966
+1333	1336	MLD	Modifier	D007966
+1519	1522	MLD	Modifier	D007966
+1767	1770	MLD	Modifier	D007966
+1990	1993	MLD	SpecificDisease	D007966

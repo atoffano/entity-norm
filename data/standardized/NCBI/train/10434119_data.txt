@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+28	50	van der Woude syndrome	Modifier	C536528
+137	159	van der Woude syndrome	SpecificDisease	C536528
+161	164	vWS	SpecificDisease	C536528
+188	225	autosomal dominant clefting condition	DiseaseClass	C536528
+252	264	mucous cysts	SpecificDisease	D009078
+266	280	lower-lip pits	SpecificDisease	C536528
+286	317	clefts to the lip and/or palate	CompositeMention	D002971|D002972
+323	326	vWS	Modifier	C536528
+444	447	vWS	Modifier	C536528
+487	510	cleft lip and/or palate	Modifier	D002971|D002972
+644	647	vWS	Modifier	C536528
+1044	1047	vWS	SpecificDisease	C536528

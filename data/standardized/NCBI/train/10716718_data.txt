@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+75	95	Motor incoordination	DiseaseClass	D002524
+97	116	immune deficiencies	DiseaseClass	D007154
+143	149	cancer	DiseaseClass	D009369
+189	207	hereditary disease	DiseaseClass	D030342
+208	229	ataxia-telangiectasia	SpecificDisease	D001260
+231	234	A-T	SpecificDisease	D001260
+447	462	thymic lymphoma	SpecificDisease	D013953
+567	589	cerebellar dysfunction	DiseaseClass	D002526
+621	644	cerebellar degeneration	DiseaseClass	D013132
+803	834	neuropathological abnormalities	DiseaseClass	D009422
+843	846	A-T	Modifier	D001260
+952	966	Atm deficiency	SpecificDisease	OMIM:208900
+1180	1183	A-T	SpecificDisease	D001260

@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+0	21	Prader-Willi syndrome	SpecificDisease	D011218
+78	99	chromosome 15 anomaly	SpecificDisease	D002869
+182	203	Prader-Willi syndrome	SpecificDisease	D011218
+205	208	PWS	SpecificDisease	D011218
+322	325	PWS	SpecificDisease	D011218
+479	482	PWS	SpecificDisease	D011218
+513	516	PWS	SpecificDisease	D011218

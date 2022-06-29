@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+106	123	Tay-Sachs disease	Modifier	D013661
+193	210	Tay-Sachs disease	SpecificDisease	D013661
+212	215	TSD	SpecificDisease	D013661
+555	558	TSD	Modifier	D013661
+822	825	TSD	Modifier	D013661
+945	948	TSD	Modifier	D013661

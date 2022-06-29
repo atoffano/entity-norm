@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+136	150	B. aurantiacum	Microorganism	MockLabel
+163	186	Psychrobacter aquaticus	Microorganism	MockLabel
+222	233	D. hansenii	Microorganism	MockLabel
+348	362	H. boliviensis	Microorganism	MockLabel
+375	391	B. conglomeratum	Microorganism	MockLabel
+510	536	Scopulariopsis brevicaulis	Microorganism	MockLabel
+585	609	Pyxidiophora arvernensis	Microorganism	MockLabel
+692	707	A. kashmirensis	Microorganism	MockLabel
+751	770	Nectria mariannaeae	Microorganism	MockLabel

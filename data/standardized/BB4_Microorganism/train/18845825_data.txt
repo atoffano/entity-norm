@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+38	60	Haemophilus influenzae	Microorganism	727
+140	162	Haemophilus influenzae	Microorganism	727
+164	168	NTHi	Microorganism	727
+386	390	NTHi	Microorganism	727
+428	432	NTHi	Microorganism	727

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+22	43	ataxia-telangiectasia	Modifier	D001260
+114	135	ataxia-telangiectasia	Modifier	D001260
+346	348	AT	Modifier	D001260
+653	655	AT	Modifier	D001260
+740	742	AT	Modifier	D001260
+851	853	AT	Modifier	D001260

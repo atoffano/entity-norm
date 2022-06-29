@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+66	83	von Hippel-Lindau	Modifier	D006623
+85	88	VHL	Modifier	D006623
+96	127	Von Hippel-Lindau (VHL) disease	SpecificDisease	D006623
+133	158	hereditary tumor syndrome	DiseaseClass	D009386
+195	239	bilateral and multi-centric hemangioblastoma	CompositeMention	D018325
+282	298	pheochromocytoma	SpecificDisease	D010673
+300	320	renal cell carcinoma	SpecificDisease	D002292
+326	371	cysts in the kidney, pancreas, and epididymis	CompositeMention	D052177|D010181|D013088
+455	458	VHL	Modifier	D006623
+577	580	VHL	Modifier	D006623
+786	789	VHL	Modifier	D006623
+918	921	VHL	Modifier	D006623
+982	993	VHL disease	SpecificDisease	D006623
+1110	1126	pheochromocytoma	SpecificDisease	D010673
+1185	1196	VHL disease	SpecificDisease	D006623
+1263	1266	VHL	Modifier	D006623
+1316	1355	central nervous system hemangioblastoma	SpecificDisease	D018325

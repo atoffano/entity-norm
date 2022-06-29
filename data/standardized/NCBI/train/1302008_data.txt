@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+46	59	Wilms' tumour	Modifier	D009396
+105	125	Denys-Drash syndrome	SpecificDisease	D030321
+142	164	developmental disorder	DiseaseClass	D002658
+212	225	renal failure	DiseaseClass	D051437
+227	245	intersex disorders	DiseaseClass	D012734
+250	262	Wilms tumour	SpecificDisease	D009396
+371	383	Wilms tumour	Modifier	D009396

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+473	476	LAB	Phenotype	OBT:000019
+508	513	NSLAB	Phenotype	OBT:000019
+669	674	NSLAB	Phenotype	OBT:000019

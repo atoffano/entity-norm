@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+31	44	methanotrophs	Phenotype	OBT:001205
+87	94;122	ability to grow simultaneously on methane and longer chain alkanes	Phenotype	OBT:001205

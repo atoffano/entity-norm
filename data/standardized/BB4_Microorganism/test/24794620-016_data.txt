@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+32	58	Scopulariopsis brevicaulis	Microorganism	MockLabel
+82	106	Pyxidiophora arvernensis	Microorganism	MockLabel
+116	137	Debaryomyces hansenii	Microorganism	MockLabel
+150	169	Nectria mariannaeae	Microorganism	MockLabel
+336	357	Debaryomyces hansenii	Microorganism	MockLabel
+362	388	Scopulariopsis brevicaulis	Microorganism	MockLabel
+455	469	S. brevicaulis	Microorganism	MockLabel
+587	608	Debaryomyces hansenii	Microorganism	MockLabel
+775	787	Pyxidiophora	Microorganism	MockLabel
+793	800	Nectria	Microorganism	MockLabel
+871	878	Nectria	Microorganism	MockLabel

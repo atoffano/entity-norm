@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+41	59	Huntington disease	SpecificDisease	D006816
+94	112	Huntington disease	SpecificDisease	D006816
+114	116	HD	SpecificDisease	D006816
+232	234	HD	SpecificDisease	D006816
+426	428	HD	Modifier	D006816

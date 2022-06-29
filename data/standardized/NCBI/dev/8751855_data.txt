@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+25	49	hereditary breast cancer	SpecificDisease	D061325
+107	120	breast cancer	SpecificDisease	D001943
+259	283	hereditary breast cancer	SpecificDisease	D061325
+401	425	hereditary breast cancer	SpecificDisease	D061325
+484	509	hereditary breast cancers	SpecificDisease	D061325
+586	621	hereditary breast or ovarian cancer	Modifier	D061325
+688	701	breast cancer	Modifier	D001943
+786	810	breast or ovarian cancer	Modifier	D001943|D010051
+972	989	hereditary cancer	DiseaseClass	D009386
+1410	1434	hereditary breast cancer	SpecificDisease	D061325
+1568	1592	hereditary breast cancer	SpecificDisease	D061325

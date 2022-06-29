@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+603	618	VLCAD-deficient	Modifier	C536353
+864	880	VLCAD deficiency	SpecificDisease	C536353
+1033	1071	deficiency of the normal VLCAD protein	SpecificDisease	C536353
+1450	1466	VLCAD deficiency	SpecificDisease	C536353

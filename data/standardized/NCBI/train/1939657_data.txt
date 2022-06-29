@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+38	56	metabolic disorder	DiseaseClass	D008659
+57	98	normotriglyceridemic abetalipoproteinemia	SpecificDisease	D000012
+141	182	normotriglyceridemic abetalipoproteinemia	SpecificDisease	D000012
+754	788	homozygous hypobetalipoproteinemia	SpecificDisease	D006995

@@ -1,0 +1,29 @@
+start	end	mention	_class	labels
+0	14	Quorum-sensing	Phenotype	OBT:000143
+29	37	adhesion	Phenotype	OBT:000029
+113	135	opportunistic pathogen	Phenotype	OBT:000776
+233	251	biofilm maturation	Phenotype	OBT:001444
+284	336	N-acyl homoserine lactone (AHL)-based quorum sensing	Phenotype	OBT:000143
+338	340	QS	Phenotype	OBT:000143
+372	380	adhesion	Phenotype	OBT:000029
+395	412	biofilm formation	Phenotype	OBT:001444
+484	486	QS	Phenotype	OBT:000143
+503	511	adhesion	Phenotype	OBT:000029
+590	600	attachment	Phenotype	OBT:000029
+715	723	adhesion	Phenotype	OBT:000029
+766	774	adhesion	Phenotype	OBT:000029
+879	881	QS	Phenotype	OBT:000143
+891	901	attachment	Phenotype	OBT:000029
+955	963	adhesion	Phenotype	OBT:000029
+1032	1034	QS	Phenotype	OBT:000143
+1067	1077	attachment	Phenotype	OBT:000029
+1139	1147	adhesion	Phenotype	OBT:000029
+1272	1280	adhesion	Phenotype	OBT:000029
+1312	1314	QS	Phenotype	OBT:000143
+1436	1438	QS	Phenotype	OBT:000143
+1463	1473	attachment	Phenotype	OBT:000029
+1507	1509	QS	Phenotype	OBT:000143
+1731	1741	attachment	Phenotype	OBT:000029
+1782	1784	QS	Phenotype	OBT:000143
+1817	1825	adhesion	Phenotype	OBT:000029
+1859	1867	adhesion	Phenotype	OBT:000029

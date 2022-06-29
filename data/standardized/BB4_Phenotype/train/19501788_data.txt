@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+212	225	Gram-negative	Phenotype	OBT:000648
+358	367	virulence	Phenotype	OBT:000375
+404	414	pathogenic	Phenotype	OBT:000375
+548	558	pathogenic	Phenotype	OBT:002669
+743	753	fur mutant	Phenotype	OBT:000118
+761	776	fur null mutant	Phenotype	OBT:000118
+902	963	decreased resistance against host serum bactericidal activity	Phenotype	OBT:000152
+1059	1078	bacterial virulence	Phenotype	OBT:002669

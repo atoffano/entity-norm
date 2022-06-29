@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+181	203	Lactobacillus buchneri	Microorganism	MockLabel
+257	270	lactobacillus	Microorganism	MockLabel
+460	492	Propionibacterium freudenreichii	Microorganism	MockLabel
+707	724	Pseudoalteromonas	Microorganism	MockLabel
+737	746	Halomonas	Microorganism	MockLabel

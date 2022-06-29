@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+52	77	hereditary retinoblastoma	SpecificDisease	D012175
+152	197	familial or sporadic bilateral retinoblastoma	CompositeMention	D012175

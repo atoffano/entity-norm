@@ -1,0 +1,19 @@
+start	end	mention	_class	labels
+11	15;67	S3 + Lactococcus lactis sp. lactis	Microorganism	1360
+50	53;67	S3- Lactococcus lactis sp. lactis	Microorganism	1360
+208	231	Lactobacillus casei FH1	Microorganism	1582
+233	264	Arthrobacter arilaitensis Re117	Microorganism	861360
+266	293	Corynebacterium casei Mu120	Microorganism	160386
+295	314	C. flavescens Mu128	Microorganism	1255670
+316	334	C. variabile Mu129	Microorganism	1727
+336	363	Staphylococcus xylosus Com1	Microorganism	1288
+368	382	S. equorum Mu2	Microorganism	246432
+403	419	D. hansenii DH68	Microorganism	4959
+421	438	G. candidum GC129	Microorganism	1173061
+440	458	Y. lipolytica CI35	Microorganism	4952
+463	478	K. lactis  KL65	Microorganism	28985
+624	629	Re117	Microorganism	861360
+643	647	Com1	Microorganism	1288
+662	665	FH1	Microorganism	1582
+719	730	P. celer 91	Microorganism	306572
+735	750	H. alvei  2 920	Microorganism	569

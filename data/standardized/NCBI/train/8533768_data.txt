@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+24	40	bipolar disorder	SpecificDisease	D001714
+183	209	bipolar affective disorder	SpecificDisease	D001714
+211	215	BPAD	SpecificDisease	D001714
+306	310	BPAD	Modifier	D001714
+1345	1349	BPAD	SpecificDisease	D001714

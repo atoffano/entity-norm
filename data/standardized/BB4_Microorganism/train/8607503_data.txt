@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+0	22	Non-O1 Vibrio cholerae	Microorganism	66861
+184	206	non-O1 Vibrio cholerae	Microorganism	66861
+340	358	non-O1 V. cholerae	Microorganism	66861
+1472	1490	non-O1 V. cholerae	Microorganism	66861

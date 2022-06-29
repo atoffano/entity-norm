@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+53	93	environmental surfaces in a jail setting	Habitat	OBT:000006
+81	85	jail	Habitat	OBT:000695
+107	111	jail	Habitat	OBT:000695
+107	134	jail environmental surfaces	Habitat	OBT:000006
+283	319	primary and secondary mannitol salts	Habitat	OBT:000007
+324	358	oxacillin-resistant screening agar	Habitat	OBT:000041|OBT:000031
+705	719	inmates' nasal	Habitat	OBT:000767
+705	712	inmates	Habitat	OBT:003291
+857	880	correctional facilities	Habitat	OBT:000695

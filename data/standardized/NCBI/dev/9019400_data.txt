@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+11	16	tumor	Modifier	D009369
+98	111	breast cancer	SpecificDisease	D001943
+258	275	metastatic tumors	DiseaseClass	D009362
+438	443	tumor	Modifier	D009369
+503	516	breast cancer	SpecificDisease	D001943
+554	571	breast carcinomas	SpecificDisease	D001943
+749	756	cancers	DiseaseClass	D009369
+828	841	breast cancer	Modifier	D001943
+912	925	breast cancer	SpecificDisease	D001943

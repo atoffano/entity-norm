@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+20	34	Norrie disease	SpecificDisease	C537849
+36	38	ND	SpecificDisease	C537849
+69	71	ND	Modifier	C537849
+159	173	Norrie disease	SpecificDisease	C537849
+175	177	ND	SpecificDisease	C537849
+231	233	ND	Modifier	C537849
+275	277	ND	Modifier	C537849
+585	587	ND	Modifier	C537849
+982	984	ND	Modifier	C537849
+1101	1141	X-linked recessive neurological disorder	DiseaseClass	D020271

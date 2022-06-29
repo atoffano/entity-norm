@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+39	54	phenylketonuria	SpecificDisease	D010661
+106	121	Phenylketonuria	SpecificDisease	D010661
+123	126	PKU	SpecificDisease	D010661
+134	176	autosomal recessive human genetic disorder	DiseaseClass	D030342
+189	236	deficiency of hepatic phenylalanine hydroxylase	SpecificDisease	OMIM:261600
+292	295	PKU	SpecificDisease	D010661
+308	345	inborn error of amino-acid metabolism	DiseaseClass	D000592
+427	430	PKU	Modifier	D010661
+472	475	PKU	SpecificDisease	D010661
+642	645	PKU	Modifier	D010661
+888	904	molecular lesion	DiseaseClass	D030342

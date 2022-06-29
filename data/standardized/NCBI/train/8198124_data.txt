@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+32	52	prolidase deficiency	SpecificDisease	D056732
+88	108	prolidase deficiency	SpecificDisease	D056732
+135	163	autosomal recessive disorder	DiseaseClass	D030342
+181	198	iminodipeptiduria	SpecificDisease	D000592
+200	211	skin ulcers	SpecificDisease	D012883
+213	231	mental retardation	DiseaseClass	D008607
+1369	1389	prolidase deficiency	SpecificDisease	D056732

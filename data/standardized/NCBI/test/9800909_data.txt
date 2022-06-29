@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+56	76	cognitive impairment	DiseaseClass	D003072
+80	107	Duchenne muscular dystrophy	SpecificDisease	D020388
+205	232	Duchenne muscular dystrophy	SpecificDisease	D020388
+234	237	DMD	SpecificDisease	D020388
+288	308	cognitive impairment	DiseaseClass	D003072
+326	329	DMD	Modifier	D020388
+481	484	DMD	Modifier	D020388
+912	932	cognitive impairment	DiseaseClass	D003072
+1039	1059	cerebral dysfunction	DiseaseClass	D001927
+1168	1171	DMD	Modifier	D020388
+1226	1246	cognitive impairment	DiseaseClass	D003072
+1263	1266	DMD	SpecificDisease	D020388

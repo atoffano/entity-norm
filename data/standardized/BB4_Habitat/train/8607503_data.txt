@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+37	60	patients with cirrhosis	Habitat	OBT:003269
+92	106	medical center	Habitat	OBT:002518
+162	180	cirrhotic patients	Habitat	OBT:003220
+314	319	blood	Habitat	OBT:000521
+314	327	blood culture	Habitat	OBT:000007
+382	414	clinical microbiology laboratory	Habitat	OBT:000011|OBT:001169
+448	516	Patients with underlying cirrhosis and the aforementioned bacteremia	Habitat	OBT:003269
+559	635	cirrhotic patients (16 male, five female; mean age, 50.9 yr; range 28-67 yr)	Habitat	OBT:003269
+670	677	Child B	Habitat	OBT:003269
+692	699	Child C	Habitat	OBT:003269
+777	784	Seafood	Habitat	OBT:001301
+813	821	seawater	Habitat	OBT:003105
+866	876	nosocomial	Habitat	OBT:000011
+957	964	ascites	Habitat	OBT:000799
+987	996	abdominal	Habitat	OBT:000175
+1166	1173	ascites	Habitat	OBT:000799
+1381	1413	patients with skin manifestation	Habitat	OBT:003269
+1395	1399	skin	Habitat	OBT:000875
+1415	1452	Patients with decompensated cirrhosis	Habitat	OBT:003220
+1524	1535	raw seafood	Habitat	OBT:001277
+1546	1557	skin wounds	Habitat	OBT:003231
+1546	1550	skin	Habitat	OBT:000875
+1561	1571	salt water	Habitat	OBT:002592

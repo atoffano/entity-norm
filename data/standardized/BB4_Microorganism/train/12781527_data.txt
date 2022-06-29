@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+0	13	Campylobacter	Microorganism	194
+312	332	Campylobacter jejuni	Microorganism	197
+422	431	C. jejuni	Microorganism	197
+456	474	Campylobacter coli	Microorganism	195
+815	828	Campylobacter	Microorganism	194

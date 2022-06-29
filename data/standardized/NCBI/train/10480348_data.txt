@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+0	34	Duchenne/Becker muscular dystrophy	CompositeMention	D020388|C537666
+178	216	Duchenne and Becker muscular dystrophy	CompositeMention	D020388|C537666
+218	221	DMD	SpecificDisease	D020388
+222	225	BMD	SpecificDisease	C537666
+320	323	DMD	SpecificDisease	D020388
+671	674	DMD	Modifier	D020388
+675	678	BMD	Modifier	C537666
+855	858	DMD	Modifier	D020388
+859	862	BMD	Modifier	C537666
+1091	1102	DMD defects	DiseaseClass	D020388
+1388	1402	muscle disease	Modifier	D009135

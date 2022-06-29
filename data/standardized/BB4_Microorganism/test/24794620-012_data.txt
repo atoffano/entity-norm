@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+15	37	Staphylococcus equorum	Microorganism	MockLabel
+87	100	staphylococci	Microorganism	MockLabel
+219	229	S. equorum	Microorganism	MockLabel
+397	410	Staphylococci	Microorganism	MockLabel
+473	498	S. equorum strain WS 2733	Microorganism	MockLabel
+610	626	L. monocytogenes	Microorganism	MockLabel
+689	699	S. equorum	Microorganism	MockLabel

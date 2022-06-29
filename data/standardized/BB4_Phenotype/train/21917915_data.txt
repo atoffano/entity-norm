@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+93	102	Pathogens	Phenotype	OBT:000375
+234	243	pathogens	Phenotype	OBT:000375
+355	370	human pathogens	Phenotype	OBT:002806
+866	875	pathogens	Phenotype	OBT:000375

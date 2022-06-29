@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+136	159	inherited breast cancer	SpecificDisease	D001943
+232	245	breast cancer	SpecificDisease	D001943
+318	340	familial breast cancer	SpecificDisease	D001943
+352	383	inherited breast/ovarian cancer	CompositeMention	D061325
+451	474	inherited breast cancer	Modifier	D001943
+971	984	breast cancer	SpecificDisease	D001943
+1035	1053	male breast cancer	Modifier	D018567
+1237	1250	breast cancer	SpecificDisease	D001943
+1734	1758	hereditary breast cancer	SpecificDisease	D001943

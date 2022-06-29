@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	20	Spinal xanthomatosis	SpecificDisease	D014973
+35	65	cerebrotendinous xanthomatosis	DiseaseClass	D019294
+152	172	spinal cord syndrome	SpecificDisease	D013118
+225	255	cerebrotendinous xanthomatosis	SpecificDisease	D019294
+257	260	CTX	SpecificDisease	D019294
+280	306	white matter abnormalities	DiseaseClass	D002493
+523	543	spinal xanthomatosis	SpecificDisease	D014973
+594	597	CTX	SpecificDisease	D019294
+655	673	chronic myelopathy	DiseaseClass	D002908+D013118

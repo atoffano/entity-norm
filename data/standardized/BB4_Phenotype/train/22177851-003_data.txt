@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+251	265	psychrotrophic	Phenotype	OBT:000402

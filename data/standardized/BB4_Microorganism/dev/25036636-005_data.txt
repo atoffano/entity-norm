@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+223	237	Proteobacteria	Microorganism	1224
+253	264	Leuconostoc	Microorganism	1243
+280	287	Candida	Microorganism	1535326
+367	374	Candida	Microorganism	1535326
+429	443	Proteobacteria	Microorganism	1224
+462	476	Staphylococcus	Microorganism	1279
+539	553	Brevibacterium	Microorganism	1696
+558	573	Brachybacterium	Microorganism	43668
+590	601	Penicillium	Microorganism	5073
+606	620	Scopulariopsis	Microorganism	40374

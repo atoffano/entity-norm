@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+21	65	glucose-6-phosphate dehydrogenase deficiency	SpecificDisease	D005955
+110	125	G6PD deficiency	SpecificDisease	D005955

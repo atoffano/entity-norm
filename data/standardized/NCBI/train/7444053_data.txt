@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+20	40	adrenoleukodystrophy	SpecificDisease	D000326
+91	111	adrenoleukodystrophy	SpecificDisease	D000326
+113	116	ALD	SpecificDisease	D000326
+602	605	ALD	SpecificDisease	D000326
+607	618	Type II ALD	SpecificDisease	D000326
+666	685	leukoencephalopathy	DiseaseClass	D056784
+760	763	ALD	SpecificDisease	D000326

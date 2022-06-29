@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+120	145	breast and ovarian cancer	CompositeMention	D001943|D010051
+341	347	cancer	Modifier	D009369
+420	445	breast and ovarian cancer	Modifier	D001943|D010051
+720	748	breast and 79 ovarian cancer	Modifier	D001943|D010051
+921	954	breast, ovarian, or other cancers	CompositeMention	D001943|D010051|D009369
+1038	1044	cancer	Modifier	D009369
+1094	1100	cancer	Modifier	D009369
+1324	1337	breast cancer	SpecificDisease	D001943
+1369	1375	cancer	DiseaseClass	D009369
+1525	1551	breast and ovarian cancers	CompositeMention	D001943|D010051

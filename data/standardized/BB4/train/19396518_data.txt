@@ -1,0 +1,33 @@
+start	end	mention	_class	labels
+35	44	pathogens	Phenotype	OBT:000375
+134	143	pathogens	Phenotype	OBT:002806
+147	166	cerebrospinal fluid	Habitat	OBT:000550
+168	171	CSF	Habitat	OBT:000550
+188	232	patients diagnosed with bacterial meningitis	Habitat	OBT:003269
+294	318	Streptococcus pneumoniae	Microorganism	1313
+320	342	Haemophilus influenzae	Microorganism	727
+348	369	Mycoplasma pneumoniae	Microorganism	2104
+403	412	pathogens	Phenotype	OBT:002806
+414	436	Neisseria meningitidis	Microorganism	487
+438	454	Escherichia coli	Microorganism	562
+456	480	Streptococcus agalactiae	Microorganism	1311
+482	503	Staphylococcus aureus	Microorganism	1280
+509	531	Listeria monocytogenes	Microorganism	1639
+605	635	CSF from neonates and children	Habitat	OBT:000550
+605	608;649	CSF from adults	Habitat	OBT:000550
+614	622	neonates	Habitat	OBT:003453|OBT:003269
+627	635	children	Habitat	OBT:003188|OBT:003269
+654	660	adults	Habitat	OBT:003245|OBT:003269
+815	818	CSF	Habitat	OBT:000550
+879	888	pathogens	Phenotype	OBT:002806
+1009	1017	clinical	Habitat	OBT:003220
+1054	1063	pathogens	Phenotype	OBT:002806
+1252	1265	H. influenzae	Microorganism	727
+1271	1274	CSF	Habitat	OBT:000550
+1307	1320	S. pneumoniae	Microorganism	1313
+1330	1343	S. agalactiae	Microorganism	1311
+1352	1359	E. coli	Microorganism	562
+1368	1384	L. monocytogenes	Microorganism	1639
+1397	1410	M. pneumoniae	Microorganism	1313
+1499	1538	patients with antibiotic administration	Habitat	OBT:003269
+1657	1666	pathogens	Phenotype	OBT:002806

@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+113	128	orange colonies	Phenotype	MockLabel

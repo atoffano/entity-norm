@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+17	59	Schwartz-Jampel chondrodystrophic myotonia	SpecificDisease	OMIM:255800
+65	89	Schwartz-Jampel syndrome	SpecificDisease	OMIM:255800
+91	94	SJS	SpecificDisease	OMIM:255800
+96	122	chondrodystrophic myotonia	SpecificDisease	OMIM:255800
+143	174	recessively inherited condition	DiseaseClass	D030342
+186	194	myotonia	DiseaseClass	D009222
+196	209	short stature	DiseaseClass	D006130
+215	229	bone dysplasia	DiseaseClass	D001848
+255	258	SJS	SpecificDisease	OMIM:255800
+560	563	SJS	Modifier	OMIM:255800
+724	732	myotonia	DiseaseClass	D009222
+789	803	bone dysplasia	DiseaseClass	D001848
+809	817	myotonia	DiseaseClass	D009222
+985	997	SJS  type 1A	SpecificDisease	OMIM:255800
+1046	1060	bone dysplasia	DiseaseClass	D001848
+1215	1229	bone dysplasia	DiseaseClass	D001848
+1241	1257	Kniest dysplasia	SpecificDisease	C537207
+1319	1333	bone dysplasia	DiseaseClass	D001848
+1345	1357	Pyle disease	SpecificDisease	C536252
+1416	1426	SJS type 2	SpecificDisease	C537502
+1495	1498	SJS	SpecificDisease	OMIM:255800
+1651	1654	SJS	Modifier	OMIM:255800
+1706	1709	SJS	Modifier	OMIM:255800

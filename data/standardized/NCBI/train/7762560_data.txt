@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+30	48	myotonic dystrophy	Modifier	D009223
+246	264	myotonic dystrophy	Modifier	D009223
+380	398	myotonic dystrophy	SpecificDisease	D009223
+400	402	DM	SpecificDisease	D009223
+1254	1256	DM	Modifier	D009223
+1344	1346	DM	SpecificDisease	D009223

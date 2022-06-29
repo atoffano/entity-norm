@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+55	63	aniridia	SpecificDisease	D015783
+121	129	aniridia	Modifier	D015783
+277	285	aniridia	SpecificDisease	D015783

@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+13	24	filamentous	Phenotype	MockLabel

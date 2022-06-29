@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+131	151	Lesch-Nyhan syndrome	SpecificDisease	D007926
+162	222	deficiency of hypoxanthine-guanine phosphoribosyltransferase	SpecificDisease	D007926
+241	261	Lesch-Nyhan syndrome	SpecificDisease	D007926
+349	369	Lesch-Nyhan syndrome	SpecificDisease	D007926

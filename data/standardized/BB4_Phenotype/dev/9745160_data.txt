@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+360	375	drug resistance	Phenotype	OBT:000598

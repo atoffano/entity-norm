@@ -1,0 +1,67 @@
+start	end	mention	_class	labels
+0	10	Rickettsia	Microorganism	780
+94	105	rickettsial	Microorganism	780
+119	126	animals	Habitat	OBT:000193
+128	134	humans	Habitat	OBT:002488
+136	141	ticks	Habitat	OBT:001821
+147	152	fleas	Habitat	OBT:002034
+210	214	flea	Habitat	OBT:002034
+224	259	Adoratopsylla antiquorum antiquorum	Habitat	OBT:002034
+261	288	Ctenocephalides felis felis	Habitat	OBT:002034
+290	306	Polygenis atopus	Habitat	OBT:002034
+308	325	Polygenis rimatus	Habitat	OBT:002034
+327	352	Polygenis roberti roberti	Habitat	OBT:002034
+354	370	Polygenis tripus	Habitat	OBT:002034
+372	395	Rhopalopsyllus lugubris	Habitat	OBT:002034
+401	427	Rhopalopsyllus lutzi lutzi	Habitat	OBT:002034
+439	443	tick	Habitat	OBT:001821
+453	473	Amblyomma aureolatum	Habitat	OBT:001821
+475	495	Amblyomma cajennense	Habitat	OBT:001821
+497	516	Amblyomma dubitatum	Habitat	OBT:001821
+518	534	Ixodes loricatus	Habitat	OBT:001821
+540	564	Rhipicephalus sanguineus	Habitat	OBT:002693
+586	590	dogs	Habitat	OBT:003092
+592	596	cats	Habitat	OBT:003086
+602	610	opossums	Habitat	OBT:002161
+612	628	Rickettsia felis	Microorganism	42862
+642	652	rickettsia	Microorganism	780
+669	674	fleas	Habitat	OBT:002034
+684	701	Rickettsia bellii	Microorganism	33990
+731	736	ticks	Habitat	OBT:001821
+745	751;761	animal blood	Habitat	OBT:000521
+745	751	animal	Habitat	OBT:000193
+755	766	human blood	Habitat	OBT:000521
+755	760	human	Habitat	OBT:002488
+788	799	rickettsial	Microorganism	780
+813	819	animal	Habitat	OBT:000193
+813	819;830	animal sera	Habitat	OBT:000007|OBT:000524
+824	829	human	Habitat	OBT:002488
+824	834	human sera	Habitat	OBT:000524|OBT:000007
+885	895	rickettsia	Microorganism	780
+906	919	R. rickettsii	Microorganism	783
+921	931	R. parkeri	Microorganism	35792
+933	941	R. felis	Microorganism	42862
+947	956	R. bellii	Microorganism	33990
+964	971;995	opossum sera	Habitat	OBT:000524|OBT:000007
+964	971	opossum	Habitat	OBT:002161
+973	976;995	dog sera	Habitat	OBT:000007|OBT:000524
+973	976	dog	Habitat	OBT:003092
+978	983	horse	Habitat	OBT:003320
+978	983;995	horse sera	Habitat	OBT:000524|OBT:000007
+989	999	human sera	Habitat	OBT:000524|OBT:000007
+989	994	human	Habitat	OBT:002488
+1011	1024	R. rickettsii	Microorganism	783
+1087	1098	rickettsial	Microorganism	780
+1115	1119	sera	Habitat	OBT:000524|OBT:000007
+1179	1192	R. rickettsii	Microorganism	783
+1219	1226;1243	opossum sera	Habitat	OBT:000524|OBT:000007
+1219	1226	opossum	Habitat	OBT:002161
+1228	1231	dog	Habitat	OBT:003092
+1228	1231;1243	dog sera	Habitat	OBT:000524|OBT:000007
+1237	1242	horse	Habitat	OBT:003320
+1237	1247	horse sera	Habitat	OBT:000524|OBT:000007
+1288	1298	R. parkeri	Microorganism	35792
+1377	1390	R. rickettsii	Microorganism	783
+1395	1405	R. parkeri	Microorganism	35792
+1415	1422	animals	Habitat	OBT:000193
+1430	1436	humans	Habitat	OBT:002488

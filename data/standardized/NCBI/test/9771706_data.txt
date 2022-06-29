@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+68	85	diabetes mellitus	SpecificDisease	D003920
+90	103	optic atrophy	SpecificDisease	D009896
+105	121	Wolfram syndrome	SpecificDisease	OMIM:222300
+124	140	Wolfram syndrome	SpecificDisease	OMIM:222300
+142	145	WFS	SpecificDisease	OMIM:222300
+166	212	autosomal recessive neurodegenerative disorder	DiseaseClass	D020271
+247	282	insulin-dependent diabetes mellitus	SpecificDisease	D003922
+299	312	optic atrophy	SpecificDisease	D009896
+458	461	WFS	Modifier	OMIM:222300
+642	645	WFS	Modifier	OMIM:222300

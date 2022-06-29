@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+113	127	myelinopathies	DiseaseClass	D011115
+407	433	hypomyelination of the PNS	DiseaseClass	D010523
+573	606	inherited peripheral neuropathies	DiseaseClass	C548028
+607	633	Charcot-Marie-Tooth type 1	SpecificDisease	D002607
+635	659	Dejerine-Sottas syndrome	SpecificDisease	C538392
+664	701	congenital hypomyelinating neuropathy	SpecificDisease	OMIM:605253

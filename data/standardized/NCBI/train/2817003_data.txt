@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+58	75	isolated aniridia	SpecificDisease	D015783
+104	121	isolated aniridia	SpecificDisease	D015783
+441	449	aniridia	SpecificDisease	D015783

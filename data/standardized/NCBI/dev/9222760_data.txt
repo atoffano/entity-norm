@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+27	60	classical and Duarte galactosemia	CompositeMention	D005693
+124	146	Classical galactosemia	SpecificDisease	D005693
+530	563	classical and Duarte galactosemia	CompositeMention	D005693
+616	638	classical galactosemia	SpecificDisease	D005693
+809	821	galactosemia	Modifier	D005693
+920	932	galactosemia	Modifier	D005693
+1132	1144	galactosemia	SpecificDisease	D005693
+1204	1216	galactosemia	Modifier	D005693

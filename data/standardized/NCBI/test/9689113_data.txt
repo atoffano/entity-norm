@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+24	46	von Willebrand disease	SpecificDisease	D014842
+74	84	thrombosis	SpecificDisease	D013927
+86	124	von Willebrand factor (vWf) deficiency	SpecificDisease	C531844
+139	161	von Willebrand disease	SpecificDisease	D014842
+242	255	vWf-deficient	Modifier	C531844
+353	367	von Willebrand	Modifier	D014842
+769	779	thrombosis	SpecificDisease	D013927
+835	850	vascular injury	SpecificDisease	D057772
+1085	1107	von Willebrand disease	SpecificDisease	D014842

@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+46	64	colorectal cancers	SpecificDisease	D015179
+164	182	colorectal cancers	SpecificDisease	D015179
+382	400	pancreatic cancers	SpecificDisease	D010190
+479	497	colorectal cancers	SpecificDisease	D015179
+603	620	colorectal cancer	Modifier	D015179
+908	915	cancers	DiseaseClass	D009369
+1019	1037	colorectal cancers	SpecificDisease	D015179
+1098	1116	colorectal cancers	SpecificDisease	D015179

@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+44	53	Tay-Sachs	Modifier	D013661
+109	126	Tay-Sachs disease	SpecificDisease	D013661
+128	131	TSD	SpecificDisease	D013661
+291	294	TSD	Modifier	D013661
+409	412	TSD	SpecificDisease	D013661
+682	685	TSD	Modifier	D013661
+880	883	TSD	Modifier	D013661
+1171	1188	Tay-Sachs disease	SpecificDisease	D013661

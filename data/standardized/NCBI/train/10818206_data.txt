@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+109	137	familial mediterranean fever	SpecificDisease	D010505
+139	167	Familial Mediterranean fever	SpecificDisease	D010505
+169	172	FMF	SpecificDisease	D010505
+179	197	recessive disorder	DiseaseClass	D030342
+227	232	fever	DiseaseClass	D005334
+238	247	serositis	SpecificDisease	D012700
+251	260	synovitis	SpecificDisease	D013585
+275	278	FMF	Modifier	D010505
+1162	1165	FMF	Modifier	D010505

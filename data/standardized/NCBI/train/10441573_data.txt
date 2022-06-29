@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+59	72	breast cancer	SpecificDisease	D001943
+77	91	ovarian cancer	SpecificDisease	D010051
+156	187	inherited breast-ovarian cancer	CompositeMention	D061325
+444	459	ovarian cancers	SpecificDisease	D010051
+492	498	cancer	Modifier	D009369
+655	683	breast and/or ovarian cancer	CompositeMention	D001943|D010051
+1069	1097	breast and/or ovarian cancer	CompositeMention	D001943|D010051
+1104	1119	ovarian cancers	SpecificDisease	D010051
+1125	1139	breast cancers	SpecificDisease	D001943
+1187	1200	breast cancer	SpecificDisease	D001943
+1205	1219	ovarian cancer	SpecificDisease	D010051

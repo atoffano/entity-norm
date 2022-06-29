@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+8	17	anaerobic	Phenotype	OBT:000189
+118	153	hydroxy acid dehydrogenase activity	Phenotype	OBT:000019
+200	221	transaminase activity	Phenotype	OBT:000019
+324	346	decarboxylase activity	Phenotype	OBT:000068

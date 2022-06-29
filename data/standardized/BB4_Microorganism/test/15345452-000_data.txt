@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+235	246	Pseudomonas	Microorganism	MockLabel
+251	269	Enterobacteriaceae	Microorganism	MockLabel
+303	325	Listeria monocytogenes	Microorganism	MockLabel
+330	351	Staphylococcus aureus	Microorganism	MockLabel
+580	589	Halomonas	Microorganism	MockLabel
+594	611	Pseudoalteromonas	Microorganism	MockLabel

@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+92	120	metachromatic leukodystrophy	SpecificDisease	D007966
+239	267	metachromatic leukodystrophy	SpecificDisease	D007966
+269	272	MLD	SpecificDisease	D007966
+572	575	MLD	Modifier	D007966
+1289	1292	MLD	Modifier	D007966
+1440	1443	MLD	SpecificDisease	D007966
+1557	1560	MLD	Modifier	D007966

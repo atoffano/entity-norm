@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+17	35	myotonic dystrophy	Modifier	D009223
+84	92	myopathy	SpecificDisease	D009135
+94	112	Myotonic dystrophy	SpecificDisease	D009223
+114	116	DM	SpecificDisease	D009223
+124	151	autosomal dominant disorder	DiseaseClass	D030342
+296	298	DM	Modifier	D009223
+330	344	Dmpk deficient	SpecificDisease	OMIM:160900
+395	424	progressive skeletal myopathy	SpecificDisease	D009135
+469	471	DM	SpecificDisease	D009223
+538	556	fibre degeneration	SpecificDisease	D020966
+561	569	fibrosis	SpecificDisease	D005355
+862	864	DM	Modifier	D009223

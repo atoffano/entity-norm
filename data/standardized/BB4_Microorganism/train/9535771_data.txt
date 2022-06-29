@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+86	102	Escherichia coli	Microorganism	562
+128	144	Escherichia coli	Microorganism	562
+304	311	E. coli	Microorganism	562
+752	759	E. coli	Microorganism	562
+965	972	E. coli	Microorganism	562

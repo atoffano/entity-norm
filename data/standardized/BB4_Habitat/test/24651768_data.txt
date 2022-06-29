@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+0	12	Conjunctival	Habitat	MockLabel
+311	322	conjunctiva	Habitat	MockLabel
+424	436	conjunctival	Habitat	MockLabel
+541	561	Natural Killer cells	Habitat	MockLabel
+865	882	Gambian pedigrees	Habitat	MockLabel
+916	953	individual with conjunctival scarring	Habitat	MockLabel
+932	944	conjunctival	Habitat	MockLabel
+985	996	Individuals	Habitat	MockLabel
+1717	1725	NK cells	Habitat	MockLabel
+1891	1903	conjunctival	Habitat	MockLabel
+1991	2003	conjunctival	Habitat	MockLabel
+2016	2043	individuals carrying HLA-C2	Habitat	MockLabel

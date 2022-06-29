@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+767	784	group A rotavirus	Microorganism	28875
+800	816	Escherichia coli	Microorganism	562
+818	830	Shigella spp	Microorganism	620
+852	872	Bacteroides fragilis	Microorganism	817
+941	955	Salmonella spp	Microorganism	590
+959	974	Vibrio cholerae	Microorganism	666
+990	999	Rotavirus	Microorganism	10912
+1018	1025	E. coli	Microorganism	562
+1089	1101	Shigella spp	Microorganism	620
+1123	1134	B. fragilis	Microorganism	817
+1189	1196	E. coli	Microorganism	562
+1201	1213	Shigella spp	Microorganism	620
+2025	2042	Group A rotavirus	Microorganism	28875
+2058	2074	Escherichia coli	Microorganism	562
+2076	2088	Shigella spp	Microorganism	620
+2110	2130	Bacteroides fragilis	Microorganism	817

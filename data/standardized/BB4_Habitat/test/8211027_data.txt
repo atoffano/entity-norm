@@ -1,0 +1,19 @@
+start	end	mention	_class	labels
+1	9	Cervical	Habitat	MockLabel
+60	65	child	Habitat	MockLabel
+109	117	cervical	Habitat	MockLabel
+156	164	Cervical	Habitat	MockLabel
+213	221	children	Habitat	MockLabel
+345	495	five-year-old boy with unilateral cervical lymphadenitis who was in good health and showed neither clinical nor laboratory signs of systemic infection	Habitat	MockLabel
+379	387	cervical	Habitat	MockLabel
+555	560	lymph	Habitat	MockLabel
+555	566	lymph nodes	Habitat	MockLabel
+648	666	lymph node culture	Habitat	MockLabel
+648	653	lymph	Habitat	MockLabel
+648	658	lymph node	Habitat	MockLabel
+772	781	pediatric	Habitat	MockLabel
+782	790	cervical	Habitat	MockLabel
+906	948	children between one and five years of age	Habitat	MockLabel
+972	977	girls	Habitat	MockLabel
+983	987	boys	Habitat	MockLabel
+1038	1062	immunocompetent children	Habitat	MockLabel

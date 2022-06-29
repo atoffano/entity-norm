@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+29	47	myotonic dystrophy	Modifier	D009223
+49	51	DM	Modifier	D009223
+108	126	myotonic dystrophy	SpecificDisease	D009223
+128	130	DM	SpecificDisease	D009223
+215	217	DM	Modifier	D009223
+314	316	DM	Modifier	D009223
+413	415	DM	Modifier	D009223
+696	698	DM	Modifier	D009223
+1560	1562	DM	Modifier	D009223
+1630	1653	DMPK haploinsufficiency	SpecificDisease	D058495

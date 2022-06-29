@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+23	40	DiGeorge syndrome	SpecificDisease	D004062
+92	109	DiGeorge syndrome	SpecificDisease	D004062
+111	114	DGS	SpecificDisease	D004062
+210	268	aplasia or hypoplasia of the thymus and parathyroid glands	CompositeMention	C536288|D007011
+276	309	conotruncal cardiac malformations	SpecificDisease	C535464
+357	360	DGS	Modifier	D004062
+504	507	DGS	SpecificDisease	D004062
+927	930	DGS	Modifier	D004062
+1360	1363	DGS	Modifier	D004062
+1488	1491	DGS	SpecificDisease	D004062
+1535	1538	DGS	Modifier	D004062
+1609	1612	DGS	SpecificDisease	D004062

@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+66	73;98	vacuum- packed cold-smoked salmon stored at 5 degrees C	Habitat	OBT:001500|OBT:002300|OBT:001774|OBT:002593
+78	145	modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C	Habitat	OBT:002140|OBT:001500|OBT:002593|OBT:001774
+151	161	microflora	Habitat	OBT:000113
+165	191	spoiled cold-smoked salmon	Habitat	OBT:000430|OBT:001774|OBT:001500|OBT:002593
+466	498	vacuum-packed cold-smoked salmon	Habitat	OBT:002300|OBT:002593|OBT:001500|OBT:001774
+570	580	microflora	Habitat	OBT:000113
+570	580	microflora	Habitat	OBT:000113
+639	658	Gram-negative flora	Habitat	OBT:000113
+1003	1018	vacuum packages	Habitat	OBT:002300
+1024	1043	Gram-negative flora	Habitat	OBT:000113
+1047	1067	vacuum-packed salmon	Habitat	OBT:002300|OBT:003021|OBT:001500|OBT:001774
+1318	1332	LAB microflora	Habitat	OBT:000113
+1661	1701	cold-smoked salmon stored at 5 degrees C	Habitat	OBT:001500|OBT:001774|OBT:002593
+1707	1713	salmon	Habitat	OBT:002593|OBT:001500|OBT:001774

@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+31	51	retinitis pigmentosa	SpecificDisease	D012174
+53	70	pattern dystrophy	SpecificDisease	D008268
+76	97	fundus flavimaculatus	SpecificDisease	C535804
+267	306	autosomal dominant retinitis pigmentosa	SpecificDisease	D012174
+316	333	macular dystrophy	SpecificDisease	D008268
+339	367	retinitis punctata albescens	SpecificDisease	OMIM:136880
+1039	1059	retinitis pigmentosa	SpecificDisease	D012174
+1172	1197	pattern macular dystrophy	SpecificDisease	D008268
+1364	1384	macular degeneration	SpecificDisease	D008268
+1437	1458	fundus flavimaculatus	SpecificDisease	C535804
+1560	1580	macular degeneration	SpecificDisease	D008268
+1598	1618	Pericentral scotomas	SpecificDisease	D012607

@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+135	173	cholesterol acyltransferase deficiency	SpecificDisease	D007863
+178	194	fish-eye disease	SpecificDisease	D007863
+196	270	Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency	CompositeMention	D007863
+275	291	Fish-eye disease	SpecificDisease	D007863
+293	316	partial LCAT deficiency	SpecificDisease	D007863
+469	507	atherosclerotic cardiovascular disease	SpecificDisease	D050197
+625	640	LCAT deficiency	SpecificDisease	D007863
+651	674	classic LCAT deficiency	SpecificDisease	D007863
+689	705	Fish-eye disease	SpecificDisease	D007863
+1585	1620	complete or partial LCAT deficiency	CompositeMention	D007863
+1814	1829	atherosclerosis	SpecificDisease	D050197
+1940	1963	classic LCAT deficiency	SpecificDisease	D007863
+1968	1984	Fish-eye disease	SpecificDisease	D007863
+2025	2040	atherosclerosis	SpecificDisease	D050197

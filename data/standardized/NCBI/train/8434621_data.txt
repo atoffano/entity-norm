@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+0	28	Familial Mediterranean fever	SpecificDisease	D010505
+174	202	familial Mediterranean fever	SpecificDisease	D010505
+204	207	FMF	SpecificDisease	D010505
+269	272	FMF	SpecificDisease	D010505
+323	349	amyloidotic kidney disease	SpecificDisease	D007674
+353	356	FMF	SpecificDisease	D010505

@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+60	74	Wilson disease	SpecificDisease	D006527
+76	90	Wilson disease	SpecificDisease	D006527
+92	94	WD	SpecificDisease	D006527
+102	130	autosomal recessive disorder	DiseaseClass	D030342
+365	367	WD	SpecificDisease	D006527
+1275	1277	WD	SpecificDisease	D006527
+1338	1340	WD	SpecificDisease	D006527

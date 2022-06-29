@@ -1,0 +1,19 @@
+start	end	mention	_class	labels
+54	75	Debaryomyces hansenii	Microorganism	4959
+115	134	Geotrichum candidum	Microorganism	1173061
+176	189	staphylococci	Microorganism	1279
+191	213	Staphylococcus equorum	Microorganism	246432
+251	262	D. hansenii	Microorganism	4959
+268	281	staphylococci	Microorganism	1279
+445	456	D. hansenii	Microorganism	4959
+506	517	D. hansenii	Microorganism	4959
+680	691	D. hansenii	Microorganism	4959
+957	968	coryneforms	Microorganism	1653
+970	989	Brevibacterium spp.	Microorganism	1696
+991	1011	Corynebacterium spp.	Microorganism	1716
+1016	1035	Microbacterium spp.	Microorganism	33882
+1104	1128	Marinilactibacillus spp.	Microorganism	191769
+1147	1161	Halomonas spp.	Microorganism	2745
+1163	1174	Vibrio spp.	Microorganism	662
+1179	1191	Proteus spp.	Microorganism	583
+1213	1231	Enterobacteriaceae	Microorganism	543

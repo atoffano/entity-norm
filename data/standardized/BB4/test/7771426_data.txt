@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+48	67	Helicobacter pylori	Microorganism	MockLabel
+93	106	peptic ulcers	Habitat	MockLabel
+233	252	Helicobacter pylori	Microorganism	MockLabel
+351	371;400	patients with active peptic ulcer disease and H. pylori infection	Habitat	MockLabel
+351	364;424	patients with ulcer-like dyspepsia and H. pylori infection	Habitat	MockLabel
+351	364;384	patients with healed peptic ulcer disease and H. pylori infection	Habitat	MockLabel
+400	412	peptic ulcer	Habitat	MockLabel
+424	429	ulcer	Habitat	MockLabel
+458	467	H. pylori	Microorganism	MockLabel
+636	645	H. pylori	Microorganism	MockLabel
+730	738	patients	Habitat	MockLabel
+770	778	patients	Habitat	MockLabel
+780	789	H. pylori	Microorganism	MockLabel
+908	942	patients with active peptic ulcers	Habitat	MockLabel
+922	942	active peptic ulcers	Habitat	MockLabel
+1238	1247	H. pylori	Microorganism	MockLabel
+1277	1290	peptic ulcers	Habitat	MockLabel

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+0	24	Complement C7 deficiency	SpecificDisease	OMIM:610102
+131	144	C7 deficiency	SpecificDisease	OMIM:610102
+487	497	C7 defects	SpecificDisease	OMIM:610102

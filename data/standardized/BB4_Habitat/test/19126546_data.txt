@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+766	776	macrophage	Habitat	MockLabel
+810	815	liver	Habitat	MockLabel
+820	826	spleen	Habitat	MockLabel

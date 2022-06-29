@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+38	50	alkaptonuria	Modifier	D000474
+64	76	Alkaptonuria	SpecificDisease	D000474
+78	81	aku	SpecificDisease	D000474
+87	113	inborn error of metabolism	DiseaseClass	D008661

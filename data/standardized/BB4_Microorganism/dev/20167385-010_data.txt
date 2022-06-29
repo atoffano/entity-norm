@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+19	34	Corynebacterium	Microorganism	1716
+44	52	C. casei	Microorganism	160386
+57	70	C. variabilis	Microorganism	1727
+195	208	C. flavescens	Microorganism	28028
+401	414	C. flavescens	Microorganism	28028
+459	467	C. casei	Microorganism	160386
+469	481	C. variabile	Microorganism	1727
+487	502	C. ammoniagenes	Microorganism	1697

@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+352	364	pathogenesis	Phenotype	MockLabel
+468	480	pore-forming	Phenotype	MockLabel
+625	640	βH/C-expressing	Phenotype	MockLabel
+766	775	wild-type	Phenotype	MockLabel
+777	779	WT	Phenotype	MockLabel
+820	835	toxin-deficient	Phenotype	MockLabel
+820	849	toxin-deficient cylE knockout	Phenotype	MockLabel
+1055	1057	WT	Phenotype	MockLabel
+1505	1517	pathogenesis	Phenotype	MockLabel

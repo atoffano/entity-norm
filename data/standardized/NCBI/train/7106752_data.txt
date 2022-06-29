@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+38	89	glucose-6-phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955
+151	157	favism	SpecificDisease	D005236
+519	535	hemolytic anemia	SpecificDisease	D000743
+1197	1211	deficient G6PD	Modifier	D005955
+1504	1519	G6PD deficiency	SpecificDisease	D005955
+1629	1635	Favism	SpecificDisease	D005236
+1840	1846	favism	SpecificDisease	D005236

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+20	63	Duarte and Los Angeles variant galactosemia	CompositeMention	D005693
+112	149	Duarte enzyme variant of galactosemia	SpecificDisease	D005693
+1723	1749	LA variant of galactosemia	SpecificDisease	D005693

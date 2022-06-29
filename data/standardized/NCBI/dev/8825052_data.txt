@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+31	48	sporadic aniridia	SpecificDisease	D015783
+110	137	bilateral sporadic aniridia	SpecificDisease	D015783
+395	403	aniridia	SpecificDisease	D015783
+570	578	aniridia	SpecificDisease	D015783
+744	752	aniridia	SpecificDisease	D015783
+810	827	familial aniridia	Modifier	D015783
+878	902	chromosome abnormalities	DiseaseClass	D002869

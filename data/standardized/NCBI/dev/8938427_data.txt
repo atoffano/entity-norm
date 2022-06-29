@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+164	185	breast-ovarian cancer	Modifier	D061325
+254	260	tumors	DiseaseClass	D009369
+316	321	tumor	Modifier	D009369
+428	434	tumors	DiseaseClass	D009369

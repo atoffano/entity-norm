@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+26	46	adrenoleukodystrophy	SpecificDisease	D000326
+193	213	adrenoleukodystrophy	SpecificDisease	D000326
+215	218	ALD	SpecificDisease	D000326
+296	320	neurologic deterioration	DiseaseClass	D019636
+355	375	adenovirus infection	SpecificDisease	D000257
+396	399	ALD	SpecificDisease	D000326

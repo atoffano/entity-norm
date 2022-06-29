@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+426	440	yellow pigment	Phenotype	OBT:001386

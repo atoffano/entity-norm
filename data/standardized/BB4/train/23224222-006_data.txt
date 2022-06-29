@@ -1,0 +1,25 @@
+start	end	mention	_class	labels
+50	76	Streptococcus thermophilus	Microorganism	1308
+91	99	raw milk	Habitat	OBT:001276
+91	120	raw milk  cheese from dairy A	Habitat	OBT:001480
+113	118	dairy	Habitat	OBT:001988
+139	151	thermophilic	Phenotype	OBT:000449
+152	173	lactic acid bacterium	Phenotype	OBT:000019
+199	209	mesophilic	Phenotype	OBT:000343
+210	213	LAB	Phenotype	OBT:000019
+214	229	starter culture	Habitat	OBT:001030
+258	286	raw milk cheese from dairy A	Habitat	OBT:001480
+258	266	raw milk	Habitat	OBT:001276
+279	284	dairy	Habitat	OBT:001988
+302	319	Str. thermophilus	Microorganism	1308
+347	356	GM17 agar	Habitat	OBT:000031
+430	447	Str. thermophilus	Microorganism	1308
+523	526	LAB	Phenotype	OBT:000019
+527	542	starter culture	Habitat	OBT:001030
+586	603	Str. thermophilus	Microorganism	1308
+624	632	raw milk	Habitat	OBT:001276
+686	694	raw milk	Habitat	OBT:001276
+722	739	Str. thermophilus	Microorganism	1308
+775	792	Str. thermophilus	Microorganism	1308
+823	827	milk	Habitat	OBT:001645
+846	852	cheese	Habitat	OBT:003428

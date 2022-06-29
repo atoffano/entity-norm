@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+87	103	Kniest dysplasia	SpecificDisease	C537207
+105	121	Kniest dysplasia	SpecificDisease	C537207
+145	161	chondrodysplasia	Modifier	D010009
+284	311	short trunk and extremities	SpecificDisease	D006130
+313	332	mid-face hypoplasia	DiseaseClass	D019767
+334	346	cleft palate	SpecificDisease	D002972
+348	354	myopia	DiseaseClass	D009216
+356	374	retinal detachment	SpecificDisease	D012163
+380	392	hearing loss	DiseaseClass	D034381
+481	497	Kniest dysplasia	SpecificDisease	C537207
+587	603	Kniest dysplasia	Modifier	C537207
+720	736	Kniest dysplasia	SpecificDisease	C537207
+1251	1267	Kniest dysplasia	SpecificDisease	C537207

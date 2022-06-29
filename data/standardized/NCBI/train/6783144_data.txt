@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+6	53	deficiency of the sixth component of complement	SpecificDisease	OMIM:612446
+72	96	meningococcal meningitis	SpecificDisease	D008585
+104	127	haemostasis abnormality	DiseaseClass	D020141
+154	167	C6 deficiency	SpecificDisease	OMIM:612446
+271	295	meningococcal meningitis	SpecificDisease	D008585
+451	475	hemostatic abnormalities	DiseaseClass	D020141

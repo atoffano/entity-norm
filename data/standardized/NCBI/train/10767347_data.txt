@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+20	37	Friedreich ataxia	Modifier	D005621
+64	83	embryonic lethality	SpecificDisease	D020964
+111	128	Friedreich ataxia	SpecificDisease	D005621
+130	134	FRDA	SpecificDisease	D005621
+153	179	autosomal recessive ataxia	DiseaseClass	D013132
+535	565	iron-sulfur protein deficiency	SpecificDisease	OMIM:255125
+838	842	Frda	Modifier	D005621
+897	916	embryonic lethality	SpecificDisease	D020964

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+4	20	Pendred syndrome	Modifier	C536648
+71	87	Pendred syndrome	SpecificDisease	C536648
+115	133	syndromic deafness	DiseaseClass	D003638
+166	192	sensorineural hearing loss	SpecificDisease	D006319
+197	203	goitre	SpecificDisease	D006042
+267	283	Pendred syndrome	SpecificDisease	C536648
+285	288	PDS	SpecificDisease	C536648
+587	608	diastrophic dysplasia	Modifier	C536170
+702	709	adenoma	DiseaseClass	D000236
+1490	1506	Pendred syndrome	SpecificDisease	C536648

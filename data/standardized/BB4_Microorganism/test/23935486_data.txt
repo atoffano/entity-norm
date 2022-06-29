@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+79	101	Pseudomonas aeruginosa	Microorganism	MockLabel
+436	458	Pseudomonas aeruginosa	Microorganism	MockLabel
+516	527	Pseudomonas	Microorganism	MockLabel
+2120	2133	P. aeruginosa	Microorganism	MockLabel

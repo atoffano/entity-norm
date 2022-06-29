@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+34	48	Norrie disease	Modifier	C537849
+373	387	Norrie disease	Modifier	C537849
+858	872	Norrie disease	Modifier	C537849

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+69	77	aniridia	SpecificDisease	D015783
+120	134	Peters anomaly	SpecificDisease	C537884
+141	161	congenital cataracts	SpecificDisease	D002386
+168	196	autosomal dominant keratitis	SpecificDisease	C537022
+207	233	isolated foveal hypoplasia	SpecificDisease	OMIM:136520
+295	303	aniridia	SpecificDisease	D015783

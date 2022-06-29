@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+102	117	phenylketonuria	SpecificDisease	D010661
+119	134	Phenylketonuria	SpecificDisease	D010661
+136	139	PKU	SpecificDisease	D010661
+147	174	autosomal recessive disease	DiseaseClass	D030342
+182	239	deficiency of a hepatic enzyme, phenylalanine hydroxylase	SpecificDisease	OMIM:261600
+294	297	PKU	SpecificDisease	D010661
+888	891	PKU	Modifier	D010661

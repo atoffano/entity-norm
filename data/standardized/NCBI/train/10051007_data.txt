@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+16	34	Huntington disease	SpecificDisease	D006816
+140	158	Huntington disease	SpecificDisease	D006816
+160	162	HD	SpecificDisease	D006816
+239	241	HD	Modifier	D006816
+319	336	Alzheimer disease	SpecificDisease	D000544
+403	424	neurological diseases	DiseaseClass	D020271
+504	506	HD	Modifier	D006816
+520	522	HD	Modifier	D006816
+760	762	HD	SpecificDisease	D006816
+1051	1068	neurodegeneration	DiseaseClass	D019636
+1073	1075	HD	SpecificDisease	D006816

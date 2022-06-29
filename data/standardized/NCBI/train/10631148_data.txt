@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+47	61	retinoblastoma	Modifier	D012175
+106	131	hereditary retinoblastoma	SpecificDisease	D012175
+229	243	retinoblastoma	Modifier	D012175
+433	458	hereditary retinoblastoma	SpecificDisease	D012175
+605	619	retinoblastoma	Modifier	D012175

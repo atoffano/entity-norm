@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+53	70	pancreatic cancer	SpecificDisease	D010190
+252	264	solid tumors	DiseaseClass	D009369
+282	299	pancreatic cancer	SpecificDisease	D010190
+423	434	tumor types	DiseaseClass	D009369
+547	564	pancreatic tumors	SpecificDisease	D010190
+624	641	pancreatic tumors	SpecificDisease	D010190
+667	673	tumors	DiseaseClass	D009369
+786	803	pancreatic tumors	SpecificDisease	D010190
+861	878	pancreatic cancer	SpecificDisease	D010190
+902	909	cancers	DiseaseClass	D009369

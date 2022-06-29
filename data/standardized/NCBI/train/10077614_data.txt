@@ -1,0 +1,28 @@
+start	end	mention	_class	labels
+69	93	urogenital abnormalities	DiseaseClass	D014564
+97	117	Denys-Drash syndrome	SpecificDisease	D030321
+124	135	Wilms tumor	Modifier	D009396
+207	222	WT1 dysfunction	SpecificDisease	D030342
+245	255	neoplastic	Modifier	D009369
+257	268	Wilms tumor	SpecificDisease	D009396
+270	282	mesothelioma	SpecificDisease	D008654
+284	293	leukemias	SpecificDisease	D007938
+299	312	breast cancer	SpecificDisease	D001943
+318	331	nonneoplastic	Modifier	D004194
+333	351	glomerulosclerosis	SpecificDisease	D005921
+435	455	Denys-Drash syndrome	SpecificDisease	D030321
+457	460	DDS	SpecificDisease	D030321
+547	550	DDS	SpecificDisease	D030321
+598	609	nephropathy	SpecificDisease	D007674
+620	639	mesangial sclerosis	SpecificDisease	C537346
+644	665	pseudohermaphroditism	SpecificDisease	D012734
+674	685	Wilms tumor	SpecificDisease	D009396
+687	689	WT	SpecificDisease	D009396
+692	695	DDS	Modifier	D030321
+999	1018	mesangial sclerosis	SpecificDisease	C537346
+1037	1040	DDS	SpecificDisease	D030321
+1082	1102	Male genital defects	DiseaseClass	D005832
+1152	1163	Wilms tumor	SpecificDisease	D009396
+1278	1293	Wt1 dysfunction	SpecificDisease	D030342
+1298	1317	Wilms tumorigenesis	SpecificDisease	D009396
+1447	1449	WT	SpecificDisease	D009396

@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+35	49	Wilson disease	SpecificDisease	D006527
+67	100	intracellular copper accumulation	DiseaseClass	C535468
+105	146	late-onset hepatic nodular transformation	DiseaseClass	D020518
+317	331	Wilson disease	SpecificDisease	D006527
+335	359	copper toxicity disorder	DiseaseClass	C535468
+443	482	hepatic and neuro-logical abnormalities	CompositeMention	D008107|D009422
+637	651	Wilson disease	Modifier	D006527
+980	996	copper deficient	DiseaseClass	C535468
+998	1025	Morphological abnormalities	DiseaseClass	D000013
+1037	1046	cirrhosis	SpecificDisease	D008103
+1193	1219	neurological abnormalities	DiseaseClass	D009461
+1224	1242	growth retardation	DiseaseClass	D006130
+1261	1278	copper deficiency	SpecificDisease	C535468
+1451	1474	cirrhotic liver disease	DiseaseClass	D008103
+1490	1504	Wilson disease	SpecificDisease	D006527

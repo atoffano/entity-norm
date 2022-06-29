@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+132	150	Huntington disease	Modifier	D006816
+152	154	HD	Modifier	D006816
+674	676	HD	Modifier	D006816
+1084	1086	HD	SpecificDisease	D006816

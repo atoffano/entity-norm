@@ -1,0 +1,30 @@
+start	end	mention	_class	labels
+1	10	B. linens	Microorganism	1703
+91	106	cheese surfaces	Habitat	OBT:001341
+91	97	cheese	Habitat	OBT:001480
+151	170	Brevibacterium spp.	Microorganism	1696
+189	216	cheeses from the farmhouses	Habitat	OBT:001480
+206	216	farmhouses	Habitat	OBT:000583
+218	225	dairies	Habitat	OBT:001988
+239	248	B. linens	Microorganism	1703
+253	267	B. aurantiacum	Microorganism	273384
+283	305	cheeses from dairies B	Habitat	OBT:001480
+283	303;310	cheeses from dairies C	Habitat	OBT:001480
+296	303	dairies	Habitat	OBT:001988
+362	379	ripening cultures	Habitat	OBT:001030
+387	401	dairy industry	Habitat	OBT:001988
+420	424	soil	Habitat	OBT:000427
+434	445	B. permense	Microorganism	234834
+459	478	cheese from dairy A	Habitat	OBT:001480
+471	476	dairy	Habitat	OBT:001988
+531	537	cheese	Habitat	OBT:001480
+574	594	Corynebacterium spp.	Microorganism	1720
+637	660	surface-ripened cheeses	Habitat	OBT:003428
+673	681	C. casei	Microorganism	160386
+689	701	C. variabile	Microorganism	1727
+783	811	surfaces of the four cheeses	Habitat	OBT:001341
+804	811	cheeses	Habitat	OBT:001480
+851	857	cheese	Habitat	OBT:003428
+903	923	Corynebacterium spp.	Microorganism	1716
+942	959	ripening cultures	Habitat	OBT:001030
+978	1001	surface-ripened cheeses	Habitat	OBT:003428

@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+102	130	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
+283	311	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
+313	316	PMD	SpecificDisease	OMIM:312080
+466	493	X-linked spastic paraplegia	SpecificDisease	OMIM:312920
+495	498	SPG	SpecificDisease	OMIM:312920
+567	570	PMD	SpecificDisease	OMIM:312080
+647	656	nystagmus	DiseaseClass	D020417
+668	675	tremors	DiseaseClass	D014202
+691	709	mental retardation	DiseaseClass	D008607
+744	752	dementia	DiseaseClass	D003704
+756	777	personality disorders	DiseaseClass	D010554
+1047	1069	PLP-associated disease	DiseaseClass	OMIM:312080+OMIM:312920

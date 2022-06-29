@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+46	67	breast-ovarian cancer	Modifier	D061325
+78	91	Breast Cancer	Modifier	D001943
+116	151	breast-ovary cancer-family syndrome	SpecificDisease	D061325
+184	216	cancer of the breast and ovaries	CompositeMention	D001943|D010051
+301	320	breast-ovary cancer	Modifier	D061325
+466	491	breast and ovarian cancer	CompositeMention	D001943|D010051
+591	604	breast cancer	SpecificDisease	D001943
+608	622	ovarian cancer	SpecificDisease	D010051
+668	682	ovarian cancer	SpecificDisease	D010051
+799	817	male breast cancer	SpecificDisease	D018567
+924	942	male breast cancer	SpecificDisease	D018567
+964	979	ovarian cancers	SpecificDisease	D010051
+1029	1066	breast-ovarian cancer-family syndrome	SpecificDisease	D061325
+1154	1167	breast cancer	SpecificDisease	D001943
+1198	1212	ovarian cancer	SpecificDisease	D010051

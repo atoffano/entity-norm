@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+19	46	hexosaminidase A deficiency	SpecificDisease	D013661
+148	165	Tay-Sachs disease	SpecificDisease	D013661
+167	170	TSD	SpecificDisease	D013661
+231	234	TSD	Modifier	D013661
+324	327	TSD	Modifier	D013661
+673	676	TSD	Modifier	D013661

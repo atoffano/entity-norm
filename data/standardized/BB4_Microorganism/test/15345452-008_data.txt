@@ -1,0 +1,27 @@
+start	end	mention	_class	labels
+132	153	Kluyvera cryocrescens	Microorganism	MockLabel
+155	181	Streptococcus thermophilus	Microorganism	MockLabel
+191	213	Arthrobacter sulfureus	Microorganism	MockLabel
+258	279	Brevibacterium linens	Microorganism	MockLabel
+325	346	Brevibacterium linens	Microorganism	MockLabel
+615	637	Lactobacillus buchneri	Microorganism	MockLabel
+648	674	Streptococcus thermophilus	Microorganism	MockLabel
+685	706	Lactobacillus reuteri	Microorganism	MockLabel
+707	729	Enterobacter sakazakii	Microorganism	MockLabel
+740	759	Lactobacillus casei	Microorganism	MockLabel
+774	792	Micrococcus luteus	Microorganism	MockLabel
+813	834	Brevibacterium linens	Microorganism	MockLabel
+861	882	Brevibacterium linens	Microorganism	MockLabel
+1043	1050	E. coli	Microorganism	MockLabel
+1191	1216	Corynebacterium variabile	Microorganism	MockLabel
+1227	1239	Arthrobacter	Microorganism	MockLabel
+1262	1283	Corynebacterium casei	Microorganism	MockLabel
+1317	1343	Corynebacterium mastitidis	Microorganism	MockLabel
+1648	1669	Kluyvera cryocrescens	Microorganism	MockLabel
+1680	1701	Buttiauxella agrestis	Microorganism	MockLabel
+1702	1726	Enterobacter intermedius	Microorganism	MockLabel
+1737	1758	Brevibacterium linens	Microorganism	MockLabel
+1777	1799	Arthrobacter sulfureus	Microorganism	MockLabel
+1832	1853	Brevibacterium linens	Microorganism	MockLabel
+2007	2024	Pseudoalteromonas	Microorganism	MockLabel
+2029	2038	Halomonas	Microorganism	MockLabel

@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+26	38	Wilms' tumor	Modifier	D009396
+110	130	Denys-Drash syndrome	SpecificDisease	D030321
+132	152	Denys-Drash syndrome	SpecificDisease	D030321
+195	217	urogenital aberrations	DiseaseClass	D014564
+228	241	renal failure	SpecificDisease	D051437
+243	264	pseudohermaphroditism	SpecificDisease	D012734
+270	281	Wilms tumor	SpecificDisease	D009396
+283	297	nephroblastoma	SpecificDisease	D009396
+375	386	Wilms tumor	Modifier	D009396
+461	481	Denys-Drash syndrome	SpecificDisease	D030321
+807	819	Wilms tumors	SpecificDisease	D009396
+875	880	tumor	DiseaseClass	D009369
+1004	1024	Denys-Drash syndrome	SpecificDisease	D030321

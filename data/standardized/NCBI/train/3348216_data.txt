@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	44	Glucose 6-phosphate dehydrogenase deficiency	SpecificDisease	D005955
+62	84	hematologic malignancy	DiseaseClass	D019337
+153	204	glucose 6-phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955
+209	215	cancer	DiseaseClass	D009369
+256	282	hematological malignancies	DiseaseClass	D019337
+301	316	G6PD deficiency	SpecificDisease	D005955
+539	558	hematologic disease	DiseaseClass	D006402
+655	670	G6PD deficiency	SpecificDisease	D005955
+718	739	hematologic neoplasms	DiseaseClass	D019337

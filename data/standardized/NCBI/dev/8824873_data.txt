@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+119	137	Huntington disease	Modifier	D006816
+174	192	Huntington disease	SpecificDisease	D006816
+194	196	HD	SpecificDisease	D006816
+240	242	HD	Modifier	D006816
+322	324	HD	SpecificDisease	D006816
+392	394	HD	Modifier	D006816
+451	475	behavioral abnormalities	DiseaseClass	D001523
+641	643	HD	Modifier	D006816
+883	885	HD	Modifier	D006816
+940	942	HD	SpecificDisease	D006816
+1163	1165	HD	SpecificDisease	D006816

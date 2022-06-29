@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+31	42	Lesch-Nyhan	Modifier	D007926
+130	150	Lesch-Nyhan syndrome	SpecificDisease	D007926
+596	608	Epstein-Barr	Modifier	D020031
+1034	1054	Lesch-Nyhan syndrome	SpecificDisease	D007926

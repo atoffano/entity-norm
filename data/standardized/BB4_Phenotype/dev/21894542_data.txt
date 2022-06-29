@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+108	114	motile	Phenotype	OBT:000117
+116	126	halophilic	Phenotype	OBT:000656
+130	142	halotolerent	Phenotype	OBT:002711
+768	778;795	production of native siderophores	Phenotype	OBT:000019
+881	891;908	production of native siderophores	Phenotype	OBT:000019
+949	971	siderophore production	Phenotype	OBT:000019
+1198	1220	Siderophore production	Phenotype	OBT:000019

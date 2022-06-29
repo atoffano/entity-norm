@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+339	354	G6PD deficiency	SpecificDisease	D005955
+381	406	episodic hemolytic anemia	SpecificDisease	D000743
+452	478	life-long hemolytic anemia	SpecificDisease	D000745
+791	806	G6PD deficiency	SpecificDisease	D005955
+1082	1097	G6PD deficiency	SpecificDisease	D005955

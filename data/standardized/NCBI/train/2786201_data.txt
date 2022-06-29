@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+25	47	von Willebrand disease	SpecificDisease	D014842
+70	84	von Willebrand	Modifier	D014842
+98	120	von Willebrand disease	SpecificDisease	D014842
+122	125	vWD	SpecificDisease	D014842
+144	171	inherited bleeding disorder	DiseaseClass	D025861
+275	289	von Willebrand	Modifier	D014842
+325	328	vWD	SpecificDisease	D014842
+677	689	type IIA vWD	Modifier	D056728
+989	1001	type IIA vWD	Modifier	D056728

@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+53	61	invasive	Phenotype	MockLabel
+202	210	invasive	Phenotype	MockLabel
+735	743	invasive	Phenotype	MockLabel
+1147	1155	invasive	Phenotype	MockLabel
+1276	1297	methicillin-resistant	Phenotype	MockLabel
+1308	1316	Invasive	Phenotype	MockLabel
+1973	1981	invasive	Phenotype	MockLabel
+2249	2257	invasive	Phenotype	MockLabel
+2342	2350	invasive	Phenotype	MockLabel

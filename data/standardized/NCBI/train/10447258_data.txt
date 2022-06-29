@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+44	62	Zellweger syndrome	SpecificDisease	D015211
+68	97	Zellweger spectrum of disease	DiseaseClass	D015211
+112	130	Zellweger syndrome	SpecificDisease	D015211
+174	203	neonatal adrenoleukodystrophy	SpecificDisease	OMIM:202370
+208	232	infantile Refsum disease	SpecificDisease	D052919
+697	715	Zellweger syndrome	Modifier	D015211
+799	817	Zellweger syndrome	Modifier	D015211
+999	1017	Zellweger syndrome	Modifier	D015211
+1408	1426	Zellweger syndrome	Modifier	D015211
+1539	1557	Zellweger syndrome	SpecificDisease	D015211

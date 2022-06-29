@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+526	547	Staphylococcus aureus	Microorganism	MockLabel
+552	574	Salmonella Typhimurium	Microorganism	MockLabel
+584	606	Listeria monocytogenes	Microorganism	MockLabel
+611	635	Escherichia coli O157:H7	Microorganism	MockLabel
+710	719	S. aureus	Microorganism	MockLabel
+721	737	L. monocytogenes	Microorganism	MockLabel
+739	754	E. coli O157:H7	Microorganism	MockLabel
+760	774	S. Typhimurium	Microorganism	MockLabel
+854	863	S. aureus	Microorganism	MockLabel
+865	881	L. monocytogenes	Microorganism	MockLabel
+883	898	E. coli O157:H7	Microorganism	MockLabel
+904	918	S. Typhimurium	Microorganism	MockLabel
+1024	1033	S. aureus	Microorganism	MockLabel
+1039	1055	L. monocytogenes	Microorganism	MockLabel

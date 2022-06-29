@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+21	49	Psychrobacter immobilis  PG1	Microorganism	1256511
+205	215	strain PG1	Microorganism	1256511
+359	387	Geotrichum candidum CLIB 918	Microorganism	1173061
+392	420	Debaryomyces hansenii CBS767	Microorganism	284592
+468	505	Pseudoalteromonas haloplanktis TAC125	Microorganism	326442
+507	526	Halomonas sp. 1 M45	Microorganism	1255591
+531	554	Psychrobacter celer  91	Microorganism	1255614

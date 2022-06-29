@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+14	33	Helicobacter pylori	Microorganism	MockLabel
+126	145	Helicobacter pylori	Microorganism	MockLabel
+244	253	H. pylori	Microorganism	MockLabel
+414	423	H. pylori	Microorganism	MockLabel
+583	592	H. pylori	Microorganism	MockLabel
+710	719	H. pylori	Microorganism	MockLabel
+843	852	H. pylori	Microorganism	MockLabel
+1055	1064	H. pylori	Microorganism	MockLabel
+1178	1187	H. pylori	Microorganism	MockLabel
+1410	1419	H. pylori	Microorganism	MockLabel

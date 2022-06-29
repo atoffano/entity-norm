@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+44	55	Pseudomonas	Microorganism	286
+98	107	Halomonas	Microorganism	2745
+127	145	Enterobacteriaceae	Microorganism	543

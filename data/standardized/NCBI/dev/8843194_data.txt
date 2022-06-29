@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+36	54	growth retardation	DiseaseClass	D006130
+56	96	chromosomal fragmentation during meiosis	SpecificDisease	D048629
+98	112	immune defects	DiseaseClass	D007154
+118	133	thymic lymphoma	SpecificDisease	D013953
+164	187	inherited human disease	DiseaseClass	D030342
+188	209	ataxia-telangiectasia	SpecificDisease	D001260
+568	589	ataxia-telangiectasia	SpecificDisease	D001260
+675	686	infertility	SpecificDisease	D007246
+884	898	Immune defects	DiseaseClass	D007154
+1207	1231	behavioral abnormalities	DiseaseClass	D001523
+1277	1293	thymic lymphomas	SpecificDisease	D008223
+1523	1528	tumor	Modifier	D009369

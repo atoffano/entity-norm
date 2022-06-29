@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+0	30	Inherited colorectal polyposis	SpecificDisease	D011125
+35	41	cancer	Modifier	D009369
+129	132	APC	Modifier	D011125
+162	178	colorectal tumor	Modifier	D015179
+192	231	familial adenomatous polyposis syndrome	SpecificDisease	D011125
+364	367	APC	Modifier	D011125
+473	476	APC	Modifier	D011125
+600	618	adenomatous polyps	SpecificDisease	D018256
+627	645	colorectal cancer,	SpecificDisease	D015179
+904	924	colorectal neoplasia	SpecificDisease	D015179
+1026	1034	adenomas	DiseaseClass	D000236
+1039	1057	colorectal cancers	SpecificDisease	D015179
+1179	1186	adenoma	Modifier	D000236
+1256	1273	colorectal cancer	SpecificDisease	D015179
+1507	1524	colorectal cancer	Modifier	D015179

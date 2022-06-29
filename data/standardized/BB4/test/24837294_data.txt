@@ -1,0 +1,27 @@
+start	end	mention	_class	labels
+16	36	Streptococcus mutans	Microorganism	MockLabel
+64	72	adhesion	Phenotype	MockLabel
+74	85	endothelial	Habitat	MockLabel
+74	90	endothelial cell	Habitat	MockLabel
+105	114	virulence	Phenotype	MockLabel
+190	197;241	ability to bind	Phenotype	MockLabel
+220	240	Streptococcus mutans	Microorganism	MockLabel
+275	280	human	Habitat	MockLabel
+275	314	human coronary artery endothelial cells	Habitat	MockLabel
+281	296	coronary artery	Habitat	MockLabel
+297	308	endothelial	Habitat	MockLabel
+316	321	HCAEC	Habitat	MockLabel
+334	341	killing	Phenotype	MockLabel
+345	364	Galleria mellonella	Habitat	MockLabel
+668	680	streptococci	Microorganism	MockLabel
+965	970	ΔpgfS	Microorganism	MockLabel
+1053	1069	collagen binding	Phenotype	MockLabel
+1071	1076	HCAEC	Habitat	MockLabel
+1091	1098	killing	Phenotype	MockLabel
+1102	1115	G. mellonella	Habitat	MockLabel
+1166	1171	ΔpgfS	Microorganism	MockLabel
+1172	1178	mutant	Phenotype	MockLabel
+1279	1284	ΔpgfS	Microorganism	MockLabel
+1620	1625	ΔpgfS	Microorganism	MockLabel
+1658	1686	defects in Cnm glycosylation	Phenotype	MockLabel
+1880	1889	virulence	Phenotype	MockLabel

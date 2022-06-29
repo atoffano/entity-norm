@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+100	116	Frasier syndrome	SpecificDisease	D052159
+255	271	Frasier syndrome	SpecificDisease	D052159
+273	275	FS	SpecificDisease	D052159
+483	503	Denys-Drash syndrome	SpecificDisease	D030321
+505	508	DDS	SpecificDisease	D030321
+642	662	WT1 gene abnormality	SpecificDisease	D009396
+771	773	FS	SpecificDisease	D052159
+816	819	DDS	SpecificDisease	D030321

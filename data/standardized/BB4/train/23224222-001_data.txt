@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+0	7	Cheeses	Habitat	OBT:003428
+19	37	complex microbiota	Habitat	OBT:000113
+104	108	milk	Habitat	OBT:001645
+147	153	cheese	Habitat	OBT:003428
+164	184	lactic acid bacteria	Phenotype	OBT:000019
+186	189	LAB	Phenotype	OBT:000019
+191	207	starter cultures	Habitat	OBT:001030
+215	225	mesophilic	Phenotype	OBT:000343
+226	246	Lactocococcus lactis	Microorganism	1358
+250	262	thermophilic	Phenotype	OBT:000449
+263	289	Streptococcus thermophilus	Microorganism	1308
+374	377	LAB	Phenotype	OBT:000019
+378	385	starter	Habitat	OBT:001030

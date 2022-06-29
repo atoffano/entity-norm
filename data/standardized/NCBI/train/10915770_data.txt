@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+54	75	Prader-willi syndrome	SpecificDisease	D011218
+124	145	Prader-Willi syndrome	SpecificDisease	D011218
+147	150	PWS	SpecificDisease	D011218
+261	279	neonatal hypotonia	SpecificDisease	D009123
+281	300	developmental delay	DiseaseClass	D002658
+305	328	childhood-onset obesity	DiseaseClass	D009765
+415	418	PWS	Modifier	D011218
+650	653	PWS	Modifier	D011218
+746	749	PWS	SpecificDisease	D011218
+998	1001	PWS	Modifier	D011218
+1576	1579	PWS	SpecificDisease	D011218
+1615	1649	abnormalities in brain development	DiseaseClass	D002658
+1654	1673	dysmorphic features	DiseaseClass	D057215
+1694	1697	PWS	SpecificDisease	D011218

@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+319	333	dairy industry	Habitat	OBT:001988

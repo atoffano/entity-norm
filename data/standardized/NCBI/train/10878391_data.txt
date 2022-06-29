@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+40	64	Wiskott-Aldrich syndrome	SpecificDisease	D014923
+96	120	Wiskott-Aldrich syndrome	Modifier	D014923
+183	207	Wiskott-Aldrich syndrome	SpecificDisease	D014923
+209	212	WAS	SpecificDisease	D014923
+242	245	WAS	Modifier	D014923
+442	445	WAS	Modifier	D014923
+477	480	WAS	Modifier	D014923
+610	613	WAS	Modifier	D014923
+657	660	WAS	Modifier	D014923
+965	968	WAS	Modifier	D014923
+1174	1177	WAS	Modifier	D014923

@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	5	Dairy	Habitat	OBT:001208
+7	23	propionibacteria	Microorganism	1743
+179	213	P. freudenreichii subsp. shermanii	Microorganism	1752
+412	429	EPS  biosynthesis	Phenotype	OBT:000019
+433	449	propionibacteria	Microorganism	1743
+495	529	P. freudenreichii subsp. shermanii	Microorganism	1752
+567	572	TL 34	Microorganism	1752
+618	632	ropy-producing	Phenotype	OBT:001288
+650	667	production of EPS	Phenotype	OBT:000019

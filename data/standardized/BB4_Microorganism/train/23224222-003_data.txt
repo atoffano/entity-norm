@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+88	113	Leuconostoc mesenteroides	Microorganism	1245
+118	150	Lactococcus lactis subsp. lactis	Microorganism	1360
+271	294	Lactobacillus paracasei	Microorganism	1597
+367	383	Lb. parabuchneri	Microorganism	152331
+571	581	Lb. brevis	Microorganism	1580
+583	602	Lb. oligofermentans	Microorganism	293371
+607	619	Lb. farminis	Microorganism	1612
+692	705	Lb. paracasei	Microorganism	1597
+762	786	Lc. lactis subsp. lactis	Microorganism	1360
+791	817	Lc. lactis subsp. cremoris	Microorganism	1359

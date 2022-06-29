@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+25	33	H. alvei	Microorganism	569
+355	363	P. celer	Microorganism	306572
+448	456	P. celer	Microorganism	306572

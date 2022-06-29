@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+94	118	acute radiation toxicity	SpecificDisease	D054508
+161	187	cancer-associated diseases	DiseaseClass	D009369
+188	209	ataxia-telangiectasia	SpecificDisease	D001260
+214	234	Li-Fraumeni syndrome	SpecificDisease	D016864
+507	523	T-cell lymphomas	SpecificDisease	D016399
+848	854	tumour	Modifier	D009369
+1366	1390	acute radiation toxicity	SpecificDisease	D054508
+1529	1536	tumours	DiseaseClass	D009369

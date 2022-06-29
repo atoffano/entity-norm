@@ -1,0 +1,37 @@
+start	end	mention	_class	labels
+18	29	periodontal	Habitat	MockLabel
+18	39	periodontal pathogens	Phenotype	MockLabel
+73	86;99	patients with chronic kidney disease	Habitat	MockLabel
+73	81;91	patients without chronic kidney disease	Habitat	MockLabel
+107	113	kidney	Habitat	MockLabel
+140	175	patients with chronic periodontitis	Habitat	MockLabel
+223	234	periodontal	Habitat	MockLabel
+223	244	periodontal pathogens	Phenotype	MockLabel
+259	295	patients with chronic kidney disease	Habitat	MockLabel
+281	287	kidney	Habitat	MockLabel
+339	350	individuals	Habitat	MockLabel
+386	402	patients with CP	Habitat	MockLabel
+441	454	control group	Habitat	MockLabel
+460	484	patients with CP and CKD	Habitat	MockLabel
+522	540	pre-dialysis group	Habitat	MockLabel
+550	574	patients with CP and CKD	Habitat	MockLabel
+587	592	renal	Habitat	MockLabel
+614	623	RRT group	Habitat	MockLabel
+1053	1071	subgingival plaque	Habitat	MockLabel
+1125	1141	Candida albicans	Microorganism	MockLabel
+1143	1167	Porphyromonas gingivalis	Microorganism	MockLabel
+1169	1189	Tannerella forsythia	Microorganism	MockLabel
+1195	1214	Treponema denticola	Microorganism	MockLabel
+1235	1243	patients	Habitat	MockLabel
+1285	1301	control subjects	Habitat	MockLabel
+1325	1342	patients with CKD	Habitat	MockLabel
+1403	1414	C. albicans	Microorganism	MockLabel
+1428	1440	P.gingivalis	Microorganism	MockLabel
+1454	1466	T. denticola	Microorganism	MockLabel
+1493	1505	CKD patients	Habitat	MockLabel
+1529	1542	control group	Habitat	MockLabel
+1608	1619	C. albicans	Microorganism	MockLabel
+1621	1634	P. gingivalis	Microorganism	MockLabel
+1636	1648	T. forsythia	Microorganism	MockLabel
+1654	1666	T. denticola	Microorganism	MockLabel
+1670	1687	patients with CKD	Habitat	MockLabel

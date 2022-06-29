@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+4	21	Tay-Sachs disease	Modifier	D013661
+139	156	Tay-Sachs disease	Modifier	D013661
+158	161	TSD	Modifier	D013661
+199	202	TSD	Modifier	D013661
+360	363	TSD	Modifier	D013661
+380	383	TSD	Modifier	D013661
+634	637	TSD	Modifier	D013661
+669	672	TSD	Modifier	D013661
+833	836	TSD	Modifier	D013661
+967	970	TSD	Modifier	D013661

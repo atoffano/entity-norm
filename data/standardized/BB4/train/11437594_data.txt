@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+34	50	Chondrus crispus	Habitat	OBT:002758
+69	84	Pichia pastoris	Microorganism	4922
+171	196	red alga Chondrus crispus	Habitat	OBT:002758
+296	312	Escherichia coli	Microorganism	562
+321	333	HOX activity	Phenotype	OBT:000371
+402	416	methylotrophic	Phenotype	OBT:000734
+423	438	Pichia pastoris	Microorganism	4922
+512	537	hexose oxidase production	Phenotype	OBT:000371
+541	552	P. pastoris	Microorganism	4922
+958	982	Saccharomyces cerevisiae	Microorganism	4932
+996	1008	alpha-mating	Phenotype	OBT:000173
+1086	1097	P. pastoris	Microorganism	4922

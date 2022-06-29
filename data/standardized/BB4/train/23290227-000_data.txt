@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+4	10	Hafnia	Microorganism	568
+46	67	Enterococcus faecalis	Microorganism	1351
+105	128	Lactobacillus plantarum	Microorganism	1590
+170	176	cheese	Habitat	OBT:001480
+272	278	cheese	Habitat	OBT:001480
+366	385	H. alvei strain B16	Microorganism	569
+398	413	E. coli O26:H11	Microorganism	244319
+460	473	H. alvei  B16	Microorganism	569

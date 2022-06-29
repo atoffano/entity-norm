@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+69	108	adrenoleukodystrophy protein deficiency	SpecificDisease	D000326
+110	115	X-ALD	SpecificDisease	D000326
+144	161	Inherited defects	DiseaseClass	D030342
+220	240	adrenoleukodystrophy	Modifier	D000326
+275	295	peroxisomal disorder	DiseaseClass	D018901
+296	325	X-linked adrenoleukodystrophy	SpecificDisease	D000326
+327	332	X-ALD	SpecificDisease	D000326
+758	763	X-ALD	Modifier	D000326
+1364	1369	X-ALD	SpecificDisease	D000326

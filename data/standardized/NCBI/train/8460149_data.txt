@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+62	85	hypobetalipoproteinemia	SpecificDisease	D006995
+90	117	developmental abnormalities	DiseaseClass	D006130
+127	159	Familial hypobetalipoproteinemia	SpecificDisease	D052476
+166	195	autosomal codominant disorder	DiseaseClass	D030342
+341	364	hypobetalipoproteinemia	SpecificDisease	D006995
+423	448	coronary vascular disease	DiseaseClass	D003323
+590	613	hypobetalipoproteinemia	SpecificDisease	D006995
+858	881	hypobetalipoproteinemia	SpecificDisease	D006995
+945	960	chylomicronemia	SpecificDisease	OMIM:238600
+1095	1107	exencephalus	SpecificDisease	D009436
+1112	1125	hydrocephalus	SpecificDisease	D006849
+1180	1203	hypobetalipoproteinemia	SpecificDisease	D006995
+1205	1218	atherogenesis	DiseaseClass	D050197
+1240	1252	exencephalus	SpecificDisease	D009436
+1257	1270	hydrocephalus	SpecificDisease	D006849

@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+0	10	Laboratory	Habitat	MockLabel
+38	60	P. damnosus  LMG 28219	Microorganism	MockLabel
+79	86;99	ability to produce EPS	Phenotype	MockLabel
+170	174	beer	Habitat	MockLabel
+207	214	biofilm	Habitat	MockLabel
+207	224	biofilm formation	Phenotype	MockLabel
+267	274	brewery	Habitat	MockLabel
+308	335	P. claussenii ATCC BAA-344T	Microorganism	MockLabel
+523	527	beer	Habitat	MockLabel
+784	805	P. damnosus  IOEB8801	Microorganism	MockLabel
+824	828	wine	Habitat	MockLabel

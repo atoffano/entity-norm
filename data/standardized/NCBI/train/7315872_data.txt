@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+12	42	cerebrotendinous xanthomatosis	SpecificDisease	D019294
+44	47	CTX	SpecificDisease	D019294
+193	223	cerebrotendinous xanthomatosis	SpecificDisease	D019294
+225	228	CTX	SpecificDisease	D019294
+309	312	CTX	Modifier	D019294
+618	626	cataract	SpecificDisease	D002386
+630	649	tendinous xanthomas	SpecificDisease	D014973
+702	705	CTX	SpecificDisease	D019294

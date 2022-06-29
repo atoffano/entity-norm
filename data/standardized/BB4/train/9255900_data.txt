@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+13	34	Helicobacter pullorum	Microorganism	35818
+40	63	patients with enteritis	Habitat	OBT:003220
+65	86	Helicobacter pullorum	Microorganism	35818
+146	166	asymptomatic poultry	Habitat	OBT:003300
+181	186	human	Habitat	OBT:002488
+213	224	H. pullorum	Microorganism	35818
+244	269	immunocompromised patient	Habitat	OBT:003206
+438	459	Helicobacter pullorum	Microorganism	35818

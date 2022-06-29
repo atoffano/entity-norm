@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+46	62	Wolfram syndrome	Modifier	OMIM:222300
+124	140	Wolfram syndrome	SpecificDisease	OMIM:222300
+147	193	autosomal recessive neurodegenerative disorder	DiseaseClass	D020271
+211	243	juvenile-onset diabetes mellitus	SpecificDisease	D003922
+260	273	optic atrophy	SpecificDisease	D009896
+567	583	Wolfram syndrome	SpecificDisease	OMIM:222300
+1452	1468	Wolfram syndrome	SpecificDisease	OMIM:222300
+1498	1514	Wolfram syndrome	Modifier	OMIM:222300
+1547	1568	psychiatric disorders	DiseaseClass	D001523
+1572	1589	diabetes mellitus	SpecificDisease	D003920

@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+68	75	gastric	Habitat	MockLabel
+68	82	gastric biopsy	Habitat	MockLabel
+144	151	gastric	Habitat	MockLabel
+144	157	gastric ulcer	Habitat	MockLabel
+159	166	gastric	Habitat	MockLabel
+187	221	mucosal associated lymphoid tissue	Habitat	MockLabel
+206	221	lymphoid tissue	Habitat	MockLabel
+274	288	gastric biopsy	Habitat	MockLabel
+274	281	gastric	Habitat	MockLabel
+318	325	patient	Habitat	MockLabel
+429	441	laboratories	Habitat	MockLabel
+610	618	patients	Habitat	MockLabel
+809	815	polyps	Habitat	MockLabel
+1270	1277	gastric	Habitat	MockLabel
+1270	1286	gastric biopsies	Habitat	MockLabel
+1696	1723	previously treated patients	Habitat	MockLabel

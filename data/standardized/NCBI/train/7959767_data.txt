@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+29	47	Huntington disease	Modifier	D006816
+186	204	Huntington disease	SpecificDisease	D006816
+206	208	HD	SpecificDisease	D006816
+222	267	autosomal dominant neurodegenerative disorder	DiseaseClass	D019636

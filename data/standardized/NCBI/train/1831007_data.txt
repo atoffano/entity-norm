@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+0	18	Huntington disease	SpecificDisease	D006816
+39	56	Tourette syndrome	SpecificDisease	D005879
+97	114	Tourette syndrome	SpecificDisease	D005879
+116	118	TS	SpecificDisease	D005879
+130	148	Huntington disease	SpecificDisease	D006816
+150	152	HD	SpecificDisease	D006816
+220	222	TS	SpecificDisease	D005879
+240	242	HD	SpecificDisease	D006816

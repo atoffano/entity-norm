@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+313	337	development of a biofilm	Phenotype	OBT:001444
+579	598	biofilm development	Phenotype	OBT:001444
+797	814	biofilm formation	Phenotype	OBT:001444

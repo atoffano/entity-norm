@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+0	18	Emerin, deficiency	SpecificDisease	D020389
+35	68	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
+114	166	X-linked recessive Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
+168	172	EDMD	SpecificDisease	D020389
+180	205	inherited muscle disorder	DiseaseClass	D009135+D030342
+257	291	wasting of humero-peroneal muscles	SpecificDisease	D019282
+299	368	contractures of the elbows, Achilles tendons and postcervical muscles	CompositeMention	D003286
+374	398	cardiac conduction block	SpecificDisease	D006327
+419	431	sudden death	SpecificDisease	D003645
+446	450	EDMD	SpecificDisease	D020389

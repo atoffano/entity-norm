@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+35	57	Machado-Joseph disease	SpecificDisease	D017827
+196	218	Machado-Joseph disease	SpecificDisease	D017827
+220	223	MJD	SpecificDisease	D017827
+439	442	MJD	SpecificDisease	D017827
+698	701	MJD	SpecificDisease	D017827

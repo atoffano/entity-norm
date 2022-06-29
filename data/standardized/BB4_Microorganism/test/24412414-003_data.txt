@@ -1,0 +1,21 @@
+start	end	mention	_class	labels
+145	168	L. acidophilus LMG 9433	Microorganism	MockLabel
+170	193	L. amylovorus DSM 20532	Microorganism	MockLabel
+195	213	L. brevis LMG 6906	Microorganism	MockLabel
+215	259	L. coryniformis subsp. coryniformis LMG 9196	Microorganism	MockLabel
+265	286	L. plantarum LMG 6907	Microorganism	MockLabel
+338	358	A. flavus MUCL 19945	Microorganism	MockLabel
+360	390	Endomyces fibuliger MUCL 11443	Microorganism	MockLabel
+396	422	Eurotium repens MUCL 15977	Microorganism	MockLabel
+524	535	P. nordicum	Microorganism	MockLabel
+561	572	Penicillium	Microorganism	MockLabel
+654	670	L. rhamnosus LGG	Microorganism	MockLabel
+675	692	L. plantarum 299v	Microorganism	MockLabel
+717	728	P. nordicum	Microorganism	MockLabel
+883	905	L. plantarum IMAU10014	Microorganism	MockLabel
+914	924	B. cinerea	Microorganism	MockLabel
+926	946	Glomerella cingulate	Microorganism	MockLabel
+948	971	Phytophthora drechsleri	Microorganism	MockLabel
+973	993	Penicillium citrinum	Microorganism	MockLabel
+995	1007	P. digitatum	Microorganism	MockLabel
+1013	1031	Fusarium oxysporum	Microorganism	MockLabel

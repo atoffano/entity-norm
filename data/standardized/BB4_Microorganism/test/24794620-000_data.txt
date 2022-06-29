@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+67	76	Halomonas	Microorganism	MockLabel

@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+24	41	Friedreich ataxia	Modifier	D005621
+113	117	FRDA	Modifier	D005621
+124	141	Friedreich ataxia	SpecificDisease	D005621
+225	229	FRDA	Modifier	D005621

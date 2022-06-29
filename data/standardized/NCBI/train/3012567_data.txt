@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+83	104	Prader-Willi syndrome	SpecificDisease	D011218
+218	239	Prader-Willi syndrome	SpecificDisease	D011218
+241	244	PWS	SpecificDisease	D011218
+704	707	PWS	SpecificDisease	D011218
+1215	1218	PWS	SpecificDisease	D011218
+1253	1278	chromosomal abnormalities	DiseaseClass	D002869

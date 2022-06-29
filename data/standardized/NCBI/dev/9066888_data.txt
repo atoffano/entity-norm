@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	16	Kniest dysplasia	SpecificDisease	C537207
+68	84	Kniest dysplasia	SpecificDisease	C537207
+97	113	chondrodysplasia	DiseaseClass	D010009
+128	167	defective formation of type II collagen	DiseaseClass	D003095
+288	308	severely handicapped	DiseaseClass	D008607
+314	327	short stature	DiseaseClass	D006130
+329	354	restricted joint mobility	DiseaseClass	D007592
+360	369	blindness	DiseaseClass	D001766
+661	677	Kniest dysplasia	SpecificDisease	C537207

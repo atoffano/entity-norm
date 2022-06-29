@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+74	85	endothelial	Habitat	MockLabel
+74	90	endothelial cell	Habitat	MockLabel
+275	280	human	Habitat	MockLabel
+275	314	human coronary artery endothelial cells	Habitat	MockLabel
+281	296	coronary artery	Habitat	MockLabel
+297	308	endothelial	Habitat	MockLabel
+316	321	HCAEC	Habitat	MockLabel
+345	364	Galleria mellonella	Habitat	MockLabel
+1071	1076	HCAEC	Habitat	MockLabel
+1102	1115	G. mellonella	Habitat	MockLabel

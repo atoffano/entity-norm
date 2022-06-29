@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+43	68	hereditary retinoblastoma	SpecificDisease	D012175
+136	161	hereditary retinoblastoma	SpecificDisease	D012175
+1345	1350	tumor	Modifier	D009369
+1378	1394	nonocular tumors	DiseaseClass	D009369

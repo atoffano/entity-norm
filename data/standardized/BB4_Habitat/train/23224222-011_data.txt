@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+110	133	surface-ripened cheeses	Habitat	OBT:003428
+199	219;226	cheeses from dairies D	Habitat	OBT:003428
+199	221	cheeses from dairies C	Habitat	OBT:003428
+212	219	dairies	Habitat	OBT:001988
+282	301	cheese from dairy B	Habitat	OBT:003428
+294	299	dairy	Habitat	OBT:001988
+310	329	cheese from dairy A	Habitat	OBT:003428
+322	327	dairy	Habitat	OBT:001988
+443	449	cheese	Habitat	OBT:003428
+443	458	cheese surfaces	Habitat	OBT:001341

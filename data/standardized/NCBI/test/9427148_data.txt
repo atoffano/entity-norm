@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+0	22	Aspartylglucosaminuria	SpecificDisease	D054880
+48	70	Aspartylglucosaminuria	SpecificDisease	D054880
+72	75	AGU	SpecificDisease	D054880
+87	122	disorder of glycoprotein metabolism	DiseaseClass	D008661
+137	195	deficiency of the lysosomal enzyme aspartylglucosaminidase	SpecificDisease	D054880
+203	206	AGU	SpecificDisease	D054880
+354	357	AGU	SpecificDisease	D054880
+559	562	AGU	SpecificDisease	D054880

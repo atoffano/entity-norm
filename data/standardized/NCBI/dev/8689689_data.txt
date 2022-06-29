@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+75	92	eye abnormalities	DiseaseClass	D005124
+94	102	Aniridia	SpecificDisease	D015783
+136	172	semidominant developmental disorders	DiseaseClass	D002658
+260	275	iris hypoplasia	SpecificDisease	D007499
+334	353	brain abnormalities	DiseaseClass	D001927
+673	711	developmental abnormalities of the eye	DiseaseClass	D005124
+961	982	developmental defects	DiseaseClass	D002658

@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+72	91	Escherichia coli MC	Microorganism	MockLabel
+198	205	E. coli	Microorganism	MockLabel
+198	214	E. coli cultures	Habitat	MockLabel
+384	398	E. coli MC1061	Microorganism	MockLabel
+403	408	GE864	Microorganism	MockLabel
+412	418	MC4100	Microorganism	MockLabel
+491	498	E. coli	Microorganism	MockLabel
+623	645	RecA protease activity	Phenotype	MockLabel

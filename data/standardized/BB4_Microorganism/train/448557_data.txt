@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+668	695	respiratory syncytial virus	Microorganism	12814
+697	724	parainfluenza virus types 1	Microorganism	12730
+697	722;729	parainfluenza virus types 3	Microorganism	11216
+732	744	adenoviruses	Microorganism	10508
+750	771	Mycoplasma pneumoniae	Microorganism	2104
+938	941	RSV	Microorganism	12814
+950	971	Mycoplasma pneumoniae	Microorganism	2104

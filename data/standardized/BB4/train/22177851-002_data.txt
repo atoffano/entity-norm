@@ -1,0 +1,25 @@
+start	end	mention	_class	labels
+7	11	milk	Habitat	OBT:001645
+25	45	lactic acid bacteria	Phenotype	OBT:000019
+54	72	Lactococcus lactis	Microorganism	1358
+81	85	curd	Habitat	OBT:001208
+176	189	acid-tolerant	Phenotype	OBT:002883
+198	219	Debaryomyces hansenii	Microorganism	4959
+221	240	Geotrichum candidum	Microorganism	1173061
+242	259	Kluyveromyces sp.	Microorganism	4910
+264	283	Yarrowia lipolytica	Microorganism	4952
+455	469	cheese surface	Habitat	OBT:001341
+455	461	cheese	Habitat	OBT:001480
+500	518	less acid-tolerant	Phenotype	OBT:002883
+520	527	aerobic	Phenotype	OBT:000179
+531	553	facultative  anaerobic	Phenotype	OBT:000279
+555	572	catalase-positive	Phenotype	OBT:000222
+574	587	halo-tolerant	Phenotype	OBT:002711
+588	601	Gram-positive	Phenotype	OBT:000649
+630	656	Brevibacterium aurantiacum	Microorganism	273384
+658	673	Corynebacterium	Microorganism	1716
+675	687	Arthrobacter	Microorganism	1663
+692	711	Staphylococcus spp.	Microorganism	29387
+754	760	cheese	Habitat	OBT:001480
+754	768	cheese surface	Habitat	OBT:001341
+865	893	smear surface-ripened cheese	Habitat	OBT:003494

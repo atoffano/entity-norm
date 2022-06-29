@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+39	62	Langer-Giedion syndrome	Modifier	D015826
+134	164	trichorhinophalangeal syndrome	SpecificDisease	OMIM:190350
+365	388	Langer-Giedion syndrome	SpecificDisease	D015826
+612	635	Langer-Giedion syndrome	Modifier	D015826
+886	916	trichorhinophalangeal syndrome	SpecificDisease	OMIM:190350
+918	922	TRPS	SpecificDisease	OMIM:190350
+1121	1124	LGS	Modifier	D015826
+1235	1258	Langer-Giedion syndrome	SpecificDisease	D015826

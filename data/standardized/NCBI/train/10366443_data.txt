@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+26	55	beta-glucuronidase deficiency	SpecificDisease	D016538
+76	101	mucopolysaccharidosis VII	SpecificDisease	D016538
+209	234	mucopolysaccharidosis VII	SpecificDisease	D016538
+239	285	autosomal recessive lysosomal storage disorder	DiseaseClass	D016464
+296	325	beta-glucuronidase deficiency	SpecificDisease	D016538
+1432	1439	MPS VII	Modifier	D016538

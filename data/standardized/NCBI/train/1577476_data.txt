@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+42	77	golden retriever muscular dystrophy	SpecificDisease	D009136
+102	129	Duchenne muscular dystrophy	SpecificDisease	D020388
+131	166	Golden retriever muscular dystrophy	SpecificDisease	D009136
+168	172	GRMD	SpecificDisease	D009136
+265	292	Duchenne muscular dystrophy	SpecificDisease	D020388
+294	297	DMD	SpecificDisease	D020388
+314	317	DMD	Modifier	D020388
+429	432	DMD	Modifier	D020388
+512	516	GRMD	Modifier	D009136
+631	635	GRMD	SpecificDisease	D009136
+883	904	dystrophin deficiency	SpecificDisease	OMIM:310200

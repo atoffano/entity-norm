@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+158	176	surface of cheeses	Habitat	OBT:001341
+169	176	cheeses	Habitat	OBT:001480
+212	222;256	Gorgonzola cheeses	Habitat	OBT:003504
+224	232;256	Taleggio cheeses	Habitat	OBT:003525
+237	263	Formaggio di Fossa cheeses	Habitat	OBT:003473
+391	399	Scimudin	Habitat	OBT:003522
+404	410	Casera	Habitat	OBT:003483

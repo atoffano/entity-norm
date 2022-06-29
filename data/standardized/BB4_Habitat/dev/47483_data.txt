@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+237	245	clinical	Habitat	OBT:003220

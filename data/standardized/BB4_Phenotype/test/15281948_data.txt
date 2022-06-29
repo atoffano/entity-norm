@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+0	7;19	Mineral usage	Phenotype	MockLabel
+12	24	carbon usage	Phenotype	MockLabel
+32	62	synthetic pyrethroid degrading	Phenotype	MockLabel
+102	122	biodegrading ability	Phenotype	MockLabel
+127	163	cometabolism of synthetic pyrethroid	Phenotype	MockLabel
+262	274	SP-degrading	Phenotype	MockLabel
+790	828	degradation of both SP-based compounds	Phenotype	MockLabel
+1026	1040	biodegradation	Phenotype	MockLabel
+1127	1148	biodegradation of SPs	Phenotype	MockLabel

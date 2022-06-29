@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+0	18	Fragile X syndrome	SpecificDisease	D005600
+127	145	fragile X syndrome	SpecificDisease	D005600
+189	198	fragile X	SpecificDisease	D005600
+448	457	fragile X	Modifier	D005600
+552	561	fragile X	SpecificDisease	D005600
+572	590	fragile X syndrome	SpecificDisease	D005600

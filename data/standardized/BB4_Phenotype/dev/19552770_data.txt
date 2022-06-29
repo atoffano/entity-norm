@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+14	28	thermotolerant	Phenotype	OBT:000453
+104	118	thermotolerant	Phenotype	OBT:000453
+385	399	thermotolerant	Phenotype	OBT:000453
+465	479	thermotolerant	Phenotype	OBT:000453
+600	614	Thermotolerant	Phenotype	OBT:000453

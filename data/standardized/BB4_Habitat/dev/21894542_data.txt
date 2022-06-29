@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+190	204	world's oceans	Habitat	OBT:003105
+249	268	marine environments	Habitat	OBT:000338
+319	334	bacterial flora	Habitat	OBT:000113
+357	363	marine	Habitat	OBT:000338
+357	373	marine organisms	Habitat	OBT:000010

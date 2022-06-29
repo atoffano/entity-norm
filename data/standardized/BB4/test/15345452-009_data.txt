@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+30	37	cheeses	Habitat	MockLabel
+52	69	red smear  cheese	Habitat	MockLabel
+85	106	Brevibacterium linens	Microorganism	MockLabel
+136	150	cheese surface	Habitat	MockLabel
+136	142	cheese	Habitat	MockLabel
+164	175	red pigment	Phenotype	MockLabel

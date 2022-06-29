@@ -1,0 +1,21 @@
+start	end	mention	_class	labels
+17	20	VHL	Modifier	D006623
+29	58	sporadic renal cell carcinoma	SpecificDisease	D002292
+92	95	VHL	Modifier	D006623
+119	122	RCC	SpecificDisease	D002292
+161	178	von Hippel-Lindau	Modifier	D006623
+180	183	VHL	Modifier	D006623
+235	256	renal cell carcinomas	SpecificDisease	D002292
+278	287	VHL tumor	Modifier	D006623
+663	666	VHL	Modifier	D006623
+700	733	nonpapillary renal cell carcinoma	Modifier	D002292
+735	738	RCC	Modifier	D002292
+828	831	VHL	Modifier	D006623
+1147	1150	VHL	Modifier	D006623
+1180	1192	sporadic RCC	SpecificDisease	D002292
+1342	1345	RCC	SpecificDisease	D002292
+1349	1352	VHL	Modifier	D006623
+1409	1412	RCC	SpecificDisease	D002292
+1443	1446	VHL	Modifier	D006623
+1651	1654	RCC	SpecificDisease	D002292
+1658	1661	VHL	Modifier	D006623

@@ -1,0 +1,14 @@
+start	end	mention	_class	labels
+71	89	myotonic dystrophy	SpecificDisease	D009223
+94	112	myotonic dystrophy	SpecificDisease	D009223
+114	116	DM	SpecificDisease	D009223
+151	153	DM	Modifier	D009223
+360	362	DM	Modifier	D009223
+675	677	DM	SpecificDisease	D009223
+1165	1167	DM	Modifier	D009223
+1189	1191	DM	Modifier	D009223
+1362	1364	DM	Modifier	D009223
+1387	1389	DM	Modifier	D009223
+1404	1406	DM	Modifier	D009223
+1422	1424	DM	Modifier	D009223
+1584	1586	DM	SpecificDisease	D009223

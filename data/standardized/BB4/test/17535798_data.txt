@@ -1,0 +1,29 @@
+start	end	mention	_class	labels
+42	66	Escherichia coli O157:H7	Microorganism	MockLabel
+67	96	Shiga toxin-encoding prophage	Microorganism	MockLabel
+98	104	Humans	Habitat	MockLabel
+145	169	Escherichia coli O157:H7	Microorganism	MockLabel
+173	182	commensal	Phenotype	MockLabel
+196	202	cattle	Habitat	MockLabel
+218	233	E. coli O157:H7	Microorganism	MockLabel
+243	252	virulence	Phenotype	MockLabel
+317	326;341	morbidity of colonized humans	Phenotype	MockLabel
+331	360	mortality of colonized humans	Phenotype	MockLabel
+354	360	humans	Habitat	MockLabel
+390	399	virulence	Phenotype	MockLabel
+421	427	humans	Habitat	MockLabel
+454	463	virulence	Phenotype	MockLabel
+617	638	Stx-encoding prophage	Microorganism	MockLabel
+642	657	E. coli O157:H7	Microorganism	MockLabel
+692	699	E. coli	Microorganism	MockLabel
+737	759	Tetrahymena pyriformis	Microorganism	MockLabel
+800	811	Tetrahymena	Microorganism	MockLabel
+833	854	Stx-encoding prophage	Microorganism	MockLabel
+892	904	E. coli K-12	Microorganism	MockLabel
+916	924	clinical	Habitat	MockLabel
+937	949	E. coli O157	Microorganism	MockLabel
+1031	1039	ciliates	Microorganism	MockLabel
+1169	1190	Stx-encoding prophage	Microorganism	MockLabel
+1194	1209	E. coli O157:H7	Microorganism	MockLabel
+1258	1267	virulence	Phenotype	MockLabel
+1298	1304	humans	Habitat	MockLabel

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+285	288	LAB	Phenotype	OBT:000019
+380	394	EPS production	Phenotype	OBT:000019
+398	401	LAB	Phenotype	OBT:000019

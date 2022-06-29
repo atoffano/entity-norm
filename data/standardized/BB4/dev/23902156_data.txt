@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+68	89	Penicillium crustosum	Microorganism	36656
+68	89	Penicillium crustosum	Microorganism	36656
+129	155	Penicillium brevicompactum	Microorganism	5074
+258	279	Penicillium crustosum	Microorganism	36656
+340	352	P. crustosum	Microorganism	36656
+479	495	Escherichia coli	Microorganism	562
+1101	1112	Penicillium	Microorganism	5073
+1101	1134	Penicillium-sensitive atopic sera	Habitat	OBT:000007
+1101	1134	Penicillium-sensitive atopic sera	Habitat	OBT:000007

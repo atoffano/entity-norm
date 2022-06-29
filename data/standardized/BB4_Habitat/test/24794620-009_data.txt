@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+62	119	short-ripened cheese rinds of  ripening cellars A1 and A2	Habitat	MockLabel
+62	82	short-ripened cheese	Habitat	MockLabel
+93	109	ripening cellars	Habitat	MockLabel
+167	209	long-ripened cheeses of ripening cellar A3	Habitat	MockLabel
+191	206	ripening cellar	Habitat	MockLabel

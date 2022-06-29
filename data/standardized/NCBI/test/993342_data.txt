@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+105	153	deficiency of the second component of complement	SpecificDisease	OMIM:217000
+257	305	deficiency of the second component of complement	SpecificDisease	OMIM:217000
+453	466	C2 deficiency	SpecificDisease	OMIM:217000
+512	525	C2 deficiency	SpecificDisease	OMIM:217000
+603	616	C2 deficiency	Modifier	OMIM:217000
+734	747	C2 deficiency	SpecificDisease	OMIM:217000
+1337	1350	C2 deficiency	SpecificDisease	OMIM:217000
+1448	1461	C2 deficiency	SpecificDisease	OMIM:217000
+1489	1502	C2 deficiency	SpecificDisease	OMIM:217000
+1666	1679	C2 deficiency	Modifier	OMIM:217000

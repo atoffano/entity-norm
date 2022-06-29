@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+16	19	DMD	Modifier	D020388
+91	94	DMD	Modifier	D020388
+166	193	Duchenne muscular dystrophy	SpecificDisease	D020388
+195	198	DMD	SpecificDisease	D020388
+275	278	DMD	Modifier	D020388

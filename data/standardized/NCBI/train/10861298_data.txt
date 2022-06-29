@@ -1,0 +1,22 @@
+start	end	mention	_class	labels
+30	33	PDS	Modifier	C536648
+105	121	Pendred syndrome	SpecificDisease	C536648
+126	152	non-syndromic hearing loss	SpecificDisease	C537845
+154	159	DFNB4	SpecificDisease	OMIM:600791
+166	169	PDS	Modifier	C536648
+326	342	Pendred syndrome	SpecificDisease	C536648
+347	393	autosomal recessive non-syndromic hearing loss	SpecificDisease	OMIM:600791
+401	406	DFNB4	Modifier	OMIM:600791
+489	515	non-syndromic hearing loss	SpecificDisease	C537845
+584	587	PDS	Modifier	C536648
+620	623	PDS	Modifier	C536648
+654	670	Pendred syndrome	SpecificDisease	C536648
+696	699	PDS	Modifier	C536648
+730	756	non-syndromic hearing loss	SpecificDisease	C537845
+783	799	Pendred syndrome	Modifier	C536648
+853	856	PDS	Modifier	C536648
+901	927	non-syndromic hearing loss	SpecificDisease	C537845
+990	1006	Pendred syndrome	SpecificDisease	C536648
+1112	1117	DFNB4	SpecificDisease	OMIM:600791
+1330	1336	goiter	DiseaseClass	D006042
+1357	1362	DFNB4	SpecificDisease	OMIM:600791

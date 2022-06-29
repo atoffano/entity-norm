@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+118	132	Ovarian Cancer	Modifier	D010051
+276	304	breast and/or ovarian cancer	CompositeMention	OMIM:604370
+734	755	breast/ovarian cancer	Modifier	OMIM:604370
+845	873	breast and/or ovarian cancer	CompositeMention	OMIM:604370

@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+168	180	model cheese	Habitat	OBT:001480
+260	265	human	Habitat	OBT:002488
+568	589	microbial populations	Habitat	OBT:000113
+631	673	surface of experimental smear soft  cheese	Habitat	OBT:001341
+642	673	experimental smear soft  cheese	Habitat	OBT:003494
+709	716	cheeses	Habitat	OBT:001480

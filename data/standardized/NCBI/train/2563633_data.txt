@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+125	140	phenylketonuria	SpecificDisease	D010661
+779	794	phenylketonuria	SpecificDisease	D010661
+796	799	PKU	SpecificDisease	D010661
+917	920	PKU	Modifier	D010661

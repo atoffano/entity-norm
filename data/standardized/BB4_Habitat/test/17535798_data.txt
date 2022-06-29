@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+98	104	Humans	Habitat	MockLabel
+196	202	cattle	Habitat	MockLabel
+354	360	humans	Habitat	MockLabel
+421	427	humans	Habitat	MockLabel
+916	924	clinical	Habitat	MockLabel
+1298	1304	humans	Habitat	MockLabel

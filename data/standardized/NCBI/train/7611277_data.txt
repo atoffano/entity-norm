@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+41	62	breast/ovarian cancer	Modifier	D061325
+97	115	male breast cancer	SpecificDisease	D018567
+244	266	familial breast cancer	SpecificDisease	D001943
+287	317	familial breast/ovarian cancer	CompositeMention	D061325
+445	451	cancer	Modifier	D009369
+586	610	ovarian or breast cancer	CompositeMention	D010051|D001943
+960	986	breast and prostate cancer	CompositeMention	D001943|D011471
+1045	1075	intra-abdominal carcinomatosis	DiseaseClass	D000008+D002277
+1261	1296	inherited breast and ovarian cancer	CompositeMention	D061325
+1516	1534	male breast cancer	SpecificDisease	D018567

@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+71	84	eye anomalies	DiseaseClass	D005124
+195	211	ocular anomalies	DiseaseClass	D005124
+223	231	aniridia	SpecificDisease	D015783
+233	247	Peters anomaly	SpecificDisease	C537884
+249	266	corneal dystrophy	SpecificDisease	D003317
+268	287	congenital cataract	SpecificDisease	D002386
+293	310	foveal hypoplasia	SpecificDisease	OMIM:136520
+1050	1064	Peters anomaly	SpecificDisease	C537884
+1066	1085	congenital cataract	SpecificDisease	D002386
+1087	1104	Axenfeldt anomaly	SpecificDisease	C535679
+1113	1130	foveal hypoplasia	SpecificDisease	OMIM:136520

@@ -1,0 +1,15 @@
+start	end	mention	_class	labels
+28	64	hereditary breast and ovarian cancer	CompositeMention	D061325
+133	158	breast and ovarian cancer	Modifier	D061325
+1095	1116	breast-ovarian cancer	Modifier	D061325
+1162	1176	ovarian cancer	Modifier	D010051
+1266	1287	breast-ovarian cancer	Modifier	D061325
+1393	1399	tumors	DiseaseClass	D009369
+1407	1412	tumor	Modifier	D009369
+1471	1513	prostatic, pancreas, skin, and lung cancer	CompositeMention	D011471|D010190|D012878|D008175
+1517	1535	malignant melanoma	SpecificDisease	D008545
+1540	1557	oligodendroglioma	SpecificDisease	D009837
+1565	1579	carcinosarcoma	SpecificDisease	D002296
+1655	1669	ovarian cancer	SpecificDisease	D010051
+1830	1854	hereditary breast cancer	Modifier	D001943
+1887	1902	ovarian cancers	SpecificDisease	D010051

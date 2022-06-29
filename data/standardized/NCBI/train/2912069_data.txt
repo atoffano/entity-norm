@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+218	233	G6PD deficiency	SpecificDisease	D005955
+636	651	G6PD deficiency	SpecificDisease	D005955
+699	726	G6PD Seattle-like phenotype	SpecificDisease	D005955
+745	760	G6PD deficiency	SpecificDisease	D005955
+825	840	G6PD deficiency	SpecificDisease	D005955

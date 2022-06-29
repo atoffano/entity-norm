@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+184	192;205	presence of decarboxylase activity	Phenotype	OBT:000252
+197	230	absence of decarboxylase activity	Phenotype	OBT:000251
+261	270;281	L. lactis B697	Microorganism	1359
+261	276	L. lactis B1157	Microorganism	1359
+318	323	B1157	Microorganism	1359
+330	352	decarboxylase-positive	Phenotype	OBT:000252
+330	344;362	decarboxylase- negative	Phenotype	OBT:000251
+357	361	B697	Microorganism	1359

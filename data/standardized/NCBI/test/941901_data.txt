@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+202	210	melanoma	Modifier	D008545
+273	292	deficiency of hex A	SpecificDisease	D013661
+347	364	Tay-Sachs disease	SpecificDisease	D013661
+366	369	TSD	SpecificDisease	D013661
+738	741	TSD	Modifier	D013661
+972	975	TSD	Modifier	D013661
+1114	1117	TSD	SpecificDisease	D013661
+1151	1167	hex A deficiency	SpecificDisease	D013661

@@ -1,0 +1,21 @@
+start	end	mention	_class	labels
+18	50	von Hippel-Lindau disease tumour	Modifier	D006623
+99	130	von Hippel-Lindau (VHL) disease	Modifier	D006623
+251	254	VHL	Modifier	D006623
+303	352	retinal, cerebellar and spinal haemangioblastomas	CompositeMention	D012175|D018325
+354	374	renal cell carcinoma	SpecificDisease	D002292
+379	396	phaeochromocytoma	SpecificDisease	D010673
+439	442	VHL	Modifier	D006623
+463	492	sporadic renal cell carcinoma	SpecificDisease	D002292
+497	514	haemangioblastoma	SpecificDisease	D018325
+614	617	VHL	Modifier	D006623
+764	767	VHL	Modifier	D006623
+880	883	VHL	Modifier	D006623
+1033	1036	VHL	Modifier	D006623
+1112	1115	VHL	Modifier	D006623
+1203	1206	VHL	Modifier	D006623
+1408	1411	VHL	Modifier	D006623
+1520	1523	VHL	Modifier	D006623
+1620	1623	VHL	Modifier	D006623
+1698	1701	VHL	Modifier	D006623
+1798	1801	VHL	Modifier	D006623

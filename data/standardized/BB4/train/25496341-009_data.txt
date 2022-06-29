@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+30	36	cheese	Habitat	OBT:001480
+229	248	Geotrichum candidum	Microorganism	1173061
+250	271	Debaryomyces hansenii	Microorganism	4959
+277	299	Penicillium roqueforti	Microorganism	5082

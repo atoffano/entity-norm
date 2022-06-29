@@ -1,0 +1,22 @@
+start	end	mention	_class	labels
+0	26	Eye movement abnormalities	DiseaseClass	D005124
+73	97	cerebellar ataxia type I	DiseaseClass	D020754
+278	303	cerebellar ataxias type I	DiseaseClass	D020754
+304	335	spinocerebellar ataxias 1 and 2	CompositeMention	OMIM:164400|OMIM:183090
+337	341	SCA1	SpecificDisease	OMIM:164400
+351	355	SCA2	SpecificDisease	OMIM:183090
+369	373	SCA3	SpecificDisease	D017827
+374	396	Machado-Joseph disease	SpecificDisease	D017827
+398	401	MJD	SpecificDisease	D017827
+416	420	SCA1	SpecificDisease	OMIM:164400
+482	493	hypermetria	SpecificDisease	D002524
+537	541	SCA2	SpecificDisease	OMIM:183090
+816	820	SCA3	SpecificDisease	D017827
+822	843	gaze-evoked nystagmus	SpecificDisease	D009759
+1011	1032	gaze-evoked nystagmus	SpecificDisease	D009759
+1081	1085	SCA1	SpecificDisease	OMIM:164400
+1098	1102	SCA2	SpecificDisease	OMIM:183090
+1133	1137	SCA3	SpecificDisease	D017827
+1228	1232	SCA1	SpecificDisease	OMIM:164400
+1234	1238	SCA2	SpecificDisease	OMIM:183090
+1244	1248	SCA3	SpecificDisease	D017827

@@ -1,0 +1,18 @@
+start	end	mention	_class	labels
+0	22	Salinivibrio siamensis	Microorganism	MockLabel
+157	165	ND1-1(T)	Microorganism	MockLabel
+715	723	ND1-1(T)	Microorganism	MockLabel
+747	769	Salinivibrio costicola	Microorganism	MockLabel
+809	835	Salinivibrio proteolyticus	Microorganism	MockLabel
+891	899	ND1-1(T)	Microorganism	MockLabel
+946	988	S. costicola subsp. costicola JCM 15095(T)	Microorganism	MockLabel
+999	1044	S. costicola subsp. alcaliphilus DSM 16359(T)	Microorganism	MockLabel
+1055	1100	S. costicola subsp. vallismortis JCM 15096(T)	Microorganism	MockLabel
+1115	1142	S. proteolyticus AF-2004(T)	Microorganism	MockLabel
+1260	1268	ND1-1(T)	Microorganism	MockLabel
+1322	1334	Salinivibrio	Microorganism	MockLabel
+1354	1376	Salinivibrio siamensis	Microorganism	MockLabel
+1418	1426	ND1-1(T)	Microorganism	MockLabel
+1429	1441	JCM 14472(T)	Microorganism	MockLabel
+1442	1452	PCU 301(T)	Microorganism	MockLabel
+1453	1466	TISTR 1810(T)	Microorganism	MockLabel

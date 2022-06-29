@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+37	58	lactic acid bacterium	Phenotype	MockLabel
+552	558;567	stress resistances	Phenotype	MockLabel
+563	578	hop resistances	Phenotype	MockLabel
+589	608	folate biosynthesis	Phenotype	MockLabel
+613	647	exopolysaccharide (EPS) production	Phenotype	MockLabel

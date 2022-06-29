@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+33	80	deficiency of the third component of complement	SpecificDisease	OMIM:613779
+130	143	C3 deficiency	SpecificDisease	OMIM:613779
+278	291	C3 deficiency	SpecificDisease	OMIM:613779
+506	519	C3 deficiency	SpecificDisease	OMIM:613779
+670	683	C3 deficiency	SpecificDisease	OMIM:613779
+791	804	C3 deficiency	SpecificDisease	OMIM:613779
+885	898	C3 deficiency	SpecificDisease	OMIM:613779

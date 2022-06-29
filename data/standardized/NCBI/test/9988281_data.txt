@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+56	87	non-inherited breast carcinomas	SpecificDisease	D001943
+125	131	tumour	Modifier	D009369
+152	188	hereditary breast and ovarian cancer	CompositeMention	D061325
+235	255	non-familial cancers	DiseaseClass	D009369
+296	312	sporadic cancers	DiseaseClass	D009369
+437	476	non-familial breast and ovarian cancers	CompositeMention	D001943|D010051
+996	1015	breast malignancies	SpecificDisease	D001943
+1123	1147	invasive lobular cancers	DiseaseClass	D018275
+1152	1179	low-grade ductal carcinomas	SpecificDisease	D044584
+1269	1286	ductal carcinomas	SpecificDisease	D044584
+1387	1410	sporadic breast cancers	SpecificDisease	D001943

@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+37	50	C9 deficiency	SpecificDisease	OMIM:613825
+101	113	C9-deficient	Modifier	OMIM:613825
+688	701	C9 deficiency	Modifier	OMIM:613825
+959	984	complete deficiency of C9	SpecificDisease	OMIM:613825
+1064	1077	C9 deficiency	SpecificDisease	OMIM:613825

@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+74	111	atrophic benign epidermolysis bullosa	SpecificDisease	D016109
+185	222	atrophic benign epidermolysis bullosa	SpecificDisease	D016109
+252	284	junctional epidermolysis bullosa	SpecificDisease	D016109
+303	313	blistering	SpecificDisease	D001768
+315	329	nail dystrophy	SpecificDisease	C538333
+331	346	patchy alopecia	SpecificDisease	C531609
+352	372	dental abnormalities	DiseaseClass	D014071
+374	388	Skin fragility	DiseaseClass	C536183
+536	573	atrophic benign epidermolysis bullosa	SpecificDisease	D016109

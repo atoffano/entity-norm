@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+132	145	kidney cancer	SpecificDisease	D007680
+147	159	Wilms tumour	SpecificDisease	D009396
+161	163	WT	SpecificDisease	D009396
+297	319	sporadic Wilms tumours	SpecificDisease	D009396
+378	398	Denys-Drash syndrome	SpecificDisease	D030321
+400	417	renal nephropathy	DiseaseClass	D007674
+419	434	gonadal anomaly	DiseaseClass	D006059
+436	456	predisposition to WT	DiseaseClass	D020022
+546	576	juvenile granulosa cell tumour	SpecificDisease	D006106
+578	611	non-asbestos related mesothelioma	SpecificDisease	D008654
+613	649	desmoplastic small round cell tumour	SpecificDisease	D058405
+670	692	acute myeloid leukemia	SpecificDisease	D015470

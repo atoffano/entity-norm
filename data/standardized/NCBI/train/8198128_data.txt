@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+65	82	Friedreich ataxia	SpecificDisease	D005621
+132	149	Friedreich ataxia	SpecificDisease	D005621
+151	155	FRDA	SpecificDisease	D005621
+167	192	neurodegenerative disease	DiseaseClass	D019636
+537	541	FRDA	Modifier	D005621
+647	651	FRDA	Modifier	D005621
+974	978	FRDA	SpecificDisease	D005621
+1030	1034	FRDA	Modifier	D005621
+1255	1259	FRDA	Modifier	D005621

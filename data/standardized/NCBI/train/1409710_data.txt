@@ -1,0 +1,7 @@
+start	end	mention	_class	labels
+0	29	von Willebrand disease type B	SpecificDisease	D014842
+92	106	von Willebrand	Modifier	D014842
+151	165	von Willebrand	Modifier	D014842
+565	594	von Willebrand disease type B	SpecificDisease	D014842
+902	931	von Willebrand disease type B	SpecificDisease	D014842
+1271	1300	von Willebrand disease type B	SpecificDisease	D014842

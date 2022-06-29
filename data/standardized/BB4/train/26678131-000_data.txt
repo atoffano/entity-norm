@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+11	29	Lactococcus lactis	Microorganism	1358
+32	52	Lactococcus garvieae	Microorganism	1363
+54	85	Leuconostoc pseudomesenteroides	Microorganism	33968
+87	107	Leuconostoc  citreum	Microorganism	33964
+109	125	Lactobacillus sp	Microorganism	1591
+127	148	Carnobacterium mobile	Microorganism	2750
+150	171	Enterococcus faecalis	Microorganism	1351
+174	194	Enterococcus faecium	Microorganism	1352
+196	220	Macrococcus caseolyticus	Microorganism	69966
+225	237	Hafnia alvei	Microorganism	569
+246	258	STEC O26:H11	Microorganism	244319
+246	250	STEC	Phenotype	OBT:000019
+313	325	STEC O157:H7	Microorganism	83334
+313	317	STEC	Phenotype	OBT:000019
+336	360	pasteurized milk cheeses	Habitat	OBT:001480|OBT:002173
+336	352	pasteurized milk	Habitat	OBT:001645|OBT:002173

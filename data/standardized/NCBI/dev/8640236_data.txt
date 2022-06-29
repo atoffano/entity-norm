@@ -1,0 +1,22 @@
+start	end	mention	_class	labels
+36	52	breast carcinoma	SpecificDisease	D001943
+63	70	cancers	DiseaseClass	D009369
+109	115	tumour	Modifier	D009369
+179	185	cancer	DiseaseClass	D009369
+248	254	cancer	DiseaseClass	D009369
+262	268	tumour	Modifier	D009369
+323	339	sporadic cancers	DiseaseClass	D009369
+456	490	familial breast and ovarian cancer	CompositeMention	D061325
+536	571	sporadic breast and ovarian cancers	CompositeMention	D001943|D010051
+665	681	breast carcinoma	SpecificDisease	D001943
+713	735	familial breast cancer	Modifier	D001943
+789	802	breast cancer	SpecificDisease	D001943
+879	885	tumour	Modifier	D009369
+971	984	breast cancer	SpecificDisease	D001943
+994	1001	tumours	DiseaseClass	D009369
+1195	1218	sporadic breast cancers	SpecificDisease	D001943
+1274	1280	tumour	Modifier	D009369
+1339	1346	cancers	DiseaseClass	D009369
+1357	1373	breast carcinoma	SpecificDisease	D001943
+1418	1435	pancreatic tumour	Modifier	D010190
+1493	1510	pancreatic cancer	SpecificDisease	D010190

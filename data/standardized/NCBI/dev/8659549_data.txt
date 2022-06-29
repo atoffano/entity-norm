@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+86	101	Canavan disease	SpecificDisease	D017825
+103	118	Canavan disease	SpecificDisease	D017825
+186	214	deficiency of aspartoacylase	SpecificDisease	D017825
+253	268	Canavan disease	SpecificDisease	D017825
+583	598	Canavan disease	SpecificDisease	D017825
+1251	1266	Canavan disease	SpecificDisease	D017825
+1742	1760	deficiency of ASPA	SpecificDisease	D017825
+1792	1807	Canavan disease	SpecificDisease	D017825

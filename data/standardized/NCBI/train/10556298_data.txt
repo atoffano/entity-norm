@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+89	101	Prader-Willi	Modifier	D011218
+110	131	Prader-Willi syndrome	SpecificDisease	D011218
+133	136	PWS	SpecificDisease	D011218
+151	172	neurogenetic disorder	DiseaseClass	D020271
+206	230	contiguous gene syndrome	DiseaseClass	D025063
+344	347	PWS	SpecificDisease	D011218
+496	499	PWS	SpecificDisease	D011218
+575	578	PWS	Modifier	D011218
+637	640	PWS	SpecificDisease	D011218
+764	767	PWS	SpecificDisease	D011218
+1471	1474	PWS	SpecificDisease	D011218

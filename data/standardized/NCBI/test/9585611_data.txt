@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+35	72	attenuated adenomatous polyposis coli	SpecificDisease	C538265
+101	106	tumor	Modifier	D009369
+140	177	attenuated adenomatous polyposis coli	SpecificDisease	C538265
+179	183	AAPC	SpecificDisease	C538265
+199	229	familial adenomatous polyposis	SpecificDisease	D011125
+231	234	FAP	SpecificDisease	D011125
+237	241	AAPC	SpecificDisease	C538265
+283	299	colonic adenomas	SpecificDisease	D018256
+321	338	colorectal cancer	SpecificDisease	D015179
+428	432	AAPC	Modifier	C538265
+515	518	APC	Modifier	D011125
+569	573	AAPC	Modifier	C538265
+653	656	APC	Modifier	D011125
+759	762	APC	Modifier	D011125
+899	918	colorectal adenomas	SpecificDisease	D018256
+1132	1140	adenomas	DiseaseClass	D000236
+1260	1264	AAPC	Modifier	C538265
+1305	1324	colorectal adenomas	SpecificDisease	D018256
+1329	1341	rectal polyp	Modifier	D011127
+1367	1381	desmoid tumors	SpecificDisease	D018222
+1438	1442	AAPC	Modifier	C538265
+1473	1476	APC	Modifier	D011125
+1631	1634	FAP	Modifier	D011125

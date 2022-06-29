@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+17	40	upper respiratory tract	Habitat	OBT:000936
+67	96	free-ranging gopher tortoises	Habitat	OBT:001828
+98	117	Gopherus polyphemus	Habitat	OBT:001828
+145	168	Upper respiratory tract	Habitat	OBT:000936
+191	206	gopher tortoise	Habitat	OBT:001828
+208	227	Gopherus polyphemus	Habitat	OBT:001828
+399	432	Georgia, USA tortoise populations	Habitat	OBT:001828
+578	606	Georgia tortoise populations	Habitat	OBT:001828
+925	934	tortoises	Habitat	OBT:001828
+1018	1027	tortoises	Habitat	OBT:001828
+1086	1095	tortoises	Habitat	OBT:001828
+1138	1147	tortoises	Habitat	OBT:001828
+1267	1283	gopher tortoises	Habitat	OBT:001828
+1376	1415	Georgia populations of gopher tortoises	Habitat	OBT:001828
+1643	1663	tortoise populations	Habitat	OBT:001828
+1732	1741	tortoises	Habitat	OBT:001828

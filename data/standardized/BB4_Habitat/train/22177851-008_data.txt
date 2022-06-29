@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+22	28	cheese	Habitat	OBT:001480
+69	75	cheese	Habitat	OBT:001480
+69	83	cheese surface	Habitat	OBT:001341
+186	192	cheese	Habitat	OBT:001480
+222	228	cheese	Habitat	OBT:001480
+322	328	cheese	Habitat	OBT:001480
+322	336	cheese surface	Habitat	OBT:001341
+400	406	cheese	Habitat	OBT:001480

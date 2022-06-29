@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+100	115	hemochromatosis	Modifier	D006432
+131	146	hemochromatosis	Modifier	D006432
+374	389	hemochromatosis	Modifier	D006432
+864	879	hemochromatosis	Modifier	D006432
+902	917	hemochromatosis	Modifier	D006432
+1909	1924	hemochromatosis	Modifier	D006432
+2154	2169	hemochromatosis	Modifier	D006432
+2399	2409	HFE defect	SpecificDisease	D006432

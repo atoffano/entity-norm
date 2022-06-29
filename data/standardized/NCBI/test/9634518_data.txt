@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+32	68	phenylalanine hydroxylase deficiency	SpecificDisease	OMIM:261600
+177	192	Phenylketonuria	SpecificDisease	D010661
+194	197	PKU	SpecificDisease	D010661
+203	229	mild hyperphenylalaninemia	SpecificDisease	D010661
+231	234	MHP	SpecificDisease	D010661
+240	257	allelic disorders	DiseaseClass	D030342
+413	427	PAH deficiency	SpecificDisease	OMIM:261600
+1442	1456	PAH deficiency	SpecificDisease	OMIM:261600
+1640	1661	hyperphenylalaninemia	SpecificDisease	D010661

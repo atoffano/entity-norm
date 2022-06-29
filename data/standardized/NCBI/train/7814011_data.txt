@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+46	60	Norrie disease	Modifier	C537849
+129	143	Norrie disease	Modifier	C537849
+145	147	ND	Modifier	C537849
+240	242	ND	SpecificDisease	C537849
+250	268	mental retardation	DiseaseClass	D008607
+272	290	hearing impairment	DiseaseClass	D034381
+371	373	ND	Modifier	C537849
+613	615	ND	Modifier	C537849
+700	702	ND	Modifier	C537849
+779	781	ND	Modifier	C537849

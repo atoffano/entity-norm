@@ -1,0 +1,8 @@
+start	end	mention	_class	labels
+68	101	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
+173	206	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
+208	212	EDMD	SpecificDisease	D020389
+1146	1161	cardiac defects	DiseaseClass	D006330
+1165	1169	EDMD	SpecificDisease	D020389
+1456	1460	EDMD	SpecificDisease	D020389
+1685	1689	EDMD	SpecificDisease	D020389

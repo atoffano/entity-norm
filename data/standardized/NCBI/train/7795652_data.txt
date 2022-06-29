@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+39	63	sporadic ovarian tumours	SpecificDisease	D010051
+122	149	autosomal dominant syndrome	DiseaseClass	D030342
+181	206	breast and ovarian cancer	CompositeMention	D061325
+235	242	tumours	DiseaseClass	D009369
+364	370	tumour	DiseaseClass	D009369
+398	413	ovarian cancers	SpecificDisease	D010051
+551	558	tumours	DiseaseClass	D009369
+652	658	tumour	Modifier	D009369
+783	798	ovarian cancers	SpecificDisease	D010051

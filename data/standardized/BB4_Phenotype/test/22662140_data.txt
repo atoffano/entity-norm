@@ -1,0 +1,5 @@
+start	end	mention	_class	labels
+25	52	defective sucrose fermenter	Phenotype	MockLabel
+462	498	altered sucrose fermenting phenotype	Phenotype	MockLabel
+774	783	virulence	Phenotype	MockLabel
+1240	1278	defective sucrose fermenting phenotype	Phenotype	MockLabel

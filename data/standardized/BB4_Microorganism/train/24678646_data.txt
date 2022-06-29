@@ -1,0 +1,24 @@
+start	end	mention	_class	labels
+59	80	Staphylococcus aureus	Microorganism	1280
+82	86	MRSA	Microorganism	1280
+113	125	Enterococcus	Microorganism	1350
+127	130	VRE	Microorganism	1350
+263	284	Staphylococcus aureus	Microorganism	1280
+286	290	MRSA	Microorganism	1280
+316	328	Enterococcus	Microorganism	1350
+330	333	VRE	Microorganism	1350
+553	557	MRSA	Microorganism	1280
+562	565	VRE	Microorganism	1350
+658	662	MRSA	Microorganism	1280
+834	837	VRE	Microorganism	1350
+1268	1272	MRSA	Microorganism	1280
+1290	1293	VRE	Microorganism	1350
+1413	1417	MRSA	Microorganism	1280
+1454	1457	VRE	Microorganism	1350
+1523	1527	MRSA	Microorganism	1280
+1532	1535	VRE	Microorganism	1350
+1599	1603	MRSA	Microorganism	1280
+1651	1654	VRE	Microorganism	1350
+1755	1759	MRSA	Microorganism	1280
+1950	1954	MRSA	Microorganism	1280
+1959	1962	VRE	Microorganism	1350

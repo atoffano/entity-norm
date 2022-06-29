@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+111	135	Wiskott-Aldrich syndrome	SpecificDisease	D014923
+141	165	Wiskott-Aldrich syndrome	SpecificDisease	D014923
+167	170	WAS	SpecificDisease	D014923
+176	209	X-linked immunodeficiency disease	DiseaseClass	D007153+D040181
+268	271	WAS	Modifier	D014923
+443	446	WAS	Modifier	D014923
+608	611	WAS	Modifier	D014923
+662	665	WAS	SpecificDisease	D014923
+1291	1316	isolated thrombocytopenia	SpecificDisease	D013921
+1381	1384	WAS	Modifier	D014923
+1672	1675	WAS	SpecificDisease	D014923

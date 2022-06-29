@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+15	34	Helicobacter pylori	Microorganism	MockLabel
+192	206	gastroduodenal	Habitat	MockLabel
+192	215	gastroduodenal pathogen	Phenotype	MockLabel
+216	235	Helicobacter pylori	Microorganism	MockLabel
+263	273	epithelial	Habitat	MockLabel
+263	278	epithelial cell	Habitat	MockLabel
+442	451	H. pylori	Microorganism	MockLabel
+1407	1416	H. pylori	Microorganism	MockLabel
+1453	1462	H. pylori	Microorganism	MockLabel
+1463	1475	pathogenesis	Phenotype	MockLabel

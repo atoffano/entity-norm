@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+70	88	myotonic dystrophy	SpecificDisease	D009223
+90	108	Myotonic dystrophy	SpecificDisease	D009223
+110	112	DM	SpecificDisease	D009223
+147	165	muscular dystrophy	SpecificDisease	D009136
+263	278	muscle weakness	DiseaseClass	D018908
+283	311	sustained muscle contraction	DiseaseClass	D009120
+712	714	DM	Modifier	D009223
+1154	1156	DM	SpecificDisease	D009223

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+20	38	endometrial cancer	SpecificDisease	D016889
+111	118	tumours	DiseaseClass	D009369
+190	216	microsatellite instability	SpecificDisease	D053842
+287	328	hereditary nonpolyposis colorectal cancer	Modifier	D003123
+330	335	HNPCC	Modifier	D003123
+352	368	sporadic tumours	DiseaseClass	D009369
+639	661	endometrial carcinomas	SpecificDisease	D016889
+857	878	endometrial carcinoma	SpecificDisease	D016889
+889	910	endometrial carcinoma	Modifier	D016889
+1601	1608	tumours	DiseaseClass	D009369

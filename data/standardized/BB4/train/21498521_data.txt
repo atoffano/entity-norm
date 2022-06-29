@@ -1,0 +1,17 @@
+start	end	mention	_class	labels
+17	32	Vibrio fischeri	Microorganism	668
+106	121	Vibrio fischeri	Microorganism	668
+125	139	bioluminescent	Phenotype	OBT:000055
+140	146	marine	Habitat	OBT:000338
+171	203	exclusive symbiotic relationship	Phenotype	OBT:003183
+213	235	Hawaiian bobtail squid	Habitat	OBT:003123
+237	254	Euprymna scolopes	Habitat	OBT:003123
+262	273	light organ	Habitat	OBT:000708
+371	382	V. fischeri	Microorganism	668
+424	452	juvenile squid's light organ	Habitat	OBT:000708
+424	438	juvenile squid	Habitat	OBT:003123|OBT:001849
+586	603	V. fischeri ES114	Microorganism	312309
+682	766	microheterogeneous mixture of mono- and diphosphorylated diglucosamine disaccharides	Habitat	OBT:000007
+1691	1702	V. fischeri	Microorganism	668
+1739	1750	E. scolopes	Habitat	OBT:003123
+1768	1777	symbiotic	Phenotype	OBT:003183

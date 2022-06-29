@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+50	72	Listeria monocytogenes	Microorganism	MockLabel
+125	147	Listeria monocytogenes	Microorganism	MockLabel
+151	178	responsible for listeriosis	Phenotype	MockLabel
+193	204	saprophytic	Phenotype	MockLabel
+397	413	L. monocytogenes	Microorganism	MockLabel
+1056	1072	L. monocytogenes	Microorganism	MockLabel
+1157	1176	bacterial virulence	Phenotype	MockLabel
+1459	1475	L. monocytogenes	Microorganism	MockLabel

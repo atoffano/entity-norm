@@ -1,0 +1,27 @@
+start	end	mention	_class	labels
+37	42	Φ st1	Microorganism	12333
+62	101	Salmonella enterica serovar Typhimurium	Microorganism	90371
+132	174	Salmonella Typhimurium lytic bacteriophage	Microorganism	12333
+132	154	Salmonella Typhimurium	Microorganism	90371
+176	181	Φ st1	Microorganism	12333
+279	289	Salmonella	Microorganism	590
+321	326	Φ st1	Microorganism	12333
+371	383	Siphoviridae	Microorganism	10699
+392	397	Φ st1	Microorganism	12333
+505	519	S. Typhimurium	Microorganism	90371
+524	532	S. Hadar	Microorganism	149385
+616	621	Φ st1	Microorganism	12333
+630	644	S. Typhimurium	Microorganism	90371
+657	662	Φ st1	Microorganism	12333
+941	955	S. Typhimurium	Microorganism	90371
+1037	1042	Φ st1	Microorganism	12333
+1167	1172	Φ st1	Microorganism	12333
+1332	1337	Φ st1	Microorganism	12333
+1452	1466	S. Typhimurium	Microorganism	90371
+1499	1513	S. Typhimurium	Microorganism	90371
+1557	1567	Salmonella	Microorganism	590
+1634	1648	S. Typhimurium	Microorganism	90371
+1715	1725	Salmonella	Microorganism	590
+1821	1826	Φ st1	Microorganism	12333
+1941	1946	Φ st1	Microorganism	12333
+2003	2013	Salmonella	Microorganism	590

@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+14	29	hypomyelination	SpecificDisease	D003711
+34	50	glial cell death	SpecificDisease	D004194
+314	331	genetic disorders	DiseaseClass	D030342
+462	490	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
+546	603	degeneration and premature cell death of oligodendrocytes	CompositeMention	D056784
+620	635	hypomyelination	SpecificDisease	D003711
+831	847	myelin-deficient	SpecificDisease	D003711
+937	952	Hypomyelination	SpecificDisease	D003711
+1010	1038	oligodendrocyte degeneration	SpecificDisease	D056784
+1228	1256	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080

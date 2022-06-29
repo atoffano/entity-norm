@@ -1,0 +1,52 @@
+start	end	mention	_class	labels
+0	20	Aurioscope earpieces	Habitat	MockLabel
+76	111	non disposable aurioscope earpieces	Habitat	MockLabel
+120	148	community paediatric clinics	Habitat	MockLabel
+158	168	pathogenic	Phenotype	MockLabel
+209	221	pediatrician	Habitat	MockLabel
+276	309	contaminated aurioscope earpieces	Habitat	MockLabel
+327	347	aurioscope earpieced	Habitat	MockLabel
+385	412	community pediatric clinics	Habitat	MockLabel
+417	452	pediatricians' aurioscope earpieces	Habitat	MockLabel
+417	430	pediatricians	Habitat	MockLabel
+470	480;504	blood agar plates	Habitat	MockLabel
+470	475	blood	Habitat	MockLabel
+470	480	blood agar	Habitat	MockLabel
+485	510	mannitol-salt-agar plates	Habitat	MockLabel
+485	503	mannitol-salt-agar	Habitat	MockLabel
+535	544	earpieces	Habitat	MockLabel
+570	580	blood agar	Habitat	MockLabel
+570	575	blood	Habitat	MockLabel
+570	587	blood agar plates	Habitat	MockLabel
+598	603	sheep	Habitat	MockLabel
+598	609	sheep blood	Habitat	MockLabel
+617	641	mannitol-salt-agar-plate	Habitat	MockLabel
+617	635	mannitol-salt-agar	Habitat	MockLabel
+674	682	earpiece	Habitat	MockLabel
+702	771	sterile cotton tipped applicator moistened in sterile saline solution	Habitat	MockLabel
+748	771	sterile saline solution	Habitat	MockLabel
+810	820	blood agar	Habitat	MockLabel
+810	815	blood	Habitat	MockLabel
+810	826	blood agar plate	Habitat	MockLabel
+834	858	mannitol-salt-agar-plate	Habitat	MockLabel
+834	852	mannitol-salt-agar	Habitat	MockLabel
+864	870	plates	Habitat	MockLabel
+1074	1094	aurioscope earpieces	Habitat	MockLabel
+1138	1160	contaminated earpieces	Habitat	MockLabel
+1186	1199	Staphylococci	Microorganism	MockLabel
+1235	1244	earpieces	Habitat	MockLabel
+1261	1281	Staphylococci aureus	Microorganism	MockLabel
+1282	1300	coagulase positive	Phenotype	MockLabel
+1314	1335	methicillin resistant	Phenotype	MockLabel
+1336	1345	S. aureus	Microorganism	MockLabel
+1347	1351	MRSA	Microorganism	MockLabel
+1347	1351	MRSA	Phenotype	MockLabel
+1354	1378	Non disposable earpieces	Habitat	MockLabel
+1402	1412	pathogenic	Phenotype	MockLabel
+1432	1436	MRSA	Microorganism	MockLabel
+1432	1436	MRSA	Phenotype	MockLabel
+1462	1492	children with immunodeficiency	Habitat	MockLabel
+1542	1552	physicians	Habitat	MockLabel
+1570	1578	hospital	Habitat	MockLabel
+1648	1656	patients	Habitat	MockLabel
+1658	1682	Non disposable earpieces	Habitat	MockLabel

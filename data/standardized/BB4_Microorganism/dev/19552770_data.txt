@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+29	42	Campylobacter	Microorganism	194
+119	137	Campylobacter spp.	Microorganism	194
+400	418	Campylobacter spp.	Microorganism	194
+480	498	Campylobacter spp.	Microorganism	194
+615	633	Campylobacter spp.	Microorganism	194
+757	775	Campylobacter coli	Microorganism	195
+857	877	Campylobacter jejuni	Microorganism	197
+892	910	Campylobacter lari	Microorganism	201
+1117	1135	Campylobacter spp.	Microorganism	194
+1243	1261	Campylobacter coli	Microorganism	195
+1348	1361	Campylobacter	Microorganism	194

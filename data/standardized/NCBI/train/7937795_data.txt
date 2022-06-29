@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+29	43	ovarian cancer	Modifier	D010051
+139	154	ovarian cancers	SpecificDisease	D010051
+189	202	ovarian tumor	Modifier	D010051
+354	379	serous cystadenocarcinoma	SpecificDisease	D018284
+558	572	ovarian tumors	SpecificDisease	D010051
+701	706	tumor	Modifier	D009369
+779	792	ovarian tumor	SpecificDisease	D010051
+937	978	hereditary nonpolyposis colorectal cancer	SpecificDisease	D003123
+1238	1251	ovarian tumor	SpecificDisease	D010051
+1374	1379	tumor	DiseaseClass	D009369
+1549	1563	ovarian cancer	SpecificDisease	D010051

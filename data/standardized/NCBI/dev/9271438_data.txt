@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+4	27	von Hippel-Lindau tumor	Modifier	D006623
+140	163	von Hippel-Lindau tumor	Modifier	D006623
+229	260	clear-cell renal cell carcinoma	SpecificDisease	C538445
+262	265	RCC	SpecificDisease	D002292
+309	363	von Hippel-Lindau disease-associated and sporadic RCCs	CompositeMention	D006623
+458	510	RCC- and von Hippel-Lindau disease-associated tumors	CompositeMention	D006623
+756	759	RCC	Modifier	D002292
+1474	1477	RCC	Modifier	D002292
+1831	1856	von Hippel-Lindau disease	SpecificDisease	D006623
+1861	1864	RCC	SpecificDisease	D002292

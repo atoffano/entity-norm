@@ -1,0 +1,9 @@
+start	end	mention	_class	labels
+0	18	Huntington disease	SpecificDisease	D006816
+79	97	Huntington disease	SpecificDisease	D006816
+99	101	HD	SpecificDisease	D006816
+619	621	HD	SpecificDisease	D006816
+823	825	HD	SpecificDisease	D006816
+966	968	HD	Modifier	D006816
+1209	1211	HD	SpecificDisease	D006816
+1358	1360	HD	SpecificDisease	D006816

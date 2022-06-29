@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+0	17	Macular dystrophy	SpecificDisease	D008268
+70	90	retinal degeneration	Modifier	D012162
+141	161	retinal degeneration	Modifier	D012162
+244	283	autosomal dominant retinitis pigmentosa	SpecificDisease	D012174
+584	601	macular dystrophy	SpecificDisease	D008268
+892	903	visual loss	SpecificDisease	C531604
+967	982	central scotoma	SpecificDisease	D012607
+1003	1044	atrophy of the retinal pigment epithelium	SpecificDisease	C536309
+1049	1079	choriocapillaris of the macula	SpecificDisease	D008268
+1712	1729	macular dystrophy	SpecificDisease	D008268
+1756	1772	cone dysfunction	DiseaseClass	OMIM:180020

@@ -1,0 +1,57 @@
+start	end	mention	_class	labels
+41	49	children	Habitat	OBT:003188
+210	246	children less than five years of age	Habitat	OBT:003188
+277	293	study population	Habitat	OBT:003188
+307	329	children with diarrhea	Habitat	OBT:003188|OBT:003156
+338	366	age-matched healthy controls	Habitat	OBT:003188|OBT:002712
+390	399	pathogens	Phenotype	OBT:002806
+502	527	antibiotic susceptibility	Phenotype	OBT:002675
+697	705	pathogen	Phenotype	OBT:002806
+733	755	children with diarrhea	Habitat	OBT:003156|OBT:003188
+767	784	group A rotavirus	Microorganism	28875
+786	799	diarrheagenic	Phenotype	OBT:002806
+800	816	Escherichia coli	Microorganism	562
+818	830	Shigella spp	Microorganism	620
+836	851	enterotoxigenic	Phenotype	OBT:002806
+852	872	Bacteroides fragilis	Microorganism	817
+941	955	Salmonella spp	Microorganism	590
+959	974	Vibrio cholerae	Microorganism	666
+990	999	Rotavirus	Microorganism	10912
+1004	1017	diarrheagenic	Phenotype	OBT:002806
+1018	1025	E. coli	Microorganism	562
+1046	1081	children less than two years of age	Habitat	OBT:003184|OBT:003156
+1089	1101	Shigella spp	Microorganism	620
+1107	1122	enterotoxigenic	Phenotype	OBT:002806
+1123	1134	B. fragilis	Microorganism	817
+1159	1173	older children	Habitat	OBT:003188|OBT:003156
+1175	1188	Diarrheagenic	Phenotype	OBT:002806
+1189	1196	E. coli	Microorganism	562
+1201	1213	Shigella spp	Microorganism	620
+1240	1253;1290	resistance to trimethoprim/sulfamethoxazole	Phenotype	OBT:002844
+1240	1264	resistance to ampicillin	Phenotype	OBT:002762
+1240	1253;1266	resistance to chloramphenicol	Phenotype	OBT:002772
+1321	1353	Children attending the hospitals	Habitat	OBT:003269|OBT:003188
+1344	1353	hospitals	Habitat	OBT:002714
+1416	1428	Watery stool	Habitat	OBT:001102
+1485	1497	mucous stool	Habitat	OBT:001102
+1485	1491	mucous	Habitat	OBT:001220
+1528	1534	stools	Habitat	OBT:001102
+1604	1613	hospitals	Habitat	OBT:002714
+1631	1639	children	Habitat	OBT:003188|OBT:003269
+1682	1690	children	Habitat	OBT:003188|OBT:003269
+1746	1757	piped water	Habitat	OBT:001530
+1764	1771	latrine	Habitat	OBT:000702
+1807	1814	mothers	Habitat	OBT:003491
+1864	1872	children	Habitat	OBT:003188|OBT:003269
+1894	1901	mothers	Habitat	OBT:003491
+2025	2042	Group A rotavirus	Microorganism	28875
+2044	2057	diarrheagenic	Phenotype	OBT:002806
+2058	2074	Escherichia coli	Microorganism	562
+2076	2088	Shigella spp	Microorganism	620
+2094	2109	enterotoxigenic	Phenotype	OBT:002806
+2110	2130	Bacteroides fragilis	Microorganism	817
+2177	2185	children	Habitat	OBT:003188
+2245	2256	fresh water	Habitat	OBT:002455
+2245	2263	fresh water supply	Habitat	OBT:001082
+2265	2287	unhygienic septic tank	Habitat	OBT:003116
+2422	2430	children	Habitat	OBT:003188

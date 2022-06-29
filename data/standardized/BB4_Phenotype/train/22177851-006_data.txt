@@ -1,0 +1,6 @@
+start	end	mention	_class	labels
+24	41	protease-negative	Phenotype	OBT:000019
+687	700	Gram-negative	Phenotype	OBT:000648
+900	929	sensitivity to 24 antibiotics	Phenotype	OBT:002675
+934	964	production of biogenic  amines	Phenotype	OBT:000019
+991	1023	growth under anaerobic condition	Phenotype	OBT:000189
