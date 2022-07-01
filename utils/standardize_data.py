@@ -11,9 +11,9 @@ def main():
 
             Parameters:
                     Console arguments
-                    -i / --input (str) : Input path containing files to convert. Handles folder containing multiple datasets.
-                    -o / --output (str): Output path for both standardized and converted formats.
-                    -f / --from (str) : Input format.
+                    -i / --input (str) : Input directory containing dataset file(s). Currently handled formats include Bacteria Biotope 4, NCBI Disease Corpus.
+                    -o / --output (str): Converted dataset output directory
+                    -d / --frdatasetom (str) : Input dataset. Supported datasets: Bacteria Biotope 4 as [BB4] | NCBI Disease Corpus as [NCBI]
     '''
     # Construct the argument parser
     parser = argparse.ArgumentParser()

@@ -19,7 +19,7 @@ def main():
     help="Input directory containing dataset file(s).")
     parser.add_argument("-o", "--output", default=os.getcwd(),
     help="Output directory")
-    parser.add_argument("-e", "--exclude", required=True, nargs='+',
+    parser.add_argument("-s", "--separate", required=True, nargs='+',
     help="Type of entities to exclude from dataset. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.")
     args = vars(parser.parse_args())
     exclude(args)
@@ -28,7 +28,7 @@ def exclude(args):
     '''
     Iters over each line in each file contained in directory input. For each line, only saves those that refers to entities not blacklisted.
     '''
-    for entity in args['exclude']:
+    for entity in args['separate']:
         if entity not in ['Microorganism', 'Phenotype', 'Habitat']:
             raise Exception("Entity to exclude not recognized. Check spelling.")
     for directory in os.listdir(args['input']):    
@@ -37,11 +37,11 @@ def exclude(args):
             if not os.path.exists(f"{args['output']}/{directory}"):
                 os.makedirs(f"{args['output']}/{directory}")
             content = []
-            entities = args['exclude']
+            entities = args['separate']
             with open(file, 'r') as fh:
                 lines = fh.readlines()
             for line in lines:
-                if line.split("\t")[3] not in entities:
+                if line.split("\t")[3] in entities:
                     content.append(line)
             if len(content) > 1:
                 with open(args['output'] + f"/{directory}/" + file.split('/')[-1], 'a') as f:

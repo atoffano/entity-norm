@@ -2,11 +2,12 @@
 
 Comparative analysis of neural methods for entity normalization in the biological field.
 
-This repository is made to store all results and scripts obtained by adapting different neural methods for entity normalization in the biological field.
+This repository is made to store and make accessible all scripts and resulting data made to adapt different neural methods for entity normalization in the biological field.
 
 Results sheet can be found here : https://docs.google.com/spreadsheets/d/1dDVcLoVeu9MloluEPtpPtgt2v-_XlFCQ35QN0NUJbpg/edit?usp=sharing
 
-File format handlers can be found in the utils directory.
+Individual file format handlers can be found in the utils directory and used independently as needed.
+For convenience of use interactions can be made through the main.py script.
 
 # Requirements
 With the goal to make reproducing results as easy as possible, conda environements for both methods are directly available for installation through a .yaml configuration file.
@@ -14,7 +15,7 @@ With the goal to make reproducing results as easy as possible, conda environemen
 conda env create -f lightweight_env.yaml
 conda env create -f biosyn_env.yaml
 ```
-An installation using pip is also available for both environnements. Please use a virtual environnement per method if you plan to use both, as package conflicts may emerge.
+An installation using pip is also available for both environnements. Please use a unique virtual environnement per method if you plan to use both, as package conflicts may emerge.
 ```
 pip install biosyn_requirements.txt
 pip install lightweight_requirements.txt
