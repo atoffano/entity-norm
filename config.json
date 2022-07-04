@@ -28,7 +28,7 @@
   },
   "BioSyn": {
     "model_name_or_path": "",
-    "train_dictionary_path": "",
+    "train_dictionary_path": "data/knowledge_base/standardized/medic_06Jul2012.txt",
     "train_dir": "",
     "output_dir": "",
     "max_length": 25,
