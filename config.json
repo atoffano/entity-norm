@@ -1,5 +1,6 @@
 {
   "lightweight": {
+    "model_name": "",
     "dataset": "ncbi",
     "sentence_length": 20,
     "character_length": 100,
@@ -27,16 +28,13 @@
     "add_prior": false
   },
   "BioSyn": {
-    "model_name_or_path": "",
-    "train_dictionary_path": "data/knowledge_base/standardized/medic_06Jul2012.txt",
-    "train_dir": "",
-    "output_dir": "",
+    "model_name": "",
     "max_length": 25,
-    "seed": "0",
+    "seed": None,
     "use_cuda": true,
-    "draft": "",
-    "topk": "20",
-    "learning_rate": 0.0001,
+    "draft": true,
+    "topk": 20,
+    "learning_rate": 1e-5,
     "weight_decay": 0.01,
     "train_batch_size": 16,
     "epoch": 10,

@@ -12,7 +12,6 @@ def main():
                     Console arguments
                     -i / --input (str) : Input path containing files to convert. Handles folder containing multiple datasets.
                     -o / --output (str): Output path for both standardized and converted formats.
-                    -f / --from (str) : Input format.
                     -t / --to (str) : Output format.
     '''
     # Construct the argument parser
@@ -23,12 +22,12 @@ def main():
     parser.add_argument("-o", "--output", default=os.getcwd(),
     help="Converted dataset output directory")
     parser.add_argument("-t", "--to", required=True,
-    help="Dataset output format. Supported formats: Bacteria Biotope 4 as [BB4] | NCBI Disease Corpus as [NCBI]")
+    help="Dataset output format. Supported formats: Bacteria Biotope 4 as 'BB4' | NCBI Disease Corpus as 'ncbi-disease'")
     args = vars(parser.parse_args())
 
     loc = args['input']
     for dataset in os.listdir(f"{loc}"):
-        if args['to'] == 'NCBI':
+        if args['to'] == 'ncbi-disease':
                 to_NCBI(args, dataset)
         elif args['to'] == 'BB4':
                 to_BB4(args, dataset)
@@ -68,21 +67,18 @@ def to_NCBI(args, dataset):
                     args (dict): Console arguments
                     dataset (str): Indicates which dataset from test train or dev is being transformed.. 
     '''
-    if dataset == "dev":
-        outfile = "NCBIdevelopset_corpus.txt"
-    else:
-        outfile = f"NCBI{dataset}set_corpus.txt"
-    if args['from'] == 'STD':
-        input_dir = f"{args['input']}/{dataset}"
-        output_dir = f"{args['output']}/{args['input'].split('/')[-1]}_to_NCBI"
-    else:
-        input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
-        output_dir = f"{args['output']}/{args['from']}_to_NCBI"
-    if not os.path.exists(output_dir):
-        os.mkdir(output_dir)
-    for file in glob.glob(f"{input_dir}/*_header.txt"):
+    outfile = f"{dataset}set_corpus.txt"
+    # if args['from'] == 'STD':
+    #     input_dir = f"{args['input']}/{dataset}"
+    #     output_dir = f"{args['output']}/{args['input'].split('/')[-1]}_to_NCBI"
+    # else:
+        # input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
+        # output_dir = f"{args['output']}/{args['from']}_to_NCBI"
+    if not os.path.exists(args.output):
+        os.makedirs(args.output)
+    for file in glob.glob(f"{args.input}/*_header.txt"):
         pmid, title, abstract, data = extract(filename=file)
-        with open(f"{output_dir}/{outfile}", 'a') as f:
+        with open(f"{args.output}/{outfile}", 'a') as f:
             f.write(f"\n{pmid}|t|{title}{pmid}|a|{abstract}")
             for line in data:
                 line = "\t".join(line)
@@ -96,12 +92,14 @@ def to_BB4(args, dataset):
                     args (dict): Console arguments
                     dataset (str): Indicates which dataset from test train or dev is being transformed.. 
     '''
-    if args['from'] == 'STD':
-        input_dir = f"{args['input']}/{dataset}"
-        output_dir = f"{args['output']}/{args['input'].split('_')[-1]}_to_BB4/{dataset}"
-    else:
-        input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
-        output_dir = f"{args['output']}/{args['from']}_to_BB4/{dataset}"
+    # if args['from'] == 'STD':
+    #     input_dir = f"{args['input']}/{dataset}"
+    #     output_dir = f"{args['output']}/{args['input'].split('_')[-1]}_to_BB4/{dataset}"
+    # else:
+    #     input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
+    #     output_dir = f"{args['output']}/{args['from']}_to_BB4/{dataset}"
+    input_dir = f"{args.input}/dataset"
+    output_dir = f"{args.output}/dataset"
     os.makedirs(output_dir)
     for file in glob.glob(f"{input_dir}/*_header.txt"):
         pmid, title, abstract, data = extract(filename=file)
