@@ -156,7 +156,7 @@ def run(base_dir, args, params, run_nb):
     '--max_length', params['max_length']], capture_output=True, text=True)
     print('Prediction done.')
 
-def cleanup(base_dir, args, params, run_nb):
+def cleanup(base_dir, args, run_nb):
     dt = date.today()
     print(f'Cleaning up BioSyn directory and moving all outputs to {base_dir}/results/BioSyn/{args.input}-{dt}')
     os.makedirs(f'{base_dir}/results/BioSyn/{args.input}-{dt}')
