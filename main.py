@@ -80,7 +80,7 @@ def router(args):
         if args.method == 'BioSyn':
             utils.biosyn.setup(base_dir, input_std_data, args)
             utils.biosyn.run(base_dir, input_std_data, args, run_nb)
-            utils.biosyn.cleanup(base_dir, input_std_data, args, run_nb)
+            utils.biosyn.cleanup(base_dir, args, run_nb)
 
         elif args.method == 'Lighweight':
 
