@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+157	180	rinds of old VB cheeses	Habitat	MockLabel
+166	180	old VB cheeses	Habitat	MockLabel
+198	205	cellars	Habitat	MockLabel
+346	353	cellars	Habitat	MockLabel
+437	467	Danish surface-ripened cheeses	Habitat	MockLabel
+524	538	Fontina cheese	Habitat	MockLabel
+524	544	Fontina cheese rinds	Habitat	MockLabel
+749	754	Brine	Habitat	MockLabel
+756	765	personnel	Habitat	MockLabel
+771	780	equipment	Habitat	MockLabel

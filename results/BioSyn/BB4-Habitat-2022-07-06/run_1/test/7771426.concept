@@ -1,0 +1,11 @@
+7771426||93|106||Habitat||peptic ulcers||MockLabel
+7771426||351|371;400||Habitat||patients with active peptic ulcer disease and H. pylori infection||MockLabel
+7771426||351|364;424||Habitat||patients with ulcer-like dyspepsia and H. pylori infection||MockLabel
+7771426||351|364;384||Habitat||patients with healed peptic ulcer disease and H. pylori infection||MockLabel
+7771426||400|412||Habitat||peptic ulcer||MockLabel
+7771426||424|429||Habitat||ulcer||MockLabel
+7771426||730|738||Habitat||patients||MockLabel
+7771426||770|778||Habitat||patients||MockLabel
+7771426||908|942||Habitat||patients with active peptic ulcers||MockLabel
+7771426||922|942||Habitat||active peptic ulcers||MockLabel
+7771426||1277|1290||Habitat||peptic ulcers||MockLabel

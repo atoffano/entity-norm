@@ -1,0 +1,36 @@
+start	end	mention	_class	labels
+0	11	Neutrophils	Habitat	OBT:003004
+99	103	cell	Habitat	OBT:000061
+148	153	human	Habitat	OBT:002488
+148	174	human innate immune system	Habitat	OBT:000686
+213	224	macrophages	Habitat	OBT:002995
+229	257	polymorphonuclear leukocytes	Habitat	OBT:001134
+259	270	neutrophils	Habitat	OBT:003004
+274	278	PMNs	Habitat	OBT:001134
+390	396	humans	Habitat	OBT:002488
+540	558	murine macrophages	Habitat	OBT:002995
+540	546;563	murine dendritic cells	Habitat	OBT:002785
+540	546	murine	Habitat	OBT:002530
+624	634	neutrophil	Habitat	OBT:003004
+804	838	human monocyte-derived macrophages	Habitat	OBT:002995
+804	809	human	Habitat	OBT:002488
+840	844	HMDM	Habitat	OBT:002995
+850	861	neutrophils	Habitat	OBT:003004
+916	921	HMDMs	Habitat	OBT:002995
+938	955	human neutrophils	Habitat	OBT:003004
+938	943	human	Habitat	OBT:002488
+1017	1020	PMN	Habitat	OBT:001134
+1100	1103	PMN	Habitat	OBT:001134
+1142	1152	human PMNs	Habitat	OBT:001134
+1142	1147	human	Habitat	OBT:002488
+1282	1286	cell	Habitat	OBT:000706
+1294	1297	PMN	Habitat	OBT:001134
+1495	1498	PMN	Habitat	OBT:001134
+1575	1583	PMN cell	Habitat	OBT:001134
+1763	1780	human neutrophils	Habitat	OBT:003004
+1763	1768	human	Habitat	OBT:002488
+1802	1805	PMN	Habitat	OBT:001134
+1903	1911	PMN cell	Habitat	OBT:001134
+1958	1961	PMN	Habitat	OBT:001134
+2008	2013	human	Habitat	OBT:002488
+2057	2060	PMN	Habitat	OBT:001134

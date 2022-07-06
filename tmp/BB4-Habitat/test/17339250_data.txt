@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+27	77	patients treated for Helicobacter pylori infection	Habitat	MockLabel

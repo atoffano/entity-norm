@@ -1,0 +1,2 @@
+start	end	mention	_class	labels
+0	5	Dairy	Habitat	OBT:001208

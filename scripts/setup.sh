@@ -1,15 +1,24 @@
+#!/bin/bash
+cd "${0%/*}"
 cd ..
-    
 # BioSyn
 git clone https://github.com/dmis-lab/BioSyn.git
+echo Modding BioSyn..
 rm BioSyn/eval.py BioSyn/utils.py
-cp utils/mods/BioSyn/* ./BioSyn
+cp -r utils/mods/BioSyn/* ./BioSyn
+echo Installing package BioSyn
+cd BioSyn
+python setup.py develop
+cd ..
+echo BioSyn init done!
 
 # Lightweight
 git clone https://github.com/tigerchen52/Biomedical-Entity-Linking.git
+echo Modding LightWeight..
 rm Biomedical-Entity-Linking/source/data_utils.py
 rm Biomedical-Entity-Linking/source/train.py
 rm Biomedical-Entity-Linking/source/generate_candidate.py
 rm Biomedical-Entity-Linking/source/load_data.py
-cp utils/mods/Lightweight/input/* Biomedical-Entity-Linking/input
-cp utils/mods/Lightweight/source/* Biomedical-Entity-Linking/source
+cp -r utils/mods/Lightweight/input/* Biomedical-Entity-Linking/input
+cp -r utils/mods/Lightweight/source/* Biomedical-Entity-Linking/source
+echo Lightweight init done!

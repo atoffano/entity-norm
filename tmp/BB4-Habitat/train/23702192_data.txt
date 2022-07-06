@@ -1,0 +1,21 @@
+start	end	mention	_class	labels
+273	278	colon	Habitat	OBT:001496
+407	492	inpatient cases of CDI (48.6% female; median age, 62.5 years; range, 0.1-103.7 years)	Habitat	OBT:003269
+500	511	Mayo Clinic	Habitat	OBT:002694
+550	586	Patients with severe-complicated CDI	Habitat	OBT:003269
+652	671	intensive care unit	Habitat	OBT:000328
+907	928	hospitalized patients	Habitat	OBT:003269
+907	919	hospitalized	Habitat	OBT:002714
+968	978	inpatients	Habitat	OBT:003269
+1134	1157	population-based cohort	Habitat	OBT:003269
+1360	1370	inpatients	Habitat	OBT:003269
+1388	1397	leukocyte	Habitat	OBT:000706
+1431	1436	serum	Habitat	OBT:000524
+1646	1654	patients	Habitat	OBT:003269
+1786	1796	leukocytes	Habitat	OBT:000706
+1800	1813	blood samples	Habitat	OBT:000521
+1828	1833	serum	Habitat	OBT:000524
+1855	1862	gastric	Habitat	OBT:001792
+1855	1867	gastric acid	Habitat	OBT:000640
+1989	2001	hospitalized	Habitat	OBT:002714
+1989	2010	hospitalized patients	Habitat	OBT:003269

@@ -1,4 +1,4 @@
-name: BioSyn
+name: bs
 channels:
   - pytorch
   - conda-forge

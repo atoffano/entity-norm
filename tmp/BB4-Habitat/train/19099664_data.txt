@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+59	74	hematology ward	Habitat	OBT:000097
+172	190	hematological ward	Habitat	OBT:000097
+213	243	patients received chemotherapy	Habitat	OBT:003220
+290	295;314	blood of patients who accepted chemotherapy	Habitat	OBT:000521
+297	302;314	urine of patients who accepted chemotherapy	Habitat	OBT:001367
+307	351	sputum of patients who accepted chemotherapy	Habitat	OBT:001335
+317	351	patients who accepted chemotherapy	Habitat	OBT:003220
+587	597	nosocomial	Habitat	OBT:000011
+1103	1113	nosocomial	Habitat	OBT:000011
+1127	1167	patients with hematological malignancies	Habitat	OBT:003220

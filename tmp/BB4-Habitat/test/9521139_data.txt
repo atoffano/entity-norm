@@ -1,0 +1,16 @@
+start	end	mention	_class	labels
+88	102	Chilean cities	Habitat	MockLabel
+133	147	nasopharyngeal	Habitat	MockLabel
+212	219	mucosal	Habitat	MockLabel
+293	335	patients admitted to three large hospitals	Habitat	MockLabel
+320	335	large hospitals	Habitat	MockLabel
+340	375	children attending day care centers	Habitat	MockLabel
+359	375	day care centers	Habitat	MockLabel
+383	397	Chilean cities	Habitat	MockLabel
+445	451	cities	Habitat	MockLabel
+577	591	nasopharyngeal	Habitat	MockLabel
+701	707	cities	Habitat	MockLabel
+712	740	children 0 to 2 years of age	Habitat	MockLabel
+867	881	Chilean cities	Habitat	MockLabel
+1117	1131	nasopharyngeal	Habitat	MockLabel
+1329	1336	vaccine	Habitat	MockLabel

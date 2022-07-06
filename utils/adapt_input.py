@@ -27,7 +27,7 @@ def main():
 
     loc = args['input']
     for dataset in os.listdir(f"{loc}"):
-        if args['to'] == 'ncbi-disease':
+        if args['to'] == 'ncbi-disease' or args['to'] == 'BioSyn':
                 to_NCBI(args, dataset)
         elif args['to'] == 'BB4':
                 to_BB4(args, dataset)
@@ -74,11 +74,11 @@ def to_NCBI(args, dataset):
     # else:
         # input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
         # output_dir = f"{args['output']}/{args['from']}_to_NCBI"
-    if not os.path.exists(args.output):
-        os.makedirs(args.output)
-    for file in glob.glob(f"{args.input}/*_header.txt"):
+    if not os.path.exists(args["output"]):
+        os.makedirs(args["output"])
+    for file in glob.glob(f'{args["input"]}/{dataset}/*_header.txt'):
         pmid, title, abstract, data = extract(filename=file)
-        with open(f"{args.output}/{outfile}", 'a') as f:
+        with open(f'{args["output"]}/{outfile}', 'a') as f:
             f.write(f"\n{pmid}|t|{title}{pmid}|a|{abstract}")
             for line in data:
                 line = "\t".join(line)
@@ -98,8 +98,8 @@ def to_BB4(args, dataset):
     # else:
     #     input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
     #     output_dir = f"{args['output']}/{args['from']}_to_BB4/{dataset}"
-    input_dir = f"{args.input}/dataset"
-    output_dir = f"{args.output}/dataset"
+    input_dir = f'{args["input"]}/dataset'
+    output_dir = f'{args["output"]}/dataset'
     os.makedirs(output_dir)
     for file in glob.glob(f"{input_dir}/*_header.txt"):
         pmid, title, abstract, data = extract(filename=file)

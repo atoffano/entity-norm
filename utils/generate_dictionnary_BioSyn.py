@@ -19,7 +19,7 @@ def from_obo():
             synonym.append(line.split('"')[1])
         elif line.startswith('is_a') and cui != False:
             if synonym != []:
-                label = label + "" + "".join(synonym)
+                label = label + "||" + "|".join(synonym)
             with open("/home/atoffano/Downloads/bb4_dictionnary/bb4_dict.txt", 'a') as f:
                 f.write(f"{cui}{label}\n")
             synonym = []

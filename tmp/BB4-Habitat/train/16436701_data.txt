@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+124	128	frog	Habitat	OBT:003052
+210	214	food	Habitat	OBT:000094
+994	1016	commercial apple juice	Habitat	OBT:003575

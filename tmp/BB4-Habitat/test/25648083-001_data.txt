@@ -1,0 +1,12 @@
+start	end	mention	_class	labels
+40	48	biofilms	Habitat	MockLabel
+52	63	glass tubes	Habitat	MockLabel
+103	153	sterile microscope slides under aerobic conditions	Habitat	MockLabel
+277	285	GI tract	Habitat	MockLabel
+340	347	biofilm	Habitat	MockLabel
+361	395	sterile microscope  slide surfaces	Habitat	MockLabel
+414	421	Biofilm	Habitat	MockLabel
+450	497	polystyrene 96 well plates using crystal violet	Habitat	MockLabel
+554	562	biofilms	Habitat	MockLabel
+648	655	biofilm	Habitat	MockLabel
+782	789	biofilm	Habitat	MockLabel

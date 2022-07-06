@@ -1,0 +1,11 @@
+start	end	mention	_class	labels
+129	146	red smear cheeses	Habitat	MockLabel
+148	155;169	Langres cheese	Habitat	MockLabel
+148	155;169	Langres cheese cores	Habitat	MockLabel
+160	181	Epoisses cheese cores	Habitat	MockLabel
+160	175	Epoisses cheese	Habitat	MockLabel
+261	279	Swiss-type cheeses	Habitat	MockLabel
+281	286;300	Comté cheese	Habitat	MockLabel
+281	286;300	Comté cheese cores	Habitat	MockLabel
+291	306	Beaufort cheese	Habitat	MockLabel
+291	312	Beaufort cheese cores	Habitat	MockLabel

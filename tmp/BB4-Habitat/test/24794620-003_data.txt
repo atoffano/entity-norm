@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+211	225	cheese surface	Habitat	MockLabel
+211	217	cheese	Habitat	MockLabel
+458	493	salt-tolerant bacterial communities	Habitat	MockLabel
+669	699	entire surface of the  cheeses	Habitat	MockLabel
+692	699	cheeses	Habitat	MockLabel
+750	762	cheese rinds	Habitat	MockLabel
+750	756	cheese	Habitat	MockLabel
+959	965	cheese	Habitat	MockLabel
+959	974	cheese surfaces	Habitat	MockLabel

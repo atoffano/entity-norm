@@ -1,0 +1,10 @@
+start	end	mention	_class	labels
+36	40	food	Habitat	MockLabel
+221	225	food	Habitat	MockLabel
+313	335	buffered peptone water	Habitat	MockLabel
+360	388	Rappaport-Vassiliadis medium	Habitat	MockLabel
+607	642	artificially contaminated ice cream	Habitat	MockLabel
+607	632;647	artificially contaminated salami samples	Habitat	MockLabel
+792	827	naturally contaminated food samples	Habitat	MockLabel
+1104	1142	food samples artificially contaminated	Habitat	MockLabel
+1440	1444	food	Habitat	MockLabel

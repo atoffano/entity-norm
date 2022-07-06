@@ -1,0 +1,57 @@
+10639454||134|159||Habitat||infected germfree piglets||MockLabel
+10639454||205|215||Habitat||intestinal||MockLabel
+10639454||219|234||Habitat||extraintestinal||MockLabel
+10639454||249|253||Habitat||pigs||MockLabel
+10639454||361|368||Habitat||porcine||MockLabel
+10639454||385|428||Habitat||newborn colostrum-deprived germfree piglets||MockLabel
+10639454||393|402||Habitat||colostrum||MockLabel
+10639454||610|614||Habitat||lung||MockLabel
+10639454||610|614;627||Habitat||lung inflammatory lesions||MockLabel
+10639454||619|647||Habitat||serosal inflammatory lesions||MockLabel
+10639454||619|626||Habitat||serosal||MockLabel
+10639454||703|710||Habitat||piglets||MockLabel
+10639454||740|768||Habitat||organs of inoculated piglets||MockLabel
+10639454||750|768||Habitat||inoculated piglets||MockLabel
+10639454||781|791||Habitat||intestinal||MockLabel
+10639454||849|854||Habitat||cecum||MockLabel
+10639454||859|864||Habitat||colon||MockLabel
+10639454||866|881||Habitat||Extraintestinal||MockLabel
+10639454||866|888||Habitat||Extraintestinal organs||MockLabel
+10639454||890|895||Habitat||lungs||MockLabel
+10639454||897|902||Habitat||liver||MockLabel
+10639454||904|910||Habitat||spleen||MockLabel
+10639454||916|922||Habitat||kidney||MockLabel
+10639454||985|995;1016||Habitat||intestinal tissues||MockLabel
+10639454||985|995||Habitat||intestinal||MockLabel
+10639454||1000|1023||Habitat||extraintestinal tissues||MockLabel
+10639454||1000|1015||Habitat||extraintestinal||MockLabel
+10639454||1027|1064||Habitat||animals inoculated with either strain||MockLabel
+10639454||1093|1098||Habitat||ileum||MockLabel
+10639454||1160|1170;1272||Habitat||Intestinal tissues||MockLabel
+10639454||1160|1170||Habitat||Intestinal||MockLabel
+10639454||1172|1177||Habitat||ileum||MockLabel
+10639454||1182|1187||Habitat||colon||MockLabel
+10639454||1190|1205;1272||Habitat||extraintestinal tissues||MockLabel
+10639454||1190|1205||Habitat||extraintestinal||MockLabel
+10639454||1207|1211||Habitat||lung||MockLabel
+10639454||1216|1222||Habitat||kidney||MockLabel
+10639454||1229|1235;1272||Habitat||immune tissues||MockLabel
+10639454||1237|1259||Habitat||mesenteric lymph nodes||MockLabel
+10639454||1264|1270||Habitat||spleen||MockLabel
+10639454||1567|1584||Habitat||intestinal organs||MockLabel
+10639454||1567|1577||Habitat||intestinal||MockLabel
+10639454||1597|1617||Habitat||uninoculated piglets||MockLabel
+10639454||1621|1682||Habitat||piglets inoculated with nonpathogenic intestinal E. coli 862B||MockLabel
+10639454||1659|1669||Habitat||intestinal||MockLabel
+10639454||1719|1735||Habitat||intestinal tract||MockLabel
+10639454||1802|1812;1833||Habitat||intestinal organs||MockLabel
+10639454||1817|1839||Habitat||extraintestinal organs||MockLabel
+10639454||1843|1866;1891||Habitat||piglets inoculated with  M623DeltaCNF1||MockLabel
+10639454||1843|1887||Habitat||piglets inoculated with E. coli strains M623||MockLabel
+10639454||1920|1925||Habitat||ileum||MockLabel
+10639454||2079|2127||Habitat||immune tissues from piglets inoculated with M623||MockLabel
+10639454||2079|2122;2131||Habitat||immune tissues from piglets inoculated with  M623DeltaCNF1||MockLabel
+10639454||2099|2127||Habitat||piglets inoculated with M623||MockLabel
+10639454||2099|2122;2131||Habitat||piglets inoculated with M623DeltaCNF1||MockLabel
+10639454||2280|2316||Habitat||germfree, colostrum-deprived piglets||MockLabel
+10639454||2290|2299||Habitat||colostrum||MockLabel

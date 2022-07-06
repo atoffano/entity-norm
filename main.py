@@ -1,6 +1,5 @@
 import argparse, os
 import shutil
-import glob
 import subprocess
 import json
 import utils.biosyn
@@ -45,48 +44,54 @@ def main():
     router(args)
 
 def router(args):
-    for run_nb in range(1, args.runs):
+    for run_nb in range(1, args['runs']+1):
+        try:
+            shutil.rmtree(f"{base_dir}/tmp")
+        except:
+            pass
         os.mkdir(f"{base_dir}/tmp")
 
-        if args.raw:
-            if args.input not in ['ncbi-disease', 'BB4', 'BB4-Phenotype', 'BB4-Habitat', 'BB4-Microorganism']:
+        if args["raw"]:
+            if args["input"] not in ['ncbi-disease', 'BB4', 'BB4-Phenotype', 'BB4-Habitat', 'BB4-Microorganism']:
                 raise NotImplementedError()
-            if args.input in ['BB4-Phenotype', 'BB4-Habitat', 'BB4-Microorganism']:
+            if args["input"] in ['BB4-Phenotype', 'BB4-Habitat', 'BB4-Microorganism']:
                 bb4_subcategory = True
-            input_raw_data = f"{base_dir}/data/raw/BB4" if bb4_subcategory else f"{base_dir}/data/raw/{args.input}"
+            input_raw_data = f"{base_dir}/data/raw/BB4" if bb4_subcategory else f'{base_dir}/data/raw/{args["input"]}'
 
             # Converts raw data to a standart format
-            subprocess.run([
+            p = subprocess.run([
                 'python', f'{base_dir}/utils/standardize_data.py',
                 '-i', input_raw_data,
-                '-o', f'{base_dir}/tmp/{args.input}',
-                '-d', args.input], capture_output=True, text=True)
+                '-o', f'{base_dir}/tmp/{args["input"]}',
+                '-d', args["input"]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+            print( 'exit status:', p.returncode )
+            print( 'stdout:', p.stdout.decode() )
 
             # Separates BB4 data into subcategories
             if bb4_subcategory:
-                subprocess.run([
+                p = subprocess.run([
                     'python', f'{base_dir}/utils/bb4_exclude.py',
                     '-i', input_raw_data,
-                    '-o', f'{base_dir}/tmp/{args.input}',
-                    '-s', args.input.split('BB4-')[1]], capture_output=True, text=True)
+                    '-o', f'{base_dir}/tmp/{args["input"]}',
+                    '-s', args["input"].split('BB4-')[1]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+                print( 'exit status:', p.returncode )
+                print( 'stdout:', p.stdout.decode() )
         else:
-            shutil.copytree(f'{base_dir}/data/standardize/{args.input}', f'{base_dir}/tmp/{args.input}')
-        input_std_data = f'{base_dir}/tmp/{args.input}'
+            shutil.copytree(f'{base_dir}/data/standardized/{args["input"]}', f'{base_dir}/tmp/{args["input"]}')
+        input_std_data = f'{base_dir}/tmp/{args["input"]}'
 
 
         # Loads model parameters
         params = json.load(open('config.json', 'r'))
 
-        if args.method == 'BioSyn':
-            utils.biosyn.setup(base_dir, input_std_data, args)
-            utils.biosyn.run(base_dir, input_std_data, args, run_nb)
-            utils.biosyn.cleanup(base_dir, args, run_nb)
+        if args["method"] == 'BioSyn':
+            kb = utils.biosyn.setup(base_dir, input_std_data, args)
+            utils.biosyn.run(base_dir, args, params, kb, run_nb)
+            utils.biosyn.cleanup(base_dir, args, kb, run_nb)
 
-        elif args.method == 'Lighweight':
-
-
-
-
+        elif args["method"] == 'Lighweight':
+            pass
+    shutil.rmtree(f"{base_dir}/tmp")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+282	289	cheeses	Habitat	OBT:001480
+469	475	cheese	Habitat	OBT:001480
+469	480	cheese rind	Habitat	OBT:001481

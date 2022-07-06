@@ -1,0 +1,13 @@
+start	end	mention	_class	labels
+156	164	clinical	Habitat	OBT:003220
+434	442	clinical	Habitat	OBT:003220
+756	832	sera from patients with different clinical spectra and with other infections	Habitat	OBT:000524
+766	832	patients with different clinical spectra and with other infections	Habitat	OBT:003269
+1185	1193	clinical	Habitat	OBT:003220
+1203	1207	soil	Habitat	OBT:000427
+1217	1221	soil	Habitat	OBT:000427
+1339	1374	sera from patients with melioidosis	Habitat	OBT:000524
+1349	1374	patients with melioidosis	Habitat	OBT:003269
+1379	1396	hyperimmune mouse	Habitat	OBT:003211
+1379	1401	hyperimmune mouse sera	Habitat	OBT:000524
+1520	1537	microtiter plates	Habitat	OBT:000103

@@ -1,0 +1,3 @@
+start	end	mention	_class	labels
+135	153	surface of cheeses	Habitat	MockLabel
+146	153	cheeses	Habitat	MockLabel

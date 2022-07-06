@@ -1,0 +1,49 @@
+18094887||119|126||Habitat||animals||OBT:000193
+18094887||128|134||Habitat||humans||OBT:002488
+18094887||136|141||Habitat||ticks||OBT:001821
+18094887||147|152||Habitat||fleas||OBT:002034
+18094887||210|214||Habitat||flea||OBT:002034
+18094887||224|259||Habitat||adoratopsylla antiquorum antiquorum||OBT:002034
+18094887||261|288||Habitat||ctenocephalides felis felis||OBT:002034
+18094887||290|306||Habitat||polygenis atopus||OBT:002034
+18094887||308|325||Habitat||polygenis rimatus||OBT:002034
+18094887||327|352||Habitat||polygenis roberti roberti||OBT:002034
+18094887||354|370||Habitat||polygenis tripus||OBT:002034
+18094887||372|395||Habitat||rhopalopsyllus lugubris||OBT:002034
+18094887||401|427||Habitat||rhopalopsyllus lutzi lutzi||OBT:002034
+18094887||439|443||Habitat||tick||OBT:001821
+18094887||453|473||Habitat||amblyomma aureolatum||OBT:001821
+18094887||475|495||Habitat||amblyomma cajennense||OBT:001821
+18094887||497|516||Habitat||amblyomma dubitatum||OBT:001821
+18094887||518|534||Habitat||ixodes loricatus||OBT:001821
+18094887||540|564||Habitat||rhipicephalus sanguineus||OBT:002693
+18094887||586|590||Habitat||dogs||OBT:003092
+18094887||592|596||Habitat||cats||OBT:003086
+18094887||602|610||Habitat||opossums||OBT:002161
+18094887||669|674||Habitat||fleas||OBT:002034
+18094887||731|736||Habitat||ticks||OBT:001821
+18094887||745|751;761||Habitat||animal blood||OBT:000521
+18094887||745|751||Habitat||animal||OBT:000193
+18094887||755|766||Habitat||human blood||OBT:000521
+18094887||755|760||Habitat||human||OBT:002488
+18094887||813|819||Habitat||animal||OBT:000193
+18094887||813|819;830||Habitat||animal|sera||OBT:000007|OBT:000524
+18094887||824|829||Habitat||human||OBT:002488
+18094887||824|834||Habitat||human|sera||OBT:000524|OBT:000007
+18094887||964|971;995||Habitat||opossum|sera||OBT:000524|OBT:000007
+18094887||964|971||Habitat||opossum||OBT:002161
+18094887||973|976;995||Habitat||dog|sera||OBT:000007|OBT:000524
+18094887||973|976||Habitat||dog||OBT:003092
+18094887||978|983||Habitat||horse||OBT:003320
+18094887||978|983;995||Habitat||horse|sera||OBT:000524|OBT:000007
+18094887||989|999||Habitat||human|sera||OBT:000524|OBT:000007
+18094887||989|994||Habitat||human||OBT:002488
+18094887||1115|1119||Habitat||sera||OBT:000524|OBT:000007
+18094887||1219|1226;1243||Habitat||opossum|sera||OBT:000524|OBT:000007
+18094887||1219|1226||Habitat||opossum||OBT:002161
+18094887||1228|1231||Habitat||dog||OBT:003092
+18094887||1228|1231;1243||Habitat||dog|sera||OBT:000524|OBT:000007
+18094887||1237|1242||Habitat||horse||OBT:003320
+18094887||1237|1247||Habitat||horse|sera||OBT:000524|OBT:000007
+18094887||1415|1422||Habitat||animals||OBT:000193
+18094887||1430|1436||Habitat||humans||OBT:002488

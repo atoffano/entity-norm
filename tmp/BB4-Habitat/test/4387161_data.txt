@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+889	898	mammalian	Habitat	MockLabel
+889	904	mammalian liver	Habitat	MockLabel
+906	919	higher plants	Habitat	MockLabel

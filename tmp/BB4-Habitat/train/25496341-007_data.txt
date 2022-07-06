@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+62	68	cheese	Habitat	OBT:001480
+202	222	smear-ripened cheese	Habitat	OBT:003494
+297	316	manufacturing plant	Habitat	OBT:003251
