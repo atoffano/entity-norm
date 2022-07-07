@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-4	19	Epoisses cheese	Habitat	MockLabel

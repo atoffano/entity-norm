@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-4	18	Morbier cheese	Habitat	MockLabel
-645	659	Morbier cheese	Habitat	MockLabel
-1518	1532	Morbier cheese	Habitat	MockLabel
-1632	1652	bacterial population	Habitat	MockLabel
-1764	1783	microbial community	Habitat	MockLabel
-1784	1791	cheeses	Habitat	MockLabel
-1795	1809	Munster cheese	Habitat	MockLabel

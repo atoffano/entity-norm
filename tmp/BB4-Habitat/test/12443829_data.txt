@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-39	44	human	Habitat	MockLabel
-244	264	tissue culture cells	Habitat	MockLabel
-269	276	animals	Habitat	MockLabel
-736	742	humans	Habitat	MockLabel
-853	861	clinical	Habitat	MockLabel
-984	989	human	Habitat	MockLabel

@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-365	380	Scimudin cheese	Habitat	OBT:003522

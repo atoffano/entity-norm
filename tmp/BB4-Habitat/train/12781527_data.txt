@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-280	285	human	Habitat	OBT:002488
-280	302	human gastrointestinal	Habitat	OBT:000641

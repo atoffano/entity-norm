@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-8	22	dairy industry	Habitat	OBT:001988
-103	109	cheese	Habitat	OBT:001480
-114	121	yoghurt	Habitat	OBT:003241
-292	297	dairy	Habitat	OBT:001208
-844	855	YEL+ medium	Habitat	OBT:000007
-1135	1139	milk	Habitat	OBT:001645

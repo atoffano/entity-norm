@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-60	64	milk	Habitat	OBT:001645
-68	81	smear cheeses	Habitat	OBT:003494

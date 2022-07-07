@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-408	420	laboratories	Habitat	OBT:001169

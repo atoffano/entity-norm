@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-43	51	biofilms	Habitat	OBT:000054
-78	93	medical devices	Habitat	OBT:000108
-169	180	Biomaterial	Habitat	OBT:000108
-330	337	biofilm	Habitat	OBT:000054
-406	424	host immune system	Habitat	OBT:000321
-579	586	biofilm	Habitat	OBT:000054
-797	804	biofilm	Habitat	OBT:000054
-838	865	established mature biofilms	Habitat	OBT:000054

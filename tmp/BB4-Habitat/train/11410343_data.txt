@@ -1,8 +1,0 @@
-start	end	mention	_class	labels
-481	489	fructose	Habitat	OBT:000007
-579	587	biphenyl	Habitat	OBT:000007
-675	683	fructose	Habitat	OBT:000007
-786	794	biphenyl	Habitat	OBT:000007
-875	883	biphenyl	Habitat	OBT:000007
-923	938	fructose medium	Habitat	OBT:000007
-1081	1089	fructose	Habitat	OBT:000007

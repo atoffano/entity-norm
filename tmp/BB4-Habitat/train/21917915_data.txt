@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-163	170	mammals	Habitat	OBT:001625
-355	360	human	Habitat	OBT:002488

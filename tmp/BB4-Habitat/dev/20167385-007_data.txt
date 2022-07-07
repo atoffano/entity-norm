@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-77	98;134	surface microbiota of Taleggio  cheeses	Habitat	OBT:000113
-77	98;119	surface microbiota of Gorgonzola cheeses	Habitat	OBT:000113
-77	117;144	surface microbiota of Formaggio di Fossa cheeses	Habitat	OBT:000113
-99	117;144	Formaggio di Fossa cheeses	Habitat	OBT:003473
-119	129;144	Gorgonzola cheeses	Habitat	OBT:003504
-134	151	Taleggio  cheeses	Habitat	OBT:003525

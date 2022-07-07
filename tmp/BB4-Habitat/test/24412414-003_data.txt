@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-59	93	filtered broth from 20 LAB strains	Habitat	MockLabel
-107	111	agar	Habitat	MockLabel
-585	602	malt extract agar	Habitat	MockLabel

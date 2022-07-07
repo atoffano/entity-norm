@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-810	821	rich medium	Habitat	OBT:000007

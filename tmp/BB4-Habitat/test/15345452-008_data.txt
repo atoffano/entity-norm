@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-9	23	Munster cheese	Habitat	MockLabel
-354	368	Munster cheese	Habitat	MockLabel
-462	476	Morbier cheese	Habitat	MockLabel
-890	904	Morbier cheese	Habitat	MockLabel
-1576	1591	Epoisses cheese	Habitat	MockLabel
-2094	2104	salt water	Habitat	MockLabel

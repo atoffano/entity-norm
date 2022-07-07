@@ -1,9 +1,0 @@
-start	end	mention	_class	labels
-87	93	humans	Habitat	MockLabel
-140	144	pigs	Habitat	MockLabel
-202	208	humans	Habitat	MockLabel
-610	627	contaminated food	Habitat	MockLabel
-655	697	case-patients with pig-related occupations	Habitat	MockLabel
-655	673;702	case-patients with history of eating high-risk food	Habitat	MockLabel
-674	677	pig	Habitat	MockLabel
-720	734	high-risk food	Habitat	MockLabel

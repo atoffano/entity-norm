@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-131	137	humans	Habitat	MockLabel
-172	182	host cells	Habitat	MockLabel
-719	724	human	Habitat	MockLabel
-719	741	human pharyngeal cells	Habitat	MockLabel
-725	735	pharyngeal	Habitat	MockLabel

@@ -1,6 +1,0 @@
-start	end	mention	_class	labels
-1	23	Vorarlberger  Bergkäse	Habitat	MockLabel
-26	28	VB	Habitat	MockLabel
-36	66	Austrian artisanal hard cheese	Habitat	MockLabel
-81	96	raw  cow's milk	Habitat	MockLabel
-86	89	cow	Habitat	MockLabel

@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-197	203	cheese	Habitat	OBT:001480
-378	383	dairy	Habitat	OBT:001208
-555	562	cheeses	Habitat	OBT:001480
-788	794	cheese	Habitat	OBT:001480
-864	870	cheese	Habitat	OBT:001480
-927	939	model cheese	Habitat	OBT:001480

@@ -1,5 +1,0 @@
-start	end	mention	_class	labels
-101	107	cheese	Habitat	MockLabel
-241	259	Young cheese rinds	Habitat	MockLabel
-241	253	Young cheese	Habitat	MockLabel
-420	431	old cheeses	Habitat	MockLabel

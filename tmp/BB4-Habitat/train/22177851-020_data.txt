@@ -1,4 +1,0 @@
-start	end	mention	_class	labels
-94	108	Livarot cheese	Habitat	OBT:003510
-139	163	Spanish farmhouse cheese	Habitat	OBT:001480
-139	156	Spanish farmhouse	Habitat	OBT:000583

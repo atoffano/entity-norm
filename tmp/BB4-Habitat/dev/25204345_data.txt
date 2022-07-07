@@ -1,3 +1,0 @@
-start	end	mention	_class	labels
-248	273	natural fermented koumiss	Habitat	OBT:003210
-278	285	yoghurt	Habitat	OBT:003241
