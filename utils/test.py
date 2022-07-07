@@ -10,5 +10,4 @@ config = {}
 # params = json.load(open('/home/atoffano/montages_reseau/home_maiage/menneb/entity-norm/config.json', 'r'))
 # print(params['BioSyn'])
 
-import shutil
-shutil.move("/home/atoffano/Downloads/STG-backups-FF-101.0.1", "/home/atoffano/Desktop/STG-backups-FF-101.0.")
+print(f'a{"z" if 1 == 1 else "e"}')

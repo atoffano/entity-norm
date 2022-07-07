@@ -39,11 +39,11 @@ def router(args):
     if not os.path.isdir(loc):
         raise Exception("Input error: Please specify a directory containing the file(s) to convert.")
     
-    elif args['dataset'] == 'NCBI':
+    elif args['dataset'] == 'ncbi-disease':
         for file in os.listdir(loc):
             standardize_NCBI(args, file)
 
-    elif args['dataset'] == 'BB4':
+    elif 'BB4' in args['dataset']:
         if len(glob.glob(f"{loc}/*.a1")) == 0 and os.path.isdir(loc):
             for dataset in os.listdir(loc):
                 standardize_BB4(args, dir=f"{loc}/{dataset}")
@@ -174,7 +174,7 @@ def standardize(args, dataset, pmid, header, entries):
             Output:
                 Generates a corresponding file in a standardized format.
     '''
-    filepath = f"{args['output']}/raw_from_{args['dataset']}/{dataset}/"
+    filepath = f"{args['output']}/{dataset}/"
     if not os.path.exists(filepath):
         os.makedirs(filepath)
     if not os.path.exists(f"{filepath}{pmid}_header.txt"):

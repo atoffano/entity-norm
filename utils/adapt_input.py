@@ -68,12 +68,6 @@ def to_NCBI(args, dataset):
                     dataset (str): Indicates which dataset from test train or dev is being transformed.. 
     '''
     outfile = f"{dataset}set_corpus.txt"
-    # if args['from'] == 'STD':
-    #     input_dir = f"{args['input']}/{dataset}"
-    #     output_dir = f"{args['output']}/{args['input'].split('/')[-1]}_to_NCBI"
-    # else:
-        # input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
-        # output_dir = f"{args['output']}/{args['from']}_to_NCBI"
     if not os.path.exists(args["output"]):
         os.makedirs(args["output"])
     for file in glob.glob(f'{args["input"]}/{dataset}/*_header.txt'):
@@ -92,12 +86,6 @@ def to_BB4(args, dataset):
                     args (dict): Console arguments
                     dataset (str): Indicates which dataset from test train or dev is being transformed.. 
     '''
-    # if args['from'] == 'STD':
-    #     input_dir = f"{args['input']}/{dataset}"
-    #     output_dir = f"{args['output']}/{args['input'].split('_')[-1]}_to_BB4/{dataset}"
-    # else:
-    #     input_dir = f"{args['output']}/raw_from_{args['from']}/{dataset}"
-    #     output_dir = f"{args['output']}/{args['from']}_to_BB4/{dataset}"
     input_dir = f'{args["input"]}/dataset'
     output_dir = f'{args["output"]}/dataset'
     os.makedirs(output_dir)
