@@ -179,9 +179,6 @@ def run(base_dir, args, params, kb, run_nb):
     p.stdout.close()
     p.wait()
 
-
-    print( 'exit status:', subprocess.CalledProcessError )
-    print( 'stdout:', p.stdout.decode() )
     print('Training done.')
 
     # Model inference
