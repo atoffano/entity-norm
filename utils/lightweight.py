@@ -4,7 +4,6 @@ import os, sys
 import time
 import glob
 from datetime import date
-from main import capture_stdout
 
 def setup(base_dir, input_std_data, kb, args):
     os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/candidates')
@@ -25,11 +24,17 @@ def setup(base_dir, input_std_data, kb, args):
     if args["evalset"] != 'dev':
         preprocess_arguments.remove('--merge')
     p = subprocess.run(preprocess_arguments, stdout=subprocess.PIPE, bufsize=1)
-    capture_stdout(p)
+    for line in iter(p.stdout.readline, b''):
+        sys.stdout.write(line.decode(sys.stdout.encoding))
+    p.stdout.close()
+    p.wait()
 
 def run(base_dir, args):
     p = subprocess.run('python3', f'{base_dir}/Biomedical-Entity-Linking/source/generate_candidate.py', stdout=subprocess.PIPE, bufsize=1)
-    capture_stdout(p)
+    for line in iter(p.stdout.readline, b''):
+        sys.stdout.write(line.decode(sys.stdout.encoding))
+    p.stdout.close()
+    p.wait()
 
     # Loading BioSyn training parameters
     params = params['Biomedical-Entity-Linking']
@@ -46,7 +51,10 @@ def run(base_dir, args):
 
     # Training
     p = subprocess.run(train_arguments, stdout=subprocess.PIPE, bufsize=1)
-    capture_stdout(p)
+    for line in iter(p.stdout.readline, b''):
+        sys.stdout.write(line.decode(sys.stdout.encoding))
+    p.stdout.close()
+    p.wait()
 
     # Standardizing predictions
     with open(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/predict_result.txt', 'r') as f:
