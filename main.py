@@ -18,7 +18,7 @@ def main():
                     -t / --to (str) : Output format.
     '''
     global base_dir
-    base_dir = os.path.dirname(__file__)
+    base_dir = os.path.split(os.path.abspath(__file__))[0]
 
 
     # Construct the argument parser
@@ -34,7 +34,7 @@ def main():
     help="Specify which evaluator should be used use to determine accuracy. Supported : 'Lightweight', 'BioSyn'")
     parser.add_argument("-s", "--evalset", default='test',
     help="Specify which set should be used use for evaluation. Supported : 'dev', 'test'")
-    parser.add_argument("-r", "--raw", required=False,
+    parser.add_argument("-o", "--original", action='store_true',
     help="Starts the process from an original, non-standardized dataset. Supported formats: NCBI Disease as 'ncbi-disease', Bacteria Biotope 4 (full) as 'BB4' or a sub-category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism'.")
 
     parser.add_argument("--runs", default=1,
@@ -51,46 +51,81 @@ def router(args):
             pass
         os.mkdir(f"{base_dir}/tmp")
 
-        if args["raw"]:
+        if args["original"]:
+            # Starts from original data located in data/original.
             if args["input"] not in ['ncbi-disease', 'BB4', 'BB4-Phenotype', 'BB4-Habitat', 'BB4-Microorganism']:
                 raise NotImplementedError()
-            if args["input"] in ['BB4-Phenotype', 'BB4-Habitat', 'BB4-Microorganism']:
-                bb4_subcategory = True
-            input_raw_data = f"{base_dir}/data/raw/BB4" if bb4_subcategory else f'{base_dir}/data/raw/{args["input"]}'
+            bb4_subcategory = True if args["input"] in ['BB4-Phenotype', 'BB4-Habitat', 'BB4-Microorganism'] else False
+            input_original_data = f"{base_dir}/data/original/BB4" if bb4_subcategory else f'{base_dir}/data/original/{args["input"]}'
 
-            # Converts raw data to a standart format
+            # Converts original data to a standart format
             p = subprocess.run([
                 'python', f'{base_dir}/utils/standardize_data.py',
-                '-i', input_raw_data,
-                '-o', f'{base_dir}/tmp/{args["input"]}',
+                '-i', input_original_data,
+                '-o', f'{base_dir}/tmp/{args["input"]}/',
                 '-d', args["input"]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
             print( 'exit status:', p.returncode )
             print( 'stdout:', p.stdout.decode() )
 
             # Separates BB4 data into subcategories
             if bb4_subcategory:
+                shutil.move(f'{base_dir}/tmp/{args["input"]}/', f'{base_dir}/tmp/bb4_full')
                 p = subprocess.run([
                     'python', f'{base_dir}/utils/bb4_exclude.py',
-                    '-i', input_raw_data,
+                    '-i', f'{base_dir}/tmp/bb4_full',
                     '-o', f'{base_dir}/tmp/{args["input"]}',
                     '-s', args["input"].split('BB4-')[1]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
                 print( 'exit status:', p.returncode )
                 print( 'stdout:', p.stdout.decode() )
+                shutil.rmtree(f'{base_dir}/tmp/bb4_full')
         else:
-            shutil.copytree(f'{base_dir}/data/standardized/{args["input"]}', f'{base_dir}/tmp/{args["input"]}')
+            try:
+                shutil.copytree(f'{base_dir}/data/standardized/{args["input"]}', f'{base_dir}/tmp/{args["input"]}')
+            except:
+                raise NotImplementedError(f'{args["input"]} not found in {base_dir}/data/standardized/{args["input"]}')
         input_std_data = f'{base_dir}/tmp/{args["input"]}'
 
 
         # Loads model parameters
         params = json.load(open('config.json', 'r'))
 
+        # Load knowledge base
+        # Checks knowledge base existence and recreates it if needed.
+        if 'BB4' in args["input"]:
+            kb = 'BB4_kb.txt'
+            if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
+                with open(f'{base_dir}/data/knowledge_base/original/OntoBiotope_BioNLP-OST-2019.obo', 'r') as fh:
+                    lines = fh.readlines()
+                synonym = []
+                for line in lines:
+                    if line.startswith('id'):
+                        cui = line.strip().split(': ')[1]
+                    elif line.startswith('name'):
+                        label = line.strip().split(': ')[1]
+                    elif line.startswith('synonym'):
+                        synonym.append(line.split('"')[1])
+                    elif line.startswith('is_a') and cui != False:
+                        if synonym != []:
+                            label = label + "|" + "|".join(synonym)
+                        with open(f'{base_dir}/data/knowledge_base/standardized/{kb}', 'a') as f:
+                            f.write(f"{cui}||{label}\n")
+                        synonym = []
+                        cui = False
+        elif 'ncbi-disease' in args["input"]:
+            kb = 'ncbi-disease_kb.txt'
+            if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
+                shutil.copy(f'{base_dir}/data/knowledge_base/original/medic_06Jul2012.txt', f'{base_dir}/data/knowledge_base/standardized/{kb}')
+                # the ncbi-disease kb provided by BioSyn authors is considered to be in the model for standart knowledge bases format.
+
         if args["method"] == 'BioSyn':
-            kb = utils.biosyn.setup(base_dir, input_std_data, args)
+            # Prepares BioSyn environnement via setup(), trains model and evaluates is via run().
+            # Cleans up environnement via cleanup().
+            utils.biosyn.setup(base_dir, input_std_data, kb, args)
             utils.biosyn.run(base_dir, args, params, kb, run_nb)
             utils.biosyn.cleanup(base_dir, args, kb, run_nb)
 
         elif args["method"] == 'Lighweight':
-            pass
+            
     shutil.rmtree(f"{base_dir}/tmp")
 
 if __name__ == "__main__":
