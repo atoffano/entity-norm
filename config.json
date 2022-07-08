@@ -1,7 +1,7 @@
 {
   "lightweight": {
     "model_name": "",
-    "dataset": "ncbi",
+    "dataset": "",
     "sentence_length": 20,
     "character_length": 100,
     "batch_size": 64,
@@ -10,7 +10,7 @@
     "dropout": 0.1,
     "char_dim": 128,
     "word_embed_dim": 200,
-    "lr": 0.001,
+    "lr": 0.0005,
     "decay_rate": 0.05,
     "char_rnn_dim": 64,
     "hinge": 0.1,
@@ -22,10 +22,10 @@
     "epochs": 30,
     "seed_value": null,
     "steps_per_epoch": 500,
-    "random_init": false,
-    "add_context": false,
-    "add_coherence": false,
-    "add_prior": false
+    "random_init": true,
+    "add_context": true,
+    "add_coherence": true,
+    "add_prior": true
   },
   "BioSyn": {
     "model_name": "",

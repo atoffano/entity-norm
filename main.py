@@ -125,6 +125,7 @@ def router(args):
             utils.biosyn.cleanup(base_dir, args, kb, run_nb)
 
         elif args["method"] == 'Lighweight':
+            utils.lightweight.setup(base_dir, input_std_data, kb, args)
             
     shutil.rmtree(f"{base_dir}/tmp")
 
