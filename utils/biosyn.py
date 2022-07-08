@@ -5,6 +5,9 @@ import time
 import glob
 from datetime import date
 import sys
+import json
+
+from main import capture_stdout
 
 def setup(base_dir, input_std_data, kb, args):
     # Load data
@@ -12,9 +15,8 @@ def setup(base_dir, input_std_data, kb, args):
     'python', f'{base_dir}/utils/adapt_input.py',
     '--input', input_std_data,
     '--output', f'{base_dir}/BioSyn/{args["input"]}/original',
-    '--to', args["method"]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
+    '--to', args["method"]], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
 
     # Load kb
     shutil.copy(f'{base_dir}/data/knowledge_base/standardized/{kb}', f'{base_dir}/BioSyn/preprocess/resources/{kb}')
@@ -22,7 +24,7 @@ def setup(base_dir, input_std_data, kb, args):
 
 
 def run(base_dir, args, params, kb, run_nb):
-    # Loading BioSyn working environement
+    # Loading BioSyn training parameters
     params = params['BioSyn']
 
     #Preprocessing
@@ -33,9 +35,8 @@ def run(base_dir, args, params, kb, run_nb):
         p = subprocess.run([
         'python', './ncbi_disease_preprocess.py',
         '--input_file', f'../{args["input"]}/original/{dataset}set_corpus.txt',
-        '--output_dir', f'../{args["input"]}/{dataset}'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-        print( 'exit status:', p.returncode )
-        print( 'stdout:', p.stdout.decode() )
+        '--output_dir', f'../{args["input"]}/{dataset}'], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
     
     #Training set preprocessing
     print('Preprocessing training set and its dictionary')
@@ -44,9 +45,8 @@ def run(base_dir, args, params, kb, run_nb):
     '--input_dictionary_path', f'./resources/{kb}',
     '--output_dictionary_path', f'../{args["input"]}/train_dictionary.txt',
     '--lowercase',
-    '--remove_punctuation'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
+    '--remove_punctuation'], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
 
     p = subprocess.run([
     'python', './query_preprocess.py',
@@ -58,9 +58,8 @@ def run(base_dir, args, params, kb, run_nb):
     '--remove_cuiless',
     '--resolve_composites',
     '--lowercase', 'true',
-    '--remove_punctuation', 'true'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
+    '--remove_punctuation', 'true'], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
 
     #Dev set preprocessing
     print('Preprocessing devlopement set and its dictionary')
@@ -70,9 +69,8 @@ def run(base_dir, args, params, kb, run_nb):
     '--additional_data_dir', f'../{args["input"]}/processed_train',
     '--output_dictionary_path', f'../{args["input"]}/dev_dictionary.txt',
     '--lowercase',
-    '--remove_punctuation'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
+    '--remove_punctuation'], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
 
     p = subprocess.run([
     'python', f'./query_preprocess.py',
@@ -84,9 +82,8 @@ def run(base_dir, args, params, kb, run_nb):
     '--remove_cuiless',
     '--resolve_composites',
     '--lowercase', 'true',
-    '--remove_punctuation', 'true'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
+    '--remove_punctuation', 'true'], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
 
     #Test set preprocessing
     print('Preprocessing test set and its dictionary')
@@ -96,9 +93,8 @@ def run(base_dir, args, params, kb, run_nb):
     '--additional_data_dir', f'../{args["input"]}/processed_dev',
     '--output_dictionary_path', f'../{args["input"]}/test_dictionary.txt',
     '--lowercase',
-    '--remove_punctuation'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
+    '--remove_punctuation'], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
 
     p = subprocess.run([
     'python', './query_preprocess.py',
@@ -110,9 +106,8 @@ def run(base_dir, args, params, kb, run_nb):
     '--remove_cuiless',
     '--resolve_composites',
     '--lowercase', 'true',
-    '--remove_punctuation', 'true'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
+    '--remove_punctuation', 'true'], stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
 
     # Constructing traindev
     if args["evalset"] == 'test':
@@ -150,28 +145,40 @@ def run(base_dir, args, params, kb, run_nb):
         train_arguments.remove('--draft')
 
     p = subprocess.Popen(train_arguments, stdout=subprocess.PIPE, bufsize=1)
-    for line in iter(p.stdout.readline, b''):
-        sys.stdout.write(line.decode(sys.stdout.encoding))
-    p.stdout.close()
-    p.wait()
+    capture_stdout(p)
 
     print('Training done.')
 
     # Model inference
     print(f'Predicting on {args["evalset"]}..')
-    p = subprocess.run([
+    eval_args = [
     'python', '../eval.py',
     '--model_name_or_path', f'../{args["input"]}-run_{run_nb}',
     '--dictionary_path', f'../{args["input"]}/train_dictionary.txt',
     '--data_dir', f'../{args["input"]}/processed_{"test" if traindir == "traindev" else "dev"}',
     '--output_dir', f'../{args["input"]}-run_{run_nb}',
-    '--use_cuda' if params['use_cuda'] == 'true' else '',
+    '--use_cuda',
     '--topk', params['topk'],
     '--save_predictions',
-    '--max_length', params['max_length']], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    print( 'exit status:', p.returncode )
-    print( 'stdout:', p.stdout.decode() )
-    print('Prediction done.')
+    '--max_length', params['max_length']]
+    if params["use_cuda"] == True:
+        eval_args.remove('--use_cuda')
+
+    p = subprocess.run(eval_args,stdout=subprocess.PIPE, bufsize=1)
+    capture_stdout(p)
+
+    # Standardizing prediction
+    with open(f'../{args["input"]}-run_{run_nb}/predictions_eval.json', 'r') as f:
+        pred = json.load(f)
+    data = {}
+    for query in range(len(pred['queries'])):
+        prediction = pred['queries'][query]['mentions'][0]['candidates'][0]['cui']
+        prediction_label = pred['queries'][query]['mentions'][0]['candidates'][0]['name']
+        pmid = pred['queries'][query]['mentions'][0]['pmid']
+        mention = pred['queries'][query]['mentions'][0]['mention']
+        ground_truth = pred['queries'][query]['mentions'][0]['golden_cui']
+    with open(f'../{args["input"]}-run_{run_nb}/standardized_predictions.txt', 'a') as fh:
+        fh.write(f'{pmid}\t{mention}\t{prediction}\t{prediction_label}\t{ground_truth}')
 
 def cleanup(base_dir, args, kb, run_nb):
     dt = date.today()

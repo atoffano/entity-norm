@@ -1,4 +1,4 @@
-import argparse, os
+import argparse, os, sys
 import shutil
 import subprocess
 import json
@@ -129,5 +129,11 @@ def router(args):
             
     shutil.rmtree(f"{base_dir}/tmp")
 
+def capture_stdout(process):
+    for line in iter(process.stdout.readline, b''):
+        sys.stdout.write(line.decode(sys.stdout.encoding))
+    process.stdout.close()
+    process.wait()
+    
 if __name__ == "__main__":
     main()
