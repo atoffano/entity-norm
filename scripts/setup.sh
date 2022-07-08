@@ -4,7 +4,7 @@ cd ..
 # BioSyn
 git clone https://github.com/dmis-lab/BioSyn.git
 echo Modding BioSyn..
-rm BioSyn/data_loader.py BioSyn/utils.py
+rm BioSyn/src/biosyn/data_loader.py BioSyn/utils.py
 cp utils/mods/BioSyn/utils.py ./BioSyn
 cp utils/mods/BioSyn/data_loader.py ./BioSyn/src/biosyn
 
