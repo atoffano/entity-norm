@@ -19,8 +19,9 @@ An installation using pip is also available for both environnements. Please use 
 ```
 pip install biosyn_requirements.txt
 pip install lightweight_requirements.txt
-
 ```
+
+Additionnaly, Lightweight authors represent each word by a 200-dimensional word embedding computed on PubMed and MIMIC-III corpus, which can be downloaded [here](https://github.com/ncbi-nlp/BioSentVec) or directly [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.vec.bin) and placed in `Biomedical-Entity-Linking/input/` if you plan to use this method.
 
 # Utils
 Contains multiple file format handlers, allowing to convert datasets/files to input formats of different entity normalization methods.

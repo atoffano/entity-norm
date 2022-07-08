@@ -6,7 +6,8 @@ import glob
 from datetime import date
 import sys
 
-def setup(base_dir, input_std_data, args):
+def setup(base_dir, input_std_data, kb, args):
+    # Load data
     p = subprocess.run([
     'python', f'{base_dir}/utils/adapt_input.py',
     '--input', input_std_data,
@@ -14,35 +15,10 @@ def setup(base_dir, input_std_data, args):
     '--to', args["method"]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     print( 'exit status:', p.returncode )
     print( 'stdout:', p.stdout.decode() )
-    
-    # Checks knowledge base existence and recreates it if needed.
-    if 'BB4' in args["input"]:
-        kb = 'BB4_kb.txt'
-        if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
-            with open(f'{base_dir}/data/knowledge_base/original/OntoBiotope_BioNLP-OST-2019.obo', 'r') as fh:
-                lines = fh.readlines()
-            synonym = []
-            for line in lines:
-                if line.startswith('id'):
-                    cui = line.strip().split(': ')[1]
-                elif line.startswith('name'):
-                    label = line.strip().split(': ')[1]
-                elif line.startswith('synonym'):
-                    synonym.append(line.split('"')[1])
-                elif line.startswith('is_a') and cui != False:
-                    if synonym != []:
-                        label = label + "|" + "|".join(synonym)
-                    with open(f'{base_dir}/data/knowledge_base/standardized/{kb}', 'a') as f:
-                        f.write(f"{cui}||{label}\n")
-                    synonym = []
-                    cui = False
-    elif 'ncbi-disease' in args["input"]:
-        kb = 'ncbi-disease_kb.txt'
-        if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
-            shutil.copy(f'{base_dir}/data/knowledge_base/original/medic_06Jul2012.txt', f'{base_dir}/data/knowledge_base/standardized/{kb}')
-            # the ncbi-disease kb provided by BioSyn authors is considered to be in the model for standart knowledge bases format.
+
+    # Load kb
     shutil.copy(f'{base_dir}/data/knowledge_base/standardized/{kb}', f'{base_dir}/BioSyn/preprocess/resources/{kb}')
-    return kb
+
 
 
 def run(base_dir, args, params, kb, run_nb):
