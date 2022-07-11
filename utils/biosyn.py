@@ -215,4 +215,7 @@ def cleanup(base_dir, args, kb, run_nb):
     shutil.move(f'./resources/{kb}', f'{base_dir}/results/BioSyn/{args["input"]}-{dt}/run_{run_nb}/{kb}')
     os.chdir(f'{base_dir}')
     print('Cleaning done.')
+<<<<<<< HEAD
     return f'{base_dir}/results/BioSyn/{args["input"]}-{dt}/run_{run_nb}'
+=======
+>>>>>>> d84c67871936d42590ba5dca74bc2c310186584b

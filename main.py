@@ -155,7 +155,10 @@ def router(args):
                 if p.returncode != 0:
                     raise Exception("Prediction conversion failed. Are you sure you used the Bacteria Biotope dataset ?")
     shutil.rmtree(f"{base_dir}/tmp")
+<<<<<<< HEAD
     print('Done')
+=======
+>>>>>>> d84c67871936d42590ba5dca74bc2c310186584b
     
 if __name__ == "__main__":
     main()
