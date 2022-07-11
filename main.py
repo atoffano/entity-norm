@@ -4,6 +4,7 @@ import subprocess
 import json
 import utils.biosyn
 import utils.lightweight
+import utils.evaluation
 
 
 def main():
@@ -25,13 +26,13 @@ def main():
     parser = argparse.ArgumentParser()
 
     # Add the arguments to the parser
-    parser.add_argument("-i", "--input", required=True,
+    parser.add_argument("-i", "--input", required=False,
     help="Name of dataset folder to use located in data/standardized. ex: Full Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'. \
-            Can handle a non-natively supported dataset if in a standardized format.")
+            Can handle a non-natively supported dataset if in a standardized format. If you wish to only evaluate a previous result, input the standardized prediction path instead.")
     parser.add_argument("-m", "--method", required=False,
     help="Specifies which method to use. Supported: 'BioSyn' or 'Lightweight'") 
     parser.add_argument("-e", "--eval", required=False,
-    help="Specify which evaluator should be used use to determine accuracy. Supported : 'Lightweight', 'BioSyn'")
+    help="Specify which evaluator should be used use to determine accuracy. Supported : 'Lightweight', 'BioSyn', 'BB4")
     parser.add_argument("-s", "--evalset", default='test',
     help="Specify which set should be used use for evaluation. Supported : 'dev', 'test'")
     parser.add_argument("-o", "--original", action='store_true',
@@ -63,9 +64,11 @@ def router(args):
                 'python', f'{base_dir}/utils/standardize_data.py',
                 '-i', input_original_data,
                 '-o', f'{base_dir}/tmp/{args["input"]}/',
-                '-d', args["input"]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-            print( 'exit status:', p.returncode )
-            print( 'stdout:', p.stdout.decode() )
+                '-d', args["input"]], stdout=subprocess.PIPE, bufsize=1)
+            for line in iter(p.stdout.readline, b''):
+                sys.stdout.write(line.decode(sys.stdout.encoding))
+            p.stdout.close()
+            p.wait()
 
             # Separates BB4 data into subcategories
             if bb4_subcategory:
@@ -74,66 +77,85 @@ def router(args):
                     'python', f'{base_dir}/utils/bb4_exclude.py',
                     '-i', f'{base_dir}/tmp/bb4_full',
                     '-o', f'{base_dir}/tmp/{args["input"]}',
-                    '-s', args["input"].split('BB4-')[1]], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-                print( 'exit status:', p.returncode )
-                print( 'stdout:', p.stdout.decode() )
+                    '-s', args["input"].split('BB4-')[1]], stdout=subprocess.PIPE, bufsize=1)
+                for line in iter(p.stdout.readline, b''):
+                    sys.stdout.write(line.decode(sys.stdout.encoding))
+                p.stdout.close()
+                p.wait()
+
                 shutil.rmtree(f'{base_dir}/tmp/bb4_full')
-        else:
+        elif args["input"] and args["method"]:
             try:
                 shutil.copytree(f'{base_dir}/data/standardized/{args["input"]}', f'{base_dir}/tmp/{args["input"]}')
             except:
                 raise NotImplementedError(f'{args["input"]} not found in {base_dir}/data/standardized/{args["input"]}')
-        input_std_data = f'{base_dir}/tmp/{args["input"]}'
+            input_std_data = f'{base_dir}/tmp/{args["input"]}'
 
+            # Loads model parameters
+            params = json.load(open('config.json', 'r'))
 
-        # Loads model parameters
-        params = json.load(open('config.json', 'r'))
-
-        # Load knowledge base
-        # Checks knowledge base existence and recreates it if needed.
-        if 'BB4' in args["input"]:
-            kb = 'BB4_kb.txt'
-            if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
-                with open(f'{base_dir}/data/knowledge_base/original/OntoBiotope_BioNLP-OST-2019.obo', 'r') as fh:
-                    lines = fh.readlines()
-                synonym = []
-                for line in lines:
-                    if line.startswith('id'):
-                        cui = line.strip().split(': ')[1]
-                    elif line.startswith('name'):
-                        label = line.strip().split(': ')[1]
-                    elif line.startswith('synonym'):
-                        synonym.append(line.split('"')[1])
-                    elif line.startswith('is_a') and cui != False:
-                        if synonym != []:
-                            label = label + "|" + "|".join(synonym)
-                        with open(f'{base_dir}/data/knowledge_base/standardized/{kb}', 'a') as f:
-                            f.write(f"{cui}||{label}\n")
-                        synonym = []
-                        cui = False
-        elif 'ncbi-disease' in args["input"]:
-            kb = 'ncbi-disease_kb.txt'
-            if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
-                shutil.copy(f'{base_dir}/data/knowledge_base/original/medic_06Jul2012.txt', f'{base_dir}/data/knowledge_base/standardized/{kb}')
-                # the ncbi-disease kb provided by BioSyn authors is considered to be in the model for standart knowledge bases format.
+            # Load knowledge base
+            # Checks knowledge base existence and recreates it if needed.
+            if 'BB4' in args["input"]:
+                kb = 'BB4_kb.txt'
+                if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
+                    with open(f'{base_dir}/data/knowledge_base/original/OntoBiotope_BioNLP-OST-2019.obo', 'r') as fh:
+                        lines = fh.readlines()
+                    synonym = []
+                    for line in lines:
+                        if line.startswith('id'):
+                            cui = line.strip().split(': ')[1]
+                        elif line.startswith('name'):
+                            label = line.strip().split(': ')[1]
+                        elif line.startswith('synonym'):
+                            synonym.append(line.split('"')[1])
+                        elif line.startswith('is_a') and cui != False:
+                            if synonym != []:
+                                label = label + "|" + "|".join(synonym)
+                            with open(f'{base_dir}/data/knowledge_base/standardized/{kb}', 'a') as f:
+                                f.write(f"{cui}||{label}\n")
+                            synonym = []
+                            cui = False
+            elif 'ncbi-disease' in args["input"]:
+                kb = 'ncbi-disease_kb.txt'
+                if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
+                    shutil.copy(f'{base_dir}/data/knowledge_base/original/medic_06Jul2012.txt', f'{base_dir}/data/knowledge_base/standardized/{kb}')
+                    # the ncbi-disease kb provided by BioSyn authors is considered to be in the model for standart knowledge bases format.
 
         if args["method"] == 'BioSyn':
             # Prepares BioSyn environnement via setup(), trains model and evaluates is via run().
             # Cleans up environnement via cleanup().
             utils.biosyn.setup(base_dir, input_std_data, kb, args)
             utils.biosyn.run(base_dir, args, params, kb, run_nb)
-            utils.biosyn.cleanup(base_dir, args, kb, run_nb)
+            prediction_path = utils.biosyn.cleanup(base_dir, args, kb, run_nb)
 
         elif args["method"] == 'Lighweight':
             utils.lightweight.setup(base_dir, input_std_data, kb, args)
-            
-    shutil.rmtree(f"{base_dir}/tmp")
+            utils.lightweight.run(base_dir, args)
+            prediction_path = utils.lightweight.cleanup(base_dir, args, kb, run_nb)
 
-def capture_stdout(process):
-    for line in iter(process.stdout.readline, b''):
-        sys.stdout.write(line.decode(sys.stdout.encoding))
-    process.stdout.close()
-    process.wait()
+        if args["eval"]:
+            if args["eval"] == 'Lightweight':
+                print(f'Lightweight accuracy evaluation = {utils.evaluation.inference_lightweight(f"{prediction_path}/standardized_predictions.txt")}')
+            elif args["eval"] == 'BioSyn':
+                print(f'BioSyn accuracy evaluation = {utils.evaluation.inference_biosyn(f"{prediction_path}/standardized_predictions.txt")}')
+            elif args["eval"] == 'BB4':
+                entity = 'BB4' if args["input"] == 'BB4' else args["input"].split('BB4-')[1]
+                p = subprocess.run([
+                'python', f'{base_dir}/utils/pred_to_bb4_a2.py',
+                '--input', f"{prediction_path}/standardized_predictions.txt",
+                '--dataset', f'{base_dir}/data/original/BB4/BioNLP-OST-2019_BB-norm_test',
+                '--entities', entity,
+                '--output', prediction_path], stdout=subprocess.PIPE, bufsize=1)
+                for line in iter(p.stdout.readline, b''):
+                    sys.stdout.write(line.decode(sys.stdout.encoding))
+                p.stdout.close()
+                p.wait()
+                print(f'Bacteria Biotope 4 prediction file (.a2) available for online evaluation.')
+                if p.returncode != 0:
+                    raise Exception("Prediction conversion failed. Are you sure you used the Bacteria Biotope dataset ?")
+    shutil.rmtree(f"{base_dir}/tmp")
+    print('Done')
     
 if __name__ == "__main__":
     main()
