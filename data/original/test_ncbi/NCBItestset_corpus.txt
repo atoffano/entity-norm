@@ -1,0 +1,42 @@
+9949209|t|Genetic mapping of the copper toxicosis locus in Bedlington terriers to dog chromosome 10, in a region syntenic to human chromosome region 2p13-p16.
+9949209|a|Abnormal hepatic copper accumulation is recognized as an inherited disorder in man, mouse, rat and dog. The major cause of hepatic copper accumulation in man is a dysfunctional ATP7B gene, causing Wilson disease (WD). Mutations in the ATP7B genes have also been demonstrated in mouse and rat. The ATP7B gene has been excluded in the much rarer human copper overload disease non-Indian childhood cirrhosis, indicating genetic heterogeneity. By investigating the common autosomal recessive copper toxicosis (CT) in Bedlington terriers, we have identified a new locus involved in progressive liver disease. We examined whether the WD gene ATP7B was also causative for CT by investigating the chromosomal co-localization of ATP7B and C04107, using fluorescence in situ hybridization (FISH). C04107 is an anonymous microsatellite marker closely linked to CT. However, BAC clones containing ATP7B and C04107 mapped to the canine chromosome regions CFA22q11 and CFA10q26, respectively, demonstrating that WD cannot be homologous to CT. The copper transport genes CTR1 and CTR2 were also excluded as candidate genes for CT since they both mapped to canine chromosome region CFA11q22. 2-22. 5. A transcribed sequence identified from the C04107-containing BAC was found to be homologous to a gene expressed from human chromosome 2p13-p16, a region devoid of any positional candidate genes. 
+9949209	23	39	copper toxicosis	Modifier	OMIM:215600
+9949209	158	185	hepatic copper accumulation	SpecificDisease	D008107
+9949209	206	224	inherited disorder	DiseaseClass	D030342
+9949209	272	299	hepatic copper accumulation	SpecificDisease	D008107
+9949209	346	360	Wilson disease	SpecificDisease	D006527
+9949209	362	364	WD	SpecificDisease	D006527
+9949209	499	514	copper overload	SpecificDisease	D008107
+9949209	523	553	non-Indian childhood cirrhosis	SpecificDisease	OMIM:215600
+9949209	637	653	copper toxicosis	SpecificDisease	OMIM:215600
+9949209	655	657	CT	SpecificDisease	OMIM:215600
+9949209	738	751	liver disease	DiseaseClass	D008107
+9949209	777	779	WD	Modifier	D006527
+9949209	814	816	CT	SpecificDisease	OMIM:215600
+9949209	999	1001	CT	SpecificDisease	OMIM:215600
+9949209	1147	1149	WD	SpecificDisease	D006527
+9949209	1174	1176	CT	SpecificDisease	OMIM:215600
+9949209	1261	1263	CT	SpecificDisease	OMIM:215600
+
+9950360|t|Molecular analysis of the APC gene in 205 families: extended genotype-phenotype correlations in FAP and evidence for the role of APC amino acid changes in colorectal cancer predisposition.
+9950360|a|BACKGROUND/AIMS  The development of colorectal cancer and a variable range of extracolonic manifestations in familial adenomatous polyposis (FAP) is the result of the dominant inheritance of adenomatous polyposis coli (APC) gene mutations. In this study, direct mutation analysis of the APC gene was performed to determine genotype-phenotype correlations for nine extracolonic manifestations and to investigate the incidence of APC mutations in non-FAP colorectal cancer. METHODS  The APC gene was analysed in 190 unrelated FAP and 15 non-FAP colorectal cancer patients using denaturing gradient gel electrophoresis, the protein truncation test, and direct sequencing. RESULTS  Chain terminating signals were only identified in patients belonging to the FAP group (105 patients). Amino acid changes were identified in four patients, three of whom belonged to the non-FAP group of colorectal cancer patients. Genotype-phenotype correlations identified significant differences in the nature of certain extracolonic manifestations in FAP patients belonging to three mutation subgroups. CONCLUSIONS  Extended genotype-phenotype correlations made in this study may have the potential to determine the most appropriate surveillance and prophylactic treatment regimens for those patients with mutations associated with life threatening conditions. This study also provided evidence for the pathological nature of amino acid changes in APC associated with both FAP and non-FAP colorectal cancer patients.. 
+9950360	26	29	APC	Modifier	D011125
+9950360	96	99	FAP	SpecificDisease	D011125
+9950360	129	132	APC	Modifier	D011125
+9950360	155	172	colorectal cancer	Modifier	D015179
+9950360	225	242	colorectal cancer	SpecificDisease	D015179
+9950360	298	328	familial adenomatous polyposis	SpecificDisease	D011125
+9950360	330	333	FAP	SpecificDisease	D011125
+9950360	380	406	adenomatous polyposis coli	Modifier	D011125
+9950360	408	411	APC	Modifier	D011125
+9950360	476	479	APC	Modifier	D011125
+9950360	617	620	APC	Modifier	D011125
+9950360	642	659	colorectal cancer	SpecificDisease	D015179
+9950360	674	677	APC	Modifier	D011125
+9950360	713	716	FAP	Modifier	D011125
+9950360	732	749	colorectal cancer	Modifier	D015179
+9950360	943	946	FAP	Modifier	D011125
+9950360	1069	1086	colorectal cancer	Modifier	D015179
+9950360	1220	1223	FAP	Modifier	D011125
+9950360	1642	1645	FAP	Modifier	D011125
+9950360	1658	1675	colorectal cancer	Modifier	D015179

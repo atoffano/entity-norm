@@ -29,33 +29,32 @@ def main():
     parser.add_argument("-o", "--output", default=os.getcwd(),
     help="Output path for .a2 files. Defaults to current directory.")
     args = vars(parser.parse_args())
-    convert(args)
+    convert_to_a2(args)
 
 
-def convert(args):
+def convert_to_a2(args):
     '''
-    Parses prediction output of BioSyn (predictions_eval.json), extracting relevant informations including cui and file pmid.
+    Parses prediction output (standardized_predictions.txt), extracting relevant informations.
     Then matches predictions with corresponding .a1 file before building .a2 file.
     '''
     if not os.path.exists(f"{args['output']}/converted_pred"):
         os.makedirs(f"{args['output']}/converted_pred")
     with open(args['input'], 'r') as f:
-        pred = json.load(f)
+        lines = f.readlines()
     data = {}
-    for query in tqdm(range(len(pred['queries']))):
-        cui = pred['queries'][query]['mentions'][0]['candidates'][0]['cui']
-        pmid = pred['queries'][query]['mentions'][0]['pmid']
+    for line in lines:
+        pmid, mention, prediction, prediction_label, ground_truth = line.strip('\n').split('\t')
         if pmid in data:
-            data[pmid].append(cui)
+            data[pmid].append(prediction)
         else:
-            data[pmid] = [cui]
-    for key, values in data.items():
-        a1_lines, ftype = get_a1_matching_lines(args, key)
+            data[pmid] = [prediction]
+    for pmid, prediction in data.items():
+        a1_lines, ftype = get_a1_matching_lines(args, pmid)
         filetype = "BB-norm-F-" if ftype else "BB-norm-"
-        for pred_line, value in enumerate(values):
+        for pred_line, value in enumerate(prediction):
             annotation = a1_lines[pred_line].split('\t')[0]
-            with open(f"{args['output']}/converted_pred/{filetype}{key}.a2", 'a') as fh:
-                with open(f"{args['output']}/converted_pred/{filetype}{key}.a2", 'r') as f:
+            with open(f"{args['output']}/converted_pred/{filetype}{pmid}.a2", 'a') as fh:
+                with open(f"{args['output']}/converted_pred/{filetype}{pmid}.a2", 'r') as f:
                     n = len(f.readlines())
                 if len(value.split("|")) > 1:
                     for label in value.split("|"):
@@ -67,21 +66,21 @@ def convert(args):
                     fh.write(f"N{n+1}\t{ontology} Annotation:{annotation} Referent:{value}\n")
                     n+=1
 
-def get_a1_matching_lines(args, key):
+def get_a1_matching_lines(args, pmid):
     '''
     Matches .a1 line with its corresponding prediction.
 
             Parameters:
-                key (str): corresponding .a1 file identifier (pmid).
+                pmid (str): corresponding .a1 file identifier (pmid).
     '''
     a1_lines = []
-    if "-" in key:
+    if "-" in pmid:
         ftype = True
-        with open(f"{args['dataset']}/BB-norm-F-{key}.a1", 'r') as f:
+        with open(f"{args['dataset']}/BB-norm-F-{pmid}.a1", 'r') as f:
             lines = f.readlines()
     else:
         ftype = False
-        with open(f"{args['dataset']}/BB-norm-{key}.a1", 'r') as f:
+        with open(f"{args['dataset']}/BB-norm-{pmid}.a1", 'r') as f:
             lines = f.readlines()
     for line in lines:
         if line.split("\t")[1].split(" ")[0] in args['entities']:
@@ -95,7 +94,7 @@ def inference_biosyn(pred):
     accuracy = 0
     label = 0
     for line in lines:
-        pmid, mention, prediction, prediction_label, ground_truth = lines.split('\t')
+        pmid, mention, prediction, prediction_label, ground_truth = line.strip('\n').split('\t')
         for pred in prediction.split('\t'):
             if pred in ground_truth.split('\t'):
                 label = 1
@@ -108,8 +107,8 @@ def inference_lightweight(pred):
         lines = fh.readlines()
     accuracy = 0
     acc_cnt = 0
-    for line in lines.strip('\n'):
-        pmid, mention, prediction, prediction_label, ground_truth = line.split('\t')
+    for line in lines:
+        pmid, mention, prediction, prediction_label, ground_truth = line.strip('\n').split('\t')
         if "|" in prediction or "|" in ground_truth:
             if len(prediction.split('|')) != len(ground_truth.split('|')):
                 break

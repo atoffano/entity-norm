@@ -1,9 +1,8 @@
 import shutil
 import subprocess
 import os, sys
-import time
 import glob
-from datetime import date
+import datetime
 
 def setup(base_dir, input_std_data, kb, args):
     os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/candidates')
@@ -63,14 +62,14 @@ def run(base_dir, args):
         for pred in predictions:
             pred = pred.strip('\n').split('\t')
             pmid, mention, prediction, prediction_label, ground_truth = pred[0], pred[1], pred[3], pred[4], pred[2]
-            fh.write(f'{pmid}\t{mention}\t{prediction}\t{prediction_label}\t{ground_truth}')
+            fh.write(f'{pmid}\t{mention}\t{prediction}\t{prediction_label}\t{ground_truth}\n')
     
-def cleanup(base_dir, args, kb, run_nb):
-    dt = date.today()
+def cleanup(base_dir, args, kb):
+    dt = datetime.datetime.now()
+    dt = f"{dt.year}-{dt.month}-{dt.day}-{dt.hour}:{dt.minute}"
     print(f'Cleaning up Biomedical-Entity-Linking directory and moving all outputs to {base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')
-    if not os.path.exists(f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}'):
-        os.makedirs(f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')    
-    [shutil.move(file, f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}/run_{run_nb}') for file in glob.glob(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/*')]
-    os.remove(f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}')
+    os.makedirs(f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')    
+    [shutil.move(file, f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}') for file in glob.glob(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/*')]
+    shutil.move(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}', f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')
     print('Cleaning done.')
-    return f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}/run_{run_nb}'
+    return f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}'

@@ -29,7 +29,7 @@
     "model_name": "",
     "max_length": "25",
     "seed": "",
-    "use_cuda": true,
+    "use_cuda": false,
     "draft": "",
     "topk": "20",
     "learning_rate": "1e-5",

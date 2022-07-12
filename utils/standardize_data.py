@@ -2,8 +2,6 @@ import argparse, os
 from genericpath import exists
 from typing import Type
 import glob
-import shutil
-import hashlib
 
 def main():
     '''
@@ -39,7 +37,7 @@ def router(args):
     if not os.path.isdir(loc):
         raise Exception("Input error: Please specify a directory containing the file(s) to convert.")
     
-    elif args['dataset'] == 'ncbi-disease':
+    elif 'ncbi' in args['dataset']:
         for file in os.listdir(loc):
             standardize_NCBI(args, file)
 

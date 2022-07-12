@@ -1,0 +1,33 @@
+
+10192393|t|A common human skin tumour is caused by activating mutations in beta-catenin.
+10192393|a|WNT signalling orchestrates a number of developmental programs. In response to this stimulus, cytoplasmic beta-catenin (encoded by CTNNB1) is stabilized, enabling downstream transcriptional activation by members of the LEF/TCF family. One of the target genes for beta-catenin/TCF encodes c-MYC, explaining why constitutive activation of the WNT pathway can lead to cancer, particularly in the colon. Most colon cancers arise from mutations in the gene encoding adenomatous polyposis coli (APC), a protein required for ubiquitin-mediated degradation of beta-catenin, but a small percentage of colon and some other cancers harbour beta-catenin-stabilizing mutations. Recently, we discovered that transgenic mice expressing an activated beta-catenin are predisposed to developing skin tumours resembling pilomatricomas. Given that the skin of these adult mice also exhibits signs of de novo hair-follicle morphogenesis, we wondered whether human pilomatricomas might originate from hair matrix cells and whether they might possess beta-catenin-stabilizing mutations. Here, we explore the cell origin and aetiology of this common human skin tumour. We found nuclear LEF-1 in the dividing tumour cells, providing biochemical evidence that pilomatricomas are derived from hair matrix cells. At least 75% of these tumours possess mutations affecting the amino-terminal segment, normally involved in phosphorylation-dependent, ubiquitin-mediated degradation of the protein. This percentage of CTNNB1 mutations is greater than in all other human tumours examined thus far, and directly implicates beta-catenin/LEF misregulation as the major cause of hair matrix cell tumorigenesis in humans.. 
+10192393	15	26	skin tumour	DiseaseClass	D012878
+10192393	443	449	cancer	DiseaseClass	D009369
+10192393	483	496	colon cancers	DiseaseClass	D003110
+10192393	539	565	adenomatous polyposis coli	SpecificDisease	D011125
+10192393	567	570	APC	SpecificDisease	D011125
+10192393	670	698	colon and some other cancers	CompositeMention	D003110|D009369
+10192393	855	867	skin tumours	DiseaseClass	D012878
+10192393	879	893	pilomatricomas	SpecificDisease	D018296
+10192393	1021	1035	pilomatricomas	SpecificDisease	D018296
+10192393	1210	1221	skin tumour	DiseaseClass	D012878
+10192393	1262	1268	tumour	Modifier	D009369
+10192393	1312	1326	pilomatricomas	SpecificDisease	D018296
+10192393	1385	1392	tumours	DiseaseClass	D009369
+10192393	1615	1622	tumours	DiseaseClass	D009369
+
+100562|t|Familial deficiency of the seventh component of complement associated with recurrent bacteremic infections due to Neisseria.
+100562|a|The serum of a 29-year old woman with a recent episode of disseminated gonococcal infection and a history of meningococcal meningitis and arthritis as a child was found to lack serum hemolytic complement activity. The seventh component of complement (C7) was not detected by functional or immunochemical assays, whereas other components were normal by hemolytic and immunochemical assessment. Her fresh serum lacked complement-mediated bactericidal activity against Neisseria gonorrhoeae, but the addition of fresh normal serum or purified C7 restored bactericidal activity as well as hemolytic activity. The absence of functional C7 activity could not be accounted for on the basis of an inhibitor. Opsonization and generation of chemotactic activity functioned normally. Complete absence of C7 was also found in one sibling who had the clinical syndrome of meningococcal meningitis and arthritis  as a child and in this siblings clinically well eight-year-old son. HLA histocompatibility typing of the family members did not demonstrate evidence for genetic linkage of C7 deficiency with the major histocompatibility loci. This report represents the first cases of C7 deficiency associated with infectious complications and suggests that bactericidal activity may be important in host defense against bacteremic neisseria infections.
+100562	0	58	Familial deficiency of the seventh component of complement	SpecificDisease	OMIM:610102
+100562	85	123	bacteremic infections due to Neisseria	DiseaseClass	D016870
+100562	183	216	disseminated gonococcal infection	SpecificDisease	D004673
+100562	234	258	meningococcal meningitis	SpecificDisease	D008585
+100562	263	272	arthritis	DiseaseClass	D001168
+100562	734	758	absence of functional C7	Modifier	OMIM:610102
+100562	898	920	Complete absence of C7	SpecificDisease	OMIM:610102
+100562	984	1008	meningococcal meningitis	SpecificDisease	D008585
+100562	1013	1022	arthritis	DiseaseClass	D001168
+100562	1196	1209	C7 deficiency	SpecificDisease	OMIM:610102
+100562	1292	1305	C7 deficiency	SpecificDisease	OMIM:610102
+100562	1428	1459	bacteremic neisseria infections	SpecificDisease	D016870
+

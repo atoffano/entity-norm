@@ -42,8 +42,8 @@ def convert(args):
     with open(args['input'], 'r') as f:
         lines = f.readlines()
     data = {}
-    for line in lines.strip('\n'):
-        pmid, mention, prediction, prediction_label, ground_truth = line.split('\t')
+    for line in lines:
+        pmid, mention, prediction, prediction_label, ground_truth = line.strip('\n').split('\t')
         if pmid in data:
             data[pmid].append(prediction)
         else:
