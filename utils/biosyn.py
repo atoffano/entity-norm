@@ -183,7 +183,7 @@ def run(base_dir, args, params, kb):
     if params["use_cuda"] != True:
         eval_args.remove('--use_cuda')
 
-    p = subprocess.Popen(eval_args,stdout=subprocess.PIPE, bufsize=1)
+    p = subprocess.Popen(eval_args, stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):
         sys.stdout.write(line.decode(sys.stdout.encoding))
     p.stdout.close()

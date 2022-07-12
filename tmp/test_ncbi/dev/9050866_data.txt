@@ -1,0 +1,4 @@
+start	end	mention	_class	labels
+4	25	ataxia-telangiectasia	Modifier	D001260
+152	173	ataxia-telangiectasia	Modifier	D001260
+686	707	ataxia-telangiectasia	Modifier	D001260

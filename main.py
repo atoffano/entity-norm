@@ -86,7 +86,7 @@ def router(args):
             try:
                 shutil.copytree(f'{base_dir}/data/standardized/{args["input"]}', f'{base_dir}/tmp/{args["input"]}')
             except:
-                raise NotImplementedError(f'{args["input"]} not found in {base_dir}/data/standardized/{args["input"]}')
+                raise NotImplementedError(f'Standardized {args["input"]} data not found in {base_dir}/data/standardized/{args["input"]}')
             
         if args["input"]:
             input_std_data = f'{base_dir}/tmp/{args["input"]}'
@@ -134,7 +134,7 @@ def router(args):
             utils.biosyn.run(base_dir, args, params, kb)
             prediction_path = utils.biosyn.cleanup(base_dir, args, kb)
 
-        elif args["method"] == 'Lighweight':
+        elif args["method"] == 'Lightweight':
             utils.lightweight.setup(base_dir, input_std_data, kb, args)
             utils.lightweight.run(base_dir, args)
             prediction_path = utils.lightweight.cleanup(base_dir, args, kb, run_nb)

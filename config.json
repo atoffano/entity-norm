@@ -1,5 +1,5 @@
 {
-  "lightweight": {
+  "Lightweight": {
     "sentence_length": "20",
     "character_length": "100",
     "batch_size": "64",

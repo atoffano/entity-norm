@@ -6,37 +6,41 @@ import datetime
 
 def setup(base_dir, input_std_data, kb, args):
     os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/candidates')
-    os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/candidates')
+    os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/context')
     os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/embed')
-    if not os.path.exists(f'{base_dir}/Biomedical-Entity-Linking/input/{args["input"]}/BioWordVec_PubMed_MIMICIII_d200.vec.bin'):
-        raise Exception("BioWordVec 200-dimensional word embeddings were not found in Biomedical-Entity-Linking/input.")
-    shutil.copy(f'{base_dir}/Biomedical-Entity-Linking/output/ncbi/char_vocabulary.dict', f'{base_dir}/BioSyn/preprocess/resources/{kb}')
-    shutil.copy(f'{base_dir}/Biomedical-Entity-Linking/output/ncbi/word_vocabulary.dict', f'{base_dir}/BioSyn/preprocess/resources/{kb}')
+    if not os.path.exists(f'{base_dir}/Biomedical-Entity-Linking/input/BioWordVec_PubMed_MIMICIII_d200.vec.bin'):
+        raise Exception("BioWordVec 200-dimensional word embeddings were not found in Biomedical-Entity-Linking/input.\nPlease refer to Lightweight author's github to download them.")
+    env_path = f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}'
+    shutil.copy(f'{base_dir}/Biomedical-Entity-Linking/output/ncbi/char_vocabulary.dict', f'{env_path}')
+    shutil.copy(f'{base_dir}/Biomedical-Entity-Linking/output/ncbi/word_vocabulary.dict', f'{env_path}')
 
     # Preprocess
     preprocess_arguments = [
     'python3', f'{base_dir}/Biomedical-Entity-Linking/input/preprocess.py',
     '--input', input_std_data,
-    '--output', f'{base_dir}/Biomedical-Entity-Linking/{args["input"]}/processed_data',
+    '--output', env_path,
     '--kb', f'{base_dir}/data/knowledge_base/standardized/{kb}',
     '--merge']
-    if args["evalset"] != 'dev':
+    if args["evalset"] != 'test':
         preprocess_arguments.remove('--merge')
-    p = subprocess.run(preprocess_arguments, stdout=subprocess.PIPE, bufsize=1)
+    p = subprocess.Popen(preprocess_arguments, stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):
         sys.stdout.write(line.decode(sys.stdout.encoding))
     p.stdout.close()
     p.wait()
+
+    # Setup environnement
+    [shutil.move(file, f'{env_path}/context') for file in glob.glob(f'{env_path}/*_context.txt')]
 
 def run(base_dir, args):
-    p = subprocess.run('python3', f'{base_dir}/Biomedical-Entity-Linking/source/generate_candidate.py', stdout=subprocess.PIPE, bufsize=1)
+    p = subprocess.Popen('python3', f'{base_dir}/Biomedical-Entity-Linking/source/generate_candidate.py', stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):
         sys.stdout.write(line.decode(sys.stdout.encoding))
     p.stdout.close()
     p.wait()
 
-    # Loading BioSyn training parameters
-    params = params['Biomedical-Entity-Linking']
+    # Loading Lightweight training parameters
+    params = params['Lightweight']
     train_arguments = [
     'python3', f'{base_dir}/Biomedical-Entity-Linking/source/train.py',
     '-dataset', args["input"]]
@@ -49,7 +53,7 @@ def run(base_dir, args):
                 train_arguments.append(params[value])
 
     # Training
-    p = subprocess.run(train_arguments, stdout=subprocess.PIPE, bufsize=1)
+    p = subprocess.Popen(train_arguments, stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):
         sys.stdout.write(line.decode(sys.stdout.encoding))
     p.stdout.close()
