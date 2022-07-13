@@ -34,8 +34,8 @@ def get_candidate_dict(path, alpha, topk):
 
 
 def get_recall(path, alpha=0.0, topk=100):
-    test_data, all_data = load_train_data(f'{args["input"]}/test_data.txt')
-    entity_dict, id_map = load_entity(f'{args["input"]}/entity_kb.txt')
+    test_data, all_data = load_train_data(f'{data_dir}/test_data.txt')
+    entity_dict, id_map = load_entity(f'{data_dir}/entity_kb.txt')
     cnt, total = 0, len(all_data)
     missing_set = dict()
     candidate_dict, raw_candidate_dict = get_candidate_dict(path, alpha, topk)
@@ -69,7 +69,7 @@ def get_recall(path, alpha=0.0, topk=100):
         if 'cui-less' in content or 'miss_entity' in content:
             unmap_cnt += value
     print('unmapped mention = {a}'.format(a=unmap_cnt))
-    with open(f'{args["input"]}/candidates/missing_candidates.txt', 'w', encoding='utf8')as f:
+    with open(f'{data_dir}/candidates/missing_candidates.txt', 'w', encoding='utf8')as f:
         f.write(w_l)
 
     print('total = {a}, find {b}, rate = {c}'.format(a=total, b=cnt, c=cnt * 1.0 / total))
@@ -135,16 +135,16 @@ def find_can_by_cos(mention, mention_id, raw_entity_dict, word_embeddings, topk)
 def generate_candidate_by_cos(data_path, outpath):
     max_len = 25
     top_k = 20
-    entity_path = f'{args["input"]}/entity_kb.txt'
-    embedding_file = f'{args["input"]}/embed/word2vec_200_dim_with_context.npy'
+    entity_path = f'{data_dir}/entity_kb.txt'
+    embedding_file = f'{data_dir}/embed/word2vec_200_dim_with_context.npy'
     # load test data
     all_data, test_data = load_train_data(data_path)
 
     all_mentions = list(all_data.keys())
     print('the number of mentions = {a}'.format(a=len(all_mentions)))
 
-    vocab_dict, _ = load_word_vocabulary(f'{args["input"]}/word_vocabulary.dict')
-    char_dict, _ = load_char_vocabulary(f'{args["input"]}/char_vocabulary.dict')
+    vocab_dict, _ = load_word_vocabulary(f'{data_dir}/word_vocabulary.dict')
+    char_dict, _ = load_char_vocabulary(f'{data_dir}/char_vocabulary.dict')
     embedding_matrix = np.load(embedding_file)
     embedding_matrix = embedding_matrix.astype(np.float)
     _, _, raw_entity_dict = load_entity_by_id(entity_path, vocab_dict, char_dict, max_len=max_len, char_max_len=25, use_pad=False)
@@ -196,7 +196,7 @@ def generate_candidate_by_cos(data_path, outpath):
 
 def generate_candidate(args):
     all_mentions, vocab_dict, max_len, raw_entity_dict, embedding_matrix, top_k, id_cnt = args
-    outpath = f'{args["input"]}/candidates/temp/'
+    outpath = f'{data_dir}/candidates/temp/'
 
     for mention in all_mentions:
         print('mention = {b}.....'.format(b=mention))
@@ -221,14 +221,13 @@ def get_all_file_name(path):
 
 def merge_candidate_files(path):
     file_list = get_all_file_name(path)
-    print(file_list)
     w_l = ''
     for file_name in file_list:
         with open(file_name)as f:
             content = f.read()
             w_l += content
 
-    with open(f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt', 'w')as f:
+    with open(f'{data_dir}/candidates/training_aligned_cos_with_mention_candidate.txt', 'w')as f:
         f.write(w_l)
 
 def load_candidates(can_path):
@@ -249,7 +248,7 @@ def load_candidates(can_path):
 
 def look_up_candidates_for_test_set(can_path, outpath):
     candidate_dict = load_candidates(can_path)
-    data_dict, all_data = load_train_data(f'{args["input"]}/test_data.txt')
+    data_dict, all_data = load_train_data(f'{data_dir}/test_data.txt')
 
     w_l = ''
     for mention, label in data_dict.items():
@@ -271,8 +270,8 @@ def look_up_candidates_for_test_set(can_path, outpath):
 
 
 def merge_candidate(alpha1, alpha2, topk=100, topk1=10, topk2=10):
-    path1 = f'{args["input"]}/candidates/test_candidates.txt'
-    path2 = f'{args["input"]}/candidates/training_ed_mention_candidate.txt'
+    path1 = f'{data_dir}/candidates/test_candidates.txt'
+    path2 = f'{data_dir}/candidates/training_ed_mention_candidate.txt'
     candidate_dict1, raw_candidate_dict1 = get_candidate_dict(path1, alpha=alpha1, topk=topk1)
     candidate_dict2, raw_candidate_dict2 = get_candidate_dict(path2, alpha=alpha2, topk=topk2)
 
@@ -291,10 +290,10 @@ def merge_candidate(alpha1, alpha2, topk=100, topk1=10, topk2=10):
 
         w_l += mention + '\t' + '\t'.join(can_list2) + '\n'
 
-    with open(f'{args["input"]}/candidates/merge_candidates.txt', 'w', encoding='utf8')as f:
+    with open(f'{data_dir}/candidates/merge_candidates.txt', 'w', encoding='utf8')as f:
         f.write(w_l)
 
-    acc = get_recall(f'{args["input"]}/candidates/merge_candidates.txt', topk=topk)
+    acc = get_recall(f'{data_dir}/candidates/merge_candidates.txt', topk=topk)
     return acc
 
 
@@ -327,14 +326,17 @@ if __name__ == '__main__':
 
     args = vars(parser.parse_args())
 
+    global data_dir
+    data_dir = args["input"]
+
     for flag in [2,4,6]:
         if flag == 0:
             topk, alpha = 20, 0
-            path = f'{args["input"]}/candidates/test_candidates.txt'
+            path = f'{data_dir}/candidates/test_candidates.txt'
             get_recall(path, alpha, topk=topk)
         if flag == 1:
             max_acc, max_alpha = 0, 0
-            path = f'{args["input"]}/candidates/test_candidates.txt'
+            path = f'{data_dir}/candidates/test_candidates.txt'
             for i in range(40):
                 alpha = 0.5 + i * 0.01
                 print('alpha = {a} '.format(a=alpha))
@@ -349,37 +351,38 @@ if __name__ == '__main__':
             # create word embedding file
             bin_embedding_file = f'{args["base_dir"]}/input/BioWordVec_PubMed_MIMICIII_d200.vec.bin'
             txt_embedding_file = f'{args["base_dir"]}/input/word_embedding.txt'
-            word_embedding_file = f'{args["input"]}/embed/word2vec_200_dim_with_context.npy'
-            word_vocab_path = f'{args["input"]}/word_vocabulary.dict'
-            print(word_embedding_file)
+            word_embedding_file = f'{data_dir}/embed/word2vec_200_dim_with_context.npy'
+            word_vocab_path = f'{data_dir}/word_vocabulary.dict'
             if not os.path.exists(word_embedding_file):
-                _, word_list = load_word_vocabulary(word_vocab_path, True)
-                generate_word_embeddings(bin_embedding_file, txt_embedding_file, word_list, word_embedding_file)
-            print("ok")
-
-            inpath = f'{args["input"]}/test_data.txt'
-            outpath = f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt'
+                    if os.path.exists(f'{args["base_dir"]}/input/word2vec_200_dim_with_context.npy'):
+                        shutil.copy(f'{args["base_dir"]}/input/word2vec_200_dim_with_context.npy', f'{data_dir}/embed')
+                    else:
+                        _, word_list = load_word_vocabulary(word_vocab_path, True)
+                        generate_word_embeddings(bin_embedding_file, txt_embedding_file, word_list, word_embedding_file)
+                        shutil.copy(f'{data_dir}/embed/word2vec_200_dim_with_context.npy', f'{args["base_dir"]}/input/embed_test/word2vec_200_dim_with_context.npy')
+            inpath = f'{data_dir}/test_data.txt'
+            outpath = f'{data_dir}/candidates/training_aligned_cos_with_mention_candidate.txt'
             generate_candidate_by_cos(inpath, outpath)
-            merge_candidate_files(f'{args["input"]}/candidates/temp')
-            shutil.rmtree(f'{args["input"]}/candidates/temp')
+            merge_candidate_files(f'{data_dir}/candidates/temp')
+            shutil.rmtree(f'{data_dir}/candidates/temp')
 
         if flag == 4:
             print("flag4")
-            can_path = f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt'
-            outpath = f'{args["input"]}/candidates/test_candidates.txt'
+            can_path = f'{data_dir}/candidates/training_aligned_cos_with_mention_candidate.txt'
+            outpath = f'{data_dir}/candidates/test_candidates.txt'
             look_up_candidates_for_test_set(can_path, outpath)
             os.remove(can_path)
 
         if flag == 6:
             print("flag6")
-            inpath = f'{args["input"]}/train_data.txt'
-            outpath = f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt'
+            inpath = f'{data_dir}/train_data.txt'
+            outpath = f'{data_dir}/candidates/training_aligned_cos_with_mention_candidate.txt'
             generate_candidate_by_cos(inpath, outpath)
-            merge_candidate_files(f'{args["input"]}/candidates/temp')
-            shutil.rmtree(f'{args["input"]}/candidates/temp')
+            merge_candidate_files(f'{data_dir}/candidates/temp')
+            shutil.rmtree(f'{data_dir}/candidates/temp')
 
             #Append all lines from test_candidates.txt to training_aligned_cos_with_mention_candidate.txt 
-            with open(f'{args["input"]}/candidates/test_candidates.txt', 'r') as f:
+            with open(f'{data_dir}/candidates/test_candidates.txt', 'r') as f:
                 lines = f.readlines()
             with open(outpath, 'a') as fh:
                 [fh.write(line) for line in lines]

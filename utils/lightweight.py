@@ -49,14 +49,15 @@ def run(base_dir, env_path, params, args):
     'python3', f'{base_dir}/Biomedical-Entity-Linking/source/train.py',
     '-dataset', args["input"]]
     for key, value in params.items():
-        if value == '' or value == False:
+        if value == '':
             continue
         else:
-            train_arguments.append(f'-{params[key]}')
-            if value != True:
-                train_arguments.append(value)
-
+            train_arguments.append(f'-{key}')
+            train_arguments.append(value)
+# Type of -add prior etc may not get correctly interpreted. to check.
+ 
     # Training
+    print(f'Training Lightweight model on {args["input"]}...')
     p = subprocess.Popen(train_arguments, stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):
         sys.stdout.write(line.decode(sys.stdout.encoding))

@@ -13,9 +13,11 @@ def main():
             Parameters:
                     Console arguments
                     -i / --input (str) : Input path containing files to convert. Handles folder containing multiple datasets.
-                    -o / --output (str): Output path for both standardized and converted formats.
-                    -f / --from (str) : Input format.
-                    -t / --to (str) : Output format.
+                    -m / --method (str): Output path for both standardized and converted formats.
+                    -s / --score (str) : Input format.
+                    -e / --evalset (str) : Output format.
+                    -o / --original (str) : Output format.
+
     '''
     global base_dir
     base_dir = os.path.split(os.path.abspath(__file__))[0]
@@ -27,13 +29,13 @@ def main():
     # Add the arguments to the parser
     parser.add_argument("-i", "--input", required=False,
     help="Name of dataset folder to use located in data/standardized. ex: Full Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'. \
-            Can handle a non-natively supported dataset if in a standardized format. If you wish to only evaluate a previous result, input the standardized prediction path instead.")
+            Can handle a non-natively supported dataset if in a standardized format and in the right directory. 'test_ncbi' is a smaller available for testing purposes.")
     parser.add_argument("-m", "--method", required=False,
     help="Specifies which method to use. Supported: 'BioSyn' or 'Lightweight'") 
     parser.add_argument("-s", "--score", required=False, nargs='+',
-    help="Specify which evaluator(s) should be used use to determine accuracy. Supports multiple arguments: 'Lightweight', 'BioSyn', 'BB4")
+    help="Specify which evaluator(s) should be used use to determine accuracy. Supports multiple arguments: 'Lightweight', 'BioSyn', 'BB4'. Using 'BB4' will produce a folder containing predictions that can be evaluated through the BB4 online evaluation software.")
     parser.add_argument("-e", "--evalset", default='test',
-    help="Specify which set should be used use for evaluation. Supported : 'dev', 'test'")
+    help="Specify which set should be used use for evaluation. Supported : 'dev', 'test'. defaults to 'test' if left empty.")
     parser.add_argument("-o", "--original", action='store_true',
     help="Starts the process from an original, non-standardized dataset. Supported formats: NCBI Disease as 'ncbi-disease', Bacteria Biotope 4 (full) as 'BB4' or a sub-category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism'.")
 
@@ -44,7 +46,16 @@ def main():
     router(args)
 
 def router(args):
-    for run_nb in range(1, args['runs']+1):
+    """
+    Handles the flow of operations from provided arguments.
+    Individual steps an all be called independently 
+    Starts by checking whether to process an original dataset (--original) or start from an already processed one.
+    If a Bacteria Biotope subcategory is specified as --input, standardization from the original data is made before filtering mentions of the subcategory.
+    Knowledge base related to the --input will be standardized and the specified method called.
+    Finally the output files will be scored according to the specified scoring methods (--score).
+    """
+
+    for _ in range(1, args['runs']+1):
         try:
             shutil.rmtree(f"{base_dir}/tmp")
         except:

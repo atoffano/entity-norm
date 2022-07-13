@@ -151,8 +151,6 @@ def run(base_dir, args, params, kb):
     '--use_cuda',
     '--draft',
     '--save_checkpoint_all']
-    print(type(params['use_cuda']))
-    print(params['save_checkpoint_all'])
     if params['use_cuda'] != True:
         train_arguments.remove('--use_cuda')
     if params['save_checkpoint_all'] != True:
