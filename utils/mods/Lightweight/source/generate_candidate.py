@@ -1,16 +1,8 @@
-#!/bin/sh
-#SBATCH --mem=64g
-#SBATCH --nodes=1
-#SBATCH --partition=all
-#SBATCH --cpus-per-task=8
-#SBATCH --gres=gpu:3
-#SBATCH --output=/mnt/beegfs/home/toffano/entity-norm/Biomedical-Entity-Linking/log.out
-#SBATCH --error=/mnt/beegfs/home/toffano/entity-norm/Biomedical-Entity-Linking/log.out
-#SBATCH --job-name=lightweight
-
+import argparse, os, sys
 from multiprocessing import Pool
 from load_data import load_word_vocabulary, load_char_vocabulary, load_entity_by_id, load_data_by_id, tran2ids, \
     load_train_data, load_entity
+from embed import generate_word_embeddings
 import numpy as np
 import os
 import shutil
@@ -42,8 +34,8 @@ def get_candidate_dict(path, alpha, topk):
 
 
 def get_recall(path, alpha=0.0, topk=100):
-    test_data, all_data = load_train_data(f'{basepath}/output/ncbi/test_data.txt')
-    entity_dict, id_map = load_entity(f'{basepath}/output/ncbi/entity_kb.txt')
+    test_data, all_data = load_train_data(f'{args["input"]}/test_data.txt')
+    entity_dict, id_map = load_entity(f'{args["input"]}/entity_kb.txt')
     cnt, total = 0, len(all_data)
     missing_set = dict()
     candidate_dict, raw_candidate_dict = get_candidate_dict(path, alpha, topk)
@@ -77,7 +69,7 @@ def get_recall(path, alpha=0.0, topk=100):
         if 'cui-less' in content or 'miss_entity' in content:
             unmap_cnt += value
     print('unmapped mention = {a}'.format(a=unmap_cnt))
-    with open(f'{basepath}/output/ncbi/candidates/missing_candidates.txt', 'w', encoding='utf8')as f:
+    with open(f'{args["input"]}/candidates/missing_candidates.txt', 'w', encoding='utf8')as f:
         f.write(w_l)
 
     print('total = {a}, find {b}, rate = {c}'.format(a=total, b=cnt, c=cnt * 1.0 / total))
@@ -143,16 +135,16 @@ def find_can_by_cos(mention, mention_id, raw_entity_dict, word_embeddings, topk)
 def generate_candidate_by_cos(data_path, outpath):
     max_len = 25
     top_k = 20
-    entity_path = f'{basepath}/output/ncbi/entity_kb.txt'
-    embedding_file = f'{basepath}/output/ncbi/embed/word2vec_200_dim_with_context.npy'
+    entity_path = f'{args["input"]}/entity_kb.txt'
+    embedding_file = f'{args["input"]}/embed/word2vec_200_dim_with_context.npy'
     # load test data
     all_data, test_data = load_train_data(data_path)
 
     all_mentions = list(all_data.keys())
     print('the number of mentions = {a}'.format(a=len(all_mentions)))
 
-    vocab_dict, _ = load_word_vocabulary(f'{basepath}/output/ncbi/word_vocabulary.dict')
-    char_dict, _ = load_char_vocabulary(f'{basepath}/output/ncbi/char_vocabulary.dict')
+    vocab_dict, _ = load_word_vocabulary(f'{args["input"]}/word_vocabulary.dict')
+    char_dict, _ = load_char_vocabulary(f'{args["input"]}/char_vocabulary.dict')
     embedding_matrix = np.load(embedding_file)
     embedding_matrix = embedding_matrix.astype(np.float)
     _, _, raw_entity_dict = load_entity_by_id(entity_path, vocab_dict, char_dict, max_len=max_len, char_max_len=25, use_pad=False)
@@ -204,7 +196,7 @@ def generate_candidate_by_cos(data_path, outpath):
 
 def generate_candidate(args):
     all_mentions, vocab_dict, max_len, raw_entity_dict, embedding_matrix, top_k, id_cnt = args
-    outpath = f'{basepath}/output/ncbi/candidates/temp/'
+    outpath = f'{args["input"]}/candidates/temp/'
 
     for mention in all_mentions:
         print('mention = {b}.....'.format(b=mention))
@@ -236,7 +228,7 @@ def merge_candidate_files(path):
             content = f.read()
             w_l += content
 
-    with open(f'{basepath}/output/ncbi/candidates/training_aligned_cos_with_mention_candidate.txt', 'w')as f:
+    with open(f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt', 'w')as f:
         f.write(w_l)
 
 def load_candidates(can_path):
@@ -257,7 +249,7 @@ def load_candidates(can_path):
 
 def look_up_candidates_for_test_set(can_path, outpath):
     candidate_dict = load_candidates(can_path)
-    data_dict, all_data = load_train_data(f'{basepath}/output/ncbi/test_data.txt')
+    data_dict, all_data = load_train_data(f'{args["input"]}/test_data.txt')
 
     w_l = ''
     for mention, label in data_dict.items():
@@ -279,8 +271,8 @@ def look_up_candidates_for_test_set(can_path, outpath):
 
 
 def merge_candidate(alpha1, alpha2, topk=100, topk1=10, topk2=10):
-    path1 = f'{basepath}/output/ncbi/candidates/test_candidates.txt'
-    path2 = f'{basepath}/output/ncbi/candidates/training_ed_mention_candidate.txt'
+    path1 = f'{args["input"]}/candidates/test_candidates.txt'
+    path2 = f'{args["input"]}/candidates/training_ed_mention_candidate.txt'
     candidate_dict1, raw_candidate_dict1 = get_candidate_dict(path1, alpha=alpha1, topk=topk1)
     candidate_dict2, raw_candidate_dict2 = get_candidate_dict(path2, alpha=alpha2, topk=topk2)
 
@@ -299,10 +291,10 @@ def merge_candidate(alpha1, alpha2, topk=100, topk1=10, topk2=10):
 
         w_l += mention + '\t' + '\t'.join(can_list2) + '\n'
 
-    with open(f'{basepath}/output/ncbi/candidates/merge_candidates.txt', 'w', encoding='utf8')as f:
+    with open(f'{args["input"]}/candidates/merge_candidates.txt', 'w', encoding='utf8')as f:
         f.write(w_l)
 
-    acc = get_recall(f'{basepath}/output/ncbi/candidates/merge_candidates.txt', topk=topk)
+    acc = get_recall(f'{args["input"]}/candidates/merge_candidates.txt', topk=topk)
     return acc
 
 
@@ -324,18 +316,25 @@ def find_close_mentions(mention, candidate, mention_doc_list, embedding_matrix, 
 
 
 if __name__ == '__main__':
-    basepath = os.path.abspath(os.path.dirname(__file__))
-    basepath = basepath.split('/')
-    del basepath[-1]
-    basepath = "/".join(basepath)
+
+    parser = argparse.ArgumentParser()
+
+    # Add the arguments to the parser
+    parser.add_argument("-i", "--input", required=True,
+    help="Path of folder in Biomedical-Entity-Linking/output containing processed data.")
+    parser.add_argument("-b", "--base_dir", required=True,
+    help="Path of Biomedical-Entity-Linking.")
+
+    args = vars(parser.parse_args())
+
     for flag in [2,4,6]:
         if flag == 0:
             topk, alpha = 20, 0
-            path = f'{basepath}/output/ncbi/candidates/test_candidates.txt'
+            path = f'{args["input"]}/candidates/test_candidates.txt'
             get_recall(path, alpha, topk=topk)
         if flag == 1:
             max_acc, max_alpha = 0, 0
-            path = f'{basepath}/output/ncbi/candidates/test_candidates.txt'
+            path = f'{args["input"]}/candidates/test_candidates.txt'
             for i in range(40):
                 alpha = 0.5 + i * 0.01
                 print('alpha = {a} '.format(a=alpha))
@@ -346,29 +345,41 @@ if __name__ == '__main__':
             print('max_acc = {a}, params = {b}'.format(a=max_acc, b=max_alpha))
         if flag == 2:
             print("flag2")
-            inpath = f'{basepath}/output/ncbi/test_data.txt'
-            outpath = f'{basepath}/output/ncbi/candidates/training_aligned_cos_with_mention_candidate.txt'
+
+            # create word embedding file
+            bin_embedding_file = f'{args["base_dir"]}/input/BioWordVec_PubMed_MIMICIII_d200.vec.bin'
+            txt_embedding_file = f'{args["base_dir"]}/input/word_embedding.txt'
+            word_embedding_file = f'{args["input"]}/embed/word2vec_200_dim_with_context.npy'
+            word_vocab_path = f'{args["input"]}/word_vocabulary.dict'
+            print(word_embedding_file)
+            if not os.path.exists(word_embedding_file):
+                _, word_list = load_word_vocabulary(word_vocab_path, True)
+                generate_word_embeddings(bin_embedding_file, txt_embedding_file, word_list, word_embedding_file)
+            print("ok")
+
+            inpath = f'{args["input"]}/test_data.txt'
+            outpath = f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt'
             generate_candidate_by_cos(inpath, outpath)
-            merge_candidate_files(f'{basepath}/output/ncbi/candidates/temp')
-            shutil.rmtree(f'{basepath}/output/ncbi/candidates/temp')
+            merge_candidate_files(f'{args["input"]}/candidates/temp')
+            shutil.rmtree(f'{args["input"]}/candidates/temp')
 
         if flag == 4:
             print("flag4")
-            can_path = f'{basepath}/output/ncbi/candidates/training_aligned_cos_with_mention_candidate.txt'
-            outpath = f'{basepath}/output/ncbi/candidates/test_candidates.txt'
+            can_path = f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt'
+            outpath = f'{args["input"]}/candidates/test_candidates.txt'
             look_up_candidates_for_test_set(can_path, outpath)
             os.remove(can_path)
 
         if flag == 6:
             print("flag6")
-            inpath = f'{basepath}/output/ncbi/train_data.txt'
-            outpath = f'{basepath}/output/ncbi/candidates/training_aligned_cos_with_mention_candidate.txt'
+            inpath = f'{args["input"]}/train_data.txt'
+            outpath = f'{args["input"]}/candidates/training_aligned_cos_with_mention_candidate.txt'
             generate_candidate_by_cos(inpath, outpath)
-            merge_candidate_files(f'{basepath}/output/ncbi/candidates/temp')
-            shutil.rmtree(f'{basepath}/output/ncbi/candidates/temp')
+            merge_candidate_files(f'{args["input"]}/candidates/temp')
+            shutil.rmtree(f'{args["input"]}/candidates/temp')
 
             #Append all lines from test_candidates.txt to training_aligned_cos_with_mention_candidate.txt 
-            with open(f'{basepath}/output/ncbi/candidates/test_candidates.txt', 'r') as f:
+            with open(f'{args["input"]}/candidates/test_candidates.txt', 'r') as f:
                 lines = f.readlines()
             with open(outpath, 'a') as fh:
                 [fh.write(line) for line in lines]

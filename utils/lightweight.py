@@ -4,13 +4,12 @@ import os, sys
 import glob
 import datetime
 
-def setup(base_dir, input_std_data, kb, args):
-    os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/candidates')
-    os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/context')
-    os.makedirs(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}/embed')
+def setup(base_dir, env_path, input_std_data, kb, args):
+    os.makedirs(f'{env_path}/candidates')
+    os.makedirs(f'{env_path}/context')
+    os.makedirs(f'{env_path}/embed')
     if not os.path.exists(f'{base_dir}/Biomedical-Entity-Linking/input/BioWordVec_PubMed_MIMICIII_d200.vec.bin'):
         raise Exception("BioWordVec 200-dimensional word embeddings were not found in Biomedical-Entity-Linking/input.\nPlease refer to Lightweight author's github to download them.")
-    env_path = f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}'
     shutil.copy(f'{base_dir}/Biomedical-Entity-Linking/output/ncbi/char_vocabulary.dict', f'{env_path}')
     shutil.copy(f'{base_dir}/Biomedical-Entity-Linking/output/ncbi/word_vocabulary.dict', f'{env_path}')
 
@@ -32,8 +31,13 @@ def setup(base_dir, input_std_data, kb, args):
     # Setup environnement
     [shutil.move(file, f'{env_path}/context') for file in glob.glob(f'{env_path}/*_context.txt')]
 
-def run(base_dir, args):
-    p = subprocess.Popen('python3', f'{base_dir}/Biomedical-Entity-Linking/source/generate_candidate.py', stdout=subprocess.PIPE, bufsize=1)
+    return env_path
+
+def run(base_dir, env_path, params, args):
+    print("Generating Word Embeddings and Candidates")
+    p = subprocess.Popen(['python3', f'{base_dir}/Biomedical-Entity-Linking/source/generate_candidate.py',
+    "--input", env_path,
+    "--base_dir", f'{base_dir}/Biomedical-Entity-Linking'], stdout=subprocess.PIPE, bufsize = 1)
     for line in iter(p.stdout.readline, b''):
         sys.stdout.write(line.decode(sys.stdout.encoding))
     p.stdout.close()
@@ -46,11 +50,11 @@ def run(base_dir, args):
     '-dataset', args["input"]]
     for key, value in params.items():
         if value == '' or value == False:
-            del params[key]
+            continue
         else:
             train_arguments.append(f'-{params[key]}')
-            if params[value] != True:
-                train_arguments.append(params[value])
+            if value != True:
+                train_arguments.append(value)
 
     # Training
     p = subprocess.Popen(train_arguments, stdout=subprocess.PIPE, bufsize=1)
@@ -68,12 +72,12 @@ def run(base_dir, args):
             pmid, mention, prediction, prediction_label, ground_truth = pred[0], pred[1], pred[3], pred[4], pred[2]
             fh.write(f'{pmid}\t{mention}\t{prediction}\t{prediction_label}\t{ground_truth}\n')
     
-def cleanup(base_dir, args, kb):
+def cleanup(base_dir, env_path, args):
     dt = datetime.datetime.now()
     dt = f"{dt.year}-{dt.month}-{dt.day}-{dt.hour}:{dt.minute}"
     print(f'Cleaning up Biomedical-Entity-Linking directory and moving all outputs to {base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')
     os.makedirs(f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')    
     [shutil.move(file, f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}') for file in glob.glob(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/*')]
-    shutil.move(f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}', f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')
+    shutil.move(f'{env_path}', f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')
     print('Cleaning done.')
     return f'{base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}'

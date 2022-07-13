@@ -135,9 +135,10 @@ def router(args):
             prediction_path = utils.biosyn.cleanup(base_dir, args, kb)
 
         elif args["method"] == 'Lightweight':
-            utils.lightweight.setup(base_dir, input_std_data, kb, args)
-            utils.lightweight.run(base_dir, args)
-            prediction_path = utils.lightweight.cleanup(base_dir, args, kb, run_nb)
+            env_path = f'{base_dir}/Biomedical-Entity-Linking/output/{args["input"]}'
+            utils.lightweight.setup(base_dir, env_path, input_std_data, kb, args)
+            utils.lightweight.run(base_dir, env_path, params, args)
+            prediction_path = utils.lightweight.cleanup(base_dir, env_path, args)
 
         if args["score"]:
             if 'Lightweight' in args["score"]:
