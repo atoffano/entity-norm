@@ -22,15 +22,21 @@ def main():
     # Add the arguments to the parser
     parser.add_argument("-i", "--input", required=True,
     help="Input path containing prediction_eval.json")
-    parser.add_argument("-d", "--dataset", required=True,
+    parser.add_argument("-d", "--dataset", required=False,
     help="Input path of Bacteria biotope test dataset.")
-    parser.add_argument("-e", "--entities", required=True,
+    parser.add_argument("-e", "--entities", required=False,
     help="Type of entities predicted. Either 'Microorganisms', 'Phenotype', 'Habitat' or a combination of those.")
     parser.add_argument("-o", "--output", default=os.getcwd(),
     help="Output path for .a2 files. Defaults to current directory.")
     args = vars(parser.parse_args())
-    convert_to_a2(args)
+    router(args)
 
+def router(args):
+    if args["dataset"] and args["entities"]:
+        convert_to_a2(args)
+    else:
+        print(inference_biosyn(args["input"]))
+        print(inference_lightweight(args["input"]))
 
 def convert_to_a2(args):
     '''
@@ -90,13 +96,12 @@ def get_a1_matching_lines(args, pmid):
 def inference_biosyn(pred):
     with open(pred, 'r') as fh:
         lines = fh.readlines()
-    pred = {"queries" : []}
     accuracy = 0
     label = 0
     for line in lines:
-        pmid, mention, prediction, prediction_label, ground_truth = line.strip('\n').split('\t')
-        for pred in prediction.split('\t'):
-            if pred in ground_truth.split('\t'):
+        pmid, mention, ground_truth_id, ground_truth_name, prediction_id, prediction_label = line.strip('\n').split('\t')
+        for pred in prediction_id.split('|'):
+            if pred in ground_truth_id.split('|'):
                 label = 1
         if label == 1:
             accuracy += 1
@@ -108,16 +113,16 @@ def inference_lightweight(pred):
     accuracy = 0
     acc_cnt = 0
     for line in lines:
-        pmid, mention, prediction, prediction_label, ground_truth = line.strip('\n').split('\t')
-        if "|" in prediction or "|" in ground_truth:
-            if len(prediction.split('|')) != len(ground_truth.split('|')):
+        pmid, mention, ground_truth_id, ground_truth_name, prediction_id, prediction_label = line.strip('\n').split('\t')
+        if "|" in prediction_id or "|" in ground_truth_id:
+            if len(prediction_id.split('|')) != len(ground_truth_id.split('|')):
                 break
-            for pred in range(prediction.split('|')):
-                if pred not in ground_truth:
+            for pred in range(prediction_id.split('|')):
+                if pred not in ground_truth_id:
                     break
                 else:
                     acc_cnt += 1
-        elif prediction == ground_truth:
+        elif prediction_id == ground_truth_id:
             acc_cnt += 1
     accuracy = 1.0 * acc_cnt / (len(lines)+1)
     return accuracy

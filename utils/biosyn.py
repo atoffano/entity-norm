@@ -192,12 +192,12 @@ def run(base_dir, args, params, kb):
         pred = json.load(f)
     with open(f'../{args["input"]}/standardized_predictions.txt', 'a') as fh:
         for query in range(len(pred['queries'])):
-            prediction = pred['queries'][query]['mentions'][0]['candidates'][0]['cui']
+            prediction_id = pred['queries'][query]['mentions'][0]['candidates'][0]['cui']
             prediction_label = pred['queries'][query]['mentions'][0]['candidates'][0]['name']
             pmid = pred['queries'][query]['mentions'][0]['pmid']
             mention = pred['queries'][query]['mentions'][0]['mention']
-            ground_truth = pred['queries'][query]['mentions'][0]['golden_cui']
-            fh.write(f'{pmid}\t{mention}\t{prediction}\t{prediction_label}\t{ground_truth}\n')
+            ground_truth_id = pred['queries'][query]['mentions'][0]['golden_cui']
+            fh.write(f'{pmid}\t{mention}\t{ground_truth_id}\t\t{prediction_id}\t{prediction_label}\n')
 
 def cleanup(base_dir, args, kb):
     dt = datetime.datetime.now()
