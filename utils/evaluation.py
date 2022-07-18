@@ -35,8 +35,8 @@ def router(args):
     if args["dataset"] and args["entities"]:
         convert_to_a2(args)
     else:
-        print(inference_biosyn(args["input"]))
-        print(inference_lightweight(args["input"]))
+        print('BioSyn Accuracy : ' + str(inference_biosyn(args["input"])))
+        print('Lightweight Accuracy : ' + str(inference_lightweight(args["input"])))
 
 def convert_to_a2(args):
     '''
@@ -97,15 +97,15 @@ def inference_biosyn(pred):
     with open(pred, 'r') as fh:
         lines = fh.readlines()
     accuracy = 0
-    label = 0
     for line in lines:
-        pmid, mention, ground_truth_id, ground_truth_name, prediction_id, prediction_label = line.strip('\n').split('\t')
+        label = 0
+        pmid, mention, ground_truth_id, ground_truth_label, prediction_id, prediction_label = line.strip('\n').split('\t')
         for pred in prediction_id.split('|'):
             if pred in ground_truth_id.split('|'):
                 label = 1
         if label == 1:
             accuracy += 1
-    return accuracy/len(lines)
+    return accuracy / len(lines)
 
 def inference_lightweight(pred):
     with open(pred, 'r') as fh:
@@ -113,13 +113,13 @@ def inference_lightweight(pred):
     accuracy = 0
     acc_cnt = 0
     for line in lines:
-        pmid, mention, ground_truth_id, ground_truth_name, prediction_id, prediction_label = line.strip('\n').split('\t')
+        pmid, mention, ground_truth_id, ground_truth_label, prediction_id, prediction_label = line.strip('\n').split('\t')
         if "|" in prediction_id or "|" in ground_truth_id:
             if len(prediction_id.split('|')) != len(ground_truth_id.split('|')):
-                break
+                continue
             for pred in range(prediction_id.split('|')):
                 if pred not in ground_truth_id:
-                    break
+                    continue
                 else:
                     acc_cnt += 1
         elif prediction_id == ground_truth_id:

@@ -3,6 +3,7 @@ import subprocess
 import os, sys
 import glob
 import datetime
+from itertools import groupby
 
 def setup(base_dir, env_path, input_std_data, kb, args):
     os.makedirs(f'{env_path}/candidates')
@@ -64,14 +65,23 @@ def run(base_dir, env_path, params, args):
     p.stdout.close()
     p.wait()
 
-    # Standardizing predictions
-    with open(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/predict_result.txt', 'r') as f:
-        predictions = f.readlines()
-    with open(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/standardized_predictions.txt', 'a') as fh:
-        for pred in predictions:
-            pred = pred.strip('\n').split('\t')
-            pmid, mention, ground_truth_id, ground_truth_name, prediction_id, prediction_label = pred[0], pred[1], pred[2], pred[3], pred[4], pred[5]
-            fh.write(f'{pmid}\t{mention}\t{ground_truth_id}\t{ground_truth_name}\t{prediction_id}\t{prediction_label}\n')
+    # # Standardizing predictions
+    # with open(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/predict_score.txt', 'r') as f:
+    #     predictions = f.readlines()
+    #     for line in predictions:
+    #         prediction = line.split('\t')
+    #         pmid, mention = prediction.pop(0), prediction.pop(1)
+    #         best_pred = [0,0,0]
+    #         for pos in range(0, len(prediction), 3):
+    #             candidate = [pos:pos + 3]
+    #             if candidate[2] > best_pred[2]:
+    #                 best_pred = candidate
+
+    # with open(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/standardized_predictions.txt', 'a') as fh:
+    #     for pred in predictions:
+    #         pred = pred.strip('\n').split('\t')
+    #         pmid, mention, ground_truth_id, ground_truth_name, prediction_id, prediction_label = pred[0], pred[1], pred[2], pred[3], pred[4], pred[5]
+    #         fh.write(f'{pmid}\t{mention}\t{ground_truth_id}\t{ground_truth_name}\t{prediction_id}\t{prediction_label}\n')
     
 def cleanup(base_dir, env_path, args):
     dt = datetime.datetime.now()
