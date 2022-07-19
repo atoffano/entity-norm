@@ -62,6 +62,8 @@ def run(base_dir, args, params, kb):
     '--dictionary_path', f'../{args["input"]}/data/train_dictionary.txt',
     '--ab3p_path', '../Ab3P/identify_abbr',
     '--typo_path', './resources/ncbi-spell-check.txt',
+    '--remove_cuiless', 
+    '--resolve_composites',
     '--lowercase', 'true',
     '--remove_punctuation', 'true'], stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):
@@ -90,6 +92,8 @@ def run(base_dir, args, params, kb):
     '--dictionary_path', f'../{args["input"]}/data/dev_dictionary.txt',
     '--ab3p_path', '../Ab3P/identify_abbr',
     '--typo_path', './resources/ncbi-spell-check.txt',
+    '--remove_cuiless', 
+    '--resolve_composites',
     '--lowercase', 'true',
     '--remove_punctuation', 'true'], stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):
@@ -118,6 +122,8 @@ def run(base_dir, args, params, kb):
     '--dictionary_path', f'../{args["input"]}/data/test_dictionary.txt',
     '--ab3p_path', '../Ab3P/identify_abbr',
     '--typo_path', f'./resources/ncbi-spell-check.txt',
+    '--remove_cuiless', 
+    '--resolve_composites',
     '--lowercase', 'true',
     '--remove_punctuation', 'true'], stdout=subprocess.PIPE, bufsize=1)
     for line in iter(p.stdout.readline, b''):

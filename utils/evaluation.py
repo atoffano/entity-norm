@@ -139,7 +139,7 @@ def accuracy_ref(pred):
                 if pred in ground_truth_id.split('|'):
                     score += 1
 
-        score = score / max(len(prediction_id), len(ground_truth_id))  # multi-norm and too many pred
+        score = score / max(len(prediction_id.split('|')), len(ground_truth_id.split('|')))  # multi-norm and too many pred
         accuracy += score
     return accuracy / len(lines)
     
