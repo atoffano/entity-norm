@@ -1,7 +1,0 @@
-start	end	mention	_class	labels
-78	102	inherited human disorder	DiseaseClass	D030342
-104	120	fish-eye disease	SpecificDisease	D007863
-453	469	fish-eye disease	SpecificDisease	D007863
-471	474	FED	SpecificDisease	D007863
-737	740	FED	Modifier	D007863
-1168	1171	FED	SpecificDisease	D007863
