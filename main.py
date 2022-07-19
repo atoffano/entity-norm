@@ -157,7 +157,7 @@ def router(args):
             if 'BioSyn' in args["score"]:
                 print(f'BioSyn accuracy evaluation = {utils.evaluation.accuracy_biosyn(f"{prediction_path}/standardized_predictions.txt")}')
             if 'Ref' in args["score"]:
-                print(f'BioSyn accuracy evaluation = {utils.evaluation.accuracy_homebrew(f"{prediction_path}/standardized_predictions.txt")}')
+                print(f'Ref accuracy evaluation = {utils.evaluation.accuracy_ref(f"{prediction_path}/standardized_predictions.txt")}')
             if 'BB4' in args["score"]:
                 entity = 'BB4' if args["input"] == 'BB4' else args["input"].split('BB4-')[1]
                 p = subprocess.Popen([

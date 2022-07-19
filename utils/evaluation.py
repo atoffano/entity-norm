@@ -126,7 +126,7 @@ def accuracy_lightweight(pred):
     accuracy = 1.0 * acc_cnt / (len(lines)+1)
     return accuracy
 
-def accuracy_homebrew(pred):
+def accuracy_ref(pred):
     with open(pred, 'r') as fh:
         lines = fh.readlines()
     accuracy = 0
@@ -138,10 +138,10 @@ def accuracy_homebrew(pred):
             for pred in prediction_id.split('|'):
                 if pred in ground_truth_id.split('|'):
                     score += 1
-        elif prediction_id == ground_truth_id:
-            score += 1
-        accuracy += score / max(len(prediction_id), len(ground_truth_id))  # multi-norm and too many pred
-    return accuracy
+
+        score = score / max(len(prediction_id), len(ground_truth_id))  # multi-norm and too many pred
+        accuracy += score
+    return accuracy / len(lines)
     
 if __name__ == "__main__":
     main()
