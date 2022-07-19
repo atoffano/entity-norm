@@ -33,7 +33,7 @@ def main():
     parser.add_argument("-m", "--method", required=False,
     help="Specifies which method to use. Supported: 'BioSyn' or 'Lightweight'") 
     parser.add_argument("-s", "--score", required=False, nargs='+',
-    help="Specify which evaluator(s) should be used use to determine accuracy. Supports multiple arguments: 'Lightweight', 'BioSyn', 'BB4'. Using 'BB4' will produce a folder containing predictions that can be evaluated through the BB4 online evaluation software.")
+    help="Specify which evaluator(s) should be used use to determine accuracy. Supports multiple arguments: 'Lightweight', 'BioSyn', 'Ref', 'BB4'. Using 'BB4' will produce a folder containing predictions that can be evaluated through the BB4 online evaluation software.")
     parser.add_argument("-e", "--evalset", default='test',
     help="Specify which set should be used use for evaluation. Supported : 'dev', 'test'. defaults to 'test' if left empty.")
     parser.add_argument("-o", "--original", action='store_true',
@@ -153,9 +153,11 @@ def router(args):
 
         if args["score"]:
             if 'Lightweight' in args["score"]:
-                print(f'Lightweight accuracy evaluation = {utils.evaluation.inference_lightweight(f"{prediction_path}/standardized_predictions.txt")}')
+                print(f'Lightweight accuracy evaluation = {utils.evaluation.accuracy_lightweight(f"{prediction_path}/standardized_predictions.txt")}')
             if 'BioSyn' in args["score"]:
-                print(f'BioSyn accuracy evaluation = {utils.evaluation.inference_biosyn(f"{prediction_path}/standardized_predictions.txt")}')
+                print(f'BioSyn accuracy evaluation = {utils.evaluation.accuracy_biosyn(f"{prediction_path}/standardized_predictions.txt")}')
+            if 'Ref' in args["score"]:
+                print(f'BioSyn accuracy evaluation = {utils.evaluation.accuracy_homebrew(f"{prediction_path}/standardized_predictions.txt")}')
             if 'BB4' in args["score"]:
                 entity = 'BB4' if args["input"] == 'BB4' else args["input"].split('BB4-')[1]
                 p = subprocess.Popen([
@@ -170,8 +172,6 @@ def router(args):
                 p.wait()
                 print(f'Bacteria Biotope 4 prediction file (.a2) available for online evaluation.')
                 print(p.returncode)
-                # if p.returncode != 0:
-                #     raise Exception("Prediction conversion failed. Are you sure you used the Bacteria Biotope dataset ?")
     shutil.rmtree(f"{base_dir}/tmp")
     print('Done')
     

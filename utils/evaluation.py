@@ -4,7 +4,6 @@ import argparse, os
 from genericpath import exists
 from tabnanny import check
 from typing import Type
-from tqdm import tqdm
 
 def main():
     '''
@@ -35,8 +34,8 @@ def router(args):
     if args["dataset"] and args["entities"]:
         convert_to_a2(args)
     else:
-        print('BioSyn Accuracy : ' + str(inference_biosyn(args["input"])))
-        print('Lightweight Accuracy : ' + str(inference_lightweight(args["input"])))
+        print('BioSyn Accuracy : ' + str(accuracy_biosyn(args["input"])))
+        print('Lightweight Accuracy : ' + str(accuracy_lightweight(args["input"])))
 
 def convert_to_a2(args):
     '''
@@ -93,7 +92,7 @@ def get_a1_matching_lines(args, pmid):
             a1_lines.append(line)
     return a1_lines, ftype
 
-def inference_biosyn(pred):
+def accuracy_biosyn(pred):
     with open(pred, 'r') as fh:
         lines = fh.readlines()
     accuracy = 0
@@ -107,7 +106,7 @@ def inference_biosyn(pred):
             accuracy += 1
     return accuracy / len(lines)
 
-def inference_lightweight(pred):
+def accuracy_lightweight(pred):
     with open(pred, 'r') as fh:
         lines = fh.readlines()
     accuracy = 0
@@ -117,7 +116,7 @@ def inference_lightweight(pred):
         if "|" in prediction_id or "|" in ground_truth_id:
             if len(prediction_id.split('|')) != len(ground_truth_id.split('|')):
                 continue
-            for pred in range(prediction_id.split('|')):
+            for pred in prediction_id.split('|'):
                 if pred not in ground_truth_id:
                     continue
                 else:
@@ -127,6 +126,23 @@ def inference_lightweight(pred):
     accuracy = 1.0 * acc_cnt / (len(lines)+1)
     return accuracy
 
+def accuracy_homebrew(pred):
+    with open(pred, 'r') as fh:
+        lines = fh.readlines()
+    accuracy = 0
+    acc_cnt = 0
+    for line in lines:
+        pmid, mention, ground_truth_id, ground_truth_label, prediction_id, prediction_label = line.strip('\n').split('\t')
+        score = 0
+        if "|" in prediction_id or "|" in ground_truth_id:
+            for pred in prediction_id.split('|'):
+                if pred in ground_truth_id.split('|'):
+                    score += 1
+        elif prediction_id == ground_truth_id:
+            score += 1
+        accuracy += score / max(len(prediction_id), len(ground_truth_id))  # multi-norm and too many pred
+    return accuracy
+    
 if __name__ == "__main__":
     main()
     
