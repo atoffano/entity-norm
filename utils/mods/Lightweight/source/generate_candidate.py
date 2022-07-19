@@ -359,7 +359,7 @@ if __name__ == '__main__':
                     else:
                         _, word_list = load_word_vocabulary(word_vocab_path, True)
                         generate_word_embeddings(bin_embedding_file, txt_embedding_file, word_list, word_embedding_file)
-                        shutil.copy(f'{data_dir}/embed/word2vec_200_dim_with_context.npy', f'{args["base_dir"]}/input/embed_test/word2vec_200_dim_with_context.npy')
+                        shutil.copy(f'{data_dir}/embed/word2vec_200_dim_with_context.npy', f'{args["base_dir"]}/input/word2vec_200_dim_with_context.npy')
             inpath = f'{data_dir}/test_data.txt'
             outpath = f'{data_dir}/candidates/training_aligned_cos_with_mention_candidate.txt'
             generate_candidate_by_cos(inpath, outpath)
