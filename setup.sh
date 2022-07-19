@@ -1,6 +1,6 @@
 #!/bin/bash
 cd "${0%/*}"
-cd ..
+
 # BioSyn
 git clone https://github.com/dmis-lab/BioSyn.git
 echo Modding BioSyn..
