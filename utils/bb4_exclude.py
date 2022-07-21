@@ -4,13 +4,12 @@ import shutil
 
 def main():
     '''
-    Parses arguments from command line
-
+    Creates a bacteria biotope dataset containing only the specified entities.
             Parameters:
                     Console arguments
                     -i / --input (str) : Input path containing files to convert (in standart format STD). Handles folder containing multiple datasets.
                     -o / --output (str): Output path for both standardized and converted formats.
-                    -e / --exclude (str) : Type of entities to exclude. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.
+                    -s / --separate (str) : Type of entities to whitelist. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles a combination of arguments.
     '''
     # Construct the argument parser
     parser = argparse.ArgumentParser()
@@ -20,7 +19,7 @@ def main():
     parser.add_argument("-o", "--output", default=os.getcwd(),
     help="Output directory")
     parser.add_argument("-s", "--separate", required=True, nargs='+',
-    help="Type of entities to exclude from dataset. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.")
+    help="Type of entities to whitelist from dataset. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.")
     args = vars(parser.parse_args())
     exclude(args)
 

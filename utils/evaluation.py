@@ -1,9 +1,4 @@
-# Script standardizing BioSyn predictions data. Can handle a few other outputs as well.
-import json
 import argparse, os
-from genericpath import exists
-from tabnanny import check
-from typing import Type
 
 def main():
     '''
@@ -11,16 +6,16 @@ def main():
 
             Parameters:
                     Console arguments
-                    -i / --input (str) : Input file prediction_eval.json.
-                    -d / --dataset (str): Input path of Bacteria biotope test dataset.
-                    -e / --entities (str): Type of entities predicted. Either "Microorganisms", "Phenotype", "Habitat" or a combination of those.
+                    -i / --input (str) : Input file consisting of a prediction files in a standardized format (standardized_predictions.txt).
+                    -d / --dataset (str): Input path of Bacteria biotope test dataset. Used only if the output is needed as a bacteria biotope format.
+                    -e / --entities (str): Type of entities predicted. Either "Microorganisms", "Phenotype", "Habitat" or a combination of those. Used only if the output is needed as a bacteria biotope format.
                     -o / --output (str): Output path for both standardized and converted formats. Defaults to input path.
     '''
     # Construct the argument parser
     parser = argparse.ArgumentParser()
     # Add the arguments to the parser
     parser.add_argument("-i", "--input", required=True,
-    help="Input path containing prediction_eval.json")
+    help="Input path containing prediction file.")
     parser.add_argument("-d", "--dataset", required=False,
     help="Input path of Bacteria biotope test dataset.")
     parser.add_argument("-e", "--entities", required=False,
@@ -31,6 +26,9 @@ def main():
     router(args)
 
 def router(args):
+    '''
+    Handles whether to pack predictions as an .a2 output or check accuracies
+    '''
     if args["dataset"] and args["entities"]:
         convert_to_a2(args)
     else:
@@ -93,6 +91,10 @@ def get_a1_matching_lines(args, pmid):
     return a1_lines, ftype
 
 def accuracy_biosyn(pred):
+    '''
+    Evaluates accuracy with BioSyn's methodology.
+    This evaluation is very lenient towards mentions normalized by multiple concepts.
+    '''
     with open(pred, 'r') as fh:
         lines = fh.readlines()
     accuracy = 0
@@ -107,6 +109,10 @@ def accuracy_biosyn(pred):
     return accuracy / len(lines)
 
 def accuracy_lightweight(pred):
+    '''
+    Evaluates accuracy with Lightweight's methodology.
+    This evaluation is strict towards mentions normalized by multiple concepts.
+    '''
     with open(pred, 'r') as fh:
         lines = fh.readlines()
     accuracy = 0
@@ -127,6 +133,9 @@ def accuracy_lightweight(pred):
     return accuracy
 
 def accuracy_ref(pred):
+    '''
+    Evaluates accuracy with a methodology taking into account the inherent difficulty of normalizing mentions by multiple concepts.
+    '''
     with open(pred, 'r') as fh:
         lines = fh.readlines()
     accuracy = 0

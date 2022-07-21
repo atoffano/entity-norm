@@ -7,17 +7,29 @@ import datetime
 import sys
 import json
 
-def setup(base_dir, input_std_data, kb, args):
-    # Load data
-    p = subprocess.Popen([
-    'python', f'{base_dir}/utils/adapt_input.py',
-    '--input', input_std_data,
-    '--output', f'{base_dir}/BioSyn/{args["input"]}/data/original_input',
-    '--to', args["method"]], stdout=subprocess.PIPE, bufsize=1)
-    for line in iter(p.stdout.readline, b''):
-        sys.stdout.write(line.decode(sys.stdout.encoding))
-    p.stdout.close()
-    p.wait()
+def setup(base_dir, input_std_data, kb):
+    '''
+    Transforms a standardized dataset in the NCBI disease corpus output format.
+
+            Parameters:
+                    base_dir (str): entity-norm path.
+                    input_std_data (str) : path to standardized data.
+                    kb (str): path to relevant knowledge base.
+            Output:
+                    Data converted to ncbi-disease format and as such loadable by BioSyn.
+    '''
+    for dataset in ['train', 'dev', 'test']:
+        outfile = f"{dataset}set_corpus.txt"
+        output = f'{base_dir}/BioSyn/{input_std_data}/data/original_input'
+        if not os.path.exists(output):
+            os.makedirs(output)
+        for file in glob.glob(f'{input_std_data}/{dataset}/*_header.txt'):
+            pmid, title, abstract, data = extract(filename=file)
+            with open(f'{output}/{outfile}', 'a') as f:
+                f.write(f"\n{pmid}|t|{title}{pmid}|a|{abstract}")
+                for line in data:
+                    line = "\t".join(line)
+                    f.write(f"{pmid}\t{line}")
 
     # Load kb
     shutil.copy(f'{base_dir}/data/knowledge_base/standardized/{kb}', f'{base_dir}/BioSyn/preprocess/resources/{kb}')
@@ -25,6 +37,21 @@ def setup(base_dir, input_std_data, kb, args):
 
 
 def run(base_dir, args, params, kb):
+    '''
+    1) Preprocesses data
+    2) Trains model with parameters from config.json
+    3) Inference
+
+            Parameters:
+                    base_dir (str): Path of entity-norm folder
+                    env_path (str): Path of lightweight folder (Biomedical-Entity-Linking)
+                    params (str) : Parameters specifying how the model should be trained.
+                    args (dict) : arguments from main.py
+                    kb (str) : path to relevant knowledge base.
+            Output:
+                Prediction files.
+    '''
+
     # Loading BioSyn training parameters
     params = params['BioSyn']
 
@@ -206,6 +233,9 @@ def run(base_dir, args, params, kb):
             fh.write(f'{pmid}\t{mention}\t{ground_truth_id}\t\t{prediction_id}\t{prediction_label}\n')
 
 def cleanup(base_dir, args, kb):
+    '''
+    Moves outputs to entity-nom/results/ and cleans up inputs from BioSyn folder.
+    '''
     dt = datetime.datetime.now()
     dt = f"{dt.year}-{dt.month}-{dt.day}-{dt.hour}:{dt.minute}"
     print(f'Cleaning up BioSyn directory and moving all outputs to {base_dir}/results/BioSyn/{args["input"]}-{dt}')
@@ -216,3 +246,28 @@ def cleanup(base_dir, args, kb):
     os.chdir(f'{base_dir}')
     print('Cleaning done.')
     return f'{base_dir}/results/BioSyn/{args["input"]}-{dt}'
+
+def extract(filename):
+    '''
+    Extracts the content of a standardized file.
+
+            Parameters:
+                    filename (str): Path of file to extract data from.
+            Returns:
+                pmid (str): Id of file. Usually a pmid but depending on file format before standardization can be something else.
+                title (str): Title of the article
+                abstract (str) : Abstract of the article
+                data (list) : list of lists containing each mention, its location, its class and labels.
+    '''
+    entries = []
+    pmid = filename.split("/")[-1].split("_header.txt")[0]
+    with open(f"{filename}", 'r') as fh:
+        lines = fh.readlines()
+    title, abstract = lines[0], lines[1] 
+    with open(f"{filename.split('_header')[0]}_data.txt", 'r') as fh:
+        lines = fh.readlines()
+        del lines[0]
+    for line in lines:
+        line = line.split("\t")
+        entries.append(line)
+    return pmid, title, abstract, entries

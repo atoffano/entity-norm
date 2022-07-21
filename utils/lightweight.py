@@ -3,9 +3,19 @@ import subprocess
 import os, sys
 import glob
 import datetime
-from itertools import groupby
 
 def setup(base_dir, env_path, input_std_data, kb, args):
+    '''
+    Checks environnement and preprocesses data.
+
+            Parameters:
+                    base_dir (str): Path of entity-norm folder
+                    env_path (str): Path of lightweight folder (Biomedical-Entity-Linking)
+                    input_std_data (str) : Path to folder containing stadardized datasets
+                    kb (str) : Path to relevant knowledge base.
+            Output:
+                Processed files from input.
+    '''
     os.makedirs(f'{env_path}/candidates')
     os.makedirs(f'{env_path}/context')
     os.makedirs(f'{env_path}/embed')
@@ -35,6 +45,19 @@ def setup(base_dir, env_path, input_std_data, kb, args):
     return env_path
 
 def run(base_dir, env_path, params, args):
+    '''
+    1) Generates word embeddings and candidates.
+    2) Trains model with parameters from config.json
+    3) Inference
+
+            Parameters:
+                    base_dir (str): Path of entity-norm folder
+                    env_path (str): Path of lightweight folder (Biomedical-Entity-Linking)
+                    params (str) : Parameters specifying how the model should be trained.
+                    args (dict) : arguments from main.py
+            Output:
+                Prediction files.
+    '''
     print("Generating Word Embeddings and Candidates")
     p = subprocess.Popen(['python3', f'{base_dir}/Biomedical-Entity-Linking/source/generate_candidate.py',
     "--input", env_path,
@@ -65,25 +88,10 @@ def run(base_dir, env_path, params, args):
     p.stdout.close()
     p.wait()
 
-    # # Standardizing predictions
-    # with open(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/predict_score.txt', 'r') as f:
-    #     predictions = f.readlines()
-    #     for line in predictions:
-    #         prediction = line.split('\t')
-    #         pmid, mention = prediction.pop(0), prediction.pop(1)
-    #         best_pred = [0,0,0]
-    #         for pos in range(0, len(prediction), 3):
-    #             candidate = [pos:pos + 3]
-    #             if candidate[2] > best_pred[2]:
-    #                 best_pred = candidate
-
-    # with open(f'{base_dir}/Biomedical-Entity-Linking/checkpoints/standardized_predictions.txt', 'a') as fh:
-    #     for pred in predictions:
-    #         pred = pred.strip('\n').split('\t')
-    #         pmid, mention, ground_truth_id, ground_truth_name, prediction_id, prediction_label = pred[0], pred[1], pred[2], pred[3], pred[4], pred[5]
-    #         fh.write(f'{pmid}\t{mention}\t{ground_truth_id}\t{ground_truth_name}\t{prediction_id}\t{prediction_label}\n')
-    
 def cleanup(base_dir, env_path, args):
+    '''
+    Moves outputs to entity-nom/results/ and cleans up inputs from Biomedical-Entity-Linking folder.
+    '''
     dt = datetime.datetime.now()
     dt = f"{dt.year}-{dt.month}-{dt.day}-{dt.hour}:{dt.minute}"
     print(f'Cleaning up Biomedical-Entity-Linking directory and moving all outputs to {base_dir}/results/Biomedical-Entity-Linking/{args["input"]}-{dt}')
