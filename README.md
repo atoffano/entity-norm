@@ -52,7 +52,8 @@ This example trains n=10 BioSyn models on the train+dev set using ncbi-disease d
 All files produced along the way, including output predictions, can be found in the `results` folder.
 
 ### Arguments
-`--input` refers to the folder name containing standardized data in `data/standardized`. Currently available are Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'.
+`--input` refers to the folder name containing standardized data in `data/standardized`. \ 
+Currently available are Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'.
 
 You can specify a certain method to us (e.g. BioSyn or Lightweight) by using the `--method` argument.
 
@@ -65,7 +66,7 @@ Arguments are as follow:
 `--evalset` indicates whether the model should be tested on the `test` set or `dev` set and subsequently whether the training should be done on the training set or the traindev set.
 
 `--original` does not take any additional argument. Data used by the pipeline comes from already standardized data stored in `data/standardized`. \
-Using this argument specify that the used data must come from the non-standardized, original data (e.g. as is published online) stored in `data/original`.
+Using this argument specify that the used data must come from the non-standardized, original data (e.g. as is published online) stored in `data/original`. \
 Original data can be downloaded here:
 - [ncbi-disease](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/)
 - [Bacteria Biotope 4](https://sites.google.com/view/bb-2019/dataset?authuser=0)
@@ -73,11 +74,11 @@ Original data can be downloaded here:
 `--runs` argument allows the user to train multiple models.
 
 ### Parameters
-Parameters specific to each method can be configured through the `config.json` file. Those include among others the learning rate, number of epochs, decay rate and seed.
+Parameters specific to each method can be configured through the `config.json` file. Those include among others the learning rate, number of epochs, decay rate and seed. \
 Default parameters are based on those specified by the authors of each method.
 
 ## Standard format
-To allow for interoperability of methods, datasets are converted from their original format to a common one.
+To allow for interoperability of methods, datasets are converted from their original format to a common one. \
 Each dataset is split in `train`, `dev` and `test` folder each containing two files per text sharing a uniq id (usually its pmid for biomedical articles):
 - `{id}_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract.
 - `{id}_data.txt` is a tabulation-separated `'\t'` file containing the data itself, starting with a header. \
@@ -126,8 +127,8 @@ python loader.py \
 
 -----
 
-`bb4_exclude.py` : Creates a Bacteria Biotope dataset subcategory containing only the specified entities.
-Input must be in a standardized format.
+`bb4_exclude.py` : Creates a Bacteria Biotope dataset subcategory containing only the specified entities. \
+Input must be in a standardized format. \
 Handles the following entities: `Phenotype`, `Habitat`, `Microorganism`.
 
 **Usage**:
@@ -142,7 +143,7 @@ python bb4_exclude.py \
 `evaluation.py` : Evaluates predictions using different accuracy functions.
 
 **Usage**: \
-`--input` is the only required argument.
+`--input` is the only required argument. \
 Other arguments are only required for a Bacteria Biotope 4 test set evaluation (see below).
 ```
 python convert_BioSyn_pred_to_a2.py \
@@ -152,27 +153,29 @@ python convert_BioSyn_pred_to_a2.py \
     --dataset {DATASET_PATH} \ # Original Bacteria Biotope 4 dataset containing unmodified .a1 files.
 ```
 *Special case* :
-Ground truth for normalizations of the Bacteria Biotope 4 test set aren't made publicly available, a dedicated evaluator can be found online.
-As such, this script outputs a folder containing predictions formatted in a way that is interpretable by the [Bacteria Biotope 2019 online evaluation software](http://bibliome.jouy.inra.fr/demo/BioNLP-OST-2019-Evaluation/index.html).
+Ground truth for normalizations of the Bacteria Biotope 4 test set aren't made publicly available, a dedicated evaluator can be found online. \
+As such, this script outputs a folder containing predictions formatted in a way that is interpretable by the [Bacteria Biotope 2019 online evaluation software](http://bibliome.jouy.inra.fr/demo/BioNLP-OST-2019-Evaluation/index.html). \
 Please compress the output folder as .gz before submitting.
 
 -----
 
-`biosyn.py` : Script acting as a pipeline to run the BioSyn method.
-Folder environnement is set up inside the BioSyn directory then populated with the data.
-The data is then processed, the model trained and inference subsequently made.
+`biosyn.py` : Script acting as a pipeline to run the BioSyn method. \
+Folder environnement is set up inside the BioSyn directory then populated with the data. \
+The data is then processed, the model trained and inference subsequently made. \
 Lastly the folder environnement is cleaned up and produced files stored in the `results` folder.
 
-`lightweight.py` : Script acting as a pipeline to run the Lightweight method.
+`lightweight.py` : Script acting as a pipeline to run the Lightweight method. \
 Works in a similar way to the BioSyn pipeline.
 
 ## Additional informations
 
-The `utils/mods` folder stores slightly modified versions of Lightweight and BioSyn scripts.
+The `utils/mods` folder stores slightly modified versions of Lightweight and BioSyn scripts. \
 The modified BioSyn scripts allow certain informations to pass through the pipeline unhindered and do not change the way the code works.
-However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components of the code) are unavailable. As such I had to code those morsels following the paper's specifications. Divergence arising between the author's results and those of this implementation most likely come from this part of the code.
+However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components of the code) are unavailable. \
+As such I had to code those morsels following the paper's specifications. Divergence arising between the author's results and those of this implementation most likely come from this part of the code.
 
-The `utils/old` folder stores prototypes of the current working scripts. While useless to most users, some functions could find some uses in very specific tasks (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
+The `utils/old` folder stores prototypes of the current working scripts. \
+While useless to most users, some functions could find some uses in very specific tasks (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
 
 ## References
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019. \
