@@ -1,4 +1,4 @@
-### Entity-Norm
+# Entity-Norm
 
 Comparative analysis of neural methods for entity normalization in the biological field.
 
@@ -40,8 +40,8 @@ $ python main.py \
     --original
 ```
 
-# Arguments
-`--input` refers to the folder name containing standardized data in 'data/standardized'. Currently available are Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'.
+### Arguments
+`--input` refers to the folder name containing standardized data in `data/standardized`. Currently available are Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'.
 
 You can specify a certain method to us (e.g. BioSyn or Lightweight) by using the `--method` argument.
 
@@ -49,27 +49,25 @@ You can specify a certain method to us (e.g. BioSyn or Lightweight) by using the
 Arguments are as follow:
 - `BioSyn` : BioSyn's scoring function. Very lenient towards mentions normalized by multiple concepts.
 - `Lightweight` : Lightweight's scoring function. Strict towards mentions normalized by multiple concepts.
-- `Ref` : A custom made scoring function that takes into account the inherent difficulty of multiple concept          normalization while not being too lenient.
+- `Ref` : A custom made scoring function that acts as a middleground between the previous functions by balancing the rewards of multiple concept normalization according to the difficulty of the normalization.
 
-`--evalset` handles whether the model should be tested on the `test` set or `dev` set and subsequently whether training should be done on training set or train+dev set.
+`--evalset` indicates whether the model should be tested on the `test` set or `dev` set and subsequently whether the training should be done on the training set or the traindev set.
 
-`--original` does not take any additional argument. Data used by the pipeline comes from already standardized data stored in `data/standardized`. Using this argument redirects data used to original data (available online) stored in `data/original`.
+`--original` does not take any additional argument. Data used by the pipeline comes from already standardized data stored in `data/standardized`. \
+Using this argument specify that the used data must come from the non-standardized, original data (e.g. as is published online) stored in `data/original`.
 Original data can be downloaded here:
 - [ncbi-disease](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/)
 - [Bacteria Biotope 4](https://sites.google.com/view/bb-2019/dataset?authuser=0)
 
-# Parameters
+### Parameters
 Parameters specific to each method can be configured through the `config.json` file. Those include among others the learning rate, number of epochs, decay rate and seed.
 Default parameters are based on those specified by the authors of each method.
 
 ## Standard format
 To allow for interoperability of methods, datasets are converted from their original format to a common one.
 Each dataset is split in `train`, `dev` and `test` folder each containing two files per text sharing a uniq id (usually its pmid for biomedical articles):
-- `[id]_header.txt`
-- `[id]_data.txt`
-
-`[id]_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract. \
-`[id]_data.txt` is a tabulation-separated `'\t'` file containing the data itself, with a header in the first line. \
+- `[id]_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract. \
+- `[id]_data.txt` is a tabulation-separated `'\t'` file containing the data itself, with a header in the first line. \
 Mentions normalized by multiple concepts are separated by a '|' sign.
 
 Example: `23402_data.txt` 
@@ -79,20 +77,20 @@ start	end	mention	_class	norm
 137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800
 ```
 
-Data can be standardized anew from original by running the following command line:
-```
-$ python main.py --input [dataset] --original
-```
-Output will be found in the `tmp` folder.
-
 ## Adding a custom dataset
 Adding your own customized dataset can be done in a few steps:
 - Standardize your dataset.
+    Data can be standardized anew from original by running the following command line:
+    ```
+    $ python main.py --input [dataset] --original
+    ```
+    Output will be found in the `tmp` folder.
 - Add your converted dataset in a folder within 'data/standardized' with a name of your choosing.
 - Create a knowledge base of your data with concept separated from labels by '||'. Labels and synonym concepts are separated by a simple '|'.
     Example:
-    ```C566983|611252||Spastic Paraplegia 32, Autosomal Recessive|SPG32 \
-    D054363||Solitary Fibrous Tumor, Pleural|Benign Fibrous Mesothelioma
+    ```
+    C566983|611252||Spastic Paraplegia 32, Autosomal Recessive|SPG32
+    D054363||Solitary Fibrous Tumor|Benign Fibrous Mesothelioma
     ```
 - Store your knowledge base in `data/knowledge_base/standardized/{NAME}.txt` with `{NAME}` matching your dataset folder name.
 - Run main.py with the `--input` argument matching your dataset folder name.
