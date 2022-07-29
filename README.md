@@ -68,15 +68,15 @@ Each dataset is split in `train`, `dev` and `test` folder each containing two fi
 - [id]_header.txt
 - [id]_data.txt
 
-`[id]_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract.
-`[id]_data.txt` is a tabulation-separated `'\t'` file containing the data itself, with a header in the first line.
+`[id]_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract. \
+`[id]_data.txt` is a tabulation-separated `'\t'` file containing the data itself, with a header in the first line. \
 Mentions normalized by multiple concepts are separated by a '|' sign.
 
 Example: `23402_data.txt` \
 ```
-1    start	end	mention	            _class	        norm
-2    77	    94	neonatal jaundice	SpecificDisease	D007567
-3    137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800
+start	end	mention	_class	norm
+77	94	neonatal jaundice	SpecificDisease	D007567
+137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800
 ```
 
 Data can be standardized anew from original by running the following command line:
