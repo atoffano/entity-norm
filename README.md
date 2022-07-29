@@ -46,10 +46,10 @@ $ python main.py \
 You can specify a certain method to us (e.g. BioSyn or Lightweight) by using the `--method` argument.
 
 `--score` allows to choose which evaluating functions to calculate accuracy with. Multiple functions can be used at once.
-Individual characteristics are as follow:
-- BioSyn : BioSyn's scoring function. Very lenient towards mentions normalized by multiple concepts.
-- Lightweight : Lightweight's scoring function. Strict towards mentions normalized by multiple concepts.
-- Ref : A custom made scoring function that takes into account the inherent difficulty of multiple concept          normalization while not being too lenient.
+Arguments are as follow:
+- `BioSyn` : BioSyn's scoring function. Very lenient towards mentions normalized by multiple concepts.
+- `Lightweight` : Lightweight's scoring function. Strict towards mentions normalized by multiple concepts.
+- `Ref` : A custom made scoring function that takes into account the inherent difficulty of multiple concept          normalization while not being too lenient.
 
 `--evalset` handles whether the model should be tested on the `test` set or `dev` set and subsequently whether training should be done on training set or train+dev set.
 
@@ -67,11 +67,17 @@ To allow for interoperability of methods, datasets are converted from their orig
 Each dataset is split in `train`, `dev` and `test` folder each containing two files per text sharing a uniq id (usually its pmid for biomedical articles):
 - [id]_header.txt
 - [id]_data.txt
+
 `[id]_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract.
-`[id]_data.txt` is a tabulation-separated `\t` file containing the data itself, with a header in the first line. Mentions normalized by multiple concepts are separated by a '|' sign.
+`[id]_data.txt` is a tabulation-separated `'\t'` file containing the data itself, with a header in the first line.
+Mentions normalized by multiple concepts are separated by a '|' sign.
+
 Example: `23402_data.txt`
+
 1    start	end	mention	            _class	        norm
+
 2    77	    94	neonatal jaundice	SpecificDisease	D007567
+
 3    137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800
 
 Data can be standardized anew from original by running the following command line:
