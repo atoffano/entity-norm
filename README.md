@@ -6,8 +6,8 @@ This work is an attempt to make interoperable multiple datasets and methods in t
 This repository is made to store and make accessible all scripts and resulting data.
 
 Two SoTA normalization methods (2022) have been adapted so far:
-- [Lightweight](https://github.com/tigerchen52/Biomedical-Entity-Linking)[1], a method using Word2Vec embeddings from the paper [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/abs/2012.08844) \
-- [BioSyn](https://github.com/dmis-lab/BioSyn)[2], a method using BioBERT embeddings and morpho-syntaxic representation of mentions and labels from the paper [Biomedical Entity Representations with Synonym Marginalization](https://arxiv.org/abs/2005.00239) \
+- [Lightweight](https://github.com/tigerchen52/Biomedical-Entity-Linking)[1], a method using Word2Vec embeddings from the paper [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/abs/2012.08844)
+- [BioSyn](https://github.com/dmis-lab/BioSyn)[2], a method using BioBERT embeddings and morpho-syntaxic representation of mentions and labels from the paper [Biomedical Entity Representations with Synonym Marginalization](https://arxiv.org/abs/2005.00239)
     
 
 Results sheet can be found [here](https://docs.google.com/spreadsheets/d/1dDVcLoVeu9MloluEPtpPtgt2v-_XlFCQ35QN0NUJbpg/edit?usp=sharing)
@@ -172,8 +172,8 @@ The `utils/mods` folder stores slightly modified versions of Lightweight and Bio
 The modified BioSyn scripts allow certain informations to pass through the pipeline unhindered and do not change the way the code works.
 However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components of the code) are unavailable. As such I had to code those morsels following the paper's specifications. Divergence arising between the author's results and those of this implementation most likely come from this part of the code.
 
-The `utils/old` folder stores prototypes of the current working scripts. While useless to most users, some functions could find some use in very specific tasks (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
+The `utils/old` folder stores prototypes of the current working scripts. While useless to most users, some functions could find some uses in very specific tasks (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
 
 ## References
-[1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.
+[1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019. \
 [2] Sung, M., Jeon, H., Lee, J., Kang, J. Biomedical Entity Representations with Synonym Marginalization. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.
