@@ -1,15 +1,14 @@
 # Entity-Norm
 
-## Comparative analysis of neural methods for entity normalization in the biological field.
+### Comparative analysis of neural methods for entity normalization in the biological field.
 
 This work is an attempt to make interoperable multiple datasets and methods in the entity normalization task, in order to evaluate the robustness of those methods.
 This repository is made to store and make accessible all scripts and resulting data.
 
 Two SoTA normalization methods (2022) have been adapted so far:
-- Lightweight[1], a method using Word2Vec embeddings from the paper [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/abs/2012.08844) \
-    [GitHub](https://github.com/tigerchen52/Biomedical-Entity-Linking)
-- BioSyn[2], a method using BioBERT embeddings and morpho-syntaxic representation of mentions and labels from the paper [Biomedical Entity Representations with Synonym Marginalization](https://arxiv.org/abs/2005.00239) \
-    [GitHub](https://github.com/dmis-lab/BioSyn)
+- [Lightweight](https://github.com/tigerchen52/Biomedical-Entity-Linking)[1], a method using Word2Vec embeddings from the paper [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/abs/2012.08844) \
+- [BioSyn](https://github.com/dmis-lab/BioSyn)[2], a method using BioBERT embeddings and morpho-syntaxic representation of mentions and labels from the paper [Biomedical Entity Representations with Synonym Marginalization](https://arxiv.org/abs/2005.00239) \
+    
 
 Results sheet can be found [here](https://docs.google.com/spreadsheets/d/1dDVcLoVeu9MloluEPtpPtgt2v-_XlFCQ35QN0NUJbpg/edit?usp=sharing)
 
@@ -28,7 +27,8 @@ $ pip install biosyn_requirements.txt
 $ pip install lightweight_requirements.txt
 ```
 
-Additionnaly, Lightweight authors represent each word by a 200-dimensional word embedding computed on PubMed and MIMIC-III corpus, which can be downloaded from [here](https://github.com/ncbi-nlp/BioSentVec) or directly [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.vec.bin) and must be placed in `Biomedical-Entity-Linking/input/` if you plan to use this method.
+Additionnaly, Lightweight authors represent each word by a 200-dimensional word embedding computed on PubMed and MIMIC-III corpus. \
+The embeddings file can be downloaded from [here](https://github.com/ncbi-nlp/BioSentVec) or directly [here](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.vec.bin) and must be placed in `Biomedical-Entity-Linking/input` if you plan to use this method.
 
 Lastly, environnement should be initialized by running `setup.sh`
 ```
@@ -36,7 +36,7 @@ $ bash setup.sh
 ```
 
 ## Usage
-Most if not all interactions should be made through the main.py script.
+Most if not all interactions should be made through the main.py script. \
 Example :
 ```
 $ python main.py \
@@ -79,8 +79,8 @@ Default parameters are based on those specified by the authors of each method.
 ## Standard format
 To allow for interoperability of methods, datasets are converted from their original format to a common one.
 Each dataset is split in `train`, `dev` and `test` folder each containing two files per text sharing a uniq id (usually its pmid for biomedical articles):
-- `[id]_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract. \
-- `[id]_data.txt` is a tabulation-separated `'\t'` file containing the data itself, with a header in the first line. \
+- `{id}_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract.
+- `{id}_data.txt` is a tabulation-separated `'\t'` file containing the data itself, starting with a header. \
 Mentions normalized by multiple concepts are separated by a '|' sign.
 
 Example: `23402_data.txt` 
@@ -92,13 +92,15 @@ start	end	mention	_class	norm
 
 Data can be standardized anew from original by running the following command line:
 ```
-$ python main.py --input [dataset] --original
+$ python main.py --input {dataset} --original
 ```
 Output will be found in the `tmp` folder.
 
 ## Adding a custom dataset
 Adding your own customized dataset can be done in a few steps:
-- Standardize your dataset.
+- Standardize your dataset. 
+    If you are not using text containing a title, simply leave the first line of {id}_header empty.
+    Make sure to attribute a uniq id to each file.
 - Add your converted dataset in a folder within 'data/standardized' with a name of your choosing.
 - Create a knowledge base of your data with concept separated from labels by '||'. Labels and synonym concepts are separated by a simple '|'. \
     Example:
@@ -113,47 +115,41 @@ Adding your own customized dataset can be done in a few steps:
 Contains multiple file format handlers, allowing to convert datasets/files to input formats of different entity normalization methods.
 
 `standardize_data.py` : Allows conversion of datasets to a standardized format. Can be used independently of main.py.
-* NCBI Disease Corpus - 'NCBI'  
-* Bacteria Biotope 4 - 'BB4'  
-* Standardized format - 'STD'  
 
 **Usage**:
 ```
 python loader.py \
-    --input DATASET_PATH \ # Input directory containing dataset file(s).
-    --output OUTPUT_PATH \  # Converted dataset output directory
-    --dataset DATASET # Input dataset format. Supported: Bacteria Biotope 4 as [BB4] | NCBI Disease Corpus as [NCBI]
+    --input {DATASET_PATH} \ # Input directory containing dataset file(s).
+    --output {OUTPUT_PATH} \  # Converted dataset output directory
+    --dataset {DATASET} # Input dataset format. Supported: Bacteria Biotope 4 as [BB4] | NCBI Disease Corpus as [NCBI]
 ```
 
 -----
 
 `bb4_exclude.py` : Creates a Bacteria Biotope dataset subcategory containing only the specified entities.
 Input must be in a standardized format.
-Handles the following entities:   
-* Phenotype  
-* Habitat  
-* Microorganism
+Handles the following entities: `Phenotype`, `Habitat`, `Microorganism`.
 
 **Usage**:
 ```
 python bb4_exclude.py \
-    --input INPUT_PATH\ # Input path of Bacteria Biotope 4 dataset.
-    --output OUTPUT_PATH \ # Output directory.
-    --separate ENTITY \ # Type of entities to whitelist from dataset. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.
+    --input {INPUT_PATH}\ # Input path of Bacteria Biotope 4 dataset.
+    --output {OUTPUT_PATH} \ # Output directory.
+    --separate {ENTITY} \ # Type of entities to whitelist from dataset. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles multiple arguments.
 ```
 -----
 
 `evaluation.py` : Evaluates predictions using different accuracy functions.
 
-**Usage**:
+**Usage**: \
 `--input` is the only required argument.
-Other arguments are only required for a Bacteria Biotope 4 test set evaluation (See *Special case*).
+Other arguments are only required for a Bacteria Biotope 4 test set evaluation (see below).
 ```
 python convert_BioSyn_pred_to_a2.py \
-    --input INPUT_PATH \ # Input path containing prediction file.
-    --output OUTPUT_PATH \ # Output path for Bacteria Biotope converted predictions.
-    --entities ENTITIES \ # Subset of entity types predicted. Either "Microorganisms", "Phenotype" or "Habitat". Handles multiple arguments.
-    --dataset DATASET_PATH \ # Original Bacteria Biotope 4 dataset containing unmodified .a1 files.
+    --input {INPUT_PATH} \ # Input path containing prediction file.
+    --output {OUTPUT_PATH} \ # Output path for Bacteria Biotope converted predictions.
+    --entities {ENTITIES} \ # Subset of entity types predicted. Either "Microorganisms", "Phenotype" or "Habitat". Handles multiple arguments.
+    --dataset {DATASET_PATH} \ # Original Bacteria Biotope 4 dataset containing unmodified .a1 files.
 ```
 *Special case* :
 Ground truth for normalizations of the Bacteria Biotope 4 test set aren't made publicly available, a dedicated evaluator can be found online.
@@ -174,10 +170,10 @@ Works in a similar way to the BioSyn pipeline.
 
 The `utils/mods` folder stores slightly modified versions of Lightweight and BioSyn scripts.
 The modified BioSyn scripts allow certain informations to pass through the pipeline unhindered and do not change the way the code works.
-However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components of the code) are unavailable. As such i had to code those morsels following the paper's specifications. Divergence arising between the author's results and those of this implementation most likely come from this part of the code.
+However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components of the code) are unavailable. As such I had to code those morsels following the paper's specifications. Divergence arising between the author's results and those of this implementation most likely come from this part of the code.
 
 The `utils/old` folder stores prototypes of the current working scripts. While useless to most users, some functions could find some use in very specific tasks (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
 
-### References
+## References
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.
 [2] Sung, M., Jeon, H., Lee, J., Kang, J. Biomedical Entity Representations with Synonym Marginalization. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.
