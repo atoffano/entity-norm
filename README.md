@@ -40,7 +40,7 @@ $ python main.py \
     --original
 ```
 
-#Arguments
+# Arguments
 `--input` refers to the folder name containing standardized data in 'data/standardized'. Currently available are Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'.
 
 You can specify a certain method to us (e.g. BioSyn or Lightweight) by using the `--method` argument.
@@ -58,7 +58,7 @@ Original data can be downloaded here:
     - [ncbi-disease](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/)
     - [Bacteria Biotope 4](https://sites.google.com/view/bb-2019/dataset?authuser=0)
 
-#Parameters
+# Parameters
 Parameters specific to each method can be configured through the `config.json` file. Those include among others the learning rate, number of epochs, decay rate and seed.
 Default parameters are based on those specified by the authors of each method.
 
