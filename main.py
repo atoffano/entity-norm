@@ -38,7 +38,6 @@ def main():
     help="Specify which set should be used use for evaluation. Supported : 'dev', 'test'. defaults to 'test' if left empty.")
     parser.add_argument("-o", "--original", action='store_true',
     help="Starts the process from an original, non-standardized dataset.")
-
     parser.add_argument("--runs", default=1,
     help="Number of models to train.")
 

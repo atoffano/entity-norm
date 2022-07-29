@@ -7,7 +7,7 @@ def main():
     Creates a bacteria biotope dataset containing only the specified entities.
             Parameters:
                     Console arguments
-                    -i / --input (str) : Input path containing files to convert (in standart format STD). Handles folder containing multiple datasets.
+                    -i / --input (str) : Input path containing files to convert (in standart format). Handles folder containing multiple datasets.
                     -o / --output (str): Output path for both standardized and converted formats.
                     -s / --separate (str) : Type of entities to whitelist. Either 'Microorganism', 'Phenotype' or 'Habitat'. Handles a combination of arguments.
     '''
@@ -27,9 +27,12 @@ def exclude(args):
     '''
     Iters over each line in each file contained in directory input. For each line, only saves those that refers to entities not blacklisted.
     '''
+    # Verifies whether specified entities exist.
     for entity in args['separate']:
         if entity not in ['Microorganism', 'Phenotype', 'Habitat']:
             raise Exception("Entity to exclude not recognized. Check spelling.")
+
+    # Whitelisting
     for directory in os.listdir(args['input']):    
         for file in glob.glob(f"{args['input']}/{directory}/*_data.txt"):
             directory = directory.split("/")[-1]
