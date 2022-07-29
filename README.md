@@ -65,14 +65,14 @@ Default parameters are based on those specified by the authors of each method.
 ## Standard format
 To allow for interoperability of methods, datasets are converted from their original format to a common one.
 Each dataset is split in `train`, `dev` and `test` folder each containing two files per text sharing a uniq id (usually its pmid for biomedical articles):
-- [id]_header.txt
-- [id]_data.txt
+- `[id]_header.txt`
+- `[id]_data.txt`
 
 `[id]_header.txt` contains the raw text. The first line is the title (in case of an article) while the second line contains the abstract. \
 `[id]_data.txt` is a tabulation-separated `'\t'` file containing the data itself, with a header in the first line. \
 Mentions normalized by multiple concepts are separated by a '|' sign.
 
-Example: `23402_data.txt` \
+Example: `23402_data.txt` 
 ```
 start	end	mention	_class	norm
 77	94	neonatal jaundice	SpecificDisease	D007567
@@ -91,9 +91,10 @@ Adding your own customized dataset can be done in a few steps:
 - Add your converted dataset in a folder within 'data/standardized' with a name of your choosing.
 - Create a knowledge base of your data with concept separated from labels by '||'. Labels and synonym concepts are separated by a simple '|'.
         Example:
-       ```C566983|611252||Spastic Paraplegia 32, Autosomal Recessive|SPG32
-        D054363||Solitary Fibrous Tumor, Pleural|Benign Fibrous Mesothelioma```
-- Store your knowledge base in `data/knowledge_base/standardized/{NAME}.txt` with {NAME} matching your dataset folder name.
+```C566983|611252||Spastic Paraplegia 32, Autosomal Recessive|SPG32 \
+D054363||Solitary Fibrous Tumor, Pleural|Benign Fibrous Mesothelioma
+```
+- Store your knowledge base in `data/knowledge_base/standardized/{NAME}.txt` with `{NAME}` matching your dataset folder name.
 - Run main.py with the `--input` argument matching your dataset folder name.
 
 # Utils
