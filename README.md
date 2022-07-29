@@ -73,9 +73,11 @@ Each dataset is split in `train`, `dev` and `test` folder each containing two fi
 Mentions normalized by multiple concepts are separated by a '|' sign.
 
 Example: `23402_data.txt` \
-1    start	end	mention	            _class	        norm \
-2    77	    94	neonatal jaundice	SpecificDisease	D007567 \
-3    137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800 \
+```
+1    start	end	mention	            _class	        norm
+2    77	    94	neonatal jaundice	SpecificDisease	D007567
+3    137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800
+```
 
 Data can be standardized anew from original by running the following command line:
 ```
