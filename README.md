@@ -37,7 +37,8 @@ $ python main.py \
     --method BioSyn \
     --score BioSyn Lightweight \
     --evalset test \
-    --original```
+    --original
+```
 
 #Arguments
 `--input` refers to the folder name containing standardized data in 'data/standardized'. Currently available are Bacteria Biotope 4 as 'BB4' or a sub category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism', NCBI Disease Corpus as 'ncbi-disease'.
