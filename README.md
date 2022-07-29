@@ -90,10 +90,10 @@ Adding your own customized dataset can be done in a few steps:
 - Standardize your dataset.
 - Add your converted dataset in a folder within 'data/standardized' with a name of your choosing.
 - Create a knowledge base of your data with concept separated from labels by '||'. Labels and synonym concepts are separated by a simple '|'.
-        Example:
-```C566983|611252||Spastic Paraplegia 32, Autosomal Recessive|SPG32 \
-D054363||Solitary Fibrous Tumor, Pleural|Benign Fibrous Mesothelioma
-```
+    Example:
+    ```C566983|611252||Spastic Paraplegia 32, Autosomal Recessive|SPG32 \
+    D054363||Solitary Fibrous Tumor, Pleural|Benign Fibrous Mesothelioma
+    ```
 - Store your knowledge base in `data/knowledge_base/standardized/{NAME}.txt` with `{NAME}` matching your dataset folder name.
 - Run main.py with the `--input` argument matching your dataset folder name.
 
