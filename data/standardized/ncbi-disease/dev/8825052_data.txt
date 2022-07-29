@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 31	48	sporadic aniridia	SpecificDisease	D015783
 110	137	bilateral sporadic aniridia	SpecificDisease	D015783
 395	403	aniridia	SpecificDisease	D015783

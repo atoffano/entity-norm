@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 204	219	human pathogens	Phenotype	OBT:002806
 204	209	human	Habitat	OBT:002488
 221	242	Staphylococcus aureus	Microorganism	1280

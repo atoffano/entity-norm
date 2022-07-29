@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 69	78	fragile X	SpecificDisease	D005600
 227	245	mental retardation	DiseaseClass	D008607
 392	410	fragile X syndrome	SpecificDisease	D005600

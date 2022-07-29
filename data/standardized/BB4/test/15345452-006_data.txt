@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 3	31	pasteurized Leerdamer cheese	Habitat	MockLabel
 121	146	Leuconostoc mesenteroides	Microorganism	MockLabel
 220	238	Lactococcus lactis	Microorganism	MockLabel

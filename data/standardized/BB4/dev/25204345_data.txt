@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	81	quinolone resistance	Phenotype	OBT:002840
 92	112	lactic acid bacteria	Phenotype	OBT:000019
 118	138	quinolone resistance	Phenotype	OBT:002840

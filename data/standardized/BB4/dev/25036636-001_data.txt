@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	23	Galactomyces	Microorganism	27316
 43	57	Proteobacteria	Microorganism	1224
 91	109	moist bloomy rinds	Habitat	OBT:001481

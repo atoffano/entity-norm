@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 104	121	Angelman syndrome	SpecificDisease	D017204
 126	147	Prader-Willi syndrome	SpecificDisease	D011218
 213	230	Angelman syndrome	SpecificDisease	D017204

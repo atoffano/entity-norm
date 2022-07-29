@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 609	631	Pseudomonas aeruginosa	Microorganism	287
 633	653	Enterobacter cloacae	Microorganism	550
 655	662	E. coli	Microorganism	110766

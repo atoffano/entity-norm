@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	39	Adult onset globoid cell leukodystrophy	SpecificDisease	D007965
 41	55	Krabbe disease	SpecificDisease	OMIM:245200
 201	240	adult onset globoid cell leukodystrophy	SpecificDisease	D007965

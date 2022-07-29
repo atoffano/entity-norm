@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	41	Chlamydia muridarum	Microorganism	83560
 100	121	Chlamydia trachomatis	Microorganism	813
 255	264	chlamydia	Microorganism	810

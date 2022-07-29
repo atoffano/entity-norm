@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 71	101	familial adenomatous polyposis	SpecificDisease	D011125
 200	230	familial adenomatous polyposis	SpecificDisease	D011125
 232	235	FAP	SpecificDisease	D011125

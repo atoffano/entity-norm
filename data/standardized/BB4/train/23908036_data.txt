@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 79	101	Pseudomonas aeruginosa	Microorganism	287
 103	125	Pseudomonas aeruginosa	Microorganism	287
 131	144	Gram-negative	Phenotype	OBT:000648

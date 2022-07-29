@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	8	Aniridia	Modifier	D015783
 141	149	aniridia	SpecificDisease	D015783
 151	166	absence of iris	SpecificDisease	D015783

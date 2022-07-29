@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	44	human	Habitat	MockLabel
 244	264	tissue culture cells	Habitat	MockLabel
 269	276	animals	Habitat	MockLabel

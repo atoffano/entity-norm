@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 37	55	fragile X syndrome	SpecificDisease	D005600
 57	75	Fragile X syndrome	SpecificDisease	D005600
 94	122	inherited mental retardation	DiseaseClass	D038901

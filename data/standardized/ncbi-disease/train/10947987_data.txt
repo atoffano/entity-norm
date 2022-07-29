@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	30	tumor	Modifier	D009369
 75	101	adenomatous polyposis coli	Modifier	D011125
 127	157	familial adenomatous polyposis	SpecificDisease	D011125

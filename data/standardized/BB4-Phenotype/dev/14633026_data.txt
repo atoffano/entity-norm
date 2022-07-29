@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	35	mosquitocidal	Phenotype	OBT:002809
 130	152	mosquitocidal activity	Phenotype	OBT:002809
 285	298	mosquitocidal	Phenotype	OBT:002809

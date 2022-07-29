@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 40	71	Lowe oculocerebrorenal syndrome	SpecificDisease	D009800
 117	148	Lowe oculocerebrorenal syndrome	SpecificDisease	D009800
 150	154	OCRL	SpecificDisease	D009800

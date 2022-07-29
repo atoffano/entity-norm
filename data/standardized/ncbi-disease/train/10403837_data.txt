@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 89	120	hereditary progressive dystonia	SpecificDisease	D020821
 154	185	Hereditary progressive dystonia	SpecificDisease	D020821
 219	222	HPD	SpecificDisease	D020821

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	70	Gram-negative bacterial microbiota	Habitat	OBT:000113
 36	49	Gram-negative	Phenotype	OBT:000648
 85	101	Proteus vulgaris	Microorganism	585

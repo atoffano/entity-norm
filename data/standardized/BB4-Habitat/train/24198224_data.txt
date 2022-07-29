@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 59	76	israeli travelers	Habitat	OBT:003308
 149	158	travelers	Habitat	OBT:003308
 273	290	Israeli travelers	Habitat	OBT:003308

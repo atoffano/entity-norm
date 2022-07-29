@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	55	glycoprotein-binding activity	Phenotype	OBT:000019
 59	81	Streptococcus pyogenes	Microorganism	1314
 133	155	Streptococcus pyogenes	Microorganism	1314

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 92	110	subterranean brine	Habitat	OBT:000156|OBT:002769
 171	180	petroleum	Habitat	OBT:001058
 171	207	petroleum reservoir production fluid	Habitat	OBT:001058

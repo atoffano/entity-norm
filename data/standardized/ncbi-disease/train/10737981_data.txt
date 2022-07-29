@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 100	118	GM1-gangliosidosis	Modifier	D016537
 133	152	cardiac involvement	SpecificDisease	D006331
 154	172	GM1-gangliosidosis	SpecificDisease	D016537

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	13	Choroideremia	SpecificDisease	D015794
 210	227	X-linked disorder	DiseaseClass	D040181
 229	242	choroideremia	SpecificDisease	D015794

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 130	145	Lactococcus sp.	Microorganism	44273
 153	170	Lactobacillus sp.	Microorganism	1591
 345	362	Propionibacterium	Microorganism	1743

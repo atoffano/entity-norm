@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	26	Eye movement abnormalities	DiseaseClass	D005124
 73	97	cerebellar ataxia type I	DiseaseClass	D020754
 278	303	cerebellar ataxias type I	DiseaseClass	D020754

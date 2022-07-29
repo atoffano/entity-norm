@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 3	20	semi-hard cheeses	Habitat	OBT:003458
 27	32	Gouda	Habitat	OBT:003474
 36	43	Cheddar	Habitat	OBT:003469

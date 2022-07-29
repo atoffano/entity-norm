@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 132	145	kidney cancer	SpecificDisease	D007680
 147	159	Wilms tumour	SpecificDisease	D009396
 161	163	WT	SpecificDisease	D009396

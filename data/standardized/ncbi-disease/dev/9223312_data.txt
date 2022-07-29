@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 116	141	alveolar rhabdomyosarcoma	SpecificDisease	D018232
 184	214	hematopoietic and solid tumors	CompositeMention	D019337
 344	355	solid tumor	DiseaseClass	D009369

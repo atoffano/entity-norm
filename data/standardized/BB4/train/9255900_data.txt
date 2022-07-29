@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	34	Helicobacter pullorum	Microorganism	35818
 40	63	patients with enteritis	Habitat	OBT:003220
 65	86	Helicobacter pullorum	Microorganism	35818

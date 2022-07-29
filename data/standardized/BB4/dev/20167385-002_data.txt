@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	53	soft smear cheeses	Habitat	OBT:003494
 59	81	Listeria monocytogenes	Microorganism	1639

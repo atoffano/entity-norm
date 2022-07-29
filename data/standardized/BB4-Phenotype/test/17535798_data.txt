@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 173	182	commensal	Phenotype	MockLabel
 243	252	virulence	Phenotype	MockLabel
 317	326;341	morbidity of colonized humans	Phenotype	MockLabel

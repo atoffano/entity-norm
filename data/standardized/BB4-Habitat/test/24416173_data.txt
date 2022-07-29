@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 82	87	stool	Habitat	MockLabel
 163	168	stool	Habitat	MockLabel
 650	672	clinical fecal samples	Habitat	MockLabel

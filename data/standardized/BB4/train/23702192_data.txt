@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 67	88	Clostridium difficile	Microorganism	1496
 100	121	Clostridium difficile	Microorganism	1496
 273	278	colon	Habitat	OBT:001496

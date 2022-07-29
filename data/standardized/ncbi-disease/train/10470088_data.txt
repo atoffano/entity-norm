@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	69	familial adenomatous polyposis	SpecificDisease	D011125
 212	217	tumor	Modifier	D009369
 319	325	tumors	DiseaseClass	D009369

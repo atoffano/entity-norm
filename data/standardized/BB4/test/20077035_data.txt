@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 49	72	Lactobacillus plantarum	Microorganism	MockLabel
 174	202	Lactobacillus plantarum D403	Microorganism	MockLabel
 216	240	fermented dairy products	Habitat	MockLabel

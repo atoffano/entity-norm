@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 1	10	B. linens	Microorganism	1703
 151	170	Brevibacterium spp.	Microorganism	1696
 239	248	B. linens	Microorganism	1703

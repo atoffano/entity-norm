@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 37	58	lactic acid bacterium	Phenotype	MockLabel
 552	558;567	stress resistances	Phenotype	MockLabel
 563	578	hop resistances	Phenotype	MockLabel

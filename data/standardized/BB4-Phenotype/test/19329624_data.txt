@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 77	90	Gram-negative	Phenotype	MockLabel
 92	115	facultatively anaerobic	Phenotype	MockLabel
 117	138	moderately halophilic	Phenotype	MockLabel

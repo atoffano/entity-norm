@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	58	Th1 cellular	Habitat	MockLabel
 111	116	human	Habitat	MockLabel
 111	175	human gut microbiota transplanted neonatal gnotobiotic pig model	Habitat	MockLabel

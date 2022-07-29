@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	53	Debaryomyces hansenii	Microorganism	4959
 58	73	Geotrichum spp.	Microorganism	43987
 110	133	surface-ripened cheeses	Habitat	OBT:003428

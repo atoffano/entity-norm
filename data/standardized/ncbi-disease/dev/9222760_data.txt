@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	60	classical and Duarte galactosemia	CompositeMention	D005693
 124	146	Classical galactosemia	SpecificDisease	D005693
 530	563	classical and Duarte galactosemia	CompositeMention	D005693

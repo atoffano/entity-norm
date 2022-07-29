@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	93	environmental surfaces in a jail setting	Habitat	OBT:000006
 81	85	jail	Habitat	OBT:000695
 107	111	jail	Habitat	OBT:000695

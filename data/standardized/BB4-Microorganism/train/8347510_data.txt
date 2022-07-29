@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	21	Arhodomonas aquaeolei	Microorganism	2369
 112	133	Arhodomonas aquaeolei	Microorganism	2369
 677	688	Arhodomonas	Microorganism	2368

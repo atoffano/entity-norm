@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 187	205	Lactococcus lactis	Microorganism	MockLabel
 219	245	Streptococcus thermophilus	Microorganism	MockLabel
 598	637	Lactobacillus delbrueckii subsp. lactis	Microorganism	MockLabel

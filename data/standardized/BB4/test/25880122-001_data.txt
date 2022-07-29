@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	10	Laboratory	Habitat	MockLabel
 38	60	P. damnosus  LMG 28219	Microorganism	MockLabel
 79	86;99	ability to produce EPS	Phenotype	MockLabel

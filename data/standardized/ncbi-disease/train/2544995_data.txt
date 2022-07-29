@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 147	164	familial aniridia	SpecificDisease	D015783
 272	276	WAGR	Modifier	D017624
 286	297	Wilms tumor	SpecificDisease	D009396

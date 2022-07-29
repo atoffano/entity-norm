@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	28	Familial Mediterranean fever	SpecificDisease	D010505
 174	202	familial Mediterranean fever	SpecificDisease	D010505
 204	207	FMF	SpecificDisease	D010505

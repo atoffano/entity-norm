@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	29	periodontal	Habitat	MockLabel
 73	86;99	patients with chronic kidney disease	Habitat	MockLabel
 73	81;91	patients without chronic kidney disease	Habitat	MockLabel

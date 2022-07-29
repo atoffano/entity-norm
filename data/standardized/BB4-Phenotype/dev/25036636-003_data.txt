@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-711	723	cold-adapted	Phenotype	OBT:002982

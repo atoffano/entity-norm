@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 79	101	Pseudomonas aeruginosa	Microorganism	287
 103	125	Pseudomonas aeruginosa	Microorganism	287
 373	391	P. aeruginosa PAO1	Microorganism	208964

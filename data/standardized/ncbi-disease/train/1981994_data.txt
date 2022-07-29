@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	67	familial Mediterranean fever	SpecificDisease	D010505
 166	194	familial Mediterranean fever	SpecificDisease	D010505
 196	199	MEF	SpecificDisease	D010505

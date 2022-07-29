@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	14	Quorum-sensing	Phenotype	OBT:000143
 29	37	adhesion	Phenotype	OBT:000029
 41	64	Serratia marcescens MG1	Microorganism	615

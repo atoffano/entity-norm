@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	79	familial gastric cancer	SpecificDisease	D013274
 84	101	colorectal cancer	SpecificDisease	D015179
 206	229	familial gastric cancer	SpecificDisease	D013274

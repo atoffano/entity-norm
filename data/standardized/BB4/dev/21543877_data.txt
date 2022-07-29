@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 102	134	Mycobacterium tuberculosis H37Rv	Microorganism	83332
 218	234	human population	Habitat	OBT:002488
 338	359	antibiotic resistance	Phenotype	OBT:002674

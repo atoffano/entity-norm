@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	18	Huntington disease	SpecificDisease	D006816
 39	56	Tourette syndrome	SpecificDisease	D005879
 97	114	Tourette syndrome	SpecificDisease	D005879

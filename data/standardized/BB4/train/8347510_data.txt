@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	21	Arhodomonas aquaeolei	Microorganism	2369
 46	53	aerobic	Phenotype	OBT:000179
 55	65	halophilic	Phenotype	OBT:000656

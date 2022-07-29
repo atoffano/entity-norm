@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 224	243	coryneform bacteria	Microorganism	1653
 273	287	Staphylococcus	Microorganism	1279
 289	300	Micrococcus	Microorganism	1269

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	36	Vibrio parahaemolyticus	Microorganism	670
 42	50	clinical	Habitat	OBT:003220
 173	195	Vibro parahaemolyticus	Microorganism	670

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 63	78	Vibrio cholerae	Microorganism	MockLabel
 525	531	IEC224	Microorganism	MockLabel
 763	773	V. cholera	Microorganism	MockLabel

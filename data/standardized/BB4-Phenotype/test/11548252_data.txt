@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 59	68	virulence	Phenotype	MockLabel
 244	253	virulence	Phenotype	MockLabel
 468	477	virulence	Phenotype	MockLabel

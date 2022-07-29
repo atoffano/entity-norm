@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 33	46	retinoschisis	SpecificDisease	D041441
 109	131	Juvenile retinoschisis	SpecificDisease	D041441
 138	164	X-linked recessive disease	DiseaseClass	D040181

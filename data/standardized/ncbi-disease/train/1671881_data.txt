@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 49	64	phenylketonuria	SpecificDisease	D010661
 66	91	Classical phenylketonuria	SpecificDisease	D010661
 98	125	autosomal recessive disease	DiseaseClass	D030342

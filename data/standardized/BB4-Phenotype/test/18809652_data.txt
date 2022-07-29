@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 192	215	gastroduodenal pathogen	Phenotype	MockLabel
 1463	1475	pathogenesis	Phenotype	MockLabel

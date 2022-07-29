@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	102	brain, breast, and prostate cancer	CompositeMention	D001932|D001943|D011471
 202	207	tumor	Modifier	D009369
 293	300	cancers	DiseaseClass	D009369

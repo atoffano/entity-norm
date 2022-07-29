@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 31	42	Lesch-Nyhan	Modifier	D007926
 129	149	Lesch-Nyhan syndrome	SpecificDisease	D007926
 151	207	hypoxanthine phosphoribosyltransferase [HPRT] deficiency	SpecificDisease	D007926

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 211	225	cheese surface	Habitat	MockLabel
 211	217	cheese	Habitat	MockLabel
 458	493	salt-tolerant bacterial communities	Habitat	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	39	Autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
 93	132	Autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
 134	138	ALPS	SpecificDisease	D056735

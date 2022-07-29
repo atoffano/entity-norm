@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	61	invasive	Phenotype	MockLabel
 202	210	invasive	Phenotype	MockLabel
 735	743	invasive	Phenotype	MockLabel

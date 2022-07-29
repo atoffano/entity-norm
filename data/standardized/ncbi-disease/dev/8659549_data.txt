@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 86	101	Canavan disease	SpecificDisease	D017825
 103	118	Canavan disease	SpecificDisease	D017825
 186	214	deficiency of aspartoacylase	SpecificDisease	D017825

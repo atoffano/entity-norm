@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	50	antimicrobial resistance	Phenotype	OBT:002337
 140	149	resistant	Phenotype	OBT:002337
 160	184	Antimicrobial resistance	Phenotype	OBT:002337

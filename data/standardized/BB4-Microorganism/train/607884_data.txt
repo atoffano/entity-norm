@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-22	30	Serratia	Microorganism	613

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 78	105	congenital hemolytic anemia	SpecificDisease	D000745
 178	217	chronic nonspherocytic hemolytic anemia	SpecificDisease	D000746
 293	309	hemolytic anemia	SpecificDisease	D000743

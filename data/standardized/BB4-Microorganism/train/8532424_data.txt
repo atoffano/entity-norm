@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	39	Kingella kingae	Microorganism	504
 76	91	Kingella kingae	Microorganism	504
 542	551	K. kingae	Microorganism	504

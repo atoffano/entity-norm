@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-3	31	pasteurized Leerdamer cheese	Habitat	MockLabel

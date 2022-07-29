@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 126	144	Huntington disease	Modifier	D006816
 166	186	retinal degeneration	Modifier	D012162
 257	281	hereditary retinopathies	DiseaseClass	D015785

@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-1035	1066	Methylobacterium extorquens AM1	Microorganism	272630

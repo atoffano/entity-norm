@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 202	210	melanoma	Modifier	D008545
 273	292	deficiency of hex A	SpecificDisease	D013661
 347	364	Tay-Sachs disease	SpecificDisease	D013661

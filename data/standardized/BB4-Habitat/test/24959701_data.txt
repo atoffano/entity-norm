@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 87	93	humans	Habitat	MockLabel
 140	144	pigs	Habitat	MockLabel
 202	208	humans	Habitat	MockLabel

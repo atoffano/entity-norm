@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 37	58	methicillin-resistant	Phenotype	OBT:002817
 59	80	Staphylococcus aureus	Microorganism	1280
 82	86	MRSA	Phenotype	OBT:002817

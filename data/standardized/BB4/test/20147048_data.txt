@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	52	plant Kalanchoë daigremontiana	Habitat	MockLabel
 59	84	Agrobacterium tumefaciens	Microorganism	MockLabel
 86	110	Kalanchoë daigremontiana	Habitat	MockLabel

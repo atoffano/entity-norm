@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 9	21	mycobacteria	Microorganism	1763
 181	193	mycobacteria	Microorganism	1763
 417	446	M. fortuitum-chelonei complex	Microorganism	1766|1774

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 118	135	dextran-producing	Phenotype	OBT:000019
 221	234	Gram negative	Phenotype	OBT:000648
 320	333	Gram positive	Phenotype	OBT:000649

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	91	Microbacterium foliorum	Microorganism	104336
 93	110	Psychrobacter sp.	Microorganism	56811
 115	131	Proteus vulgaris	Microorganism	585

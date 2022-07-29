@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	76	Haemophilus influenzae type b	Microorganism	MockLabel
 113	118	lapin	Habitat	MockLabel
 163	172	meningeal	Habitat	MockLabel

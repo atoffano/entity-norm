@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	56	beta-lactamase-producing	Phenotype	OBT:000019
 328	376	extended-spectrum beta-lactamase (ESBL) producer	Phenotype	OBT:000019
 918	933	ESBL production	Phenotype	OBT:000019

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 17	59	Schwartz-Jampel chondrodystrophic myotonia	SpecificDisease	OMIM:255800
 65	89	Schwartz-Jampel syndrome	SpecificDisease	OMIM:255800
 91	94	SJS	SpecificDisease	OMIM:255800

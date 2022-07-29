@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 141	155	drug-resistant	Phenotype	OBT:000598
 256	267	wild strain	Phenotype	OBT:000169
 371	391	ampicillin-resistant	Phenotype	OBT:002762

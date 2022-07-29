@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	37	C2 deficiency	SpecificDisease	OMIM:217000
 105	117	C2-deficient	Modifier	OMIM:217000
 292	305	C2 deficiency	SpecificDisease	OMIM:217000

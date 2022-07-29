@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	10	Laboratory	Habitat	MockLabel
 170	174	beer	Habitat	MockLabel
 207	214	biofilm	Habitat	MockLabel

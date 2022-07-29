@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 55	73	Streptococcus suis	Microorganism	MockLabel
 95	113	Streptococcus suis	Microorganism	MockLabel
 468	486	streptococcus suis	Microorganism	MockLabel

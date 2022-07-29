@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 63	88	Streptococcus infantarius	Microorganism	150054
 162	165	3AG	Microorganism	1255600
 170	174	11FA	Microorganism	1255580

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	29	Artemisia annua	Habitat	OBT:000972
 33	40	broiler	Habitat	OBT:003334
 57	78	intestinal microbiota	Habitat	OBT:000113

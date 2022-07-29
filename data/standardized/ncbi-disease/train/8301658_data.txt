@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	35	X linked recessive thrombocytopenia	SpecificDisease	OMIM:313900
 88	104	thrombocytopenia	SpecificDisease	D013921
 292	319	immunological abnormalities	DiseaseClass	D007154

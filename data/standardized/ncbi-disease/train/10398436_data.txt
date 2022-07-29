@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	75	hepatoblastoma	SpecificDisease	D018197
 77	91	Hepatoblastoma	SpecificDisease	D018197
 102	130	malignant tumor of the liver	DiseaseClass	D008113+D018198

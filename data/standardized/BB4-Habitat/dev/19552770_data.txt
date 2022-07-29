@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	56	partridges	Habitat	OBT:003066
 58	71	Perdix perdix	Habitat	OBT:003066
 141	171	commercially reared partridges	Habitat	OBT:003066|OBT:002726

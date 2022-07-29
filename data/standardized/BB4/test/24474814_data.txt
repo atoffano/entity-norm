@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	21	Group B Streptococcus	Microorganism	MockLabel
 53	61	maternal	Habitat	MockLabel
 62	67	fetal	Habitat	MockLabel

@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	64	alveolar rhabdomyosarcoma	SpecificDisease	D018232
 100	135	Pediatric alveolar rhabdomyosarcoma	SpecificDisease	D018232

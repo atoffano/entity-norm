@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 12	21	pathogens	Phenotype	OBT:000375
 26	55	susceptibility to antibiotics	Phenotype	OBT:002675
 159	168	pathogens	Phenotype	OBT:000375

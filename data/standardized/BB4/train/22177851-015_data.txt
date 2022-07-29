@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	11	D. hansenii	Microorganism	4959
 13	24	G. candidum	Microorganism	1173061
 26	39	Y. lipolytica	Microorganism	4952

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	48	Gram negative	Phenotype	OBT:000648
 68	91	Microbacterium foliorum	Microorganism	104336
 93	110	Psychrobacter sp.	Microorganism	56811

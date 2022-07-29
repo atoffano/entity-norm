@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 94	118	acute radiation toxicity	SpecificDisease	D054508
 161	187	cancer-associated diseases	DiseaseClass	D009369
 188	209	ataxia-telangiectasia	SpecificDisease	D001260

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	31	alkaptonuria	SpecificDisease	D000474
 33	36	AKU	SpecificDisease	D000474
 61	73	Alkaptonuria	SpecificDisease	D000474

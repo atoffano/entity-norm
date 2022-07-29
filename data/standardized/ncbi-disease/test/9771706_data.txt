@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	85	diabetes mellitus	SpecificDisease	D003920
 90	103	optic atrophy	SpecificDisease	D009896
 105	121	Wolfram syndrome	SpecificDisease	OMIM:222300

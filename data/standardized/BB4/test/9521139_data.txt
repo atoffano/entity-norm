@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	43	antibiotic resistance	Phenotype	MockLabel
 47	71	Streptococcus pneumoniae	Microorganism	MockLabel
 88	102	Chilean cities	Habitat	MockLabel

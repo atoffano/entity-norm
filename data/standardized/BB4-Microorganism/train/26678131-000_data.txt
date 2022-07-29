@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	29	Lactococcus lactis	Microorganism	1358
 32	52	Lactococcus garvieae	Microorganism	1363
 54	85	Leuconostoc pseudomesenteroides	Microorganism	33968

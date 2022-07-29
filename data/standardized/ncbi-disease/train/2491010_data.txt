@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 100	127	Duchenne muscular dystrophy	Modifier	D020388
 129	132	DMD	Modifier	D020388
 174	201	Duchenne muscular dystrophy	SpecificDisease	D020388

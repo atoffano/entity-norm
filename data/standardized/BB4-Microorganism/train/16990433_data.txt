@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 59	80	Escherichia coli O157	Microorganism	1045010
 97	112	lambdoid phages	Microorganism	186765
 167	183	Escherichia coli	Microorganism	562

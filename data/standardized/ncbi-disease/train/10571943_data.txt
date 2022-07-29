@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 100	116	Frasier syndrome	SpecificDisease	D052159
 255	271	Frasier syndrome	SpecificDisease	D052159
 273	275	FS	SpecificDisease	D052159

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 48	65	tryptic soy broth	Habitat	OBT:000360
 56	59	soy	Habitat	OBT:003304
 70	84	nutrient broth	Habitat	OBT:000360

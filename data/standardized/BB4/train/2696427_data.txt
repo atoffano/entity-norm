@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 16	20	fish	Habitat	OBT:002793
 16	29	fish pathogen	Phenotype	OBT:002669
 30	48	Vibrio salmonicida	Microorganism	40269

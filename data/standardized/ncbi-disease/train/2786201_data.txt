@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	47	von Willebrand disease	SpecificDisease	D014842
 70	84	von Willebrand	Modifier	D014842
 98	120	von Willebrand disease	SpecificDisease	D014842

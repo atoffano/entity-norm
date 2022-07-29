@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	26	obesity	SpecificDisease	D009765
 28	49	adrenal insufficiency	DiseaseClass	D000309
 398	413	ACTH deficiency	SpecificDisease	OMIM:201400|C535668

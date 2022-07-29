@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	20	Spinal xanthomatosis	SpecificDisease	D014973
 35	65	cerebrotendinous xanthomatosis	DiseaseClass	D019294
 152	172	spinal cord syndrome	SpecificDisease	D013118

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 102	116	quorum sensing	Phenotype	MockLabel
 211	225	quorum sensing	Phenotype	MockLabel
 227	229	QS	Phenotype	MockLabel

@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-625	654	Candidatus Endobugula sertula	Microorganism	MockLabel

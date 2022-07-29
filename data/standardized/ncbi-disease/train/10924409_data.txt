@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	35	APC	Modifier	D011125
 111	152	attenuated familial adenomatous polyposis	SpecificDisease	C538265
 180	218	adenomatous polyposis coli (APC) tumor	Modifier	D011125

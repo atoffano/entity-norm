@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 105	131	bipolar affective disorder	SpecificDisease	D001714
 159	185	Bipolar affective disorder	SpecificDisease	D001714
 187	191	BPAD	SpecificDisease	D001714

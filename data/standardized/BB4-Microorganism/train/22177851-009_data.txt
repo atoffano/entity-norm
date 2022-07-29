@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	43	P. celer	Microorganism	306572
 159	171	C. variabile	Microorganism	1727
 172	180	C. casei	Microorganism	160386

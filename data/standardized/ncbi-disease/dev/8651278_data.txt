@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 43	68	hereditary retinoblastoma	SpecificDisease	D012175
 136	161	hereditary retinoblastoma	SpecificDisease	D012175
 1345	1350	tumor	Modifier	D009369

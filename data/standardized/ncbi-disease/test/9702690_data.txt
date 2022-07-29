@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 23	43	adrenoleukodystrophy	SpecificDisease	D000326
 163	183	adrenoleukodystrophy	SpecificDisease	D000326
 185	188	ALD	SpecificDisease	D000326

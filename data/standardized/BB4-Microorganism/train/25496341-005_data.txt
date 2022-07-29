@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 132	164	Arthrobacter arilaitensis GMPA29	Microorganism	1255700
 281	308	Psychrobacter immobilis PG1	Microorganism	1256511
 313	333	Vibrio litoralis  B4	Microorganism	1255618

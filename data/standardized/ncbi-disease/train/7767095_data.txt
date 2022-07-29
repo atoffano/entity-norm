@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 31	49	myotonic dystrophy	Modifier	D009223
 92	110	myotonic dystrophy	Modifier	D009223
 112	114	DM	Modifier	D009223

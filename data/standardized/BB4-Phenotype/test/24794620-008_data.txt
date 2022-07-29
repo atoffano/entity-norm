@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 1208	1229	proteolytic  activity	Phenotype	MockLabel
 1690	1706	red pigmentation	Phenotype	MockLabel
 1752	1782	production of a red carotenoid	Phenotype	MockLabel

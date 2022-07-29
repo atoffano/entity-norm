@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	51	Pendred syndrome	SpecificDisease	C536648
 53	69	Pendred syndrome	SpecificDisease	C536648
 76	104	autosomal recessive disorder	DiseaseClass	D030342

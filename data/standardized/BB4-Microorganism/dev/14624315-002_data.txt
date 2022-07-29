@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	34	Corynebacterium ammoniagenes B1506	Microorganism	1697
 39	64	Lactococcus lactis  B1157	Microorganism	1358

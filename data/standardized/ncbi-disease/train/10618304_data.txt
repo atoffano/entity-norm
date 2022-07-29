@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 37	53	Brugada syndrome	SpecificDisease	D053840
 224	251	congenital long-QT syndrome	SpecificDisease	D008133
 253	257	LQT3	SpecificDisease	C537034

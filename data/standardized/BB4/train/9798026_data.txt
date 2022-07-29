@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	43	Helicobacter pylori	Microorganism	210
 86	93	gastric	Habitat	OBT:001792
 109	158	human immunodeficiency virus-infected outpatients	Habitat	OBT:003206|OBT:003269

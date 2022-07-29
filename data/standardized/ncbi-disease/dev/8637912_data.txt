@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	5	Tumor	Modifier	D009369
 41	59	prostate carcinoma	SpecificDisease	D011471
 124	139	Prostate cancer	SpecificDisease	D011471

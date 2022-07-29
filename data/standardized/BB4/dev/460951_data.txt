@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 9	21	mycobacteria	Microorganism	1763
 22	51	causing non-pulmonary disease	Phenotype	OBT:002806
 34	43	pulmonary	Habitat	OBT:000716

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 17	39;67	selective broths based on hypertonic strontium chloride	Habitat	OBT:000360
 17	62	selective broths based on the bi-selenite ion	Habitat	OBT:000360
 128	140	egg products	Habitat	OBT:001086

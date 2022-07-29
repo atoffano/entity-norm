@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	40	bipolar disorder	SpecificDisease	D001714
 183	209	bipolar affective disorder	SpecificDisease	D001714
 211	215	BPAD	SpecificDisease	D001714

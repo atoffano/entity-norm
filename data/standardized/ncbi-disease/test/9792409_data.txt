@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	57	ataxia-telangiectasia	Modifier	D001260
 151	179	autosomal recessive disorder	DiseaseClass	D030342
 180	201	ataxia-telangiectasia	SpecificDisease	D001260

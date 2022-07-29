@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Gaucher disease	SpecificDisease	D005776
 108	123	Gaucher disease	SpecificDisease	D005776
 125	127	GD	SpecificDisease	D005776

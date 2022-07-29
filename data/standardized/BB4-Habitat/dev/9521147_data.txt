@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 156	164	clinical	Habitat	OBT:003220
 434	442	clinical	Habitat	OBT:003220
 756	832	sera from patients with different clinical spectra and with other infections	Habitat	OBT:000524

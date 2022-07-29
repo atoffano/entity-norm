@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 223	237	Proteobacteria	Microorganism	1224
 253	264	Leuconostoc	Microorganism	1243
 280	287	Candida	Microorganism	1535326

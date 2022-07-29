@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 154	191	atrophic benign epidermolysis bullosa	SpecificDisease	D016109
 219	256	atrophic benign epidermolysis bullosa	SpecificDisease	D016109
 463	500	atrophic benign epidermolysis bullosa	SpecificDisease	D016109

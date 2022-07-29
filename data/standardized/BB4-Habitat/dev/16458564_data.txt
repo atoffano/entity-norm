@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	49	children	Habitat	OBT:003188
 210	246	children less than five years of age	Habitat	OBT:003188
 277	293	study population	Habitat	OBT:003188

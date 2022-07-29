@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 261	270;281	L. lactis B697	Microorganism	1359
 261	276	L. lactis B1157	Microorganism	1359
 318	323	B1157	Microorganism	1359

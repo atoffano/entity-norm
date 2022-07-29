@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	20	Ampicillin-resistant	Phenotype	OBT:002762
 21	50	Haemophilus influenzae type B	Microorganism	727
 135	155	Ampicillin-resistant	Phenotype	OBT:002762

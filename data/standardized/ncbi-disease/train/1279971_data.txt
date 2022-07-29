@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 55	65	piebaldism	SpecificDisease	D016116
 103	113	piebaldism	SpecificDisease	D016116
 289	299	piebaldism	SpecificDisease	D016116

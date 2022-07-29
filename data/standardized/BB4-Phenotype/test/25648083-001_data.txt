@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	48	able to produce biofilms	Phenotype	MockLabel
 340	357	biofilm formation	Phenotype	MockLabel
 414	431	Biofilm formation	Phenotype	MockLabel

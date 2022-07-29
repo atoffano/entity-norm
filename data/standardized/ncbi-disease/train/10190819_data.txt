@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 94	123	X-linked adrenoleukodystrophy	SpecificDisease	D000326
 137	166	X-linked adrenoleukodystrophy	SpecificDisease	D000326
 168	171	ALD	SpecificDisease	D000326

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 480	488	clinical	Habitat	OBT:003220
 501	517	patients with CF	Habitat	OBT:003220
 584	589;598	lungs of CF patients	Habitat	OBT:000716

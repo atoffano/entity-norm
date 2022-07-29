@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 21	35	Staphylococcus	Microorganism	MockLabel
 103	117	Staphylococcus	Microorganism	MockLabel
 272	279	Cowan I	Microorganism	MockLabel

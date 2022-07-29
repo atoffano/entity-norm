@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	17	Friedreich ataxia	SpecificDisease	D005621
 32	49	Friedreich ataxia	SpecificDisease	D005621
 54	99	autosomal recessive neurodegenerative disease	DiseaseClass	D020271

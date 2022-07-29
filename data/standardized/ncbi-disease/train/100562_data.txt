@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	58	Familial deficiency of the seventh component of complement	SpecificDisease	OMIM:610102
 85	123	bacteremic infections due to Neisseria	DiseaseClass	D016870
 183	216	disseminated gonococcal infection	SpecificDisease	D004673

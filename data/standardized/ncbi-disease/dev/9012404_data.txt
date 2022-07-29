@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	60	male breast cancer	Modifier	D018567
 105	123	male breast cancer	Modifier	D018567
 200	231	inherited breast/ovarian cancer	Modifier	D061325

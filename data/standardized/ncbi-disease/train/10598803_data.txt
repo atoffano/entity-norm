@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 55	69	attenuated APC	Modifier	C538265
 155	158	APC	Modifier	D011125
 196	238	adenomatous polyps of the colon and rectum	CompositeMention	D011125

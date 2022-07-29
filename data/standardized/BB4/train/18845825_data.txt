@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	60	Haemophilus influenzae	Microorganism	727
 79	115	children attending a day care center	Habitat	OBT:003188
 100	115	day care center	Habitat	OBT:000403

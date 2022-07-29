@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	56	breast and ovarian carcinomas	CompositeMention	D001943|D010051
 91	106	familial tumors	DiseaseClass	D009386
 165	188	ovarian and early-onset	CompositeMention	D010051

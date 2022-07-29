@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 76	99	type II Gaucher disease	Modifier	D005776
 163	178	Gaucher disease	SpecificDisease	D005776
 180	182	GD	SpecificDisease	D005776

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	53	impaired glucose tolerance	SpecificDisease	D018149
 224	250	Impaired glucose tolerance	SpecificDisease	D018149
 252	255	IGT	SpecificDisease	D018149

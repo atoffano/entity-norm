@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 74	83	coccoidal	Phenotype	MockLabel
 171	184	pathogenicity	Phenotype	MockLabel
 188	195	coccoid	Phenotype	MockLabel

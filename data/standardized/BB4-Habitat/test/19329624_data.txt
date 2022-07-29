@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	52	fermented fish	Habitat	MockLabel
 54	60	pla-ra	Habitat	MockLabel
 185	199	fermented fish	Habitat	MockLabel

@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	77	patients treated for Helicobacter pylori infection	Habitat	MockLabel
 48	67	Helicobacter pylori	Microorganism	MockLabel

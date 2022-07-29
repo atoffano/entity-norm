@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 64	86	Machado-Joseph disease	SpecificDisease	D017827
 88	91	MJD	SpecificDisease	D017827
 156	183	neurodegenerative disorders	DiseaseClass	D019636

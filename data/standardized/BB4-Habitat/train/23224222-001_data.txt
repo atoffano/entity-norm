@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	7	Cheeses	Habitat	OBT:003428
 19	37	complex microbiota	Habitat	OBT:000113
 104	108	milk	Habitat	OBT:001645

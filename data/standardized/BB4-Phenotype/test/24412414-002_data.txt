@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 34	41;54	ability to produce PLA	Phenotype	MockLabel
 50	53	LAB	Phenotype	MockLabel
 708	722	PLA production	Phenotype	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 222	264	hereditary glucose/galactose malabsorption	SpecificDisease	OMIM:606824
 301	309	diarrhea	SpecificDisease	D003967
 404	412	diarrhea	SpecificDisease	D003967

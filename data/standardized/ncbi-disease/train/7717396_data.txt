@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	55	X-linked adrenoleukodystrophy	SpecificDisease	D000326
 143	163	peroxisomal disorder	DiseaseClass	D018901
 165	194	X-linked adrenoleukodystrophy	SpecificDisease	D000326

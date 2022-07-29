@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	28	thermotolerant	Phenotype	OBT:000453
 104	118	thermotolerant	Phenotype	OBT:000453
 385	399	thermotolerant	Phenotype	OBT:000453

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 138	145	lipomas	DiseaseClass	D008067
 183	190	lipomas	DiseaseClass	D008067
 421	428	lipomas	DiseaseClass	D008067

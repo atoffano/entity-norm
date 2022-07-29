@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 677	689	thermophilic	Phenotype	OBT:000449
 803	823	lactic acid bacteria	Phenotype	OBT:000019
 908	929	lactic acid bacterium	Phenotype	OBT:000019

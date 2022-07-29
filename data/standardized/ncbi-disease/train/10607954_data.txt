@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	17	Knobloch syndrome	SpecificDisease	C537209
 28	70	midline scalp defect of the frontal region	DiseaseClass	C538225
 107	124	Knobloch syndrome	SpecificDisease	C537209

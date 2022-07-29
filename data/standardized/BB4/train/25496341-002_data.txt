@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 67	79	Arthrobacter	Microorganism	1663
 102	108	cheese	Habitat	OBT:001480
 174	186	Arthrobacter	Microorganism	1663

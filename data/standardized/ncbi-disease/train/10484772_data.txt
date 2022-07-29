@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	14	Coats' disease	SpecificDisease	D058456
 30	63	unilateral retinal telangiectasis	SpecificDisease	D058456
 152	165	Coats disease	SpecificDisease	D058456

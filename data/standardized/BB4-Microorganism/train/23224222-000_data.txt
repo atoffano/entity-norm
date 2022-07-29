@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 575	607	Lactococcus lactis subsp. lactis	Microorganism	1360
 612	637	Leuconostoc mesenteorides	Microorganism	1245
 685	703	Lactobacillus spp.	Microorganism	1578

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	49	X-linked adrenoleukodystrophy	Modifier	D000326
 100	129	X-linked Adrenoleukodystrophy	SpecificDisease	D000326
 131	136	X-ALD	SpecificDisease	D000326

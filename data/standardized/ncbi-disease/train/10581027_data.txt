@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	80	periodontal disease	SpecificDisease	D010510
 85	107	palmoplantar keratosis	DiseaseClass	D007645
 109	134	Papillon-Lefevre syndrome	SpecificDisease	D010214

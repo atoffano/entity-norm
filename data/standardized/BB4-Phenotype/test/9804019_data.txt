@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 158	168	pathogenic	Phenotype	MockLabel
 1282	1300	coagulase positive	Phenotype	MockLabel
 1314	1335	methicillin resistant	Phenotype	MockLabel

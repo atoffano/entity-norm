@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	27	X-linked spastic paraplegia	SpecificDisease	OMIM:312920
 32	60	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
 65	82	allelic disorders	DiseaseClass	D030342

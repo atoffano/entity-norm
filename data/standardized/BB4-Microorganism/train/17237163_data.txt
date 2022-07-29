@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	64	Serratia marcescens MG1	Microorganism	615
 87	106	Serratia marcescens	Microorganism	615
 199	216	S. marcescens MG1	Microorganism	615

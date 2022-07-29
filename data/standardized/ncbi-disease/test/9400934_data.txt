@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	73	ectopic intracranial retinoblastoma	SpecificDisease	D012175
 130	165	ectopic intracranial retinoblastoma	SpecificDisease	D012175
 199	225	pineal and retinal tumours	CompositeMention	D019572|D010871

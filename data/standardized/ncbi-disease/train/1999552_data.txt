@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	27	deficiency of C5	SpecificDisease	OMIM:609536
 48	75	discoid lupus erythematosus	SpecificDisease	D008179
 102	129	discoid lupus erythematosus	SpecificDisease	D008179

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	60	bacteriophage M-13	Microorganism	1977402
 97	105	M-13 am5	Microorganism	1977402
 115	131	Escherichia coli	Microorganism	562

@@ -1,2 +1,2 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 188	205	Colorectal Cancer	SpecificDisease	D015179

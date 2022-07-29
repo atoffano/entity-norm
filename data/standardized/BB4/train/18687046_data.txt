@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 55	77	central nervous system	Habitat	OBT:001028
 103	124	multi-drug resistance	Phenotype	OBT:000598
 238	246	patients	Habitat	OBT:003220

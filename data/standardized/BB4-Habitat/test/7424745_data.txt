@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	36	corneal ulcers	Habitat	MockLabel
 22	29	corneal	Habitat	MockLabel
 42	61	derelict population	Habitat	MockLabel

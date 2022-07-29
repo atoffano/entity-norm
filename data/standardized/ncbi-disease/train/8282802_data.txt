@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 135	173	cholesterol acyltransferase deficiency	SpecificDisease	D007863
 178	194	fish-eye disease	SpecificDisease	D007863
 196	270	Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency	CompositeMention	D007863

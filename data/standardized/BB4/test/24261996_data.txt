@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	31	Bordetella pertussis	Microorganism	MockLabel
 32	39	vaccine	Habitat	MockLabel
 57	68	respiratory	Habitat	MockLabel

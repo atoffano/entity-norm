@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	36	Wolman disease	SpecificDisease	D015223
 66	80	Wolman disease	SpecificDisease	D015223
 547	561	Wolman disease	SpecificDisease	D015223

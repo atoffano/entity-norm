@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	27	Craniofrontonasal dysplasia	SpecificDisease	C536456
 61	88	craniofrontonasal dysplasia	SpecificDisease	C536456
 90	94	CFND	SpecificDisease	C536456

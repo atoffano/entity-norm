@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	24	Hereditary C2 deficiency	SpecificDisease	OMIM:217000
 57	73	immunodeficiency	DiseaseClass	D007153
 86	99	C2 deficiency	SpecificDisease	OMIM:217000

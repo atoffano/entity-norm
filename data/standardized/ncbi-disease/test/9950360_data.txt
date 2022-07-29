@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	29	APC	Modifier	D011125
 96	99	FAP	SpecificDisease	D011125
 129	132	APC	Modifier	D011125

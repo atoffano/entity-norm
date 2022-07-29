@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 103	131	congenital eye malformations	DiseaseClass	D005124
 175	183	aniridia	SpecificDisease	D015783
 185	215	congenital absence of the iris	SpecificDisease	D015783

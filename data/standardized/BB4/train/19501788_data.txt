@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	53	Pseudomonas fluorescens	Microorganism	294
 98	122	cross-protective vaccine	Habitat	OBT:000464
 212	225	Gram-negative	Phenotype	OBT:000648

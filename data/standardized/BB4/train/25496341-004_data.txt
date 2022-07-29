@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	86	Streptococcus infantarius	Microorganism	102684
 139	166	ability to ferment  lactose	Phenotype	OBT:000019
 245	249	CJ18	Microorganism	1069533

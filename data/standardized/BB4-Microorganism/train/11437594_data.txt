@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 69	84	Pichia pastoris	Microorganism	4922
 296	312	Escherichia coli	Microorganism	562
 423	438	Pichia pastoris	Microorganism	4922

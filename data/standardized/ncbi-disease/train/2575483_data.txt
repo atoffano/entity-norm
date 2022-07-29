@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	27	aniridia	SpecificDisease	D015783
 157	165	aniridia	SpecificDisease	D015783
 202	210	aniridia	Modifier	D015783

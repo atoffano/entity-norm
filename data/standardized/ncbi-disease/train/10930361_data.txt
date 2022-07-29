@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 77	94	Friedreich ataxia	SpecificDisease	D005621
 96	115	Frataxin deficiency	SpecificDisease	D005621
 140	157	Friedreich ataxia	SpecificDisease	D005621

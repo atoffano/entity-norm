@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 7	11	milk	Habitat	OBT:001645
 81	85	curd	Habitat	OBT:001208
 455	469	cheese surface	Habitat	OBT:001341

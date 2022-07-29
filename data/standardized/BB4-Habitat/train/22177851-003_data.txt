@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	97	bacterial microbiota of some smear cheese surfaces	Habitat	OBT:000113
 76	88	smear cheese	Habitat	OBT:003494
 76	97	smear cheese surfaces	Habitat	OBT:001341

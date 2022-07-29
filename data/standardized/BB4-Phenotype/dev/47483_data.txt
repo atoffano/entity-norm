@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	20	Ampicillin-resistant	Phenotype	OBT:002762
 135	155	Ampicillin-resistant	Phenotype	OBT:002762
 369	382	gram-negative	Phenotype	OBT:000648

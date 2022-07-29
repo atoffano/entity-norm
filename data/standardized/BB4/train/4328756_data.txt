@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 16	33	Coxiella burnetii	Microorganism	777
 60	102	Purified preparations of Coxiella burnetii	Habitat	OBT:000007
 85	102	Coxiella burnetii	Microorganism	777

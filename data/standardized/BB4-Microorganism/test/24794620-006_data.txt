@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 136	150	B. aurantiacum	Microorganism	MockLabel
 163	186	Psychrobacter aquaticus	Microorganism	MockLabel
 222	233	D. hansenii	Microorganism	MockLabel

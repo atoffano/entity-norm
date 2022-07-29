@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 101	118	murine macrophage	Habitat	OBT:002995
 101	107	murine	Habitat	OBT:002530
 101	138	murine macrophage-like cell line J774	Habitat	OBT:000062

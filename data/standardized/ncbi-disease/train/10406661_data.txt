@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	77	kniest dysplasia	SpecificDisease	C537207
 79	95	Kniest dysplasia	SpecificDisease	C537207
 119	141	type II collagenopathy	DiseaseClass	C535964

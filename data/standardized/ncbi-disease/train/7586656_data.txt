@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 113	133	Lesch-Nyhan syndrome	SpecificDisease	D007926
 274	296	HPRT enzyme deficiency	SpecificDisease	D007926
 307	327	Lesch-Nyhan syndrome	SpecificDisease	D007926

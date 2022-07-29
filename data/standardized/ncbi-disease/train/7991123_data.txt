@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	41	adrenomyeloneuropathy	Modifier	D000326
 55	84	X-linked adrenoleukodystrophy	SpecificDisease	D000326
 130	159	X-linked adrenoleukodystrophy	SpecificDisease	D000326

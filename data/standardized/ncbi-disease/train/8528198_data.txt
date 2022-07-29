@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 50	74	Wiskott-Aldrich syndrome	SpecificDisease	D014923
 79	104	isolated thrombocytopenia	SpecificDisease	OMIM:313900
 142	145	WAS	Modifier	D014923

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	13	Brain disease	DiseaseClass	D001927
 40	58	myotonic dystrophy	SpecificDisease	D009223
 142	160	myotonic dystrophy	SpecificDisease	D009223

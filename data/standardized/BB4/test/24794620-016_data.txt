@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	24	filamentous	Phenotype	MockLabel
 32	58	Scopulariopsis brevicaulis	Microorganism	MockLabel
 82	106	Pyxidiophora arvernensis	Microorganism	MockLabel

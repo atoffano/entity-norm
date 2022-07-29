@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	25	Gamma/delta T lymphocytes	Habitat	OBT:001623
 33	58	BCG granulomatous lesions	Habitat	OBT:000332
 37	50	granulomatous	Habitat	OBT:000298

@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 352	414	Conditioned medium from a late-log-phase P. gingivalis culture	Habitat	MockLabel
 653	667	culture medium	Habitat	MockLabel

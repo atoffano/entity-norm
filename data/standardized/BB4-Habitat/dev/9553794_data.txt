@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 66	73;98	vacuum- packed cold-smoked salmon stored at 5 degrees C	Habitat	OBT:001500|OBT:002300|OBT:001774|OBT:002593
 78	145	modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C	Habitat	OBT:002140|OBT:001500|OBT:002593|OBT:001774
 151	161	microflora	Habitat	OBT:000113

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 15	26	skin tumour	DiseaseClass	D012878
 443	449	cancer	DiseaseClass	D009369
 483	496	colon cancers	DiseaseClass	D003110

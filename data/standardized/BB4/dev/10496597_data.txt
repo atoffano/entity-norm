@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	43	gastric	Habitat	OBT:001792
 36	50	gastric mucosa	Habitat	OBT:001577
 211	253	gastric mucosal-associated lymphoid tissue	Habitat	OBT:000334

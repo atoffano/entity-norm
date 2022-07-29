@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	53	ataxia-telangiectasia	Modifier	D001260
 126	134	leukemia	SpecificDisease	D007938
 136	144	lymphoma	SpecificDisease	D008223

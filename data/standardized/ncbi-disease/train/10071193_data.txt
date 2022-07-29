@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 99	133	Borjeson-Forssman-Lehmann syndrome	Modifier	C536575
 193	197	BFLS	Modifier	C536575
 212	246	Borjeson-Forssman-Lehmann syndrome	SpecificDisease	C536575

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	53	Pseudomonas fluorescens	Microorganism	294
 559	594	Pseudomonas fluorescens strain, TSS	Microorganism	294
 663	666	TSS	Microorganism	294

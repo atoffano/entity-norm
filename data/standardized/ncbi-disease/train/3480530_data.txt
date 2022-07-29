@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 31	46	retinoblastomas	SpecificDisease	D012175
 51	69	mesenchymal tumors	DiseaseClass	C535700
 125	139	Retinoblastoma	SpecificDisease	D012175

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	30	Lactobacillus johnsonii FI9785	Microorganism	MockLabel
 85	108	Clostridium perfringens	Microorganism	MockLabel
 119	128	pathogens	Phenotype	MockLabel

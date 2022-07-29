@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 196	214	dyspeptic patients	Habitat	OBT:003220
 327	358	patients with chronic dyspepsia	Habitat	OBT:003220
 371	377	clinic	Habitat	OBT:002694

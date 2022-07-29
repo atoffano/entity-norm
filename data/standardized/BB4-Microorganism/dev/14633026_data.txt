@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	72	Bacillus thuringiensis serovar sotto	Microorganism	29340
 185	240	Bacillus thuringiensis serovar sotto strain 96-OK-85-24	Microorganism	29340
 319	330	96-OK-85-24	Microorganism	29340

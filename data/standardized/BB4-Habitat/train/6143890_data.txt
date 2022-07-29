@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 71	79	urethral	Habitat	OBT:000938
 71	86	urethral smears	Habitat	OBT:000863
 91	96	urine	Habitat	OBT:001367

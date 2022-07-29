@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	21	Ataxia-telangiectasia	SpecificDisease	D001260
 100	128	autosomal recessive disorder	DiseaseClass	D030342
 129	150	ataxia-telangiectasia	SpecificDisease	D001260

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Canavan disease	SpecificDisease	D017825
 65	80	Canavan disease	SpecificDisease	D017825
 87	121	autosomal recessive leukodystrophy	DiseaseClass	D007966

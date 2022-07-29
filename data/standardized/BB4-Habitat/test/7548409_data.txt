@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 37	67	urinary calculus in young rats	Habitat	MockLabel
 37	44	urinary	Habitat	MockLabel
 57	67	young rats	Habitat	MockLabel

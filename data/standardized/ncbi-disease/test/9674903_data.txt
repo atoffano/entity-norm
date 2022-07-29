@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Maternal disomy	DiseaseClass	D024182
 20	41	Prader-Willi syndrome	SpecificDisease	D011218
 137	188	Maternal uniparental disomy (UPD) for chromosome 15	SpecificDisease	C538037

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 129	146	red smear cheeses	Habitat	MockLabel
 148	155;169	Langres cheese	Habitat	MockLabel
 148	155;169	Langres cheese cores	Habitat	MockLabel

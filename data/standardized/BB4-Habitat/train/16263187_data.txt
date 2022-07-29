@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 86	98	Caco-2 cells	Habitat	OBT:000062|OBT:000268
 114	134	pigs' jejunal tissue	Habitat	OBT:002993
 114	118	pigs	Habitat	OBT:003337

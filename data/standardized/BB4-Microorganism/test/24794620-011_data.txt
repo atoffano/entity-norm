@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	70	B. aurantiacum	Microorganism	MockLabel
 84	95	Leucobacter	Microorganism	MockLabel
 114	125	Leucobacter	Microorganism	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	45	phenylketonuria	Modifier	D010661
 334	349	phenylketonuria	SpecificDisease	D010661
 351	354	PKU	SpecificDisease	D010661

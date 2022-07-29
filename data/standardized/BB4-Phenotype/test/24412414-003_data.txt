@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	55	antifungal activity	Phenotype	MockLabel
 82	85	LAB	Phenotype	MockLabel
 321	358	activity against A. flavus MUCL 19945	Phenotype	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	27	H. alvei	Microorganism	569
 29	52	Lactobacillus plantarum	Microorganism	1590
 57	67	Lc. lactis	Microorganism	1358

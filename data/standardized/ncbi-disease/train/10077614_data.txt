@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 69	93	urogenital abnormalities	DiseaseClass	D014564
 97	117	Denys-Drash syndrome	SpecificDisease	D030321
 124	135	Wilms tumor	Modifier	D009396

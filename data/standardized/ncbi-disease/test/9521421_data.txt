@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	52	mucopolysaccharidosis IVA	SpecificDisease	OMIM:253000
 173	198	Mucopolysaccharidosis IVA	SpecificDisease	OMIM:253000
 200	207	MPS IVA	SpecificDisease	OMIM:253000

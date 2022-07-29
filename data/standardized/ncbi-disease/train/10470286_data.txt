@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	42	neurofibrosarcomas	SpecificDisease	D018319
 129	134	tumor	Modifier	D009369
 233	245	solid tumors	DiseaseClass	D009369

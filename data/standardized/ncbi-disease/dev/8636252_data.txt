@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	29	X-linked adrenoleukodystrophy	SpecificDisease	D000326
 64	81	Addison's disease	SpecificDisease	D000224
 112	141	X-Linked adrenoleukodystrophy	SpecificDisease	D000326

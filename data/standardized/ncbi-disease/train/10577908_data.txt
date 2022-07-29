@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 23	47	Sjogren-Larsson syndrome	SpecificDisease	D016111
 109	133	Sjogren-Larsson syndrome	SpecificDisease	D016111
 135	138	SLS	SpecificDisease	D016111

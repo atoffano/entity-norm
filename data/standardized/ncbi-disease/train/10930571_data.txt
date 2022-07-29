@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 93	115	faciogenital dysplasia	SpecificDisease	C535331
 117	139	Aarskog-Scott syndrome	SpecificDisease	C535331
 142	164	Aarskog-Scott Syndrome	SpecificDisease	C535331

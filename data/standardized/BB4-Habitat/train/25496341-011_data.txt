@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 200	207	cheeses	Habitat	OBT:001480
 336	348	cheese rinds	Habitat	OBT:001481
 336	342	cheese	Habitat	OBT:001480

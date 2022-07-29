@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	64	colorectal cancers	SpecificDisease	D015179
 164	182	colorectal cancers	SpecificDisease	D015179
 382	400	pancreatic cancers	SpecificDisease	D010190

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 140	184	familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
 186	230	Familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
 232	236	FNDI	SpecificDisease	OMIM:125700

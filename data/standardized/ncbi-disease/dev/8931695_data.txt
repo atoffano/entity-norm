@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	64	atelosteogenesis type 2	SpecificDisease	C535395
 69	90	diastrophic dysplasia	SpecificDisease	C536170
 109	130	diastrophic dysplasia	Modifier	C536170

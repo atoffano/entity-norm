@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 132	153	Kluyvera cryocrescens	Microorganism	MockLabel
 155	181	Streptococcus thermophilus	Microorganism	MockLabel
 191	213	Arthrobacter sulfureus	Microorganism	MockLabel

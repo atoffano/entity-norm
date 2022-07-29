@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	12	Pathogenesis	Phenotype	MockLabel
 38	51	Gram-negative	Phenotype	MockLabel
 151	164	Gram-negative	Phenotype	MockLabel

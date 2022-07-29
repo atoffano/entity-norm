@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	11	Neutrophils	Habitat	OBT:003004
 29	37	Yersinia	Microorganism	629
 99	103	cell	Habitat	OBT:000061

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	64	Autosomal recessive familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
 127	171	Familial neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
 178	205	autosomal dominant disorder	DiseaseClass	D030342

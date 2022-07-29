@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-464	477	Gram positive	Phenotype	OBT:000649

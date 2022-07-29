@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 44	66	oromandibular dystonia	SpecificDisease	D008538
 146	168	oromandibular dystonia	SpecificDisease	D008538
 202	210	dystonia	DiseaseClass	D004421

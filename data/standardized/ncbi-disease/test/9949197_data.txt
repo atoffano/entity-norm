@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	101	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
 173	206	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
 208	212	EDMD	SpecificDisease	D020389

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 15	37	Staphylococcus equorum	Microorganism	MockLabel
 68	86	coagulase-negative	Phenotype	MockLabel
 87	100	staphylococci	Microorganism	MockLabel

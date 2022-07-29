@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	49	Tay-Sachs disease	SpecificDisease	D013661
 78	95	Tay-Sachs disease	SpecificDisease	D013661
 97	100	TSD	SpecificDisease	D013661

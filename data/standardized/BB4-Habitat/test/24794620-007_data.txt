@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	60	young cheeses	Habitat	MockLabel
 95	110	ripening cellar	Habitat	MockLabel
 123	129	Cheese	Habitat	MockLabel

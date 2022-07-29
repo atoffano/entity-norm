@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 132	137	plant	Habitat	OBT:000393
 287	297	plant cell	Habitat	OBT:000061|OBT:000395
 287	292	plant	Habitat	OBT:000393

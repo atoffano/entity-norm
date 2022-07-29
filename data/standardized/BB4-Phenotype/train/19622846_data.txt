@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 45	49	MRSA	Phenotype	OBT:002817
 195	216	methicillin-resistant	Phenotype	OBT:002817
 240	244	MRSA	Phenotype	OBT:002817

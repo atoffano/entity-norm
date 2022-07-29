@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	60	Lb. plantarum (FH3)	Microorganism	1590
 62	76	H. alvei (B16)	Microorganism	569
 78	95	Lc. lactis (D5.3)	Microorganism	1358

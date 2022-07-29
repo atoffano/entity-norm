@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	29	hypomyelination	SpecificDisease	D003711
 34	50	glial cell death	SpecificDisease	D004194
 314	331	genetic disorders	DiseaseClass	D030342

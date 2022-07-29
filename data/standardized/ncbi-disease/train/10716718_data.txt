@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 75	95	Motor incoordination	DiseaseClass	D002524
 97	116	immune deficiencies	DiseaseClass	D007154
 143	149	cancer	DiseaseClass	D009369

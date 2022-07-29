@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	26	Non-syndromic hearing loss	SpecificDisease	C537845
 43	71	enlarged vestibular aqueduct	SpecificDisease	OMIM:600791
 85	88	PDS	Modifier	C536648

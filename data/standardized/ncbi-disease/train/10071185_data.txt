@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 40	82	dihydropyrimidine dehydrogenase deficiency	SpecificDisease	D054067
 84	132	Dihydropyrimidine dehydrogenase (DPD) deficiency	SpecificDisease	D054067
 139	166	autosomal recessive disease	DiseaseClass	D030342

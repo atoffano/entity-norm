@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	55	antifungal activity	Phenotype	MockLabel
 59	93	filtered broth from 20 LAB strains	Habitat	MockLabel
 82	85	LAB	Phenotype	MockLabel

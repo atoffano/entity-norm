@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	10	Hafnia	Microorganism	568
 46	67	Enterococcus faecalis	Microorganism	1351
 105	128	Lactobacillus plantarum	Microorganism	1590

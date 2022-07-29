@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 21	50	Haemophilus influenzae type B	Microorganism	727
 156	185	Haemophilus influenzae type B	Microorganism	727
 383	390	bacilli	Microorganism	91061

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 95	130	insulin-dependent diabetes mellitus	SpecificDisease	OMIM:125852
 246	281	insulin-dependent diabetes mellitus	Modifier	OMIM:125852
 422	426	IDDM	SpecificDisease	D003922

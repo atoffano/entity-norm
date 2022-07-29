@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	8	Adhesion	Phenotype	MockLabel
 12	22	pathogenic	Phenotype	MockLabel
 23	37	corynebacteria	Microorganism	MockLabel

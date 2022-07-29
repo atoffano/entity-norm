@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 526	547	Staphylococcus aureus	Microorganism	MockLabel
 552	574	Salmonella Typhimurium	Microorganism	MockLabel
 584	606	Listeria monocytogenes	Microorganism	MockLabel

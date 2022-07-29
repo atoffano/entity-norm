@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	40	Combined genetic deficiency of C6 and C7	CompositeMention	OMIM:610102|OMIM:612446
 117	150	sub-total deficiency of C6 and C7	CompositeMention	OMIM:610102|OMIM:612446
 298	311	C6 deficiency	SpecificDisease	OMIM:612446

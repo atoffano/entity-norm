@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 147	166	cerebrospinal fluid	Habitat	OBT:000550
 168	171	CSF	Habitat	OBT:000550
 188	232	patients diagnosed with bacterial meningitis	Habitat	OBT:003269

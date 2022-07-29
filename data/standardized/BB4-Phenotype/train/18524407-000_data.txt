@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 217	237	lactic acid bacteria	Phenotype	OBT:000019
 243	260	production of EPS	Phenotype	OBT:000019
 319	338	biosynthesis of EPS	Phenotype	OBT:000019

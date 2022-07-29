@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	10	Trisomy 15	SpecificDisease	C538037
 54	75	Prader-Willi syndrome	SpecificDisease	D011218
 83	98	maternal disomy	SpecificDisease	D024182

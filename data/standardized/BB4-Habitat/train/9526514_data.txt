@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 110	117	tobacco	Habitat	OBT:002870
 331	341	hairy-root	Habitat	OBT:002850
 408	413	plant	Habitat	OBT:000393

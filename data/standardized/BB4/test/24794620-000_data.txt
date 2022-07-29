@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 67	76	Halomonas	Microorganism	MockLabel
 98	104	cheese	Habitat	MockLabel
 98	110	cheese rinds	Habitat	MockLabel

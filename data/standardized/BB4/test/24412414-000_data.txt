@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	38	lactic acid bacteria	Phenotype	MockLabel
 40	43	LAB	Phenotype	MockLabel
 66	85	Lactobacillus casei	Microorganism	MockLabel

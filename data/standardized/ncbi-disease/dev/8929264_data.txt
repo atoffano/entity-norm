@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 33	50	colorectal cancer	SpecificDisease	D015179
 136	162	stage II colorectal cancer	SpecificDisease	D015179
 269	286	colorectal cancer	SpecificDisease	D015179

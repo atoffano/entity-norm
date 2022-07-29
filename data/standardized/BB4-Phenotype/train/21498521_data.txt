@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 125	139	bioluminescent	Phenotype	OBT:000055
 171	203	exclusive symbiotic relationship	Phenotype	OBT:003183
 1768	1777	symbiotic	Phenotype	OBT:003183

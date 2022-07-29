@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	61	invasive	Phenotype	MockLabel
 62	83	Staphylococcus aureus	Microorganism	MockLabel
 202	210	invasive	Phenotype	MockLabel

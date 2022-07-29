@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 43	51	P. celer	Microorganism	306572
 56	64	H. alvei	Microorganism	569
 70	94	complex cheese community	Habitat	OBT:000113

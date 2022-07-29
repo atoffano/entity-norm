@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	68	very long chain acyl-CoA dehydrogenase deficiency	SpecificDisease	C536353
 230	287	Very long chain acyl-CoA dehydrogenase (VLCAD) deficiency	SpecificDisease	C536353
 473	489	VLCAD deficiency	SpecificDisease	C536353

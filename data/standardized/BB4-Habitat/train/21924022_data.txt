@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 77	85	children	Habitat	OBT:003188
 228	236	children	Habitat	OBT:003188
 238	278	Biopsy specimens obtained by gastroscopy	Habitat	OBT:000110|OBT:000642

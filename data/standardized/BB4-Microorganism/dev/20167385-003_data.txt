@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	60	Psychrobacter	Microorganism	497
 168	190	Staphylococcus equorum	Microorganism	246432
 267	285	Micrococcus luteus	Microorganism	1270

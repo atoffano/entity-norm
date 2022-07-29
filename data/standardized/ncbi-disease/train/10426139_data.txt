@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	50	McLeod syndrome	Modifier	OMIM:300842
 152	167	McLeod syndrome	SpecificDisease	OMIM:300842
 206	222	muscular atrophy	DiseaseClass	D009133

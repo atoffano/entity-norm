@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 59	84	Agrobacterium tumefaciens	Microorganism	MockLabel
 147	172	Agrobacterium tumefaciens	Microorganism	MockLabel
 272	286	A. tumefaciens	Microorganism	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 72	91	Escherichia coli MC	Microorganism	MockLabel
 198	205	E. coli	Microorganism	MockLabel
 384	398	E. coli MC1061	Microorganism	MockLabel

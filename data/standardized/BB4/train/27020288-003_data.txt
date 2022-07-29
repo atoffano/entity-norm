@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 48	65	β-glucan produced	Phenotype	OBT:000019
 69	80	P. parvulus	Microorganism	54062
 92	115	Lactobacillus paracasei	Microorganism	1597

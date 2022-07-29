@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 7	19	cheese model	Habitat	OBT:001480
 177	183	cheese	Habitat	OBT:001480
 515	526	beef models	Habitat	OBT:000007|OBT:001899

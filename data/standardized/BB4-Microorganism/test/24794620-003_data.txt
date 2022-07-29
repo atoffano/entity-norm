@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 122	143	Debaryomyces hansenii	Microorganism	MockLabel
 148	167	Geotrichum candidum	Microorganism	MockLabel
 409	422	staphylococci	Microorganism	MockLabel

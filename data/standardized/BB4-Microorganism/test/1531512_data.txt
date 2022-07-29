@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Wolinella recta	Microorganism	MockLabel
 55	70	Wolinella recta	Microorganism	MockLabel
 206	214	W. recta	Microorganism	MockLabel

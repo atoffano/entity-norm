@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	17	Gingivomandibular	Habitat	OBT:001011|OBT:003055
 35	57	Mycobacterium kansasii	Microorganism	1768
 63	80	patient with AIDS	Habitat	OBT:003269

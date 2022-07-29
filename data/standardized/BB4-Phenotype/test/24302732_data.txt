@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 202	211	Anaerobic	Phenotype	MockLabel
 202	230	Anaerobic ammonium-oxidizing	Phenotype	MockLabel
 212	230	ammonium-oxidizing	Phenotype	MockLabel

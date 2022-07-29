@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	36	Paroxysmal nocturnal haemoglobinuria	SpecificDisease	D006457
 53	100	deficiency of the ninth component of complement	SpecificDisease	OMIM:613825
 118	135	haemolytic attack	SpecificDisease	D006461

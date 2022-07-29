@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 111	116	fleas	Habitat	MockLabel
 131	148	vectors of plague	Habitat	MockLabel
 150	165	Yersinia pestis	Microorganism	MockLabel

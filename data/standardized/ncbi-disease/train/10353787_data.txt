@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	41	Overgrowth of oral mucosa and facial skin	CompositeMention	D006965
 62	84	aspartylglucosaminuria	SpecificDisease	D054880
 86	108	Aspartylglucosaminuria	SpecificDisease	D054880

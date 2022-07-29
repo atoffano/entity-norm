@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 10	23	C3 deficiency	SpecificDisease	OMIM:613779
 54	72	glomerulonephritis	SpecificDisease	D005921
 115	162	deficiency of the third component of complement	SpecificDisease	OMIM:613779

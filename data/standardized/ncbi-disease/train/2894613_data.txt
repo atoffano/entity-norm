@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	25	Von Hippel-Lindau disease	SpecificDisease	D006623
 77	97	renal cell carcinoma	SpecificDisease	D002292
 99	124	Von Hippel-Lindau disease	SpecificDisease	D006623

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	54	congenital myotonic dystrophy	SpecificDisease	D009223
 104	133	congenital myotonic dystrophy	SpecificDisease	D009223
 135	137	DM	SpecificDisease	D009223

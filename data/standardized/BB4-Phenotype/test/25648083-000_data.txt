@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 119	128	pathogens	Phenotype	MockLabel
 234	252	adherence capacity	Phenotype	MockLabel
 256	265	probiotic	Phenotype	MockLabel

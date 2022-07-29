@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	11	Nephropathy	SpecificDisease	D007674
 19	43	Wiskott-Aldrich syndrome	SpecificDisease	D014923
 45	56	Nephropathy	SpecificDisease	D007674

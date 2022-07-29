@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 89	124	autosomal recessive Alport syndrome	SpecificDisease	C536587
 126	161	Autosomal recessive Alport syndrome	SpecificDisease	C536587
 179	207	hematuric glomerulonephritis	SpecificDisease	D005921

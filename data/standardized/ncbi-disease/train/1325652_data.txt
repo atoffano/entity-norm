@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 63	85	familial polyposis APC	Modifier	D011125
 226	246	colorectal carcinoma	SpecificDisease	D015179
 252	255	APC	Modifier	D011125

@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-206	215	community	Habitat	OBT:000113

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 15	34	spotted fever group	Microorganism	114277
 35	45	Rickettsia	Microorganism	780
 105	124	spotted fever group	Microorganism	114277

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 293	331	Duchenne and Becker muscular dystrophy	Modifier	D020388|C537666
 333	336	DMD	Modifier	D020388
 337	340	BMD	Modifier	C537666

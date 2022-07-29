@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	56	Deficiency of the murine fifth complement component (C5)	SpecificDisease	OMIM:609536
 156	169	C5 deficiency	SpecificDisease	OMIM:609536
 330	346	deficient for C5	SpecificDisease	OMIM:609536

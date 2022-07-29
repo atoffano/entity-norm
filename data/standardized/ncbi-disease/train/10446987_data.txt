@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	35	dermatofibrosarcoma protuberans	Modifier	C538219
 201	232	Dermatofibrosarcoma protuberans	SpecificDisease	C538219
 234	238	DFSP	SpecificDisease	C538219

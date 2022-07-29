@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 93	113	Li-Fraumeni syndrome	SpecificDisease	D016864
 158	178	Li-Fraumeni syndrome	SpecificDisease	D016864
 228	234	tumour	Modifier	D009369

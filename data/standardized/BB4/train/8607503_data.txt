@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	22	Non-O1 Vibrio cholerae	Microorganism	66861
 37	60	patients with cirrhosis	Habitat	OBT:003269
 92	106	medical center	Habitat	OBT:002518

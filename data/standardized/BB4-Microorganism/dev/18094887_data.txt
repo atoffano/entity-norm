@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	10	Rickettsia	Microorganism	780
 94	105	rickettsial	Microorganism	780
 612	628	Rickettsia felis	Microorganism	42862

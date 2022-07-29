@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	50	alkaptonuria	Modifier	D000474
 64	76	Alkaptonuria	SpecificDisease	D000474
 78	81	aku	SpecificDisease	D000474

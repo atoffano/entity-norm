@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 45	59	retinoblastoma	Modifier	D012175
 105	110	tumor	Modifier	D009369
 282	296	retinoblastoma	Modifier	D012175

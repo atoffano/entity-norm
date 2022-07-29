@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	52	primary dystonias	DiseaseClass	D020821
 54	71	Primary dystonias	DiseaseClass	D020821
 76	94	movement disorders	DiseaseClass	D009069

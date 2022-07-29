@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 112	142	familial adenomatous polyposis	SpecificDisease	D011125
 164	190	adenomatous polyposis coli	Modifier	D011125
 192	195	APC	Modifier	D011125

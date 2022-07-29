@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 145	168	L. acidophilus LMG 9433	Microorganism	MockLabel
 170	193	L. amylovorus DSM 20532	Microorganism	MockLabel
 195	213	L. brevis LMG 6906	Microorganism	MockLabel

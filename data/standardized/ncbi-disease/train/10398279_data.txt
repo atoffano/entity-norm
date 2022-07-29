@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 63	78	prostate cancer	SpecificDisease	D011471
 140	164	hereditary breast cancer	SpecificDisease	D001943
 275	290	prostate cancer	SpecificDisease	D011471

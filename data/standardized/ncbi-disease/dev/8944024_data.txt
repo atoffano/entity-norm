@@ -1,2 +1,2 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 509	545	hereditary breast and ovarian cancer	Modifier	D061325

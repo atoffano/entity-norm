@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 44	55	Pseudomonas	Microorganism	286
 67	80	Gram-negative	Phenotype	OBT:000648
 98	107	Halomonas	Microorganism	2745

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 79	88	community	Habitat	OBT:000113
 113	119	cheese	Habitat	OBT:001480
 253	257	food	Habitat	OBT:000094

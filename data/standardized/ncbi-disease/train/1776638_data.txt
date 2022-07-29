@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	16	Gardner syndrome	SpecificDisease	D005736
 122	138	Gardner syndrome	SpecificDisease	D005736
 140	142	GS	SpecificDisease	D005736

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 21	47	hereditary prostate cancer	Modifier	C537243
 85	111	hereditary prostate cancer	Modifier	C537243
 159	174	Prostate Cancer	Modifier	D011471

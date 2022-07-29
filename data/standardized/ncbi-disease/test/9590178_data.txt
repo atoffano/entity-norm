@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	12	Wilms' tumor	Modifier	D009396
 146	157	Wilms tumor	Modifier	D009396
 538	564	male pseudohermaphroditism	SpecificDisease	D058490

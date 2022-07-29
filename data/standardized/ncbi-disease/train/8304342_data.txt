@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 100	115	hemochromatosis	Modifier	D006432
 131	146	hemochromatosis	Modifier	D006432
 374	389	hemochromatosis	Modifier	D006432

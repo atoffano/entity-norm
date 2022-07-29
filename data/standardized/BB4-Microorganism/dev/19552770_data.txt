@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 29	42	Campylobacter	Microorganism	194
 119	137	Campylobacter spp.	Microorganism	194
 400	418	Campylobacter spp.	Microorganism	194

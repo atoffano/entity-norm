@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 233	239	tumors	DiseaseClass	D009369
 405	418	neuroblastoma	SpecificDisease	D009447
 516	521	tumor	Modifier	D009369

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 136	147	coryneforms	Microorganism	MockLabel
 230	239	Halomonas	Microorganism	MockLabel
 278	292	Actinobacteria	Microorganism	MockLabel

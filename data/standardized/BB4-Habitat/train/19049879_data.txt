@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 45	65	large yellow croaker	Habitat	OBT:003264
 67	87	Pseudosciaena crocea	Habitat	OBT:003264
 338	358	large yellow croaker	Habitat	OBT:003264

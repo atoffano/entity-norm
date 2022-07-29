@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	51	hereditary prostate cancer	SpecificDisease	C537243
 144	159	prostate cancer	SpecificDisease	D011471
 161	176	Prostate cancer	SpecificDisease	D011471

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	7;19	Mineral usage	Phenotype	MockLabel
 12	24	carbon usage	Phenotype	MockLabel
 32	62	synthetic pyrethroid degrading	Phenotype	MockLabel

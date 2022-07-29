@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 337	381	Deficiency of terminal complement components	SpecificDisease	D007153
 421	441	neisseria infections	SpecificDisease	D016870
 495	518	inherited C9 deficiency	SpecificDisease	OMIM:613825

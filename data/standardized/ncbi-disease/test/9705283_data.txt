@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 425	433	aniridia	SpecificDisease	D015783
 435	449	Peters anomaly	SpecificDisease	C537884
 451	479	autosomal dominant keratitis	SpecificDisease	C537022

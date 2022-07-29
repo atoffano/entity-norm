@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 1186	1199	Staphylococci	Microorganism	MockLabel
 1261	1281	Staphylococci aureus	Microorganism	MockLabel
 1336	1345	S. aureus	Microorganism	MockLabel

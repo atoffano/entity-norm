@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	63	ataxia-telangiectasia	Modifier	D001260
 152	173	ataxia-telangiectasia	Modifier	D001260
 175	178	A-T	Modifier	D001260

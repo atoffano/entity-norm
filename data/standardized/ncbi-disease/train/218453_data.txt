@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	20	Adrenoleukodystrophy	SpecificDisease	D000326
 25	46	adrenomyeloneuropathy	SpecificDisease	D000326
 71	92	adrenal insufficiency	DiseaseClass	D000309

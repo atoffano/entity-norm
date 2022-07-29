@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	46	Corynebacterium casei	Microorganism	160386
 48	74	Microbacterium gubbeenense	Microorganism	159896
 76	101	Arthrobacter arilaitensis	Microorganism	256701

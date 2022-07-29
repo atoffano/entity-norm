@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 75	92	eye abnormalities	DiseaseClass	D005124
 94	102	Aniridia	SpecificDisease	D015783
 136	172	semidominant developmental disorders	DiseaseClass	D002658

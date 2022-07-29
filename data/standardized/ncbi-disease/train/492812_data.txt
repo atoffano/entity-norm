@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 10	34	meningococcal meningitis	SpecificDisease	D008585
 40	84	absence of the sixth component of complement	SpecificDisease	OMIM:612446
 180	204	meningococcal meningitis	SpecificDisease	D008585

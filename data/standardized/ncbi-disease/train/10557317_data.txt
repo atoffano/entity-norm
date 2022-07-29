@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	28	hemochromatosis	SpecificDisease	D006432
 48	62	HFE deficiency	SpecificDisease	D006432
 136	151	hemochromatosis	SpecificDisease	D006432

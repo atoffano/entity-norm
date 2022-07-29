@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 64	72	adhesion	Phenotype	MockLabel
 105	114	virulence	Phenotype	MockLabel
 190	197;241	ability to bind	Phenotype	MockLabel

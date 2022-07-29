@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	40	hemochromatosis	Modifier	D006432
 173	194	iron-overload disease	SpecificDisease	D019190
 195	221	hereditary hemochromatosis	SpecificDisease	D006432

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	30	Complement factor 2 deficiency	SpecificDisease	OMIM:217000
 73	106	Inherited complement deficiencies	DiseaseClass	D007153
 182	225	inherited deficiency of complement factor 2	SpecificDisease	OMIM:217000

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 252	288	benign familial neonatal convulsions	SpecificDisease	D020936
 290	340	autosomal dominant nocturnal frontal lobe epilepsy	SpecificDisease	D017034
 461	511	autosomal dominant nocturnal frontal lobe epilepsy	SpecificDisease	D017034

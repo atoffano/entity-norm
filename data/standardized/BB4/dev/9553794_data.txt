@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	50	Carnobacterium piscicola	Microorganism	2751
 26	50	Carnobacterium piscicola	Microorganism	2751
 66	73;98	vacuum- packed cold-smoked salmon stored at 5 degrees C	Habitat	OBT:001500|OBT:002300|OBT:001774|OBT:002593

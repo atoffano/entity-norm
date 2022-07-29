@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 321	348	Yersinia pseudotuberculosis	Microorganism	633
 467	488	Y. pseudotuberculosis	Microorganism	633
 846	867	Y. pseudotuberculosis	Microorganism	633

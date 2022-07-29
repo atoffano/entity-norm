@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 60	77	peripheral nerves	Habitat	OBT:000765
 179	204	peripheral nervous system	Habitat	OBT:001251
 206	209	PNS	Habitat	OBT:001251

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	37	cheeses	Habitat	MockLabel
 52	69	red smear  cheese	Habitat	MockLabel
 136	150	cheese surface	Habitat	MockLabel

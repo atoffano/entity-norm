@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	7	APC	Modifier	D011125
 55	72	colorectal tumors	DiseaseClass	D015179
 122	152	familial adenomatous polyposis	SpecificDisease	D011125

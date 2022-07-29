@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 103	124	multi-drug resistance	Phenotype	OBT:000598
 538	558	multi-drug resistant	Phenotype	OBT:000598
 560	563	MDR	Phenotype	OBT:000598

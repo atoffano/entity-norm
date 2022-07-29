@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	52	prolidase deficiency	SpecificDisease	D056732
 88	108	prolidase deficiency	SpecificDisease	D056732
 135	163	autosomal recessive disorder	DiseaseClass	D030342

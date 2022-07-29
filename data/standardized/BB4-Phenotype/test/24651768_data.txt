@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 195	213	cause of blindness	Phenotype	MockLabel
 251	291	causes of sexually transmitted infection	Phenotype	MockLabel
 817	836	bacterial pathogens	Phenotype	MockLabel

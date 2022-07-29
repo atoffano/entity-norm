@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	5	Human	Habitat	OBT:002488
 10	14	tick	Habitat	OBT:001821
 15	34	spotted fever group	Microorganism	114277

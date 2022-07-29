@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 43	76	adenomatous polyposis coli tumour	Modifier	D011125
 93	132	adenomatous polyposis coli (APC) tumour	Modifier	D011125
 357	372	colon carcinoma	Modifier	D003110

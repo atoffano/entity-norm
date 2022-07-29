@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 94	119	hyperalphalipoproteinemic	Modifier	OMIM:143470
 283	308	hyperalphalipoproteinemia	SpecificDisease	OMIM:143470
 319	334	CETP deficiency	SpecificDisease	OMIM:143470

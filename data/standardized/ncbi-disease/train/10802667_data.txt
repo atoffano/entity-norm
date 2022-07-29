@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 5	22	deficient in Six5	SpecificDisease	D030342
 31	40	cataracts	SpecificDisease	D002386
 59	77	myotonic dystrophy	SpecificDisease	D009223

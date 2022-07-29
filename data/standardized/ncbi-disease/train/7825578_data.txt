@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	37	spinal cerebellar ataxia	Modifier	D013132
 140	164	spinal cerebellar ataxia	Modifier	D013132
 1211	1233	Machado-Joseph disease	SpecificDisease	D017827

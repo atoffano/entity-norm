@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 60	102	Purified preparations of Coxiella burnetii	Habitat	OBT:000007
 313	333	C. burnetii extracts	Habitat	OBT:000007
 373	389	normal yolk sacs	Habitat	OBT:001387

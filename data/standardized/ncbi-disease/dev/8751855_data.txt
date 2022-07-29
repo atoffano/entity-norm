@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	49	hereditary breast cancer	SpecificDisease	D061325
 107	120	breast cancer	SpecificDisease	D001943
 259	283	hereditary breast cancer	SpecificDisease	D061325

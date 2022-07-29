@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 181	203	Lactobacillus buchneri	Microorganism	MockLabel
 217	231	Morbier cheese	Habitat	MockLabel
 238	256	heterofermentative	Phenotype	MockLabel

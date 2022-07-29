@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	8	Gingival	Habitat	MockLabel
 124	132	gingival	Habitat	MockLabel
 203	211	gingival	Habitat	MockLabel

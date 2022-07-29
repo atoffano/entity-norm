@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	46	hypertrophic cardiomyopathy	SpecificDisease	D002312
 89	145	very-long-chain acyl-coenzyme A dehydrogenase deficiency	SpecificDisease	C536353
 147	211	Very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) deficiency	SpecificDisease	C536353

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 112	123	argininemia	SpecificDisease	D020162
 125	136	Argininemia	SpecificDisease	D020162
 147	176	autossomal recessive disorder	DiseaseClass	D030342

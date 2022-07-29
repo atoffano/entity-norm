@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 37	61	hematological malignancy	DiseaseClass	D019337
 66	90	neurofibromatosis type 1	SpecificDisease	D009456
 166	207	hereditary nonpolyposis colorectal cancer	SpecificDisease	D003123

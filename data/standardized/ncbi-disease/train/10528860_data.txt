@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	45	Maternal uniparental disomy for chromosome 14	SpecificDisease	D024182
 106	151	maternal uniparental disomy for chromosome 14	SpecificDisease	D024182
 153	156	UPD	SpecificDisease	D024182

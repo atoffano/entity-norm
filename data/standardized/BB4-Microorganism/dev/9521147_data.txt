@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	66	Ara+ Burkholderia pseudomallei	Microorganism	95163
 151	155	Ara-	Microorganism	28450
 258	297	Burkholderia (Pseudomonas) pseudomallei	Microorganism	28450

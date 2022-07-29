@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 7	21	H. boliviensis	Microorganism	MockLabel
 185	194	B. linens	Microorganism	MockLabel
 240	250	S. equorum	Microorganism	MockLabel

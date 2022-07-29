@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	45	hemochromatosis	Modifier	D016399
 102	117	hemochromatosis	SpecificDisease	D006432
 119	145	Hereditary hemochromatosis	SpecificDisease	D006432

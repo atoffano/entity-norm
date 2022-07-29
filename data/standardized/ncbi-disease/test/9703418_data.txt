@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 87	111	complement C9 deficiency	SpecificDisease	OMIM:613825
 113	166	Deficiency of the ninth component of human complement	SpecificDisease	OMIM:613825
 191	212	complement deficiency	DiseaseClass	 D007153

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 58	70	Listeria sp.	Microorganism	1637
 75	97	Listeria monocytogenes	Microorganism	1639
 210	218	Listeria	Microorganism	1637

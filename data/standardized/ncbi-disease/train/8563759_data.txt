@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	16	Brca1 deficiency	SpecificDisease	OMIM:604370
 34	53	embryonic lethality	DiseaseClass	D020964
 71	100	neuroepithelial abnormalities	DiseaseClass	D018302

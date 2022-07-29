@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	9	Probiotic	Phenotype	MockLabel
 10	36	Lactobacillus rhamnosus GG	Microorganism	MockLabel
 46	58	Th1 cellular	Habitat	MockLabel

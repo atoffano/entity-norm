@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	60	deficiency of the seventh component of complement	SpecificDisease	OMIM:610102
 75	98	meningococcal infection	SpecificDisease	D008589
 222	262	Terminal complement component deficiency	SpecificDisease	D007153

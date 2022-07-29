@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	28	A. arilaitensis	Microorganism	256701
 43	49	cheese	Habitat	OBT:001480
 43	57	cheese surface	Habitat	OBT:001341

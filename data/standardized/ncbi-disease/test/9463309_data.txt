@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	63	anhaptoglobinemia	SpecificDisease	D000740
 152	169	anhaptoglobinemia	SpecificDisease	D000740
 456	473	anhaptoglobinemia	SpecificDisease	D000740

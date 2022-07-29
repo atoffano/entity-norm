@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	13	Campylobacter	Microorganism	194
 280	311	human gastrointestinal pathogen	Phenotype	OBT:002806
 280	285	human	Habitat	OBT:002488

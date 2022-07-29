@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-35	53	soft smear cheeses	Habitat	OBT:003494

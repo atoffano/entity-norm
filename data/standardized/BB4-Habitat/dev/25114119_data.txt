@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 401	405	mice	Habitat	OBT:003211
 621	630	SCID mice	Habitat	OBT:003211
 651	658	aerosol	Habitat	OBT:000030

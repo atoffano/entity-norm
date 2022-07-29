@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 10	20	meningitis	SpecificDisease	D008581
 39	94	congenital deficiency of the C9 component of complement	SpecificDisease	OMIM:613825
 110	123	C9 deficiency	SpecificDisease	OMIM:613825

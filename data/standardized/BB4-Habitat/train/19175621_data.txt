@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 140	147	animals	Habitat	OBT:000193
 152	158	humans	Habitat	OBT:002488
 220	237	Spanish hospitals	Habitat	OBT:002714

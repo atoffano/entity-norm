@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	60	Norrie disease	Modifier	C537849
 129	143	Norrie disease	Modifier	C537849
 145	147	ND	Modifier	C537849

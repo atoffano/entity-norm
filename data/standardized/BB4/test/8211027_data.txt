@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 1	9	Cervical	Habitat	MockLabel
 31	54	Mycobacterium malmoense	Microorganism	MockLabel
 60	65	child	Habitat	MockLabel

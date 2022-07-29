@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	16	Hypopigmentation	DiseaseClass	D017496
 24	45	Prader-Willi syndrome	SpecificDisease	D011218
 47	80	Cutaneous and ocular pigmentation	CompositeMention	D010859

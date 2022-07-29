@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 122	131	Camembert	Habitat	OBT:003500
 267	283	cured meat model	Habitat	OBT:001984|OBT:001200
 345	357	model cheese	Habitat	OBT:001480

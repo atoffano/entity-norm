@@ -257,7 +257,7 @@ def extract(filename):
                 pmid (str): Id of file. Usually a pmid but depending on file format before standardization can be something else.
                 title (str): Title of the article
                 abstract (str) : Abstract of the article
-                data (list) : list of lists containing each mention, its location, its class and labels.
+                data (list) : list of lists containing each mention, its location, its class and normalization(s).
     '''
     entries = []
     pmid = filename.split("/")[-1].split("_header.txt")[0]

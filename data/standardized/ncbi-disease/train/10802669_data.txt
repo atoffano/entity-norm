@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 125	141	genetic disorder	DiseaseClass	D030342
 142	163	ataxia-telangiectasia	SpecificDisease	D001260
 165	168	A-T	SpecificDisease	D001260

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	14	Hepatoblastoma	SpecificDisease	D018197
 16	47	pigmented ocular fundus lesions	DiseaseClass	D015821
 52	63	jaw lesions	DiseaseClass	D007571

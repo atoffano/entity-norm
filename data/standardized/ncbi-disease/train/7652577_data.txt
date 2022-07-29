@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 82	90	melanoma	SpecificDisease	D008545
 155	160	tumor	Modifier	D009369
 266	274	melanoma	SpecificDisease	D008545

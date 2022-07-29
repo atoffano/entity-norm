@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Bile resistance	Phenotype	OBT:000152
 133	148	Bile resistance	Phenotype	OBT:000152
 188	197	probiotic	Phenotype	OBT:000827

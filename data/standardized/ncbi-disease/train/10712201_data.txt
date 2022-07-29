@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	74	Prader-Willi syndrome	Modifier	D011218
 79	96	Angelman syndrome	Modifier	D017204
 277	298	Prader-Willi syndrome	SpecificDisease	D011218

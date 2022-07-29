@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 131	139;153	Taleggio cheeses	Habitat	OBT:003525
 144	160	Scimudin cheeses	Habitat	OBT:003522
 217	234	Gorgonzola cheese	Habitat	OBT:003504

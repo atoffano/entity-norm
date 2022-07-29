@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	24	Hereditary C7 deficiency	SpecificDisease	OMIM:610102
 162	184	ankylosing spondylitis	SpecificDisease	D013167
 189	237	deficient in the seventh component of complement	SpecificDisease	OMIM:610102

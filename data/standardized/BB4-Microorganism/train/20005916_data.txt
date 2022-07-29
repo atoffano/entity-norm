@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 1022	1042	Mycobacterium leprae	Microorganism	1769
 1205	1214	M. leprae	Microorganism	1769
 1576	1585	M. leprae	Microorganism	1769

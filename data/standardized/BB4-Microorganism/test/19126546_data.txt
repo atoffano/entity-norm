@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 79	101	Salmonella typhimurium	Microorganism	MockLabel
 240	256	Escherichia coli	Microorganism	MockLabel
 372	391	Salmonella enterica	Microorganism	MockLabel

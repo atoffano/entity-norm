@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	19	HPRT-APRT-deficient	Modifier	OMIM:300322+OMIM:102600
 45	65	lesch-nyhan syndrome	SpecificDisease	D007926
 67	141	Complete hypoxanthine-guanine phosphoribosyl-transferase (HPRT) deficiency	SpecificDisease	D007926

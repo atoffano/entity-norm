@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	28	CHM	Modifier	D015794
 60	73	choroideremia	SpecificDisease	D015794
 75	88	Choroideremia	SpecificDisease	D015794

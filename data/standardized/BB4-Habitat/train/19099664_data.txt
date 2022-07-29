@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 59	74	hematology ward	Habitat	OBT:000097
 172	190	hematological ward	Habitat	OBT:000097
 213	243	patients received chemotherapy	Habitat	OBT:003220

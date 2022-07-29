@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	43	Proteus vulgaris  1 M10	Microorganism	585
 168	180	model cheese	Habitat	OBT:001480
 260	265	human	Habitat	OBT:002488

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	15;67	S3 + Lactococcus lactis sp. lactis	Microorganism	1360
 24	41	protease-negative	Phenotype	OBT:000019
 50	53;67	S3- Lactococcus lactis sp. lactis	Microorganism	1360

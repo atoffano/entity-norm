@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	13	Fabry disease	SpecificDisease	D000795
 158	171	Fabry disease	SpecificDisease	D000795
 173	175	FD	SpecificDisease	D000795

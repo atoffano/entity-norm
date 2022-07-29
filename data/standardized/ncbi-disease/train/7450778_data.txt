@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	82	glucose-6-phosphate dehydrogenase deficiency	SpecificDisease	D005955
 464	479	G6PD deficiency	SpecificDisease	D005955
 546	561	G6PD deficiency	SpecificDisease	D005955

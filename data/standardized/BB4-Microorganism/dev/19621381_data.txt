@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-746	762	Escherichia coli	Microorganism	562

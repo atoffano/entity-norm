@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	60	Haemophilus influenzae	Microorganism	727
 140	162	Haemophilus influenzae	Microorganism	727
 164	168	NTHi	Microorganism	727

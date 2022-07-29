@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	16	Alstrom syndrome	SpecificDisease	D056769
 73	89	Alstrom syndrome	SpecificDisease	D056769
 100	128	autosomal recessive disorder	DiseaseClass	D030342

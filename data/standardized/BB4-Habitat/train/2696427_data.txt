@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 16	20	fish	Habitat	OBT:002793
 52	71	fish farm sediments	Habitat	OBT:001430
 52	56	fish	Habitat	OBT:002903

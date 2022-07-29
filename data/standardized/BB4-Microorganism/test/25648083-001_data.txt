@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	19	L. johnsonii FI9785	Microorganism	MockLabel
 693	712	L. johnsonii FI9785	Microorganism	MockLabel
 750	766	L. rhamnosus  GG	Microorganism	MockLabel

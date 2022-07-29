@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	59	Chlamydia trachomatis	Microorganism	813
 64	75	C. psittaci	Microorganism	83554
 87	98	McCoy cells	Habitat	OBT:000061|OBT:000062

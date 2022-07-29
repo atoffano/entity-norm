@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	67	Chlamydia trachomatis	Microorganism	813
 71	79	urethral	Habitat	OBT:000938
 71	86	urethral smears	Habitat	OBT:000863

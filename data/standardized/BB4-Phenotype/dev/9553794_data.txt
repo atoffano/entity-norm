@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 223	243	lactic acid bacteria	Phenotype	OBT:000019
 245	248	LAB	Phenotype	OBT:000019
 254	267	Gram-negative	Phenotype	OBT:000648

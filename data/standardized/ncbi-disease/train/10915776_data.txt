@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	41	X-linked retinoschisis	Modifier	D041441
 137	159	X-linked retinoschisis	SpecificDisease	D041441
 283	303	visual deterioration	DiseaseClass	C531604

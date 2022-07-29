@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	36	WAGR	Modifier	D017624
 241	245	WAGR	Modifier	D017624
 247	258	Wilms tumor	Modifier	D009396

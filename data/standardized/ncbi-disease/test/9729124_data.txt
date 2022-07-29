@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 31	59	congenital chloride diarrhea	Modifier	C536210
 61	64	CLD	Modifier	C536210
 72	100	Congenital chloride diarrhea	SpecificDisease	C536210

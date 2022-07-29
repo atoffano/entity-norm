@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	76	renal cell carcinoma	Modifier	D002292
 101	118	von Hippel-Lindau	Modifier	D006623
 161	178	von Hippel-Lindau	Modifier	D006623

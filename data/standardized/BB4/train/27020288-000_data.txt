@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	36	production of exopolysaccharides	Phenotype	OBT:000019
 40	43	LAB	Phenotype	OBT:000019
 127	153	Streptococcus thermophilus	Microorganism	1308

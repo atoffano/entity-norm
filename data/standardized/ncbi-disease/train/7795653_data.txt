@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 77	99	sporadic breast cancer	Modifier	D001943
 153	187	familial breast and ovarian cancer	Modifier	D061325
 213	252	non-hereditary (sporadic) breast cancer	SpecificDisease	D001943

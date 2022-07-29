@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	50	clinical	Habitat	OBT:003220
 210	218	clinical	Habitat	OBT:003220
 373	397	gastroenteritis patients	Habitat	OBT:003269

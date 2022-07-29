@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 387	405	Lactococcus lactis	Microorganism	MockLabel
 407	430	Lactobacillus plantarum	Microorganism	MockLabel
 432	457	Leuconostoc mesenteroides	Microorganism	MockLabel

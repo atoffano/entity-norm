@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 986	1002	VLCAD deficiency	SpecificDisease	C536353
 1145	1161	VLCAD deficiency	SpecificDisease	C536353
 1172	1187	cardiac disease	DiseaseClass	D006331

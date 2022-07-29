@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	10	Rickettsia	Microorganism	780
 94	105	rickettsial	Microorganism	780
 119	126	animals	Habitat	OBT:000193

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 89	98	pathogens	Phenotype	MockLabel
 406	415	pathogens	Phenotype	MockLabel
 1226	1235	pathogens	Phenotype	MockLabel

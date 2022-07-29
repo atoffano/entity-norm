@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 33	36	BCG	Microorganism	33892
 194	206	mycobacteria	Microorganism	1763
 238	251	mycobacterial	Microorganism	1763

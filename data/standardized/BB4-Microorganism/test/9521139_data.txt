@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	71	Streptococcus pneumoniae	Microorganism	MockLabel
 164	188	Streptococcus pneumoniae	Microorganism	MockLabel
 766	779	S. pneumoniae	Microorganism	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 8	17	anaerobic	Phenotype	OBT:000189
 50	61	Lactococcus	Microorganism	1357
 63	76	Lactobacillus	Microorganism	1578

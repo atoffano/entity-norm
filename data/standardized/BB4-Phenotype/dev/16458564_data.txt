@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 390	399	pathogens	Phenotype	OBT:002806
 502	527	antibiotic susceptibility	Phenotype	OBT:002675
 697	705	pathogen	Phenotype	OBT:002806

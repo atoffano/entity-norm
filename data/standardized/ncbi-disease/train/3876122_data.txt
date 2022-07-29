@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 17	46	type I von Willebrand disease	SpecificDisease	D056725
 89	103	von Willebrand	Modifier	D014842
 112	141	Type I von Willebrand disease	SpecificDisease	D056725

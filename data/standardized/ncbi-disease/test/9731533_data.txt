@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	31	cancer	Modifier	D009369
 132	162	familial adenomatous polyposis	SpecificDisease	D011125
 164	167	FAP	SpecificDisease	D011125

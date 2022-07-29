@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 71	97	Francisella tularensis LVS	Microorganism	263
 140	162	Francisella tularensis	Microorganism	263
 300	317	F. tularensis LVS	Microorganism	263

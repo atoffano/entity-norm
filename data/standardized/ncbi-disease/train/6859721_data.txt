@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	46	Absence of the seventh component of complement	SpecificDisease	OMIM:610102
 65	88	chronic meningococcemia	SpecificDisease	D008589
 103	113	vasculitis	SpecificDisease	D014657

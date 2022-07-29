@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 120	138	mercury resistance	Phenotype	OBT:002521
 140	143	mer	Phenotype	OBT:002521
 674	690	Escherichia coli	Microorganism	562

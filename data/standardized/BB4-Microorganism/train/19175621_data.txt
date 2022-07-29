@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 57	76	Salmonella enterica	Microorganism	28901
 175	194	Salmonella enterica	Microorganism	28901
 271	278	Virchow	Microorganism	48409

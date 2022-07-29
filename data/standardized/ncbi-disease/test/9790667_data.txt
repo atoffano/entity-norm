@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 269	299	cerebrotendinous xanthomatosis	SpecificDisease	D019294
 301	304	CTX	SpecificDisease	D019294
 1364	1412	deficiency in the sterol 27-hydroxylase activity	SpecificDisease	D019294

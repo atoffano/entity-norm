@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 266	292	Streptococcus thermophilus	Microorganism	1308
 398	420	Vagococcus carniphilus	Microorganism	218144
 460	478	Psychrobacter spp.	Microorganism	497

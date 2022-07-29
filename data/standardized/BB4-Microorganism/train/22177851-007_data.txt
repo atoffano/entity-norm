@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 268	279	D. hansenii	Microorganism	4959
 292	303	G. candidum	Microorganism	1173061
 411	422	G. candidum	Microorganism	1173061

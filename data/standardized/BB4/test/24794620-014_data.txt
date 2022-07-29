@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 34	56	Alkalibacterium gilvum	Microorganism	MockLabel
 62	72	halophilic	Phenotype	MockLabel
 77	89	alkaliphilic	Phenotype	MockLabel

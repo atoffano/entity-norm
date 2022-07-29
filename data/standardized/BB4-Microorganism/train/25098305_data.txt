@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	63	Mycoplasma	Microorganism	2093
 476	496	Mycoplasma agassizii	Microorganism	33922
 501	523	Mycoplasma testudineum	Microorganism	244584

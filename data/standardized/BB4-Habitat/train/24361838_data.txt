@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 105	113	chickens	Habitat	OBT:003314
 207	214	chicken	Habitat	OBT:003314
 207	230	chicken faecal material	Habitat	OBT:001102

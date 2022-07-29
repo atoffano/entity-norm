@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	19	L. johnsonii FI9785	Microorganism	MockLabel
 24	48	able to produce biofilms	Phenotype	MockLabel
 40	48	biofilms	Habitat	MockLabel

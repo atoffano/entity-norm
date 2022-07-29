@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 188	205	Str. thermophilus	Microorganism	1308
 209	215	cheese	Habitat	OBT:001480
 209	225	cheese interiors	Habitat	OBT:000373

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 80	97	semi-soft cheeses	Habitat	OBT:003458
 139	151	soft cheeses	Habitat	OBT:003459
 285	291	cheese	Habitat	OBT:001480

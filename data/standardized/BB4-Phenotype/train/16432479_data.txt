@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 105	130	resistance to antibiotics	Phenotype	OBT:002674
 183	211	antimicrobial susceptibility	Phenotype	OBT:002338
 654	682	antimicrobial susceptibility	Phenotype	OBT:002338

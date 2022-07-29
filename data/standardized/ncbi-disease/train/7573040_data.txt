@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 90	137	spinocerebellar ataxia 3/Machado-Joseph disease	Modifier	D017827
 149	173	spinocerebellar ataxia 3	Modifier	D017827
 181	185	SCA3	SpecificDisease	D017827

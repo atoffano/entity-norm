@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 69	108	adrenoleukodystrophy protein deficiency	SpecificDisease	D000326
 110	115	X-ALD	SpecificDisease	D000326
 144	161	Inherited defects	DiseaseClass	D030342

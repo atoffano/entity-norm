@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 88	113	Leuconostoc mesenteroides	Microorganism	1245
 118	150	Lactococcus lactis subsp. lactis	Microorganism	1360
 271	294	Lactobacillus paracasei	Microorganism	1597

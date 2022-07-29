@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	33	PDS	Modifier	C536648
 105	121	Pendred syndrome	SpecificDisease	C536648
 126	152	non-syndromic hearing loss	SpecificDisease	C537845

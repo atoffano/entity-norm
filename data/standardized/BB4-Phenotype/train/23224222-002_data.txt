@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 157	175	coagulase-negative	Phenotype	OBT:000235
 897	910	acid tolerant	Phenotype	OBT:002883
 943	956	Gram-positive	Phenotype	OBT:000649

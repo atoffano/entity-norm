@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 66	85	Lactobacillus casei	Microorganism	MockLabel
 89	112	Lactobacillus rhamnosus	Microorganism	MockLabel
 116	139	Lactobacillus fermentum	Microorganism	MockLabel

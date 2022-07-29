@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 29	52	rearrangement disorders	DiseaseClass	D002869
 160	188	congenital anomaly disorders	DiseaseClass	D000013
 193	209	malignant tumors	DiseaseClass	D018198

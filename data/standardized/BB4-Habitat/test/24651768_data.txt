@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	12	Conjunctival	Habitat	MockLabel
 311	322	conjunctiva	Habitat	MockLabel
 424	436	conjunctival	Habitat	MockLabel

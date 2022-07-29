@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	22	X-linked retinoschisis	SpecificDisease	D041441
 75	97	X-linked retinoschisis	SpecificDisease	D041441
 99	103	XLRS	SpecificDisease	D041441

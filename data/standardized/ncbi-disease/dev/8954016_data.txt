@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	69	hyperparathyroidism and jaw tumor syndrome	SpecificDisease	OMIM:145001
 86	102	renal hamartomas	SpecificDisease	D007674+D006222
 107	128	cystic kidney disease	DiseaseClass	D052177

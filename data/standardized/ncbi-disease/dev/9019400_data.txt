@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	16	tumor	Modifier	D009369
 98	111	breast cancer	SpecificDisease	D001943
 258	275	metastatic tumors	DiseaseClass	D009362

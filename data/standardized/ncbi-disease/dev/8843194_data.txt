@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	54	growth retardation	DiseaseClass	D006130
 56	96	chromosomal fragmentation during meiosis	SpecificDisease	D048629
 98	112	immune defects	DiseaseClass	D007154

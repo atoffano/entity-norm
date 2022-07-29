@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 189	215	nonketotic hyperglycinemia	SpecificDisease	D020158
 274	300	nonketotic hyperglycinemia	SpecificDisease	D020158
 302	305	NKH	SpecificDisease	D020158

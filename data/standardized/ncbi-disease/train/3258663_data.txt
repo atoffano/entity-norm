@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 45	59	von Willebrand	Modifier	D014842
 100	129	severe von Willebrand disease	SpecificDisease	D056729
 131	160	Severe von Willebrand disease	SpecificDisease	D056729

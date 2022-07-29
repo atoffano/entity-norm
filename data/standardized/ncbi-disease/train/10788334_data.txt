@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 60	81	breast-ovarian cancer	CompositeMention	D061325
 260	266	cancer	DiseaseClass	D009369
 321	345	breast or ovarian cancer	CompositeMention	D001943|D010051

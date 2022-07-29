@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	36	Lactobacillus gasseri K 7	Microorganism	1334627
 48	64	Escherichia coli	Microorganism	562
 151	182	Lactobacillus (Lb.) gasseri K 7	Microorganism	1334627

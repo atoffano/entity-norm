@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	25;32	cheeses  from dairies C	Habitat	OBT:001480
 4	27	cheeses  from dairies A	Habitat	OBT:001480
 18	25	dairies	Habitat	OBT:001988

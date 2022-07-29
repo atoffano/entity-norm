@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 139	161	obligate intracellular	Phenotype	OBT:000771
 172	180	pathogen	Phenotype	OBT:000375
 181	198	Coxiella burnetii	Microorganism	777

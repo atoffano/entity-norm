@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	20	Color vision defects	DiseaseClass	D003117
 24	45	adrenomyeloneuropathy	SpecificDisease	D000326
 72	93	abnormal color vision	DiseaseClass	D003117

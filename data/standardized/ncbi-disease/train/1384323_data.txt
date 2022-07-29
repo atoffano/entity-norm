@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	56	Tay-Sachs	Modifier	D013661
 103	138	Deficiency of beta-hexosaminidase A	SpecificDisease	D013661
 177	194	Tay-Sachs disease	SpecificDisease	D013661

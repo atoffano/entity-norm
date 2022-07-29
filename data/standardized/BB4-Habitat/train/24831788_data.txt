@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 81	96	eukaryotic cell	Habitat	OBT:000061
 203	207	cell	Habitat	OBT:000061
 308	312	cell	Habitat	OBT:000061

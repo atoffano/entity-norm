@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 164	169	dairy	Habitat	MockLabel
 186	207	lactic acid  bacteria	Phenotype	MockLabel
 235	246	Pseudomonas	Microorganism	MockLabel

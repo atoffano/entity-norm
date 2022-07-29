@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 157	163	ocular	Habitat	OBT:000627
 233	240	biofilm	Habitat	OBT:000054
 395	402	biofilm	Habitat	OBT:000054

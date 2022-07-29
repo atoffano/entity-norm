@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	28	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
 33	82	X-linked neurologic disorder of myelin metabolism	DiseaseClass	D020279
 167	201	inborn errors of myelin metabolism	DiseaseClass	D020279

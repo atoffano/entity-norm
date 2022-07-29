@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 60	85	unilateral retinoblastoma	SpecificDisease	D012175
 118	143	unilateral retinoblastoma	SpecificDisease	D012175
 145	150	tumor	Modifier	D009369

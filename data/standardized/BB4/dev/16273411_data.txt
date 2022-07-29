@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	33	neonatal	Habitat	OBT:003453
 57	77	Klebsiella pneumonia	Microorganism	573
 321	341	Klebsiella pneumonia	Microorganism	573

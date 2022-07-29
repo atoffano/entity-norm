@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	24	filamentous	Phenotype	OBT:000629
 219	245	high proteolytic  activity	Phenotype	OBT:000019
 259	277	ammonia production	Phenotype	OBT:000019

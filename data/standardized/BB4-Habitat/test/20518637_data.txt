@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 333	342	hospitals	Habitat	MockLabel
 346	365	community hospitals	Habitat	MockLabel
 372	395	tertiary care hospitals	Habitat	MockLabel

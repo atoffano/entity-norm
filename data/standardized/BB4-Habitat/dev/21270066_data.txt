@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	47	perianal	Habitat	OBT:000988
 39	58	perianal ulceration	Habitat	OBT:000933
 217	255	HIV-positive men who have sex with men	Habitat	OBT:003451|OBT:003156

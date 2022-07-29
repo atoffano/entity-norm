@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 17	40	upper respiratory tract	Habitat	OBT:000936
 67	96	free-ranging gopher tortoises	Habitat	OBT:001828
 98	117	Gopherus polyphemus	Habitat	OBT:001828

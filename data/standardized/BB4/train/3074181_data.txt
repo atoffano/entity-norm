@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 262	275	Gram-positive	Phenotype	OBT:000649
 280	293	Gram-negative	Phenotype	OBT:000648
 357	378	Staphylococcus aureus	Microorganism	1280

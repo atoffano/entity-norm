@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 78	102	inherited human disorder	DiseaseClass	D030342
 104	120	fish-eye disease	SpecificDisease	D007863
 453	469	fish-eye disease	SpecificDisease	D007863

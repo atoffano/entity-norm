@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	69	Mutations in the promoter regions of the malEFG and malK-lamB operons	Phenotype	MockLabel
 490	528	unable to use lactose as carbon source	Phenotype	MockLabel
 572	600	Mutations in the malB region	Phenotype	MockLabel

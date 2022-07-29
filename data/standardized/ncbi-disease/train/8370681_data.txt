@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 76	130	Autosomal dominant neurohypophyseal diabetes insipidus	SpecificDisease	OMIM:125700
 153	171	diabetes insipidus	DiseaseClass	D003919
 256	274	diabetes insipidus	DiseaseClass	D003919

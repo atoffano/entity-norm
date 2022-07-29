@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 133	153	G(M2) gangliosidosis	SpecificDisease	D020143
 285	302	Tay-Sachs disease	SpecificDisease	D013661
 304	307	TSD	SpecificDisease	D013661

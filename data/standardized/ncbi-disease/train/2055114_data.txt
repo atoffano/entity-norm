@@ -1,2 +1,2 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 193	205	histidinemia	SpecificDisease	C538320

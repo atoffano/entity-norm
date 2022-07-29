@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 31	51	retinitis pigmentosa	SpecificDisease	D012174
 53	70	pattern dystrophy	SpecificDisease	D008268
 76	97	fundus flavimaculatus	SpecificDisease	C535804

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 48	69	ataxia-telangiectasia	SpecificDisease	D001260
 107	128	ataxia-telangiectasia	SpecificDisease	D001260
 130	133	A-T	SpecificDisease	D001260

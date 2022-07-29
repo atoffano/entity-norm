@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	80	factor X deficiency	SpecificDisease	D005171
 82	101	Factor X deficiency	SpecificDisease	D005171
 112	134	haemorrhagic condition	DiseaseClass	D006474

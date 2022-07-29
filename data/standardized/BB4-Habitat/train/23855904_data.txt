@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 85	102	UK retail poultry	Habitat	OBT:002199
 205	213	clinical	Habitat	OBT:003220
 296	310	retail poultry	Habitat	OBT:002199

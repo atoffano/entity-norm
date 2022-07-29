@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 113	127	myelinopathies	DiseaseClass	D011115
 407	433	hypomyelination of the PNS	DiseaseClass	D010523
 573	606	inherited peripheral neuropathies	DiseaseClass	C548028

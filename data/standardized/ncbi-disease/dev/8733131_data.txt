@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	50	von Hippel-Lindau disease tumour	Modifier	D006623
 99	130	von Hippel-Lindau (VHL) disease	Modifier	D006623
 251	254	VHL	Modifier	D006623

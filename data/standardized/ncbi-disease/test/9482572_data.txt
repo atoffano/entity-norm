@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 69	77	aniridia	SpecificDisease	D015783
 120	134	Peters anomaly	SpecificDisease	C537884
 141	161	congenital cataracts	SpecificDisease	D002386

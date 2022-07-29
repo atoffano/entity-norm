@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	23	Pelecypod	Habitat	OBT:001651
 89	95	people	Habitat	OBT:003269
 214	233	Vibrio cholerae O:1	Microorganism	127906

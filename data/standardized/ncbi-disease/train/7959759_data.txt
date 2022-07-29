@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 28	48	adrenoleukodystrophy	Modifier	D000326
 55	75	Adrenoleukodystrophy	SpecificDisease	D000326
 77	80	ALD	SpecificDisease	D000326

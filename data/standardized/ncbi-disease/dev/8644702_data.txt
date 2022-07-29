@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 28	64	hereditary breast and ovarian cancer	CompositeMention	D061325
 133	158	breast and ovarian cancer	Modifier	D061325
 1095	1116	breast-ovarian cancer	Modifier	D061325

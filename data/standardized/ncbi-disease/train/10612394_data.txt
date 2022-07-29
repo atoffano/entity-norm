@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 81	116	ataxia-telangiectasia-like disorder	SpecificDisease	OMIM:604391
 223	258	ataxia-telangiectasia-like disorder	SpecificDisease	OMIM:604391
 260	264	ATLD	SpecificDisease	OMIM:604391

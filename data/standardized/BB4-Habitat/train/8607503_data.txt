@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 37	60	patients with cirrhosis	Habitat	OBT:003269
 92	106	medical center	Habitat	OBT:002518
 162	180	cirrhotic patients	Habitat	OBT:003220

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 73	98	monocyte-like THP-1 cells	Habitat	OBT:000062|OBT:003001
 262	267	human	Habitat	OBT:002488
 311	323	immune cells	Habitat	OBT:000320

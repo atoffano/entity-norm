@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 767	784	group A rotavirus	Microorganism	28875
 800	816	Escherichia coli	Microorganism	562
 818	830	Shigella spp	Microorganism	620

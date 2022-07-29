@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 294	318	Streptococcus pneumoniae	Microorganism	1313
 320	342	Haemophilus influenzae	Microorganism	727
 348	369	Mycoplasma pneumoniae	Microorganism	2104

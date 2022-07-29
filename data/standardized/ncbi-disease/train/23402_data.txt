@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 77	94	neonatal jaundice	SpecificDisease	D007567
 137	155	lamellar cataracts	SpecificDisease	C535342|OMIM:116800
 326	343	neonatal jaundice	SpecificDisease	D007567

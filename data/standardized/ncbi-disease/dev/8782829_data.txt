@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	38	endometrial cancer	SpecificDisease	D016889
 111	118	tumours	DiseaseClass	D009369
 190	216	microsatellite instability	SpecificDisease	D053842

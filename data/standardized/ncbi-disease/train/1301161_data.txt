@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	18	Norrie disease	Modifier	C537849
 70	84	Norrie disease	SpecificDisease	C537849
 96	123	X-linked recessive disorder	DiseaseClass	D040181

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	89	Pelizaeus-Merzbacher Disease	SpecificDisease	OMIM:312080
 244	272	Brain Dysmyelinating Disease	DiseaseClass	D020279
 274	302	Pelizaeus-Merzbacher Disease	SpecificDisease	OMIM:312080

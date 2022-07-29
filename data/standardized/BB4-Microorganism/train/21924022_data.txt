@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 44	63	Helicobactor pylori	Microorganism	210
 119	138	Helicobacter pylori	Microorganism	210
 140	148	H.pylori	Microorganism	210

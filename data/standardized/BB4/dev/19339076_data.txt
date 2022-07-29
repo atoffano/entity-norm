@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Bile resistance	Phenotype	OBT:000152
 0	4	Bile	Habitat	OBT:000514
 19	37	Lactococcus lactis	Microorganism	1358

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	24	Atelosteogenesis type II	SpecificDisease	C535395
 55	76	diastrophic dysplasia	Modifier	C536170
 160	177	chondrodysplasias	DiseaseClass	D010009

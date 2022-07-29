@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	34	Corynebacterium ammoniagenes B1506	Microorganism	1697
 39	64	Lactococcus lactis  B1157	Microorganism	1358
 70	109;131	able to produce considerable amounts of 3-methylbutanol	Phenotype	OBT:000019

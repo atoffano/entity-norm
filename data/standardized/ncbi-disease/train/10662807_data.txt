@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	18	Haim-Munk syndrome	SpecificDisease	C537627
 23	48	Papillon-Lefevre syndrome	SpecificDisease	D010214
 99	140	palmoplantar keratoderma (PPK) conditions	DiseaseClass	D007645

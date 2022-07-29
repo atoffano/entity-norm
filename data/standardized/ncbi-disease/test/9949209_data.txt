@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 23	39	copper toxicosis	Modifier	OMIM:215600
 158	185	hepatic copper accumulation	SpecificDisease	D008107
 206	224	inherited disorder	DiseaseClass	D030342

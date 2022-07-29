@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	69	complement component C6 deficiency	SpecificDisease	OMIM:612446
 101	135	Complement component C6 deficiency	SpecificDisease	OMIM:612446
 137	140	C6D	SpecificDisease	OMIM:612446

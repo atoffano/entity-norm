@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 66	83	von Hippel-Lindau	Modifier	D006623
 85	88	VHL	Modifier	D006623
 96	127	Von Hippel-Lindau (VHL) disease	SpecificDisease	D006623

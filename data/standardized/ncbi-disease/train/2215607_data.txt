@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 362	377	CETP deficiency	SpecificDisease	OMIM:143470
 874	889	CETP deficiency	SpecificDisease	OMIM:143470
 912	932	hypercholesterolemia	SpecificDisease	D006937

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	24	laboratory	Habitat	MockLabel
 119	133	drug-resistant	Phenotype	MockLabel
 264	278	drug-resistant	Phenotype	MockLabel

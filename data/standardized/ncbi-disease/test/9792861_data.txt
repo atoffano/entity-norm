@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	78	breast and ovarian cancer	Modifier	D061325
 138	151	breast cancer	Modifier	D001943
 210	223	breast cancer	Modifier	D001943

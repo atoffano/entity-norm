@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	44	Glucose-6-phosphate dehydrogenase deficiency	SpecificDisease	D005955
 96	163	Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) -deficient	Modifier	D005955
 320	327	malaria	Modifier	D008288

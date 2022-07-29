@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	14	Norrie disease	Modifier	C537849
 169	183	Norrie disease	SpecificDisease	C537849
 185	197	pseudoglioma	SpecificDisease	C537849

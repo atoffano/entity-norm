@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	44	Porphyromonas gingivalis	Microorganism	MockLabel
 102	116	Vibrio harveyi	Microorganism	MockLabel
 180	204	Porphyromonas gingivalis	Microorganism	MockLabel

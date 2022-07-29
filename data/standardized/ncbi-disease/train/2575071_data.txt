@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	66	choroideremia	Modifier	D015794
 108	121	choroideremia	SpecificDisease	D015794
 123	126	TCD	SpecificDisease	D015794

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Canavan disease	SpecificDisease	D017825
 134	149	Canavan disease	SpecificDisease	D017825
 154	186	spongy degeneration of the brain	SpecificDisease	D017825

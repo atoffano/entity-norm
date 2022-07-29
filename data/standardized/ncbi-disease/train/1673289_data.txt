@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 977	995	Huntington disease	SpecificDisease	D006816
 997	999	HD	SpecificDisease	D006816

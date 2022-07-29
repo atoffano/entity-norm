@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 23	47	Wiskott-Aldrich syndrome	SpecificDisease	D014923
 52	77	X-linked thrombocytopenia	SpecificDisease	OMIM:313900
 183	207	Wiskott-Aldrich syndrome	SpecificDisease	D014923

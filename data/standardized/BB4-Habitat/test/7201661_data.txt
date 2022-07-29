@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	53	rabbit	Habitat	MockLabel
 47	61	rabbit tissues	Habitat	MockLabel
 129	143	rabbit tissues	Habitat	MockLabel

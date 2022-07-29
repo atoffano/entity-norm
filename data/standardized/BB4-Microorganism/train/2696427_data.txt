@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	48	Vibrio salmonicida	Microorganism	40269
 110	128	Vibrio salmonicida	Microorganism	40269
 332	338	Vibrio	Microorganism	662

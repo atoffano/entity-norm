@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	22	Aspartylglucosaminuria	SpecificDisease	D054880
 48	70	Aspartylglucosaminuria	SpecificDisease	D054880
 72	75	AGU	SpecificDisease	D054880

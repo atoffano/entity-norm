@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 441	471	type IV Ehlers-Danlos syndrome	SpecificDisease	D004535
 494	508	aortic rupture	SpecificDisease	D001019
 1056	1086	type IV Ehlers-Danlos syndrome	SpecificDisease	D004535

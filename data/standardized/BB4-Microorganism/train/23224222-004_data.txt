@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	46	Actinobacteria	Microorganism	1760
 52	73	Corynebacterium casei	Microorganism	160386
 81	93	C. variabile	Microorganism	1727

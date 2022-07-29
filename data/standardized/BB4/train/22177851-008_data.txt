@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	28	cheese	Habitat	OBT:001480
 41	54	C. flavescens	Microorganism	28028
 69	75	cheese	Habitat	OBT:001480

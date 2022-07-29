@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	63	sporadic ovarian tumours	SpecificDisease	D010051
 122	149	autosomal dominant syndrome	DiseaseClass	D030342
 181	206	breast and ovarian cancer	CompositeMention	D061325

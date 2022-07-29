@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 23	40	Friedreich ataxia	SpecificDisease	D005621
 42	59	Friedreich ataxia	SpecificDisease	D005621
 61	65	FRDA	SpecificDisease	D005621

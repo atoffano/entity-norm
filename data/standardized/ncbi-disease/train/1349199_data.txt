@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 23	40	DiGeorge syndrome	SpecificDisease	D004062
 92	109	DiGeorge syndrome	SpecificDisease	D004062
 111	114	DGS	SpecificDisease	D004062

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	68	cerebrotendinous xanthomatosis	SpecificDisease	D019294
 178	193	genetic disease	DiseaseClass	D030342
 194	224	cerebrotendinous xanthomatosis	SpecificDisease	D019294

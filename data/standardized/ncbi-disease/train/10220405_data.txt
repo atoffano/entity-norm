@@ -1,2 +1,2 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 174	199	breast and ovarian cancer	CompositeMention	D061325

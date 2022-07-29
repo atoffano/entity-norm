@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	86	Lactococcus lactis	Microorganism	1358
 88	120	Lactococcus lactis subsp. lactis	Microorganism	1360
 152	178	Lc. lactis subsp. cremoris	Microorganism	1359

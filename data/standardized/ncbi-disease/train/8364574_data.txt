@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	26	aniridia	SpecificDisease	D015783
 28	36	Aniridia	SpecificDisease	D015783
 42	76	congenital malformation of the eye	DiseaseClass	D005124

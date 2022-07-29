@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 273	278	colon	Habitat	OBT:001496
 407	492	inpatient cases of CDI (48.6% female; median age, 62.5 years; range, 0.1-103.7 years)	Habitat	OBT:003269
 500	511	Mayo Clinic	Habitat	OBT:002694

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	54	C. flavescens	Microorganism	28028
 201	209	H. alvei	Microorganism	569
 234	242	H. alvei	Microorganism	569

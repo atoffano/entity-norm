@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	24	filamentous	Phenotype	OBT:000629
 32	58	Scopulariopsis brevicaulis	Microorganism	561152
 89	95	cheese	Habitat	OBT:001480

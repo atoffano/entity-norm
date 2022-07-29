@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	68	channel	Habitat	MockLabel
 61	76	channel catfish	Habitat	MockLabel
 77	96	Ictalurus punctatus	Habitat	MockLabel

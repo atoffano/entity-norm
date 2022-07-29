@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 45	72	Duchenne muscular dystrophy	Modifier	D020388
 166	217	Duchenne and the milder Becker muscular dystrophies	CompositeMention	D020388|C537666
 528	547	dystrophic syndrome	SpecificDisease	D009136

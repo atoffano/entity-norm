@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 44	59	thermotolerance	Phenotype	OBT:002290
 67	82	nitrogen-fixing	Phenotype	OBT:000019
 158	173	nitrogen-fixing	Phenotype	OBT:000019

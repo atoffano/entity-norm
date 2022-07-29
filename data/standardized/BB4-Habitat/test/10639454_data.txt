@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 134	159	infected germfree piglets	Habitat	MockLabel
 205	215	intestinal	Habitat	MockLabel
 219	234	extraintestinal	Habitat	MockLabel

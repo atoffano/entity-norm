@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	42	galactosemia	Modifier	D005693
 201	216	GALT deficiency	SpecificDisease	D005693
 843	858	GALT deficiency	SpecificDisease	D005693

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 7	29	Machado-Joseph disease	Modifier	D017827
 180	210	trinucleotide repeat disorders	DiseaseClass	D030342
 296	318	Machado-Joseph disease	SpecificDisease	D017827

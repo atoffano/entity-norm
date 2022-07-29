@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 216	227	cheese rind	Habitat	MockLabel
 301	328	surfaces  of Danish cheeses	Habitat	MockLabel
 314	328	Danish cheeses	Habitat	MockLabel

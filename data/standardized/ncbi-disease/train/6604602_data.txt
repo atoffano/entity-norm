@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	38	Bechterew's syndrome	SpecificDisease	D013167
 40	62	ankylosing spondylitis	SpecificDisease	D013167
 152	174	ankylosing spondylitis	SpecificDisease	D013167

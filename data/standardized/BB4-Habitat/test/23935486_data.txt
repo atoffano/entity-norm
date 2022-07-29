@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 140	161	Bacterial populations	Habitat	MockLabel
 859	879	bacterial population	Habitat	MockLabel
 1526	1533	biofilm	Habitat	MockLabel

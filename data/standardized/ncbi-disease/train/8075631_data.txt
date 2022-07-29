@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	27	Familial male breast cancer	SpecificDisease	D018567
 80	93	Breast cancer	SpecificDisease	D001943
 260	278	male breast cancer	SpecificDisease	D018567

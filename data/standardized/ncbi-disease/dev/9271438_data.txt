@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	27	von Hippel-Lindau tumor	Modifier	D006623
 140	163	von Hippel-Lindau tumor	Modifier	D006623
 229	260	clear-cell renal cell carcinoma	SpecificDisease	C538445

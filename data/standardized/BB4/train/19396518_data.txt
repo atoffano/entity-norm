@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	44	pathogens	Phenotype	OBT:000375
 134	143	pathogens	Phenotype	OBT:002806
 147	166	cerebrospinal fluid	Habitat	OBT:000550

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 106	122	Escherichia coli	Microorganism	562
 285	301	Escherichia coli	Microorganism	562
 1054	1061	E. coli	Microorganism	562

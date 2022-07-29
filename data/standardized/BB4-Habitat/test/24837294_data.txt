@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 74	85	endothelial	Habitat	MockLabel
 74	90	endothelial cell	Habitat	MockLabel
 275	280	human	Habitat	MockLabel

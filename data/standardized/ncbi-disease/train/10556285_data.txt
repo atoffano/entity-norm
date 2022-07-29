@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 115	144	Spinocerebellar ataxia type-3	SpecificDisease	D017827
 148	170	Machado-Joseph disease	SpecificDisease	D017827
 172	176	SCA3	SpecificDisease	D017827

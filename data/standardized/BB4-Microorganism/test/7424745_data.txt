@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 12	21	Moraxella	Microorganism	MockLabel
 98	107	Moraxella	Microorganism	MockLabel
 314	323	Moraxella	Microorganism	MockLabel

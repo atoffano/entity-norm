@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 282	295	Lactobacillus	Microorganism	1578
 303	312	L. lactis	Microorganism	1246
 322	348	Streptococcus thermophilus	Microorganism	1308

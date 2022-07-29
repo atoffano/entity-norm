@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 31	41	neutrophil	Habitat	OBT:003004
 135	141	cattle	Habitat	OBT:003532
 149	161	healthy cows	Habitat	OBT:003572

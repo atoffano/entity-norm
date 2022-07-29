@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 62	72	halophilic	Phenotype	MockLabel
 77	89	alkaliphilic	Phenotype	MockLabel
 90	111	lactic acid bacterium	Phenotype	MockLabel

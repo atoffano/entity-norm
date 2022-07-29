@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	52	subtotal complement C6 deficiency	SpecificDisease	OMIM:612446
 130	163	subtotal complement C6 deficiency	SpecificDisease	OMIM:612446
 1330	1368	subtotal C6 and complete C6 deficiency	CompositeMention	OMIM:612446

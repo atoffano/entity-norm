@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 43	58	samples of milk	Habitat	MockLabel
 63	77	cheese samples	Habitat	MockLabel
 201	207	cheese	Habitat	MockLabel

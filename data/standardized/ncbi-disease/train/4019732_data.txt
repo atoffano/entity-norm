@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 34	56	van der Woude syndrome	SpecificDisease	C536528
 281	303	van der Woude syndrome	SpecificDisease	C536528
 305	308	VWS	SpecificDisease	C536528

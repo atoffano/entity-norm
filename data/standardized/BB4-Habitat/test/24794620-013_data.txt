@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	44	VB cheese	Habitat	MockLabel
 35	50	VB cheese rinds	Habitat	MockLabel
 96	110	Munster cheese	Habitat	MockLabel

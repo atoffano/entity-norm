@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-20	34	B. pityocampae	Microorganism	MockLabel

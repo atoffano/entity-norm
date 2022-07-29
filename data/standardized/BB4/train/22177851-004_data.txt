@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	13	Gram-negative	Phenotype	OBT:000648
 197	203	cheese	Habitat	OBT:001480
 357	374	Pseudomonas  spp.	Microorganism	306

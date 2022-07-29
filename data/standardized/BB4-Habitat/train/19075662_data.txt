@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 43	51	biofilms	Habitat	OBT:000054
 78	93	medical devices	Habitat	OBT:000108
 169	180	Biomaterial	Habitat	OBT:000108

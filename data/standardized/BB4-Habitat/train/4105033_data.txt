@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 82	94	Spheroplasts	Habitat	OBT:000061
 175	186	20% sucrose	Habitat	OBT:000106
 190	203	0.2 m MgCl(2)	Habitat	OBT:000106

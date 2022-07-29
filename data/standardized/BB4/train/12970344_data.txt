@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 120	124	food	Habitat	OBT:000094
 242	251	red algal	Habitat	OBT:002758
 278	284	marine	Habitat	OBT:000338

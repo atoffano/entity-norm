@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	49	Wilson disease	SpecificDisease	D006527
 67	100	intracellular copper accumulation	DiseaseClass	C535468
 105	146	late-onset hepatic nodular transformation	DiseaseClass	D020518

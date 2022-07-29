@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 107	116	Halomonas	Microorganism	MockLabel
 155	196	short-ripened cheeses from all facilities	Habitat	MockLabel
 240	249	Halomonas	Microorganism	MockLabel

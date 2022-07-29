@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	44;70	Casera cheese	Habitat	OBT:003483
 38	44;70	Casera cheese  surfaces	Habitat	OBT:001341
 46	56;70	Gorgonzola cheese  surfaces	Habitat	OBT:001341

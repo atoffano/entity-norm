@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	42	Salmonella Paratyphi A	Microorganism	54388
 96	118	Salmonella Paratyphi A	Microorganism	54388
 235	249	S. Paratyphi A	Microorganism	54388

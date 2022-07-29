@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	62	cheese	Habitat	MockLabel
 56	85	cheese rinds from  facility A	Habitat	MockLabel
 136	150	B. aurantiacum	Microorganism	MockLabel

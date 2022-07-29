@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 84	98	Wilson disease	Modifier	D006527
 159	173	Wilson disease	SpecificDisease	D006527
 287	301	Wilson disease	Modifier	D006527

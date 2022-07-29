@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 85	103	Formaggio di Fossa	Habitat	OBT:003473
 105	115	Gorgonzola	Habitat	OBT:003504
 117	125	Taleggio	Habitat	OBT:003525

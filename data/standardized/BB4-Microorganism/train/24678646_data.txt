@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 59	80	Staphylococcus aureus	Microorganism	1280
 82	86	MRSA	Microorganism	1280
 113	125	Enterococcus	Microorganism	1350

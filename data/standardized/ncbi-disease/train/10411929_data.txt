@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	60	Chediak-Higashi syndrome	SpecificDisease	D002609
 393	417	Chediak-Higashi syndrome	SpecificDisease	D002609
 419	422	CHS	SpecificDisease	D002609

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	18	Fragile X syndrome	SpecificDisease	D005600
 127	145	fragile X syndrome	SpecificDisease	D005600
 189	198	fragile X	SpecificDisease	D005600

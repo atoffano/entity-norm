@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 108	114	motile	Phenotype	OBT:000117
 116	126	halophilic	Phenotype	OBT:000656
 130	142	halotolerent	Phenotype	OBT:002711

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 358	361	MTB	Microorganism	MockLabel
 911	914	MTB	Microorganism	MockLabel
 1212	1215	MTB	Microorganism	MockLabel

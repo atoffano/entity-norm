@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 77	103	congenital afibrinogenemia	SpecificDisease	C531603
 105	131	Congenital afibrinogenemia	SpecificDisease	C531603
 143	172	autosomal, recessive disorder	DiseaseClass	D030342

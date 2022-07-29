@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	61	congenital cataracts	SpecificDisease	D002386
 63	71	aniridia	SpecificDisease	D015783
 73	85	anophthalmia	SpecificDisease	D000853

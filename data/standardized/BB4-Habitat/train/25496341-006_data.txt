@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 72	83	dairy plant	Habitat	OBT:001988
 102	123	smear-ripened  cheese	Habitat	OBT:003494
 289	295	cheese	Habitat	OBT:003494

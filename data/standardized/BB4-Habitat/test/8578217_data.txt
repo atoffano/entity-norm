@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 263	271	duodenal	Habitat	MockLabel
 263	277	duodenal ulcer	Habitat	MockLabel
 387	401	duodenal ulcer	Habitat	MockLabel

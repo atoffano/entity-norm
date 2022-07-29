@@ -1,2 +1,2 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 112	130	fragile X syndrome	Modifier	D005600

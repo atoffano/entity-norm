@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	24	adult	Habitat	MockLabel
 96	101	adult	Habitat	MockLabel
 218	231;244	periodontally diseased subjects	Habitat	MockLabel

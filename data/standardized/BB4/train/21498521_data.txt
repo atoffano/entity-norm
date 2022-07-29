@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 17	32	Vibrio fischeri	Microorganism	668
 106	121	Vibrio fischeri	Microorganism	668
 125	139	bioluminescent	Phenotype	OBT:000055

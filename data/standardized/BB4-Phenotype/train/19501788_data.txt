@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 212	225	Gram-negative	Phenotype	OBT:000648
 358	367	virulence	Phenotype	OBT:000375
 404	414	pathogenic	Phenotype	OBT:000375

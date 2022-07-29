@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 50	72	Listeria monocytogenes	Microorganism	MockLabel
 125	147	Listeria monocytogenes	Microorganism	MockLabel
 151	178	responsible for listeriosis	Phenotype	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 87	98	McCoy cells	Habitat	OBT:000061|OBT:000062
 118	126	clinical	Habitat	OBT:003220
 307	340	cycloheximide-treated McCoy cells	Habitat	OBT:000062|OBT:000061

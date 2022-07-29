@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 54	79	Papillon-Lefevre syndrome	SpecificDisease	D010214
 81	106	Papillon-Lefevre syndrome	SpecificDisease	D010214
 108	111	PLS	SpecificDisease	D010214

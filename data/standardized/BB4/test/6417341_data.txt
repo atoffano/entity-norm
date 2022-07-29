@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	69	Mutations in the promoter regions of the malEFG and malK-lamB operons	Phenotype	MockLabel
 73	93	Escherichia coli K12	Microorganism	MockLabel
 114	130	Escherichia coli	Microorganism	MockLabel

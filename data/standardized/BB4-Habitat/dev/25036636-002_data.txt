@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 48	54	marine	Habitat	OBT:000338
 122	128	cheese	Habitat	OBT:001480

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	59	Chlamydia trachomatis	Microorganism	813
 64	75	C. psittaci	Microorganism	83554
 258	279	Chlamydia trachomatis	Microorganism	813

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	17	Macular dystrophy	SpecificDisease	D008268
 70	90	retinal degeneration	Modifier	D012162
 141	161	retinal degeneration	Modifier	D012162

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 124	139	apoptotic cells	Habitat	OBT:000061
 183	186	DCs	Habitat	OBT:002785
 562	564	DC	Habitat	OBT:002785

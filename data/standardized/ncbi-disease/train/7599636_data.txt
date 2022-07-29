@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	73	X-linked amelogenesis imperfecta	SpecificDisease	C538243
 245	268	amelogenesis imperfecta	DiseaseClass	D000567
 305	324	inherited disorders	DiseaseClass	D030342

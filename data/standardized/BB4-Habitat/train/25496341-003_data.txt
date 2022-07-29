@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 104	135	Western African fermented milks	Habitat	OBT:003146
 221	227	infant	Habitat	OBT:003263
 221	233	infant feces	Habitat	OBT:001102

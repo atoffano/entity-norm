@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 157	167	coryneform	Microorganism	MockLabel
 179	193	cheese samples	Habitat	MockLabel
 205	230	Corynebacterium variabile	Microorganism	MockLabel

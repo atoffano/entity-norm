@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	32	Salmonella enterica	Microorganism	MockLabel
 36	40	food	Habitat	MockLabel
 198	217	Salmonella enterica	Microorganism	MockLabel

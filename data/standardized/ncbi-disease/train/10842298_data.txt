@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	50	microcephaly	DiseaseClass	D008831
 52	70	mental retardation	DiseaseClass	D008607
 76	89	short stature	DiseaseClass	D006130

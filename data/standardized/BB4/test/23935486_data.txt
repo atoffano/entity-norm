@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 79	101	Pseudomonas aeruginosa	Microorganism	MockLabel
 102	116	quorum sensing	Phenotype	MockLabel
 140	161	Bacterial populations	Habitat	MockLabel

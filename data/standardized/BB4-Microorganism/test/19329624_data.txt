@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	22	Salinivibrio siamensis	Microorganism	MockLabel
 157	165	ND1-1(T)	Microorganism	MockLabel
 715	723	ND1-1(T)	Microorganism	MockLabel

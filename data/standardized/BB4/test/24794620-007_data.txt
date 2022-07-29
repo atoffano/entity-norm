@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 7	21	H. boliviensis	Microorganism	MockLabel
 47	60	young cheeses	Habitat	MockLabel
 95	110	ripening cellar	Habitat	MockLabel

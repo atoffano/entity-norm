@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 17	38	core Beaufort cheeses	Habitat	MockLabel
 22	38	Beaufort cheeses	Habitat	MockLabel
 90	108	core Comté cheeses	Habitat	MockLabel

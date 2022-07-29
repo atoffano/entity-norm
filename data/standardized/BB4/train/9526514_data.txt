@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	62	Agrobacterium rhizogenes	Microorganism	359
 110	117	tobacco	Habitat	OBT:002870
 129	153	Agrobacterium rhizogenes	Microorganism	359

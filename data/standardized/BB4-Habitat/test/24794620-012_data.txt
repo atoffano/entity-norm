@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 109	141	surfaces of long-ripened cheeses	Habitat	MockLabel
 121	141	long-ripened cheeses	Habitat	MockLabel
 306	313	cheeses	Habitat	MockLabel

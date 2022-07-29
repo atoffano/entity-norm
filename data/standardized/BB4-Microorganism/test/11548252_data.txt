@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 43	58	Vibrio cholerae	Microorganism	MockLabel
 114	125	V. cholerae	Microorganism	MockLabel
 1040	1056	V. cholerae O139	Microorganism	MockLabel

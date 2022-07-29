@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	15	Myotonia levior	SpecificDisease	D009224
 21	46	chloride channel disorder	DiseaseClass	OMIM:160800
 61	94	dominant non-dystrophic myotonias	DiseaseClass	C536245

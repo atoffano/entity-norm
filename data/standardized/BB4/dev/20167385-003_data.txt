@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 47	60	Psychrobacter	Microorganism	497
 85	103	Formaggio di Fossa	Habitat	OBT:003473
 105	115	Gorgonzola	Habitat	OBT:003504

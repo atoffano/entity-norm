@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 110	133	surface-ripened cheeses	Habitat	OBT:003428
 199	219;226	cheeses from dairies D	Habitat	OBT:003428
 199	221	cheeses from dairies C	Habitat	OBT:003428

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	43	cerebrotendinous xanthomatosis	SpecificDisease	D019294
 329	359	cerebrotendinous xanthomatosis	SpecificDisease	D019294
 361	364	CTX	SpecificDisease	D019294

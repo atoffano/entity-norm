@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 33	57	Flavobacterium columnare	Microorganism	MockLabel
 61	68	channel	Habitat	MockLabel
 61	76	channel catfish	Habitat	MockLabel

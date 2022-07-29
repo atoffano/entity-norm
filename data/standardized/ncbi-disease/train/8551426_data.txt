@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	37	galactosemia	SpecificDisease	D005693
 103	115	galactosemia	SpecificDisease	D005693
 861	881	classic galactosemia	SpecificDisease	D005693

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 58	79	Brevibacterium linens	Microorganism	1703
 142	159	farmhouse cheeses	Habitat	OBT:001480
 142	151	farmhouse	Habitat	OBT:000583

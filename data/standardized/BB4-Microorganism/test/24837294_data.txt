@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 16	36	Streptococcus mutans	Microorganism	MockLabel
 220	240	Streptococcus mutans	Microorganism	MockLabel
 668	680	streptococci	Microorganism	MockLabel

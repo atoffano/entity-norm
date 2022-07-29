@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 190	204	world's oceans	Habitat	OBT:003105
 249	268	marine environments	Habitat	OBT:000338
 319	334	bacterial flora	Habitat	OBT:000113

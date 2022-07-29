@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	28	Ln. pseudomesenteroides (M7)	Microorganism	33968
 30	46	Ln. citreum (M2)	Microorganism	33964
 48	67	Lb. plantarum (FH3)	Microorganism	1590

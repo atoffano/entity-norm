@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 57	95	Xanthomonas campestris pv. vesicatoria	Microorganism	456327
 147	185	Xanthomonas campestris pv. vesicatoria	Microorganism	456327
 519	530	Xanthomonas	Microorganism	456327

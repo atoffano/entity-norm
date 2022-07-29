@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	46	probiotic fermented milk beverage	Habitat	OBT:001269|OBT:003146|OBT:003343
 58	92	Lactobacillus casei strain Shirota	Microorganism	1582
 118	128	intestinal	Habitat	OBT:002810

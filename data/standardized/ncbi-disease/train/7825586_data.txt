@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	67	breast-ovarian cancer	Modifier	D061325
 78	91	Breast Cancer	Modifier	D001943
 116	151	breast-ovary cancer-family syndrome	SpecificDisease	D061325

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	31	Glucose/galactose malabsorption	SpecificDisease	OMIM:606824
 85	116	Glucose/galactose malabsorption	SpecificDisease	OMIM:606824
 118	121	GGM	SpecificDisease	OMIM:606824

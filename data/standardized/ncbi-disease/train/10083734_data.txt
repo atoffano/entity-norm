@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	39	C9 deficiency	Modifier	OMIM:613825
 106	159	Deficiency of the ninth component of human complement	SpecificDisease	OMIM:613825
 184	205	complement deficiency	DiseaseClass	D007153

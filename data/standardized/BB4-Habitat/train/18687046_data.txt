@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 55	77	central nervous system	Habitat	OBT:001028
 238	246	patients	Habitat	OBT:003220
 318	326	injuries	Habitat	OBT:000970

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 122	136	retinoblastoma	Modifier	D012175
 152	166	retinoblastoma	Modifier	D012175
 438	444	tumors	DiseaseClass	D009369

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 15	34	Helicobacter pylori	Microorganism	MockLabel
 192	206	gastroduodenal	Habitat	MockLabel
 192	215	gastroduodenal pathogen	Phenotype	MockLabel

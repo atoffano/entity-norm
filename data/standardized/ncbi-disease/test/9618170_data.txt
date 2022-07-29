@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 57	60	DMD	Modifier	D020388
 77	108	X-linked dilated cardiomyopathy	SpecificDisease	D002311
 110	141	X-linked dilated cardiomyopathy	SpecificDisease	D002311

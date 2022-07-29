@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	33	Helicobacter pylori	Microorganism	210
 163	182	Helicobacter pylori	Microorganism	210
 196	214	dyspeptic patients	Habitat	OBT:003220

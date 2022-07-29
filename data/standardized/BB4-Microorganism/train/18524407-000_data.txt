@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 298	314	propionibacteria	Microorganism	1743
 435	490	Propionibacterium freudenreichii subsp. shermanii TL 34	Microorganism	1752
 492	502	CIP 103027	Microorganism	1752

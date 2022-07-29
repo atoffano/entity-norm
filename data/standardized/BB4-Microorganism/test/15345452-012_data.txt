@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 181	203	Lactobacillus buchneri	Microorganism	MockLabel
 257	270	lactobacillus	Microorganism	MockLabel
 460	492	Propionibacterium freudenreichii	Microorganism	MockLabel

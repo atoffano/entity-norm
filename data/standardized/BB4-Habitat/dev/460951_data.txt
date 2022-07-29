@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 34	43	pulmonary	Habitat	OBT:000716
 98	131	Tuberculosis Reference Laboratory	Habitat	OBT:001169
 208	217	pulmonary	Habitat	OBT:000716

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 96	115	Bacillus sphaericus	Microorganism	MockLabel
 270	289	Bacillus sphaericus	Microorganism	MockLabel
 291	304	B. sphaericus	Microorganism	MockLabel

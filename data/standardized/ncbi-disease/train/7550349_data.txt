@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 163	186	inherited breast cancer	SpecificDisease	D061325
 285	310	breast and ovarian cancer	CompositeMention	D061325
 403	416	breast cancer	SpecificDisease	D001943

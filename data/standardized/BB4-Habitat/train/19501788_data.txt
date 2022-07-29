@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 98	122	cross-protective vaccine	Habitat	OBT:000464
 610	661	diseased Japanese flounder cultured in a local farm	Habitat	OBT:000491|OBT:003553
 651	661	local farm	Habitat	OBT:000630

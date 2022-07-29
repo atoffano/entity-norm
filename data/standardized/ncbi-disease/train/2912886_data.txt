@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	39	Chronic nonspherocytic hemolytic anemia	SpecificDisease	D000746
 41	46	CNSHA	SpecificDisease	D000746
 52	103	glucose 6 phosphate dehydrogenase (G6PD) deficiency	SpecificDisease	D005955

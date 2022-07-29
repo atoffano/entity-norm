@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 78	113	Prader-Willi and angelman syndromes	CompositeMention	D011218|D017204
 115	136	Prader-Willi syndrome	SpecificDisease	D011218
 138	141	PWS	SpecificDisease	D011218

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 10	36	Lactobacillus rhamnosus GG	Microorganism	MockLabel
 278	293	human rotavirus	Microorganism	MockLabel
 295	298	HRV	Microorganism	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 62	83	Staphylococcus aureus	Microorganism	MockLabel
 211	232	Staphylococcus aureus	Microorganism	MockLabel
 744	753	S. aureus	Microorganism	MockLabel

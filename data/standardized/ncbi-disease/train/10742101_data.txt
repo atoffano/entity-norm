@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	43	obesity	SpecificDisease	D009765
 386	404	mesenchymal tumour	Modifier	D008637
 427	443	fat-cell tumours	DiseaseClass	D018205

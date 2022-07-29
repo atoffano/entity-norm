@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	31	Schwartz-Jampel syndrome type 2	SpecificDisease	C537502
 36	60	Stuve-Wiedemann syndrome	SpecificDisease	C537502
 180	204	Schwartz-Jampel syndrome	SpecificDisease	D010009

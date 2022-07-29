@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 136	159	inherited breast cancer	SpecificDisease	D001943
 232	245	breast cancer	SpecificDisease	D001943
 318	340	familial breast cancer	SpecificDisease	D001943

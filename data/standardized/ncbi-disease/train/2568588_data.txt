@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 57	71	retinoblastoma	SpecificDisease	D012175
 128	150	retinoblastoma tumours	SpecificDisease	D012175
 218	232	retinoblastoma	Modifier	D012175

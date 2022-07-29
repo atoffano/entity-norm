@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	51	multiple epiphyseal dysplasia	SpecificDisease	D010009
 73	82	club foot	SpecificDisease	D003025
 88	110	double layered patella	DiseaseClass	C535504

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	72	hydrogen cyanide (HCN) and ammonia (NH₃) emitted	Phenotype	OBT:000019
 76	98	Pseudomonas aeruginosa	Microorganism	287
 139	172	hydrogen cyanide (HCN) production	Phenotype	OBT:000019

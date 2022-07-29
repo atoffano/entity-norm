@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 80	103	bacterial pathogenicity	Phenotype	MockLabel
 459	468	wild-type	Phenotype	MockLabel
 469	483	CNF1-producing	Phenotype	MockLabel

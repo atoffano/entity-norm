@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	23	DMD	Modifier	D020388
 24	27	BMD	Modifier	C537666
 392	429	Duchenne or Becker muscular dystrophy	CompositeMention	D020388|C537666

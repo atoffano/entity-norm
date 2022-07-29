@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 94	130	phenylalanine hydroxylase deficiency	SpecificDisease	OMIM:261600
 148	172	Maternal Phenylketonuria	Modifier	D017042
 332	356	maternal phenylketonuria	SpecificDisease	D017042

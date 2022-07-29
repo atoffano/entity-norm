@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 54	72	Lactococcus lactis	Microorganism	1358
 198	219	Debaryomyces hansenii	Microorganism	4959
 221	240	Geotrichum candidum	Microorganism	1173061

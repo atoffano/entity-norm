@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 75	96	Brevibacterium linens	Microorganism	1703
 284	300	γ-Proteobacteria	Microorganism	1236
 427	449	Pseudoalteromonas spp.	Microorganism	53246

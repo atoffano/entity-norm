@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 78	91	breast cancer	Modifier	D001943
 106	119	Breast Cancer	Modifier	D001943
 179	202	inherited breast cancer	SpecificDisease	D001943

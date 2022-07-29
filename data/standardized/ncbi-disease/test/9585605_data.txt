@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	47	Angelman syndrome	Modifier	D017204
 58	75	Angelman syndrome	SpecificDisease	D017204
 77	79	AS	SpecificDisease	D017204

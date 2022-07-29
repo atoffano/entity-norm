@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	11	Respiratory	Habitat	OBT:000407
 46	62	healthy children	Habitat	OBT:003188|OBT:002712
 119	133	young children	Habitat	OBT:003188

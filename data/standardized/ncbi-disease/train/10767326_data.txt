@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	63	Haploinsufficiency of the transcription factors FOXC1 and FOXC2	CompositeMention	OMIM:602482|OMIM:153400
 104	144	Anterior segment developmental disorders	DiseaseClass	C537775
 156	179	Axenfeld-Rieger anomaly	SpecificDisease	C535679

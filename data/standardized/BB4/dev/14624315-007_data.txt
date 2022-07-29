@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	73	L. lactis subsp. cremoris B1157	Microorganism	1359
 166	187	C. ammoniagenes B1506	Microorganism	1697
 319	333	dairy industry	Habitat	OBT:001988

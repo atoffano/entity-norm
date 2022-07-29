@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	77	idiopathic ventricular fibrillation	SpecificDisease	C537182
 79	103	Ventricular fibrillation	SpecificDisease	D014693
 328	363	idiopathic ventricular fibrillation	SpecificDisease	C537182

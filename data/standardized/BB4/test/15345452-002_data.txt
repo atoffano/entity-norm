@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	34	Pseudomonas fluorescens	Microorganism	MockLabel
 49	63	dairy products	Habitat	MockLabel
 115	124	CIP69.13T	Microorganism	MockLabel

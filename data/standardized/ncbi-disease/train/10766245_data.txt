@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 66	79	rare diseases	DiseaseClass	D035583
 80	101	ataxia-telangiectasia	SpecificDisease	D001260
 103	105	AT	SpecificDisease	D001260

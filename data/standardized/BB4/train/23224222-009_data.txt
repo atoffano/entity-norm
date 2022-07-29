@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 1	10	B. linens	Microorganism	1703
 91	106	cheese surfaces	Habitat	OBT:001341
 91	97	cheese	Habitat	OBT:001480

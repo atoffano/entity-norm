@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 29	37	Yersinia	Microorganism	629
 321	329	Yersinia	Microorganism	629
 417	425	Yersinia	Microorganism	629

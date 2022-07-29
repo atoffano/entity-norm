@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 52	66	Staphylococcus	Microorganism	1279
 68	79	Micrococcus	Microorganism	1269
 81	94	Psychrobacter	Microorganism	497

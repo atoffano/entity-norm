@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	58	HNPCC	Modifier	D003123
 132	149	colorectal cancer	SpecificDisease	D015179
 278	318	hereditary non-polyposis cancer syndrome	SpecificDisease	D003123

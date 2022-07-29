@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 60	80	centrocytic lymphoma	DiseaseClass	D008223
 194	214	centrocytic lymphoma	DiseaseClass	D008223
 255	271	B-cell neoplasms	SpecificDisease	D016393

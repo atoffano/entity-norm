@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 45	58	L. casei 21/1	Microorganism	MockLabel
 137	150	L. casei 21/1	Microorganism	MockLabel
 155	174	L. rhamnosus  13075	Microorganism	MockLabel

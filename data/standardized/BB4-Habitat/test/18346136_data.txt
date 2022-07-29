@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	40	food	Habitat	MockLabel
 221	225	food	Habitat	MockLabel
 313	335	buffered peptone water	Habitat	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	33	neonatal	Habitat	OBT:003453
 375	381	humans	Habitat	OBT:003493
 386	393	animals	Habitat	OBT:001103

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	125	Macaca mulatta sensitized with bacille Calmette Guerin cell wall vaccine	Habitat	OBT:002201
 53	67;133	Macaca mulatta infected with virulent Mycobacterium tuberculosis	Habitat	OBT:002201
 84	125	bacille Calmette Guerin cell wall vaccine	Habitat	OBT:000464

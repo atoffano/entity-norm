@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	20	Aurioscope earpieces	Habitat	MockLabel
 76	111	non disposable aurioscope earpieces	Habitat	MockLabel
 120	148	community paediatric clinics	Habitat	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 62	85	hypobetalipoproteinemia	SpecificDisease	D006995
 90	117	developmental abnormalities	DiseaseClass	D006130
 127	159	Familial hypobetalipoproteinemia	SpecificDisease	D052476

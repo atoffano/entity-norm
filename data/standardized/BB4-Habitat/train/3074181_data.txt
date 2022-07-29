@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 523	531	clinical	Habitat	OBT:003220
 555	686	clinical materials (amniotic fluid, intrauterine secretions, exudates of the pelvic dead space) of patients with various infections	Habitat	OBT:000039
 575	589	amniotic fluid	Habitat	OBT:000485

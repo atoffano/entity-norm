@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	50	mycobacteria	Microorganism	MockLabel
 97	109	mycobacteria	Microorganism	MockLabel
 210	222	mycobacteria	Microorganism	MockLabel

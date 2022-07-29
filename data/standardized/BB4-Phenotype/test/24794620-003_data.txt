@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 63	83	lactic acid bacteria	Phenotype	MockLabel
 390	408	coagulase-negative	Phenotype	MockLabel
 458	471	salt-tolerant	Phenotype	MockLabel

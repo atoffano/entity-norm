@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	17	Emerin deficiency	SpecificDisease	D020389
 59	92	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
 171	213	X-linked Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389

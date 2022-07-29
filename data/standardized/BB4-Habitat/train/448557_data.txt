@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	70	pediatric	Habitat	OBT:003188|OBT:003220
 178	189	respiratory	Habitat	OBT:000407
 256	267	respiratory	Habitat	OBT:000407

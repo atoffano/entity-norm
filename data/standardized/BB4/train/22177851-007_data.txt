@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 15	28	Gram-negative	Phenotype	OBT:000648
 127	144	yeast communities	Habitat	OBT:000113
 163	176	Gram-negative	Phenotype	OBT:000648

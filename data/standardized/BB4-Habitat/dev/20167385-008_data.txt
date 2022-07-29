@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	57	white mould rind	Habitat	OBT:001481
 59	74	Scimudin cheese	Habitat	OBT:003522
 181	198	Casera Valtellina	Habitat	OBT:003483

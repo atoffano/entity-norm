@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 63	66	APC	Modifier	D011125
 80	106	adenomatous polyposis coli	Modifier	D011125
 146	151	tumor	Modifier	D009369

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	45	Becker muscular dystrophy	Modifier	C537666
 146	171	Becker muscular dystrophy	SpecificDisease	C537666
 173	176	BMD	SpecificDisease	C537666

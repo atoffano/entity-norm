@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 71	84	eye anomalies	DiseaseClass	D005124
 195	211	ocular anomalies	DiseaseClass	D005124
 223	231	aniridia	SpecificDisease	D015783

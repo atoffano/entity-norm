@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	35	lactic acid bacterial	Phenotype	OBT:000019
 43	46	LAB	Phenotype	OBT:000019
 49	62	Lactobacillus	Microorganism	1578

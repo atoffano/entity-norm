@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 423	437	G6PD deficient	Modifier	D005955
 475	481	favism	SpecificDisease	D005236
 792	809	enzyme deficiency	DiseaseClass	D008661

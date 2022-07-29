@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	67	microbiota of four Danish surface-ripened cheeses	Habitat	OBT:000113
 37	67	Danish surface-ripened cheeses	Habitat	OBT:003428
 87	97	farmhouses	Habitat	OBT:000583

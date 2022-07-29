@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 141	151	nosocomial	Habitat	MockLabel
 252	260	patients	Habitat	MockLabel
 476	507	large district general hospital	Habitat	MockLabel

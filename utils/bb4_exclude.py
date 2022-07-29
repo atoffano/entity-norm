@@ -44,6 +44,7 @@ def exclude(args):
                     content.append(line)
             if len(content) > 1:
                 with open(args['output'] + f"/{directory}/" + file.split('/')[-1], 'a') as f:
+                    f.write('start\tend\tmention\t_class\tnorm\n')
                     for line in content:
                         f.write(line)
                 shutil.copyfile(f"{file.split('_data.txt')[0]}_header.txt", f"{args['output']}/{directory}/{file.split('/')[-1].split('_data.txt')[0]}_header.txt")

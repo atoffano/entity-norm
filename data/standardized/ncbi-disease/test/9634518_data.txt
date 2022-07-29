@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	68	phenylalanine hydroxylase deficiency	SpecificDisease	OMIM:261600
 177	192	Phenylketonuria	SpecificDisease	D010661
 194	197	PKU	SpecificDisease	D010661

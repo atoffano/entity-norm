@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	31	Bordetella pertussis	Microorganism	MockLabel
 57	84	respiratory syncytial virus	Microorganism	MockLabel
 150	170	Bordetella pertussis	Microorganism	MockLabel

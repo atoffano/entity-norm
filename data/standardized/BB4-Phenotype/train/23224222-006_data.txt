@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 139	151	thermophilic	Phenotype	OBT:000449
 152	173	lactic acid bacterium	Phenotype	OBT:000019
 199	209	mesophilic	Phenotype	OBT:000343

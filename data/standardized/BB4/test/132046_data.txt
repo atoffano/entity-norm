@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	51	Pseudomonas testosteroni	Microorganism	MockLabel
 152	176	Pseydomonas testosteroni	Microorganism	MockLabel
 607	631	Pseudomonas testosteroni	Microorganism	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 7	11	milk	Habitat	OBT:001645
 25	45	lactic acid bacteria	Phenotype	OBT:000019
 54	72	Lactococcus lactis	Microorganism	1358

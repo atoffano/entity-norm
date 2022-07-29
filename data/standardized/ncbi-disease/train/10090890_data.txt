@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 23	38	hemochromatosis	Modifier	D006432
 61	84	Genetic hemochromatosis	SpecificDisease	D006432
 86	88	GH	SpecificDisease	D006432

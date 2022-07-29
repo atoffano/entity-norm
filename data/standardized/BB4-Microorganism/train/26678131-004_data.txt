@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-28	42	H. alvei (B16)	Microorganism	569

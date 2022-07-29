@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	53	respiratory	Habitat	OBT:000407
 187	193	infant	Habitat	OBT:003263
 219	274	female mouse model of genital tract chlamydia infection	Habitat	OBT:001103|OBT:003211

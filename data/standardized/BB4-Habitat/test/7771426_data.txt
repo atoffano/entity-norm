@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 93	106	peptic ulcers	Habitat	MockLabel
 351	371;400	patients with active peptic ulcer disease and H. pylori infection	Habitat	MockLabel
 351	364;424	patients with ulcer-like dyspepsia and H. pylori infection	Habitat	MockLabel

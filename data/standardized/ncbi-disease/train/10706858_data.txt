@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 52	69	venous thrombosis	SpecificDisease	D020246
 97	122	deficiencies of protein S	SpecificDisease	D018455
 124	144	Protein S deficiency	SpecificDisease	D018455

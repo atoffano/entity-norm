@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 15	37	anxiety-related traits	DiseaseClass	OMIM:607834
 208	215	anxiety	DiseaseClass	D001008
 842	876	anxiety-related personality traits	DiseaseClass	OMIM:607834

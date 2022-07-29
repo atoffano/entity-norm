@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 24	41	protease-negative	Phenotype	OBT:000019
 687	700	Gram-negative	Phenotype	OBT:000648
 900	929	sensitivity to 24 antibiotics	Phenotype	OBT:002675

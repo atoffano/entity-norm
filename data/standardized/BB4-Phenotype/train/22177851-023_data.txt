@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 225	238;252	high capacity to produce VSC	Phenotype	OBT:000019
 297	366	high capacity to convert  methionine or cysteine into aroma compounds	Phenotype	OBT:000019

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 132	146	Staphylococcus	Microorganism	1279
 171	187	S. saprophyticus	Microorganism	29385
 189	199	S. equorum	Microorganism	246432

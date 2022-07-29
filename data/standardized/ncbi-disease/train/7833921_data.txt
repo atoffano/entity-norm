@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 19	40	essential fructosuria	SpecificDisease	C538068
 124	145	Essential fructosuria	SpecificDisease	C538068
 173	200	inborn errors of metabolism	DiseaseClass	D008661

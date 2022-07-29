@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	21	Complement deficiency	SpecificDisease	D007153
 26	35	nephritis	SpecificDisease	D009393
 120	136	deficiency of C3	SpecificDisease	OMIM:613779

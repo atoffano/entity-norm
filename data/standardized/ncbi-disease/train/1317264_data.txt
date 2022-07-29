@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	7	APC	Modifier	D011125
 30	60	familial adenomatous polyposis	SpecificDisease	D011125
 82	96	gastric cancer	SpecificDisease	D013274

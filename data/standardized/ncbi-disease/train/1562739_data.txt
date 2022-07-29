@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 99	165	Glucose-6-PHOSPHATE dehydrogenase (G6PD; EC 1.1. 1. 49) deficiency	SpecificDisease	D005955
 191	202	enzymopathy	DiseaseClass	D008661
 404	421	G6PD deficiencies	SpecificDisease	D005955

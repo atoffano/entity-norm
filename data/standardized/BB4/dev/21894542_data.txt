@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 28	40	Marinobacter	Microorganism	2742
 42	54	Marinobacter	Microorganism	2742
 78	97	Gammaproteobacteria	Microorganism	1236

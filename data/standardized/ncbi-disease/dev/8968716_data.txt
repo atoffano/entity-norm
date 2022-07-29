@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 120	145	breast and ovarian cancer	CompositeMention	D001943|D010051
 341	347	cancer	Modifier	D009369
 420	445	breast and ovarian cancer	Modifier	D001943|D010051

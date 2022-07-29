@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	50	antimicrobial resistance	Phenotype	OBT:002337
 57	70	Campylobacter	Microorganism	194
 85	102	UK retail poultry	Habitat	OBT:002199

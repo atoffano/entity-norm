@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 179	214	interior of the cheese from dairy A	Habitat	OBT:000373
 195	214	cheese from dairy A	Habitat	OBT:001480
 207	212	dairy	Habitat	OBT:001988

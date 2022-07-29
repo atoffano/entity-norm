@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	34	Duchenne/Becker muscular dystrophy	CompositeMention	D020388|C537666
 178	216	Duchenne and Becker muscular dystrophy	CompositeMention	D020388|C537666
 218	221	DMD	SpecificDisease	D020388

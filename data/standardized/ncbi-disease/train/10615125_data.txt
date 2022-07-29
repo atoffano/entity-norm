@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	97	familial expansile osteolysis	SpecificDisease	OMIM:174810
 99	128	Familial expansile osteolysis	SpecificDisease	OMIM:174810
 130	133	FEO	SpecificDisease	OMIM:174810

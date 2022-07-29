@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	28	P. celer	Microorganism	306572
 62	77	lipase activity	Phenotype	OBT:000019
 147	155	H. alvei	Microorganism	569

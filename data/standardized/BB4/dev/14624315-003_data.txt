@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 153	174	transaminase activity	Phenotype	OBT:000019
 282	295	Lactobacillus	Microorganism	1578
 303	312	L. lactis	Microorganism	1246

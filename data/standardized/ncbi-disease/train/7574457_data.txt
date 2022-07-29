@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 58	86	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
 88	116	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
 122	202	rare, sex-linked recessive, dysmyelinating disease of the central nervous system	DiseaseClass	D020279+D035583

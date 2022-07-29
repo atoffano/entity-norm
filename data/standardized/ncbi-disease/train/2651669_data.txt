@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 28	51	Langer-Giedion syndrome	SpecificDisease	D015826
 270	293	Langer-Giedion syndrome	SpecificDisease	D015826
 295	298	LGS	SpecificDisease	D015826

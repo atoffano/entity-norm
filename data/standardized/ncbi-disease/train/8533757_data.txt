@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 189	202	breast cancer	SpecificDisease	D001943
 206	231	breast and ovarian cancer	CompositeMention	D001943+D010051
 619	632	breast cancer	SpecificDisease	D001943

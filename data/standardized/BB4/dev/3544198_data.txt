@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 40	60	Mycobacterium leprae	Microorganism	1769
 76	101	urine of leprosy patients	Habitat	OBT:001367
 85	101	leprosy patients	Habitat	OBT:003269

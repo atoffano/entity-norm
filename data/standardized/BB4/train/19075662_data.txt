@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 28	42	Staphylococcus	Microorganism	1279
 43	51	biofilms	Habitat	OBT:000054
 53	67	Staphylococcus	Microorganism	1279

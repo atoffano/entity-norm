@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	88	very-long-chain acyl-CoA dehydrogenase deficiency	SpecificDisease	C536353
 97	111	cardiomyopathy	SpecificDisease	D009202
 116	128	sudden death	SpecificDisease	D003645

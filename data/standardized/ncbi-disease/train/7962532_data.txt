@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 8	53	cholesteryl ester transfer protein deficiency	SpecificDisease	OMIM:143470
 307	359	cholesteryl ester transfer protein (CETP) deficiency	SpecificDisease	OMIM:143470
 2289	2304	CETP deficiency	SpecificDisease	OMIM:143470

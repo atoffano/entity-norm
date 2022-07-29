@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 104	124	Lesch-Nyhan syndrome	SpecificDisease	D007926
 185	198	hyperuricemia	SpecificDisease	D033461
 203	234	central nervous system symptoms	DiseaseClass	D002493

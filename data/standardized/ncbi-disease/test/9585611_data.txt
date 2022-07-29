@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	72	attenuated adenomatous polyposis coli	SpecificDisease	C538265
 101	106	tumor	Modifier	D009369
 140	177	attenuated adenomatous polyposis coli	SpecificDisease	C538265

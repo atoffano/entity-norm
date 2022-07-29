@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 75	110	non-papillary renal cell carcinomas	SpecificDisease	D002292
 147	150	VHL	Modifier	D006623
 178	208	sporadic renal cell carcinomas	SpecificDisease	D002292

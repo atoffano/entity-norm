@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 28	31	PDS	Modifier	C536648
 81	89	deafness	SpecificDisease	D003638
 93	109	Pendred syndrome	SpecificDisease	C536648

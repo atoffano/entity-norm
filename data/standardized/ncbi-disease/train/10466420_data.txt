@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 97	118	diastrophic dysplasia	SpecificDisease	C536170
 160	177	chondrodysplasias	DiseaseClass	D010009
 262	283	diastrophic dysplasia	SpecificDisease	C536170

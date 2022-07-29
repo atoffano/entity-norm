@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 215	236	Neisseria gonorrhoeae	Microorganism	485
 573	587	N. gonorrhoeae	Microorganism	485
 969	983	N. gonorrhoeae	Microorganism	485

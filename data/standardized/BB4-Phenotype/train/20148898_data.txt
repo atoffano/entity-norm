@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 123	141	Type III secretion	Phenotype	OBT:000019
 181	194	Gram-negative	Phenotype	OBT:000648
 195	214	bacterial pathogens	Phenotype	OBT:000375

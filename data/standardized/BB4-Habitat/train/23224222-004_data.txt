@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 142	161	cheese from dairy A	Habitat	OBT:001480
 154	159	dairy	Habitat	OBT:001988
 276	303	cheeses from the farmhouses	Habitat	OBT:001480

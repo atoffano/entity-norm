@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 312	329	deficiency of AAT	SpecificDisease	C531610
 484	493	emphysema	DiseaseClass	D004646
 498	511	liver disease	DiseaseClass	D008107

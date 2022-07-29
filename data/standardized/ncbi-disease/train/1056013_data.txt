@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 61	82	Ataxia-telangiectasia	SpecificDisease	D001260
 93	109	genetic disorder	DiseaseClass	D030342
 126	143	immune deficiency	DiseaseClass	D007153

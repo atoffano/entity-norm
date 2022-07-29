@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 9	17	adhesion	Phenotype	MockLabel
 21	35	Staphylococcus	Microorganism	MockLabel
 47	53	rabbit	Habitat	MockLabel

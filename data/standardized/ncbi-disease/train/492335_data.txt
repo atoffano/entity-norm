@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 8	44	defect in secretion of complement C5	SpecificDisease	OMIM:609536
 64	119	deficiency of the fifth (C5) component of complement1-3	SpecificDisease	OMIM:609536
 1187	1200	C5 deficiency	SpecificDisease	OMIM:609536

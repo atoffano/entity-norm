@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 71	97	Francisella tularensis LVS	Microorganism	263
 101	118	murine macrophage	Habitat	OBT:002995
 101	107	murine	Habitat	OBT:002530

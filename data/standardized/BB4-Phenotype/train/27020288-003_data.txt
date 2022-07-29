@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-48	65	β-glucan produced	Phenotype	OBT:000019

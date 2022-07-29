@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	120	community of Staphylococcus and micrococci-corynebacteria groups	Habitat	OBT:000113
 69	83	Staphylococcus	Microorganism	1279
 88	98	micrococci	Microorganism	1269

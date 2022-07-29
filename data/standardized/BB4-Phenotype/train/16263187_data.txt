@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 65	73	adhesion	Phenotype	OBT:000029
 194	202	adhesion	Phenotype	OBT:000029
 835	843	adhesion	Phenotype	OBT:000029

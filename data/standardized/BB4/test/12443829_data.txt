@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	44	human	Habitat	MockLabel
 53	74	Shiga toxin-producing	Phenotype	MockLabel
 75	91	Escherichia coli	Microorganism	MockLabel

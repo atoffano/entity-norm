@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	38	Wilms' tumor	Modifier	D009396
 110	130	Denys-Drash syndrome	SpecificDisease	D030321
 132	152	Denys-Drash syndrome	SpecificDisease	D030321

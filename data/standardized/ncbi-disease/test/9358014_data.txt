@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 95	121	hereditary hemochromatosis	SpecificDisease	D006432
 123	125	HH	SpecificDisease	D006432
 798	800	HH	SpecificDisease	D006432

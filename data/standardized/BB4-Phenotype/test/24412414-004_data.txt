@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 269	284	PLA  production	Phenotype	MockLabel
 480	513	Production of 3-phenyllactic acid	Phenotype	MockLabel
 523	543	lactic acid bacteria	Phenotype	MockLabel

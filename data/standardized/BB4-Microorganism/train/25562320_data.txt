@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 66	92	Mycobacterium tuberculosis	Microorganism	1773
 459	485	Mycobacterium tuberculosis	Microorganism	1773
 487	490	Mtb	Microorganism	1773

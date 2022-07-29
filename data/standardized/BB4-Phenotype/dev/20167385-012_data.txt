@@ -1,2 +1,0 @@
-start	end	mention	_class	labels
-35	48	Gram negative	Phenotype	OBT:000648

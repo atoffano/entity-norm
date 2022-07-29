@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 48	67	Helicobacter pylori	Microorganism	MockLabel
 233	252	Helicobacter pylori	Microorganism	MockLabel
 458	467	H. pylori	Microorganism	MockLabel

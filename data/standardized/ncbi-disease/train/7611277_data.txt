@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	62	breast/ovarian cancer	Modifier	D061325
 97	115	male breast cancer	SpecificDisease	D018567
 244	266	familial breast cancer	SpecificDisease	D001943

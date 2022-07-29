@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	81	von Hippel-Lindau disease	SpecificDisease	D006623
 90	127	sporadic cerebellar haemangioblastoma	SpecificDisease	D018325
 132	152	renal cell carcinoma	SpecificDisease	D002292

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 191	240	cultures with various minerals and carbon sources	Habitat	MockLabel
 321	340;365	cultures containing cypermethrin SP formulations	Habitat	MockLabel
 321	340;348	cultures containing flumethrin SP	Habitat	MockLabel

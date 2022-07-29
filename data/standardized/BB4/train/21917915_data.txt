@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 43	64	Staphylococcus aureus	Microorganism	1280
 93	102	Pathogens	Phenotype	OBT:000375
 163	170	mammals	Habitat	OBT:001625

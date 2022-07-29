@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	31	Gram-positive	Phenotype	OBT:000649
 32	46	Actinobacteria	Microorganism	1760
 52	73	Corynebacterium casei	Microorganism	160386

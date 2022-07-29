@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 21	49	Psychrobacter immobilis  PG1	Microorganism	1256511
 205	215	strain PG1	Microorganism	1256511
 359	387	Geotrichum candidum CLIB 918	Microorganism	1173061

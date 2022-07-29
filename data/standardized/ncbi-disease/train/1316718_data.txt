@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 11	25	Kaposi sarcoma	SpecificDisease	D012514
 30	45	T-cell lymphoma	SpecificDisease	D016399
 68	92	Wiskott-Aldrich syndrome	SpecificDisease	D014923

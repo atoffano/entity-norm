@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 55	85	anterior segment malformations	DiseaseClass	C537775
 96	111	Peters' anomaly	SpecificDisease	C537884
 175	183	aniridia	SpecificDisease	D015783

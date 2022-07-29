@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	24	laboratory	Habitat	MockLabel
 436	448	laboratories	Habitat	MockLabel
 572	582	laboratory	Habitat	MockLabel

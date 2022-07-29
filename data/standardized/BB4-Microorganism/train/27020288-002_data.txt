@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 123	144	L. rhamnosus RW-9595M	Microorganism	47715
 182	217	Lactobacillus kefiranofaciens WT-2B	Microorganism	267818
 263	288	L. lactis subsp. cremoris	Microorganism	1359

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	62	Langer-Giedion syndrome	Modifier	D015826
 134	164	trichorhinophalangeal syndrome	SpecificDisease	OMIM:190350
 365	388	Langer-Giedion syndrome	SpecificDisease	D015826

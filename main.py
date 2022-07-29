@@ -37,7 +37,7 @@ def main():
     parser.add_argument("-e", "--evalset", default='test',
     help="Specify which set should be used use for evaluation. Supported : 'dev', 'test'. defaults to 'test' if left empty.")
     parser.add_argument("-o", "--original", action='store_true',
-    help="Starts the process from an original, non-standardized dataset. Supported formats: NCBI Disease as 'ncbi-disease', Bacteria Biotope 4 (full) as 'BB4' or a sub-category as 'BB4-Phenotype', 'BB4-Habitat' or 'BB4-Microorganism'.")
+    help="Starts the process from an original, non-standardized dataset.")
 
     parser.add_argument("--runs", default=1,
     help="Number of models to train.")
@@ -93,22 +93,14 @@ def router(args):
                 p.wait()
 
                 shutil.rmtree(f'{base_dir}/tmp/bb4_full')
-        elif args["input"] and args["method"]:
-            try:
-                shutil.copytree(f'{base_dir}/data/standardized/{args["input"]}', f'{base_dir}/tmp/{args["input"]}')
-            except:
-                raise NotImplementedError(f'Standardized {args["input"]} data not found in {base_dir}/data/standardized/{args["input"]}')
-            
+
         if args["input"]:
             input_std_data = f'{base_dir}/tmp/{args["input"]}'
-
-            # Loads model parameters
-            params = json.load(open('config.json', 'r'))
 
             # Load knowledge base
             # Checks knowledge base existence and recreates it if needed.
             if 'BB4' in args["input"]:
-                kb = 'BB4_kb.txt'
+                kb = f'BB4_kb.txt'
                 if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
                     with open(f'{base_dir}/data/knowledge_base/original/OntoBiotope_BioNLP-OST-2019.obo', 'r') as fh:
                         lines = fh.readlines()
@@ -128,15 +120,34 @@ def router(args):
                             synonym = []
                             cui = False
             elif args["input"] == 'ncbi-disease':
-                kb = 'ncbi-disease_kb.txt'
+                kb = f'ncbi-disease_kb.txt'
                 if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
                     shutil.copy(f'{base_dir}/data/knowledge_base/original/medic_06Jul2012.txt', f'{base_dir}/data/knowledge_base/standardized/{kb}')
-                    # the ncbi-disease kb provided by BioSyn authors is considered to be in the model for standart knowledge bases format.
+                    # the ncbi-disease kb provided by BioSyn authors is considered to be in the model for standard knowledge bases format.
            
             elif args["input"] == 'test_ncbi':
-                kb = 'test_ncbi_kb.txt'
+                kb = f'test_ncbi_kb.txt'
                 if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
                     shutil.copy(f'{base_dir}/data/knowledge_base/original/test_ncbi.txt', f'{base_dir}/data/knowledge_base/standardized/{kb}')
+            
+            else :
+                kb = f'{args["input"]}_kb.txt'
+                if not os.path.exists(f'{base_dir}/data/knowledge_base/standardized/{kb}'):
+                    shutil.copy(f'{base_dir}/data/knowledge_base/original/{kb}', f'{base_dir}/data/knowledge_base/standardized/{kb}')
+
+        if args["method"]:
+        
+            # Loads model parameters
+            params = json.load(open('config.json', 'r'))
+
+            try:
+                shutil.copytree(f'{base_dir}/data/standardized/{args["input"]}', f'{base_dir}/tmp/{args["input"]}')
+            except:
+                raise NotImplementedError(f'Standardized {args["input"]} data not found in {base_dir}/data/standardized/{args["input"]}')
+        
+        else:
+            print('Since no --method has been called, the processed has stopped here.')
+            exit()
 
         if args["method"] == 'BioSyn':
             # Prepares BioSyn environnement via setup(), trains model and evaluates is via run().

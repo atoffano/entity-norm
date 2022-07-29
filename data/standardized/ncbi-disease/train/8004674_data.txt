@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 26	41	McLeod syndrome	SpecificDisease	OMIM:300842
 91	106	McLeod syndrome	SpecificDisease	OMIM:300842
 113	142	X-linked multisystem disorder	DiseaseClass	D040181

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 83	89	cheese	Habitat	OBT:001480
 232	253	smear-ripened cheeses	Habitat	OBT:003494
 353	373	mould-ripened cheese	Habitat	OBT:003492

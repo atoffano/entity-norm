@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	26	Adenomatous polyposis coli	SpecificDisease	D011125
 234	240	autism	SpecificDisease	D001321
 257	274	colorectal cancer	SpecificDisease	D015179

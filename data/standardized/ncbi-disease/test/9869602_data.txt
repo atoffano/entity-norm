@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	28	APC	Modifier	D011125
 98	115	colorectal cancer	SpecificDisease	D015179
 204	221	colorectal cancer	Modifier	D015179

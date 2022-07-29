@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	16	Kniest dysplasia	SpecificDisease	C537207
 68	84	Kniest dysplasia	SpecificDisease	C537207
 97	113	chondrodysplasia	DiseaseClass	D010009

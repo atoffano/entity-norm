@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	57	stomach of BALB/c mice	Habitat	MockLabel
 46	57	BALB/c mice	Habitat	MockLabel
 74	83	coccoidal	Phenotype	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	91	familial adenomatous polyposis coli	SpecificDisease	D011125
 122	157	familial adenomatous polyposis coli	SpecificDisease	D011125
 159	163	FAPC	SpecificDisease	D011125

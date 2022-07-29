@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	10	Piebaldism	SpecificDisease	D016116
 16	24	deafness	SpecificDisease	D003638
 122	132	piebaldism	SpecificDisease	D016116

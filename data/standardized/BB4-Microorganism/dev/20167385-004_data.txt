@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 69	83	Staphylococcus	Microorganism	1279
 88	98	micrococci	Microorganism	1269
 99	113	corynebacteria	Microorganism	1716

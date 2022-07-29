@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 55	83	metachromatic leukodystrophy	Modifier	D007966
 85	88	MLD	Modifier	D007966
 179	207	metachromatic leukodystrophy	SpecificDisease	D007966

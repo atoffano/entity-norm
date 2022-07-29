@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	13	Campylobacter	Microorganism	194
 312	332	Campylobacter jejuni	Microorganism	197
 422	431	C. jejuni	Microorganism	197

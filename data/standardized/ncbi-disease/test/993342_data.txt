@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 105	153	deficiency of the second component of complement	SpecificDisease	OMIM:217000
 257	305	deficiency of the second component of complement	SpecificDisease	OMIM:217000
 453	466	C2 deficiency	SpecificDisease	OMIM:217000

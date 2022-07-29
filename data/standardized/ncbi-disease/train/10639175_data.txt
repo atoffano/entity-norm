@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 93	114	Ataxia-telangiectasia	SpecificDisease	D001260
 120	152	hereditary multisystemic disease	DiseaseClass	D030342
 181	202	ataxia telangiectasia	SpecificDisease	D001260

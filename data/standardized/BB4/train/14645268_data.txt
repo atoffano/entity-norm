@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 57	95	Xanthomonas campestris pv. vesicatoria	Microorganism	456327
 97	110	Pathogenicity	Phenotype	OBT:000375
 118	131	gram-negative	Phenotype	OBT:000648

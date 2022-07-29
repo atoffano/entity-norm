@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	4	Bile	Habitat	OBT:000514
 133	137	Bile	Habitat	OBT:000514
 272	276	bile	Habitat	OBT:000514

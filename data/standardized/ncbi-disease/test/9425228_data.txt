@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 52	60	melanoma	Modifier	D008545
 98	115	Familial Melanoma	Modifier	D008545
 208	216	melanoma	Modifier	D008545

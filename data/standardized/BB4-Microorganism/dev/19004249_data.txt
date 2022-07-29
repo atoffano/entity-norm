@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 221	242	Staphylococcus aureus	Microorganism	1280
 247	263	Escherichia coli	Microorganism	562
 308	317	S. aureus	Microorganism	1280

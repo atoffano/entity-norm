@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	28	hemochromatosis	SpecificDisease	D006432
 44	59	hemochromatosis	SpecificDisease	D006432
 90	101	early death	SpecificDisease	D003643

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 10	32	coronary heart disease	SpecificDisease	D003327
 275	297	coronary heart disease	SpecificDisease	D003327
 299	302	CHD	SpecificDisease	D003327

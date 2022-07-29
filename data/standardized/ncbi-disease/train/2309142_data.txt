@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	25	PKU	SpecificDisease	D010661
 132	147	Phenylketonuria	SpecificDisease	D010661
 149	152	PKU	SpecificDisease	D010661

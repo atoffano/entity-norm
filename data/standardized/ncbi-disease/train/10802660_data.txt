@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 116	137	Prader-Willi syndrome	SpecificDisease	D011218
 139	142	PWS	SpecificDisease	D011218
 149	169	neurogenetic disease	DiseaseClass	D020271

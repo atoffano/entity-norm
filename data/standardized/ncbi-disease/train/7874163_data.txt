@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 35	57	Machado-Joseph disease	SpecificDisease	D017827
 196	218	Machado-Joseph disease	SpecificDisease	D017827
 220	223	MJD	SpecificDisease	D017827

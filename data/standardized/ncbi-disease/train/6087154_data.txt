@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 57	68	Lesch-Nyhan	Modifier	D007926
 248	265	HPRT deficiencies	DiseaseClass	OMIM:300323
 286	301	gouty arthritis	SpecificDisease	D015210

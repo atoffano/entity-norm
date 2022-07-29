@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	45	type III secretion	Phenotype	OBT:000019
 145	155	pathogenic	Phenotype	OBT:002806
 192	210	type III secretion	Phenotype	OBT:000019

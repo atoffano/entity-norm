@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 42	66	Escherichia coli O157:H7	Microorganism	MockLabel
 67	96	Shiga toxin-encoding prophage	Microorganism	MockLabel
 145	169	Escherichia coli O157:H7	Microorganism	MockLabel

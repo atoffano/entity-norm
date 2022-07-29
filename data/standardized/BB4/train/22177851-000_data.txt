@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 38	51	Gram-negative	Phenotype	OBT:000648
 62	81	Psychrobacter celer	Microorganism	306572
 86	98	Hafnia alvei	Microorganism	569

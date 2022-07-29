@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 20	34	B. pityocampae	Microorganism	MockLabel
 64	75	old cheeses	Habitat	MockLabel
 130	141	old cheeses	Habitat	MockLabel

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	49	Saethre-Chotzen syndrome	SpecificDisease	OMIM:101400
 131	155	Saethre-Chotzen syndrome	SpecificDisease	OMIM:101400
 166	194	autosomal dominant condition	DiseaseClass	D030342

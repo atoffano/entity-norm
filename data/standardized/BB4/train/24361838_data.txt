@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 16	21	lytic	Phenotype	OBT:000107
 37	42	Φ st1	Microorganism	12333
 62	101	Salmonella enterica serovar Typhimurium	Microorganism	90371

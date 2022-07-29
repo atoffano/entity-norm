@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	59	Wilms' tumour	Modifier	D009396
 105	125	Denys-Drash syndrome	SpecificDisease	D030321
 142	164	developmental disorder	DiseaseClass	D002658

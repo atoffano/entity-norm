@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 60	82	ankylosing spondylitis	SpecificDisease	D013167
 84	106	Ankylosing spondylitis	SpecificDisease	D013167
 108	110	AS	SpecificDisease	D013167

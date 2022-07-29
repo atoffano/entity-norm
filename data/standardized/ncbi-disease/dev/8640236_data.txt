@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	52	breast carcinoma	SpecificDisease	D001943
 63	70	cancers	DiseaseClass	D009369
 109	115	tumour	Modifier	D009369

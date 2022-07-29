@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	70	Gram-negative bacterial microbiota	Habitat	OBT:000113
 140	159	cheese from dairy C	Habitat	OBT:001480
 152	157	dairy	Habitat	OBT:001988

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 15	32	von Hippel-Lindau	Modifier	D006623
 34	37	VHL	Modifier	D006623
 66	69	VHL	Modifier	D006623

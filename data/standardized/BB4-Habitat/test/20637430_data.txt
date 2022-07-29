@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	75	gastric	Habitat	MockLabel
 68	82	gastric biopsy	Habitat	MockLabel
 144	151	gastric	Habitat	MockLabel

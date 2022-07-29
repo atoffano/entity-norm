@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 66	91	hereditary coproporphyria	SpecificDisease	D046349
 113	138	Hereditary coproporphyria	SpecificDisease	D046349
 140	142	HC	SpecificDisease	D046349

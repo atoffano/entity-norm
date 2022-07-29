@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	56	beta-lactamase-producing	Phenotype	OBT:000019
 57	76	Salmonella enterica	Microorganism	28901
 140	147	animals	Habitat	OBT:000193

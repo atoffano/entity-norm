@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	27	Duchenne muscular dystrophy	SpecificDisease	D020388
 32	50	myotonic dystrophy	SpecificDisease	D009223
 119	137	myotonic dystrophy	SpecificDisease	D009223

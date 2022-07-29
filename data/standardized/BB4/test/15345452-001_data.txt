@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 41	55	psychrotrophic	Phenotype	MockLabel
 56	79	Pseudomonas fluorescens	Microorganism	MockLabel
 96	107	proteolytic	Phenotype	MockLabel

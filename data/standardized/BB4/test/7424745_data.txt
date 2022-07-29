@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 12	21	Moraxella	Microorganism	MockLabel
 22	36	corneal ulcers	Habitat	MockLabel
 22	29	corneal	Habitat	MockLabel

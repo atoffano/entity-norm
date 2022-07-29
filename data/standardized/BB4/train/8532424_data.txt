@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	11	Respiratory	Habitat	OBT:000407
 24	39	Kingella kingae	Microorganism	504
 46	62	healthy children	Habitat	OBT:003188|OBT:002712

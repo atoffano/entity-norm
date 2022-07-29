@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 54	71	Pseudoalteromonas	Microorganism	53246
 73	82	Halomonas	Microorganism	2745
 84	90	Vibrio	Microorganism	662

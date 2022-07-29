@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	47	Deficiency of the fifth component of complement	SpecificDisease	OMIM:609536
 179	226	deficiency of the fifth component of complement	SpecificDisease	OMIM:609536
 409	429	gonococcal infection	SpecificDisease	D006069

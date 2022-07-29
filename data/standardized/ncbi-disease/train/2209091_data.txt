@@ -1,3 +1,3 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 29	46	Friedreich ataxia	Modifier	D005621
 120	137	Friedreich ataxia	Modifier	D005621

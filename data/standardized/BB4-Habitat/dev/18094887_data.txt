@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 119	126	animals	Habitat	OBT:000193
 128	134	humans	Habitat	OBT:002488
 136	141	ticks	Habitat	OBT:001821

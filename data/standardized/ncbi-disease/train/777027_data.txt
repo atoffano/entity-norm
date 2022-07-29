@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	58	Hereditary deficiency of the fifth component of complement	SpecificDisease	OMIM:609536
 96	108	C5-deficient	Modifier	OMIM:609536
 157	215	hereditary deficiency of the fifth component of complement	SpecificDisease	OMIM:609536

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 92	120	metachromatic leukodystrophy	SpecificDisease	D007966
 239	267	metachromatic leukodystrophy	SpecificDisease	D007966
 269	272	MLD	SpecificDisease	D007966

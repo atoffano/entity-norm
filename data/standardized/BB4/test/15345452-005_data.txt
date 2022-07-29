@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	19	Epoisses cheese	Habitat	MockLabel
 92	115	Lactobacillus plantarum	Microorganism	MockLabel
 120	138	Lactococcus lactis	Microorganism	MockLabel

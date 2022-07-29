@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 33	80	deficiency of the third component of complement	SpecificDisease	OMIM:613779
 130	143	C3 deficiency	SpecificDisease	OMIM:613779
 278	291	C3 deficiency	SpecificDisease	OMIM:613779

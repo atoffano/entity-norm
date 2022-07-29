@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	21	Tay-Sachs disease	Modifier	D013661
 139	156	Tay-Sachs disease	Modifier	D013661
 158	161	TSD	Modifier	D013661

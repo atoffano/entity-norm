@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	58	Hereditary deficiency of the third component of complement	SpecificDisease	OMIM:613779
 75	80	fever	DiseaseClass	D005334
 82	91	skin rash	DiseaseClass	D005076

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 40	55	duodenal ulcers	Habitat	OBT:001533
 40	48	duodenal	Habitat	OBT:001534
 161	174	parietal cell	Habitat	OBT:000061

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	21	Prader-Willi syndrome	SpecificDisease	D011218
 78	99	chromosome 15 anomaly	SpecificDisease	D002869
 182	203	Prader-Willi syndrome	SpecificDisease	D011218

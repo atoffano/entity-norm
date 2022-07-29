@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 56	87	non-inherited breast carcinomas	SpecificDisease	D001943
 125	131	tumour	Modifier	D009369
 152	188	hereditary breast and ovarian cancer	CompositeMention	D061325

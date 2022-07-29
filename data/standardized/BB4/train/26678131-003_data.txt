@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	7	Cheeses	Habitat	OBT:001480
 41	60	Lb. plantarum (FH3)	Microorganism	1590
 62	76	H. alvei (B16)	Microorganism	569

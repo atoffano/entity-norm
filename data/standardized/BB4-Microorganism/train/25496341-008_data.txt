@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 107	137	Penicillium camemberti  FM 013	Microorganism	1429867
 467	494	Arthrobacter bergerei Ca106	Microorganism	1255621
 576	589	Psychrobacter	Microorganism	497

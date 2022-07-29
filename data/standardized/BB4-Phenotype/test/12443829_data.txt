@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 53	74	Shiga toxin-producing	Phenotype	MockLabel
 357	366	virulence	Phenotype	MockLabel
 370	391	Shiga toxin-producing	Phenotype	MockLabel

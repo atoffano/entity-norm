@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 40	64	Wiskott-Aldrich syndrome	SpecificDisease	D014923
 96	120	Wiskott-Aldrich syndrome	Modifier	D014923
 183	207	Wiskott-Aldrich syndrome	SpecificDisease	D014923

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 36	48	hemophilia A	SpecificDisease	D006467
 58	72	von Willebrand	Modifier	D014842
 124	150	genetic bleeding disorders	DiseaseClass	D025861

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 169	174	tumor	Modifier	D009369
 211	237	breast and ovarian cancers	CompositeMention	D061325
 582	607	chromosomal abnormalities	DiseaseClass	D002869

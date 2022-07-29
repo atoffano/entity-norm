@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 33	57	Flavobacterium columnare	Microorganism	MockLabel
 241	265	Flavobacterium columnare	Microorganism	MockLabel
 942	955	Fl. columnare	Microorganism	MockLabel

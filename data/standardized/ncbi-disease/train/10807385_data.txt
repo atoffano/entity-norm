@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 30	69	BRCA-linked and sporadic ovarian cancer	CompositeMention	OMIM:604370|OMIM:612555|OMIM:613399|D010051
 85	111	hereditary ovarian cancers	SpecificDisease	D061325
 242	256	ovarian cancer	SpecificDisease	D010051

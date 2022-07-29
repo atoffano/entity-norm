@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 16	39	professional phagocytes	Habitat	OBT:000801
 63	73	host cells	Habitat	OBT:000061
 123	141	Type III secretion	Phenotype	OBT:000019

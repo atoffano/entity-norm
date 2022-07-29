@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 14	28	thermotolerant	Phenotype	OBT:000453
 29	42	Campylobacter	Microorganism	194
 46	56	partridges	Habitat	OBT:003066

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 32	58	Scopulariopsis brevicaulis	Microorganism	MockLabel
 82	106	Pyxidiophora arvernensis	Microorganism	MockLabel
 116	137	Debaryomyces hansenii	Microorganism	MockLabel

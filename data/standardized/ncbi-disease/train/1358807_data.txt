@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 25	57	X-linked amelogenesis imperfecta	SpecificDisease	C538243
 198	226	inherited dental abnormality	DiseaseClass	D014071
 227	259	X-linked amelogenesis imperfecta	SpecificDisease	C538243

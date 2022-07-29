@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	24	Sjogren-Larsson syndrome	SpecificDisease	D016111
 254	272	inherited disorder	DiseaseClass	D030342
 274	298	Sjogren-Larsson syndrome	SpecificDisease	D016111

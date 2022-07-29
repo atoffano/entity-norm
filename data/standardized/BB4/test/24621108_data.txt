@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 17	31	essential oils	Habitat	MockLabel
 53	67	pullulan films	Habitat	MockLabel
 79	88	foodborne	Habitat	MockLabel

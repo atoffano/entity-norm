@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	58	Hereditary deficiency of the fifth component of complement	SpecificDisease	OMIM:609536
 156	214	hereditary deficiency of the fifth component of complement	SpecificDisease	OMIM:609536
 279	307	systemic lupus erythematosus	SpecificDisease	D008180

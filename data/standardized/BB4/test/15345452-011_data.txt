@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 27	45	Lactococcus lactis	Microorganism	MockLabel
 47	72	Leuconostoc mesenteroides	Microorganism	MockLabel
 78	101	Lactobacillus plantarum	Microorganism	MockLabel

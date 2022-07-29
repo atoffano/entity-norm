@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 39	45	cheese	Habitat	OBT:001480
 190	199	community	Habitat	OBT:000113
 325	333	raw milk	Habitat	OBT:001276

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 142	189	Deficiency of glucose-6-phosphate dehydrogenase	SpecificDisease	D005955
 262	269	malaria	SpecificDisease	D008288
 323	338	G6PD deficiency	SpecificDisease	D005955

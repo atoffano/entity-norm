@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 44	54;65	paediatric cystic fibrosis units	Habitat	OBT:000097
 44	54	paediatric	Habitat	OBT:003188
 59	86	adult cystic fibrosis units	Habitat	OBT:000097

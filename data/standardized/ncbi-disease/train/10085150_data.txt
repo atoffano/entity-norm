@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 4	30	hereditary hemochromatosis	Modifier	D006432
 170	197	autosomal recessive disease	DiseaseClass	D030342
 198	224	hereditary hemochromatosis	SpecificDisease	D006432

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 54	75	Debaryomyces hansenii	Microorganism	4959
 115	134	Geotrichum candidum	Microorganism	1173061
 176	189	staphylococci	Microorganism	1279

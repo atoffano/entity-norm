@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 246	257	human cells	Habitat	OBT:000061
 246	251	human	Habitat	OBT:002488
 278	293	eukaryotic cell	Habitat	OBT:000061

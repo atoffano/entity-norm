@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 8	25	von Hippel-Lindau	Modifier	D006623
 49	88	papillary cystadenoma of the epididymis	SpecificDisease	D018292
 90	129	Papillary cystadenoma of the epididymis	SpecificDisease	D018292

@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 34	54	adrenoleukodystrophy	SpecificDisease	D000326
 59	80	adrenomyeloneuropathy	SpecificDisease	D000326
 176	196	adrenoleukodystrophy	SpecificDisease	D000326

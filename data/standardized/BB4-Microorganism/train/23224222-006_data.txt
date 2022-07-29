@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 50	76	Streptococcus thermophilus	Microorganism	1308
 302	319	Str. thermophilus	Microorganism	1308
 430	447	Str. thermophilus	Microorganism	1308

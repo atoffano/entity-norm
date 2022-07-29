@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 60	74	Wilson disease	SpecificDisease	D006527
 76	90	Wilson disease	SpecificDisease	D006527
 92	94	WD	SpecificDisease	D006527

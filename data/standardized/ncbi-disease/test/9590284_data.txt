@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 18	39	Prader-Willi syndrome	SpecificDisease	D011218
 283	304	Prader-Willi syndrome	SpecificDisease	D011218
 306	309	PWS	SpecificDisease	D011218

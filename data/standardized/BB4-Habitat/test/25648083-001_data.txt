@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 40	48	biofilms	Habitat	MockLabel
 52	63	glass tubes	Habitat	MockLabel
 103	153	sterile microscope slides under aerobic conditions	Habitat	MockLabel

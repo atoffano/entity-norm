@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 157	180	rinds of old VB cheeses	Habitat	MockLabel
 166	180	old VB cheeses	Habitat	MockLabel
 198	205	cellars	Habitat	MockLabel

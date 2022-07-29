@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 13	34	Helicobacter pullorum	Microorganism	35818
 65	86	Helicobacter pullorum	Microorganism	35818
 213	224	H. pullorum	Microorganism	35818

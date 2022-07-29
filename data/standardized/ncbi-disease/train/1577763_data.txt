@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	37	Type I human complement C2 deficiency	SpecificDisease	OMIM:217000
 141	176	deficiency of complement protein C2	SpecificDisease	OMIM:217000
 356	376	Type I C2 deficiency	SpecificDisease	OMIM:217000

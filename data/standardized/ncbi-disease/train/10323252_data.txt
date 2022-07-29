@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 79	121	X-linked Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
 123	156	Emery-Dreifuss muscular dystrophy	SpecificDisease	D020389
 158	162	EDMD	SpecificDisease	D020389

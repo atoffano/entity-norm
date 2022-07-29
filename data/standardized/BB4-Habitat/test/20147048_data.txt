@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 22	52	plant Kalanchoë daigremontiana	Habitat	MockLabel
 86	110	Kalanchoë daigremontiana	Habitat	MockLabel
 224	247	Sterilized plant tissue	Habitat	MockLabel

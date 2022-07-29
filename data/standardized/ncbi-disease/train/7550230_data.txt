@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 12	20	aniridia	Modifier	D015783
 55	63	Aniridia	SpecificDisease	D015783
 65	80	iris hypoplasia	SpecificDisease	D007499

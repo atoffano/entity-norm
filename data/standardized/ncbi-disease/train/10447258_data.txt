@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 44	62	Zellweger syndrome	SpecificDisease	D015211
 68	97	Zellweger spectrum of disease	DiseaseClass	D015211
 112	130	Zellweger syndrome	SpecificDisease	D015211

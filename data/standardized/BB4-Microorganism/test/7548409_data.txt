@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 130	144	corynebacteria	Microorganism	MockLabel
 352	366	corynebacteria	Microorganism	MockLabel
 519	552	Corynebacterium renale ATCC 19412	Microorganism	MockLabel

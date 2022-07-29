@@ -85,8 +85,8 @@ def standardize_NCBI(args, file):
             start = line[1]
             end = line[2]
             mention = line[3]
-            labels = line [5]
-            entries.append([start, end, mention, _class, labels])
+            norm = line [5]
+            entries.append([start, end, mention, _class, norm])
         elif line == '' and entries != []:
             standardize(args, dataset, pmid, header, entries)
             entries = []
@@ -148,16 +148,16 @@ def standardize_BB4(args, dir):
                 end = block[2]
                 mention = line[2].strip()
                 if testset:
-                    labels = "MockLabel"
+                    norm = "MockLabel"
                 else:
                     with open(f"{file.split('.')[0]}.a2", 'r') as a2:
                         a2lines = a2.readlines()
-                    labels = []
+                    norm = []
                     for a2line in a2lines:
                         if a2line.split(" ")[1].split("Annotation:T")[1] == str(index):
-                            labels.append(a2line.split("Referent:")[1].strip("\n"))
-                    labels = "|".join(labels)
-                entries.append([start, end, mention, _class, labels])
+                            norm.append(a2line.split("Referent:")[1].strip("\n"))
+                    norm = "|".join(norm)
+                entries.append([start, end, mention, _class, norm])
         standardize(args, dataset, pmid, header, entries)
 
 def standardize(args, dataset, pmid, header, entries):
@@ -168,7 +168,7 @@ def standardize(args, dataset, pmid, header, entries):
                     args (dict): Console arguments
                     dataset (str): Indicates which dataset to integrate output file with.
                     header (tuple) : Contains (title, abstract) of a file.
-                    line (list) : Contains (start, end, mention, _class, labels) of a file.
+                    line (list) : Contains (start, end, mention, _class, norm) of a file.
             Output:
                 Generates a corresponding file in a standardized format.
     '''
@@ -191,8 +191,8 @@ def standardize(args, dataset, pmid, header, entries):
                 f.write(f"{title}\n{abstract}\n")
     with open(f"{filepath}{pmid}_data.txt", 'a') as f:
         for entry in entries:
-            start, end, mention, _class, labels = entry
-            f.write(f"{start}\t{end}\t{mention}\t{_class}\t{labels}\n")
+            start, end, mention, _class, norm = entry
+            f.write(f"{start}\t{end}\t{mention}\t{_class}\t{norm}\n")
 
 def init_file(filepath, pmid):
     '''
@@ -201,7 +201,7 @@ def init_file(filepath, pmid):
     with open(f"{filepath}{pmid}_header.txt", 'a') as f:
         f.write("title\tabstract\n")
     with open(f"{filepath}{pmid}_data.txt", 'a') as f:
-        f.write("start\tend\tmention\t_class\tlabels\n")
+        f.write("start\tend\tmention\t_class\tnorm\n")
 
 if __name__ == "__main__":
     main()

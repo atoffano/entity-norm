@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	19	Malignant neoplasms	DiseaseClass	D009369
 53	74	ataxia-telangiectasia	SpecificDisease	D001260
 76	97	Ataxia-telangiectasia	SpecificDisease	D001260

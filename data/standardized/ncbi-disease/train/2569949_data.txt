@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 68	83	phenylketonuria	Modifier	D010661
 215	230	phenylketonuria	Modifier	D010661
 232	235	PKU	Modifier	D010661

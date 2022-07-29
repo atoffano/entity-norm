@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 193	201	Yaniella	Microorganism	225447
 206	218	Nocardiopsis	Microorganism	2013
 311	327	γ-Proteobacteria	Microorganism	1236

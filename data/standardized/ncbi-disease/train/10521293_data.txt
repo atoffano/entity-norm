@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 46	62	Wolfram syndrome	Modifier	OMIM:222300
 124	140	Wolfram syndrome	SpecificDisease	OMIM:222300
 147	193	autosomal recessive neurodegenerative disorder	DiseaseClass	D020271

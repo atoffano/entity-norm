@@ -1,4 +1,4 @@
-start	end	mention	_class	labels
+start	end	mention	_class	norm
 0	8	Mosquito	Habitat	MockLabel
 46	66	Euphorbia hirta Linn	Habitat	MockLabel
 77	90	Euphorbiaceae	Habitat	MockLabel
