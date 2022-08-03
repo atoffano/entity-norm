@@ -178,5 +178,5 @@ The `utils/old` folder stores prototypes of the current working scripts. \
 While useless to most users, some functions could find some uses in very specific tasks (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
 
 ## References
-[1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019. \
+[1] Chen, L., Varoquaux, G., & Suchanek, F. (2021). A Lightweight Neural Model for Biomedical Entity Linking. In The Thirty-Fifth AAAI Conference on Artificial Intelligence.
 [2] Sung, M., Jeon, H., Lee, J., Kang, J. Biomedical Entity Representations with Synonym Marginalization. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.
