@@ -1,11 +1,11 @@
 # Entity-Norm
 
-### Comparative analysis of neural methods for entity normalization in the biological field.
+### Comparative analysis of NLP neural methods for the entity normalization task in the biological field.
 
-This work is an attempt to make interoperable multiple datasets and methods in the entity normalization task, in order to evaluate the robustness of those methods.
+This work is an attempt to make interoperable multiple datasets and methods in a NLP Sequence Classification subtask: the entity normalization task, in order to evaluate the robustness of those methods.
 This repository is made to store and make accessible all scripts and resulting data.
 
-Two SoTA normalization methods (2022) have been adapted so far:
+Two State-of-The-Art normalization methods (2022) have been adapted so far:
 - [Lightweight](https://github.com/tigerchen52/Biomedical-Entity-Linking)[1], a method using Word2Vec embeddings from the paper [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/abs/2012.08844)
 - [BioSyn](https://github.com/dmis-lab/BioSyn)[2], a method using BioBERT embeddings and morpho-syntaxic representation of mentions and labels from the paper [Biomedical Entity Representations with Synonym Marginalization](https://arxiv.org/abs/2005.00239)
     
