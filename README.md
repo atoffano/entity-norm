@@ -153,7 +153,7 @@ python convert_BioSyn_pred_to_a2.py \
     --dataset {DATASET_PATH} \ # Original Bacteria Biotope 4 dataset containing unmodified .a1 files.
 ```
 *Special case* :
-Ground truth for normalizations of the Bacteria Biotope 4 test set aren't made publicly available, a dedicated evaluator can be found online. \
+Ground truth for normalizations of the Bacteria Biotope 4 test set aren't made publicly available. A dedicated evaluator can be found online (see below). \
 As such, this script outputs a folder containing predictions formatted in a way that is interpretable by the [Bacteria Biotope 2019 online evaluation software](http://bibliome.jouy.inra.fr/demo/BioNLP-OST-2019-Evaluation/index.html). \
 Please compress the output folder as .gz before submitting.
 
@@ -171,11 +171,11 @@ Works in a similar way to the BioSyn pipeline.
 
 The `utils/mods` folder stores slightly modified versions of Lightweight and BioSyn scripts. \
 The modified BioSyn scripts allows certain informations to pass through the pipeline unhindered and do not change the way the code works.
-However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components of the code) are unavailable. \
+However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components) are not publicly available. \
 As such I had to code those morsels following the paper's specifications. Divergence arising between the author's results and those of this implementation most likely come from this part of the code.
 
 The `utils/old` folder stores prototypes of the current working scripts. \
-While useless to most users, some functions could find some uses in very specific tasks (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
+While useless to most users, some functions could be useful in niche cases (ex: converting a standardized dataset back to a ncbi-disease or Bacteria Biotope format).
 
 ## References
 [1] Chen, L., Varoquaux, G., & Suchanek, F. (2021). A Lightweight Neural Model for Biomedical Entity Linking. In The Thirty-Fifth AAAI Conference on Artificial Intelligence.
