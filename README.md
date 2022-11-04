@@ -170,7 +170,7 @@ Works in a similar way to the BioSyn pipeline.
 ## Additional informations
 
 The `utils/mods` folder stores slightly modified versions of Lightweight and BioSyn scripts. \
-The modified BioSyn scripts allow certain informations to pass through the pipeline unhindered and do not change the way the code works.
+The modified BioSyn scripts allows certain informations to pass through the pipeline unhindered and do not change the way the code works.
 However part of lightweight method's code (Mainly the context, coherence and mention-entity prior components of the code) are unavailable. \
 As such I had to code those morsels following the paper's specifications. Divergence arising between the author's results and those of this implementation most likely come from this part of the code.
 
